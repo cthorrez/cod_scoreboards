@@ -23,33 +23,27 @@ def main():
 
 
     dfs= []
-    cols = ["match id","series id","end time","duration (s)","mode","map","team","player","win?","score","kills","deaths","+/-"]
     for fname in files_to_process:
         df = pd.read_csv('data/' + fname)
+        df['end time'] = pd.to_datetime(df['end time'])
         print('data from event:', fname)
         num_series = len(df.groupby('series id'))
         print('num series:', num_series)
         num_games = len(df.groupby('match id'))
         print('num games:', num_games, '\n')
 
-        for series_id, series_group in df.groupby('series id'):
+        series_groups = df.groupby('series id')
+        series_groups = sorted(series_groups, key=lambda x: x[1].iloc[0]['end time'])
+        for series_id, series_group in series_groups:
             sb = ScoreboardSeries(fname, series_group)
             print(sb.to_string())
 
 
 
-        # df = df[cols]
         dfs.append(df)
 
 
     df = pd.concat(dfs)
-    print(len(df))
-    print(len(df.columns))
-    print(df.columns)
-    print(len(df.groupby('match id')))
-    print(len(df.groupby('series id')))
-
-    print(df.groupby('mode').size())
     df.to_csv('all_data.csv', index=False)
 
 if __name__ == '__main__':

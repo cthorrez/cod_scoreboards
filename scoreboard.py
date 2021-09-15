@@ -12,7 +12,6 @@ from mappers import (
 
 class ScoreboardSeries:
     def __init__(self, file_name, series_group):
-        series_group['end time'] = pd.to_datetime(series_group['end time'])
         team1_raw, team2_raw = series_group['team'].drop_duplicates().to_list()
         self.team1 = team_name_mapper[team1_raw]
         self.team2 = team_name_mapper[team2_raw]
