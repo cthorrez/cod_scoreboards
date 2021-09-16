@@ -1,0 +1,47 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Echo Fox|Rise Nation|title=World War II|date=2018-04-22|time=1503|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Echo Fox|team2=Rise Nation|team1score=212|team2score=250
+|gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=10:4
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=25|deaths=22|time=92}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=26|deaths=28|time=47}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=19|deaths=29|time=60}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=31|deaths=20|time=73}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=27|deaths=26|time=116}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=22|deaths=31|time=70}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=27|deaths=19|time=64}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=23|deaths=25|time=73}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Rise Nation|team1score=6|team2score=5
+|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=8:58
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=10|deaths=5|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=6|deaths=10|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=8|deaths=9|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=10|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=3|deaths=10|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=11|deaths=8|plants=2|defuses=0}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=15|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=3|deaths=10|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Rise Nation|team1score=0|team2score=5
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:7
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=15|deaths=20|caps=0|returns=1}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=6|deaths=25|caps=0|returns=1}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=12|deaths=23|caps=0|returns=0}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=16|deaths=20|caps=0|returns=0}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=25|deaths=11|caps=2|returns=1}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=25|deaths=13|caps=0|returns=2}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=17|deaths=12|caps=1|returns=1}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=21|deaths=13|caps=2|returns=0}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Rise Nation|team1score=61|team2score=250
+|gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=7:54
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=13|deaths=23|time=30}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=18|deaths=32|time=8}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=20|deaths=27|time=46}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=20|deaths=27|time=7}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=32|deaths=15|time=90}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=23|deaths=19|time=28}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=23|deaths=13|time=137}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=31|deaths=24|time=32}}
+}}
+{{Box|end}}

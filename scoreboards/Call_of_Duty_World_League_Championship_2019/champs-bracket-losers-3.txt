@@ -1,0 +1,110 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|100 Thieves|Evil Geniuses|title=Black Ops 4|date=2019-08-17|time=1629|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=100 Thieves|team2=Evil Geniuses|team1score=250|team2score=176
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=11:38
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=16|deaths=27|time=71}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=28|deaths=26|time=80}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=31|deaths=25|time=91}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=34|deaths=20|time=96}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=32|deaths=21|time=69}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=24|deaths=29|time=72}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=32|deaths=29|time=34}}
+|red3={{Scoreboard/Player|name=Attach|link=Attach|kills=21|deaths=30|time=16}}
+|red4={{Scoreboard/Player|name=JKap|link=JKap|kills=18|deaths=27|time=38}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=24|deaths=26|time=68}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Evil Geniuses|team1score=6|team2score=2
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=9:11
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=6|deaths=5|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=7|deaths=4|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=10|deaths=3|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=4|deaths=6|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=7|deaths=4|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=4|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=5|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Attach|link=Attach|kills=4|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=JKap|link=JKap|kills=7|deaths=7|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=2|deaths=7|plants=3|defuses=0}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Evil Geniuses|team1score=3|team2score=1
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=11:27
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=14|deaths=14|caps=3}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=13|deaths=10|caps=3}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=17|deaths=14|caps=2}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=16|deaths=14|caps=3}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=22|deaths=15|caps=3}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=9|deaths=18|caps=3}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=16|deaths=19|caps=2}}
+|red3={{Scoreboard/Player|name=Attach|link=Attach|kills=13|deaths=18|caps=3}}
+|red4={{Scoreboard/Player|name=JKap|link=JKap|kills=12|deaths=14|caps=3}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=17|deaths=13|caps=3}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Enigma6 Group|Luminosity Gaming|title=Black Ops 4|date=2019-08-17|time=1746|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=130|team2score=250
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:50
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=20|deaths=18|time=69}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=12|deaths=22|time=32}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=11|deaths=19|time=21}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=18|deaths=21|time=14}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=15|deaths=18|time=22}}
+|red1={{Scoreboard/Player|name=Brack|link=Brack|kills=19|deaths=17|time=74}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=31|deaths=16|time=73}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=15|deaths=16|time=85}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=17|deaths=11|time=104}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=16|deaths=16|time=87}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=6|team2score=5
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=14:31
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=4|deaths=10|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=10|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=8|deaths=7|plants=0|defuses=2}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=9|deaths=8|plants=4|defuses=0}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=10|deaths=5|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Brack|link=Brack|kills=7|deaths=9|plants=4|defuses=0}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=9|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=6|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=8|deaths=9|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=6|deaths=7|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=1|team2score=3
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=12:13
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=17|deaths=20|caps=1}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=9|deaths=18|caps=1}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=20|deaths=16|caps=1}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=13|deaths=22|caps=1}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=15|deaths=16|caps=1}}
+|red1={{Scoreboard/Player|name=Brack|link=Brack|kills=17|deaths=18|caps=4}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=21|deaths=13|caps=3}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=15|deaths=17|caps=4}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=19|deaths=12|caps=4}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=20|deaths=14|caps=2}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=250|team2score=95
+|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=7:49
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=26|deaths=16|time=24}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=24|deaths=11|time=46}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=16|deaths=14|time=56}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=12|deaths=15|time=88}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=10|deaths=13|time=89}}
+|red1={{Scoreboard/Player|name=Brack|link=Brack|kills=21|deaths=19|time=11}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=10|deaths=19|time=35}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=10|deaths=17|time=8}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=12|deaths=15|time=39}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=16|deaths=18|time=51}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=6|team2score=1
+|gamename=Game 5|map=Arsenal|gamemode=Search and Destroy|maptime=8:53
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=5|deaths=4|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=3|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=9|deaths=1|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=3|deaths=4|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=11|deaths=3|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Brack|link=Brack|kills=2|deaths=7|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=5|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=2|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=7|deaths=6|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=1|deaths=6|plants=0|defuses=0}}
+}}
+{{Box|end}}

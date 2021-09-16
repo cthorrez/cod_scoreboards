@@ -1,0 +1,68 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FaZe Clan|OpTic Gaming|title=Black Ops 4|date=2019-06-16|time=1242|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=250|team2score=152
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:50
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=18|deaths=22|time=98}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=26|deaths=22|time=135}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=36|deaths=19|time=77}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=30|deaths=18|time=69}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=25|deaths=21|time=67}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=19|deaths=20|time=44}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=25|deaths=23|time=81}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=20|deaths=32|time=25}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=19|deaths=29|time=43}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=19|deaths=31|time=26}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=4|team2score=6
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=16:59
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=5|deaths=8|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=10|deaths=8|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=7|deaths=8|plants=2|defuses=1}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=7|deaths=9|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=3|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=6|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=10|deaths=5|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=2|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=9|deaths=7|plants=5|defuses=0}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=11|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=1|team2score=3
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=13:21
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=14|deaths=22|caps=2}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=17|deaths=16|caps=2}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=18|deaths=16|caps=2}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=15|deaths=12|caps=1}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=17|deaths=20|caps=1}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=23|deaths=12|caps=2}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=18|deaths=15|caps=3}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=14|deaths=18|caps=3}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=16|deaths=15|caps=2}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=15|deaths=21|caps=2}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=250|team2score=223
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=10:4
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=21|deaths=16|time=145}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=18|deaths=22|time=55}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=29|deaths=15|time=87}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=13|deaths=20|time=32}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=20|deaths=23|time=51}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=20|deaths=15|time=82}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=22|deaths=16|time=72}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=14|deaths=24|time=44}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=19|deaths=24|time=33}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=21|deaths=22|time=79}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=2|team2score=6
+|gamename=Game 5|map=Frequency|gamemode=Search and Destroy|maptime=10:25
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=5|deaths=7|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=6|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=2|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=3|deaths=6|plants=0|defuses=1}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=3|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=3|deaths=3|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=8|deaths=3|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=4|deaths=4|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=3|deaths=4|plants=4|defuses=0}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=13|deaths=5|plants=0|defuses=0}}
+}}
+{{Box|end}}

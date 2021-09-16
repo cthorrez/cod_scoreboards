@@ -1,0 +1,343 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Enigma6 Group|Red Reserve|title=Black Ops 4|date=2019-03-15|time=1208|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Enigma6 Group|team2=Red Reserve|team1score=133|team2score=250
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:32
+|blue1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=17|deaths=19|time=38}}
+|blue2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=14|deaths=19|time=65}}
+|blue3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=17|deaths=23|time=16}}
+|blue4={{Scoreboard/Player|name=General|link=General|kills=14|deaths=22|time=47}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=10|deaths=21|time=22}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=14|deaths=15|time=18}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=23|deaths=12|time=66}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=19|deaths=13|time=96}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=24|deaths=14|time=105}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=24|deaths=18|time=70}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Red Reserve|team1score=6|team2score=4
+|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=17:0
+|blue1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=7|deaths=7|plants=0|defuses=2}}
+|blue2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=3|deaths=6|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=5|deaths=7|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=General|link=General|kills=11|deaths=8|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=10|deaths=7|plants=2|defuses=0}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=4|deaths=8|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=4|deaths=9|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=4|deaths=7|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=12|deaths=6|plants=1|defuses=2}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=11|deaths=8|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Red Reserve|team1score=3|team2score=2
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=15:11
+|blue1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=16|deaths=19|caps=1}}
+|blue2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=23|deaths=22|caps=1}}
+|blue3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=18|deaths=20|caps=1}}
+|blue4={{Scoreboard/Player|name=General|link=General|kills=26|deaths=18|caps=0}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=28|deaths=21|caps=1}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=15|deaths=22|caps=2}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=18|deaths=24|caps=1}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=18|deaths=23|caps=1}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=28|deaths=18|caps=2}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=20|deaths=24|caps=2}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Red Reserve|team1score=116|team2score=250
+|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=8:11
+|blue1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=13|deaths=21|time=50}}
+|blue2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=19|deaths=21|time=13}}
+|blue3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=7|deaths=23|time=38}}
+|blue4={{Scoreboard/Player|name=General|link=General|kills=11|deaths=22|time=17}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=19|deaths=22|time=36}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=14|deaths=14|time=85}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=20|deaths=11|time=35}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=32|deaths=6|time=138}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=25|deaths=15|time=74}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=18|deaths=23|time=48}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Red Reserve|team1score=6|team2score=4
+|gamename=Game 5|map=Hacienda|gamemode=Search and Destroy|maptime=15:17
+|blue1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=12|deaths=5|plants=0|defuses=2}}
+|blue2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=3|deaths=8|plants=3|defuses=0}}
+|blue3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=5|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=General|link=General|kills=9|deaths=6|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=10|deaths=7|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=5|deaths=7|plants=2|defuses=0}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=4|deaths=8|plants=3|defuses=0}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=7|deaths=7|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=6|deaths=9|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=11|deaths=8|plants=0|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|100 Thieves|Evil Geniuses|title=Black Ops 4|date=2019-03-15|time=1217|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=100 Thieves|team2=Evil Geniuses|team1score=250|team2score=151
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:15
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=21|deaths=19|time=37}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=25|deaths=21|time=34}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=28|deaths=10|time=145}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=23|deaths=15|time=88}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=19|deaths=21|time=28}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=18|deaths=24|time=21}}
+|red2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=12|deaths=24|time=58}}
+|red3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=12|deaths=22|time=68}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=15|deaths=24|time=41}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=29|deaths=22|time=38}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Evil Geniuses|team1score=6|team2score=5
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=15:25
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=4|deaths=8|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=11|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=6|deaths=8|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=9|deaths=9|plants=1|defuses=1}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=5|deaths=10|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=9|deaths=7|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=11|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=3|deaths=9|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=11|deaths=6|plants=0|defuses=1}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=6|deaths=8|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Evil Geniuses|team1score=3|team2score=1
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=12:52
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=14|deaths=12|caps=2}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=23|deaths=12|caps=3}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=12|deaths=15|caps=3}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=23|deaths=21|caps=2}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=24|deaths=11|caps=3}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=22|deaths=16|caps=2}}
+|red2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=12|deaths=20|caps=1}}
+|red3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=9|deaths=18|caps=2}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=15|deaths=17|caps=2}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=13|deaths=25|caps=2}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|100 Thieves|Red Reserve|title=Black Ops 4|date=2019-03-15|time=1524|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=100 Thieves|team2=Red Reserve|team1score=250|team2score=157
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:42
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=17|deaths=12|time=40}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=28|deaths=13|time=136}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=18|deaths=15|time=82}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=23|deaths=20|time=26}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=16|deaths=13|time=78}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=12|deaths=19|time=39}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=17|deaths=21|time=23}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=14|deaths=22|time=14}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=14|deaths=23|time=29}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=16|deaths=17|time=86}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Red Reserve|team1score=3|team2score=6
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=13:33
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=2|deaths=8|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=12|deaths=3|plants=1|defuses=1}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=3|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=1|deaths=8|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=6|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=6|deaths=5|plants=3|defuses=0}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=11|deaths=4|plants=2|defuses=0}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=3|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=8|deaths=4|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=6|deaths=5|plants=0|defuses=1}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Red Reserve|team1score=1|team2score=3
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=13:7
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=12|deaths=20|caps=1}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=13|deaths=19|caps=3}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=18|deaths=15|caps=3}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=25|deaths=22|caps=3}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=17|deaths=17|caps=1}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=18|deaths=18|caps=4}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=12|deaths=19|caps=3}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=29|deaths=11|caps=3}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=12|deaths=16|caps=4}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=22|deaths=21|caps=3}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Red Reserve|team1score=220|team2score=250
+|gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=11:56
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=28|deaths=29|time=28}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=32|deaths=28|time=41}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=21|deaths=21|time=123}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=35|deaths=28|time=94}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=23|deaths=29|time=59}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=33|deaths=25|time=71}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=19|deaths=32|time=63}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=21|deaths=23|time=121}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=32|deaths=26|time=86}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=29|deaths=33|time=49}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Enigma6 Group|Evil Geniuses|title=Black Ops 4|date=2019-03-15|time=1604|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Enigma6 Group|team2=Evil Geniuses|team1score=193|team2score=250
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:39
+|blue1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=16|deaths=23|time=62}}
+|blue2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=17|deaths=21|time=27}}
+|blue3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=19|deaths=23|time=70}}
+|blue4={{Scoreboard/Player|name=General|link=General|kills=15|deaths=20|time=59}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=26|deaths=24|time=45}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=25|deaths=16|time=90}}
+|red2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=22|deaths=19|time=47}}
+|red3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=19|deaths=21|time=23}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=18|deaths=17|time=87}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=27|deaths=20|time=94}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Evil Geniuses|team1score=2|team2score=6
+|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=11:29
+|blue1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=3|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=3|deaths=7|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=4|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=General|link=General|kills=9|deaths=6|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=5|deaths=7|plants=3|defuses=0}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=8|deaths=3|plants=1|defuses=1}}
+|red2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=3|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=6|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=8|deaths=4|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=9|deaths=4|plants=2|defuses=1}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Evil Geniuses|team1score=3|team2score=2
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=18:21
+|blue1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=32|deaths=31|caps=2}}
+|blue2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=25|deaths=22|caps=2}}
+|blue3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=27|deaths=24|caps=2}}
+|blue4={{Scoreboard/Player|name=General|link=General|kills=30|deaths=24|caps=1}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=26|deaths=32|caps=1}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=32|deaths=21|caps=3}}
+|red2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=24|deaths=29|caps=3}}
+|red3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=24|deaths=33|caps=0}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=26|deaths=29|caps=3}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=27|deaths=28|caps=2}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Evil Geniuses|team1score=250|team2score=174
+|gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=10:9
+|blue1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=19|deaths=26|time=71}}
+|blue2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=27|deaths=20|time=104}}
+|blue3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=23|deaths=19|time=66}}
+|blue4={{Scoreboard/Player|name=General|link=General|kills=23|deaths=22|time=114}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=33|deaths=25|time=47}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=25|deaths=26|time=43}}
+|red2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=22|deaths=26|time=74}}
+|red3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=27|deaths=24|time=46}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=23|deaths=26|time=52}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=15|deaths=24|time=77}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Evil Geniuses|team1score=6|team2score=2
+|gamename=Game 5|map=Payload|gamemode=Search and Destroy|maptime=11:15
+|blue1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=6|deaths=4|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=4|deaths=4|plants=2|defuses=0}}
+|blue3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=5|deaths=3|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=General|link=General|kills=9|deaths=4|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=9|deaths=4|plants=0|defuses=1}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=4|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=2|deaths=8|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=4|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=5|deaths=6|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=4|deaths=7|plants=1|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Evil Geniuses|Red Reserve|title=Black Ops 4|date=2019-03-15|time=1815|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Evil Geniuses|team2=Red Reserve|team1score=225|team2score=250
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=11:8
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=28|deaths=21|time=87}}
+|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=24|deaths=29|time=48}}
+|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=23|deaths=21|time=68}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=18|deaths=25|time=89}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=28|deaths=23|time=74}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=13|deaths=26|time=41}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=25|deaths=26|time=54}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=20|deaths=22|time=85}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=38|deaths=20|time=82}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=23|deaths=27|time=55}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Red Reserve|team1score=3|team2score=6
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=12:34
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=6|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=6|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=3|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=4|deaths=6|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=7|deaths=7|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=10|deaths=5|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=8|deaths=4|plants=1|defuses=1}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=5|deaths=5|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=6|deaths=7|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=3|deaths=8|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Red Reserve|team1score=2|team2score=3
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=19:21
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=29|deaths=25|caps=1}}
+|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=15|deaths=29|caps=1}}
+|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=17|deaths=24|caps=2}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=22|deaths=28|caps=1}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=32|deaths=29|caps=2}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=26|deaths=19|caps=3}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=22|deaths=28|caps=1}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=25|deaths=18|caps=3}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=35|deaths=24|caps=3}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=27|deaths=27|caps=3}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|100 Thieves|Enigma6 Group|title=Black Ops 4|date=2019-03-15|time=1900|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=100 Thieves|team2=Enigma6 Group|team1score=166|team2score=250
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:11
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=13|deaths=22|time=31}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=26|deaths=22|time=51}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=18|deaths=18|time=80}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=17|deaths=23|time=34}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=23|deaths=26|time=43}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=21|deaths=21|time=131}}
+|red2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=23|deaths=21|time=52}}
+|red3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=21|deaths=18|time=49}}
+|red4={{Scoreboard/Player|name=General|link=General|kills=21|deaths=17|time=62}}
+|red5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=25|deaths=20|time=81}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Enigma6 Group|team1score=6|team2score=2
+|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=9:45
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=3|deaths=6|plants=3|defuses=0}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=3|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=12|deaths=3|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=10|deaths=5|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=4|deaths=6|plants=0|defuses=1}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=7|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=4|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=6|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=General|link=General|kills=3|deaths=7|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=5|deaths=6|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Enigma6 Group|team1score=1|team2score=3
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=10:17
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=14|deaths=14|caps=1}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=16|deaths=17|caps=1}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=14|deaths=16|caps=1}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=8|deaths=20|caps=0}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=9|deaths=15|caps=0}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=20|deaths=9|caps=2}}
+|red2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=20|deaths=12|caps=2}}
+|red3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=14|deaths=13|caps=2}}
+|red4={{Scoreboard/Player|name=General|link=General|kills=16|deaths=12|caps=2}}
+|red5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=12|deaths=15|caps=2}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Enigma6 Group|team1score=250|team2score=145
+|gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=8:50
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=21|deaths=23|time=25}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=16|deaths=18|time=30}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=25|deaths=10|time=157}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=24|deaths=17|time=54}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=29|deaths=16|time=103}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=23|deaths=21|time=91}}
+|red2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=12|deaths=22|time=53}}
+|red3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=10|deaths=25|time=48}}
+|red4={{Scoreboard/Player|name=General|link=General|kills=17|deaths=23|time=16}}
+|red5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=21|deaths=24|time=52}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Enigma6 Group|team1score=6|team2score=1
+|gamename=Game 5|map=Arsenal|gamemode=Search and Destroy|maptime=9:6
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=7|deaths=2|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=5|deaths=3|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=5|deaths=4|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=2|deaths=4|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=15|deaths=3|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=6|deaths=7|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=1|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=1|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=General|link=General|kills=4|deaths=7|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=4|deaths=6|plants=0|defuses=0}}
+}}
+{{Box|end}}

@@ -1,0 +1,36 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Luminosity Gaming|UNILAD Esports|title=World War II|date=2018-06-17|time=1519|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Luminosity Gaming|team2=UNILAD Esports|team1score=250|team2score=189
+|gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=11:12
+|blue1={{Scoreboard/Player|name=FormaL|link=FormaL|kills=26|deaths=24|time=94}}
+|blue2={{Scoreboard/Player|name=JKap|link=JKap|kills=35|deaths=23|time=8}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=29|deaths=28|time=92}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=28|deaths=25|time=81}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=26|deaths=33|time=35}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=28|deaths=28|time=89}}
+|red3={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=25|deaths=27|time=53}}
+|red4={{Scoreboard/Player|name=Zed|link=Zed|kills=21|deaths=30|time=29}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=UNILAD Esports|team1score=6|team2score=1
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=5:13
+|blue1={{Scoreboard/Player|name=FormaL|link=FormaL|kills=11|deaths=2|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=JKap|link=JKap|kills=5|deaths=3|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=4|deaths=3|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=4|deaths=4|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=1|deaths=6|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=1|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=7|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Zed|link=Zed|kills=3|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=UNILAD Esports|team1score=3|team2score=1
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:0
+|blue1={{Scoreboard/Player|name=FormaL|link=FormaL|kills=19|deaths=13|caps=1|returns=1}}
+|blue2={{Scoreboard/Player|name=JKap|link=JKap|kills=21|deaths=12|caps=1|returns=0}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=19|deaths=15|caps=1|returns=0}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=13|deaths=16|caps=0|returns=1}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=11|deaths=20|caps=0|returns=0}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=10|deaths=22|caps=0|returns=0}}
+|red3={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=20|deaths=13|caps=0|returns=2}}
+|red4={{Scoreboard/Player|name=Zed|link=Zed|kills=15|deaths=17|caps=1|returns=0}}
+}}
+{{Box|end}}

@@ -1,0 +1,260 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Cloud9|Rogue|title=Infinite Warfare|date=2017-08-09|time=1023|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Cloud9|team2=Rogue|team1score=250|team2score=180
+|gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=10:18
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=25|deaths=23|time=92}}
+|blue2={{Scoreboard/Player|name=Assault|link=Assault|kills=28|deaths=20|time=74}}
+|blue3={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=26|deaths=26|time=67}}
+|blue4={{Scoreboard/Player|name=Xotic|link=Xotic|kills=18|deaths=21|time=134}}
+|red1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=28|deaths=23|time=58}}
+|red2={{Scoreboard/Player|name=Johnny|link=Johnny|kills=14|deaths=23|time=81}}
+|red3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=24|deaths=24|time=66}}
+|red4={{Scoreboard/Player|name=Stamino|link=Stamino|kills=24|deaths=27|time=68}}
+}}
+{{Scoreboard|team1=Cloud9|team2=Rogue|team1score=4|team2score=6
+|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=12:17
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=5|deaths=10|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Assault|link=Assault|kills=6|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=9|deaths=8|plants=2|defuses=0}}
+|blue4={{Scoreboard/Player|name=Xotic|link=Xotic|kills=4|deaths=6|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=8|deaths=7|plants=3|defuses=0}}
+|red2={{Scoreboard/Player|name=Johnny|link=Johnny|kills=10|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=8|deaths=4|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Stamino|link=Stamino|kills=5|deaths=5|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Cloud9|team2=Rogue|team1score=11|team2score=4
+|gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=10:26
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=24|deaths=23|carries=0|throws=0|score=0}}
+|blue2={{Scoreboard/Player|name=Assault|link=Assault|kills=29|deaths=22|carries=3|throws=1|score=7}}
+|blue3={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=27|deaths=25|carries=0|throws=1|score=1}}
+|blue4={{Scoreboard/Player|name=Xotic|link=Xotic|kills=28|deaths=21|carries=1|throws=1|score=3}}
+|red1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=34|deaths=27|carries=0|throws=2|score=2}}
+|red2={{Scoreboard/Player|name=Johnny|link=Johnny|kills=15|deaths=31|carries=0|throws=0|score=0}}
+|red3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=14|deaths=22|carries=1|throws=0|score=2}}
+|red4={{Scoreboard/Player|name=Stamino|link=Stamino|kills=28|deaths=28|carries=0|throws=0|score=0}}
+}}
+{{Scoreboard|team1=Cloud9|team2=Rogue|team1score=250|team2score=220
+|gamename=Game 4|map=Retaliation|gamemode=Hardpoint|maptime=10:43
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=25|deaths=17|time=57}}
+|blue2={{Scoreboard/Player|name=Assault|link=Assault|kills=30|deaths=20|time=74}}
+|blue3={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=22|deaths=24|time=71}}
+|blue4={{Scoreboard/Player|name=Xotic|link=Xotic|kills=20|deaths=20|time=85}}
+|red1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=18|deaths=24|time=27}}
+|red2={{Scoreboard/Player|name=Johnny|link=Johnny|kills=13|deaths=24|time=58}}
+|red3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=27|deaths=23|time=85}}
+|red4={{Scoreboard/Player|name=Stamino|link=Stamino|kills=23|deaths=26|time=86}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Enigma6 Group|Team MRN Black|title=Infinite Warfare|date=2017-08-09|time=1122|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team MRN Black|team1score=250|team2score=49
+|gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=6:49
+|blue1={{Scoreboard/Player|name=General|link=General|kills=18|deaths=8|time=62}}
+|blue2={{Scoreboard/Player|name=Kade|link=Kade|kills=20|deaths=10|time=73}}
+|blue3={{Scoreboard/Player|name=Proto|link=Proto|kills=14|deaths=14|time=96}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=18|deaths=7|time=134}}
+|red1={{Scoreboard/Player|name=Benji|link=Benji|kills=9|deaths=17|time=18}}
+|red2={{Scoreboard/Player|name=GefKid|link=GefKid|kills=12|deaths=17|time=25}}
+|red3={{Scoreboard/Player|name=Subsist|link=Subsist|kills=8|deaths=17|time=27}}
+|red4={{Scoreboard/Player|name=Yohanson|link=Yohanson|kills=10|deaths=19|time=25}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team MRN Black|team1score=6|team2score=3
+|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=12:16
+|blue1={{Scoreboard/Player|name=General|link=General|kills=10|deaths=4|plants=1|defuses=1}}
+|blue2={{Scoreboard/Player|name=Kade|link=Kade|kills=3|deaths=8|plants=3|defuses=0}}
+|blue3={{Scoreboard/Player|name=Proto|link=Proto|kills=8|deaths=4|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=8|deaths=6|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Benji|link=Benji|kills=10|deaths=6|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=GefKid|link=GefKid|kills=6|deaths=7|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Subsist|link=Subsist|kills=4|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Yohanson|link=Yohanson|kills=2|deaths=9|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team MRN Black|team1score=13|team2score=0
+|gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=General|link=General|kills=19|deaths=24|carries=2|throws=0|score=4}}
+|blue2={{Scoreboard/Player|name=Kade|link=Kade|kills=25|deaths=21|carries=2|throws=0|score=4}}
+|blue3={{Scoreboard/Player|name=Proto|link=Proto|kills=27|deaths=19|carries=2|throws=0|score=4}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=37|deaths=17|carries=0|throws=1|score=1}}
+|red1={{Scoreboard/Player|name=Benji|link=Benji|kills=18|deaths=26|carries=0|throws=0|score=0}}
+|red2={{Scoreboard/Player|name=GefKid|link=GefKid|kills=28|deaths=28|carries=0|throws=0|score=0}}
+|red3={{Scoreboard/Player|name=Subsist|link=Subsist|kills=19|deaths=24|carries=0|throws=0|score=0}}
+|red4={{Scoreboard/Player|name=Yohanson|link=Yohanson|kills=16|deaths=30|carries=0|throws=0|score=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Enigma6 Group|Rogue|title=Infinite Warfare|date=2017-08-10|time=0801|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Enigma6 Group|team2=Rogue|team1score=190|team2score=250
+|gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=9:56
+|blue1={{Scoreboard/Player|name=General|link=General|kills=20|deaths=23|time=48}}
+|blue2={{Scoreboard/Player|name=Kade|link=Kade|kills=14|deaths=24|time=92}}
+|blue3={{Scoreboard/Player|name=Proto|link=Proto|kills=21|deaths=25|time=35}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=26|deaths=20|time=37}}
+|red1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=18|deaths=18|time=54}}
+|red2={{Scoreboard/Player|name=Johnny|link=Johnny|kills=23|deaths=16|time=140}}
+|red3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=22|deaths=22|time=29}}
+|red4={{Scoreboard/Player|name=Stamino|link=Stamino|kills=29|deaths=25|time=53}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Rogue|team1score=6|team2score=4
+|gamename=Game 2|map=Throwback|gamemode=Search and Destroy|maptime=11:57
+|blue1={{Scoreboard/Player|name=General|link=General|kills=4|deaths=8|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Kade|link=Kade|kills=4|deaths=7|plants=5|defuses=0}}
+|blue3={{Scoreboard/Player|name=Proto|link=Proto|kills=12|deaths=6|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=14|deaths=4|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=6|deaths=10|plants=2|defuses=1}}
+|red2={{Scoreboard/Player|name=Johnny|link=Johnny|kills=7|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=6|deaths=7|plants=1|defuses=1}}
+|red4={{Scoreboard/Player|name=Stamino|link=Stamino|kills=6|deaths=9|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Rogue|team1score=10|team2score=9
+|gamename=Game 3|map=Frost|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=General|link=General|kills=29|deaths=25|carries=0|throws=0|score=0}}
+|blue2={{Scoreboard/Player|name=Kade|link=Kade|kills=24|deaths=27|carries=0|throws=0|score=0}}
+|blue3={{Scoreboard/Player|name=Proto|link=Proto|kills=20|deaths=26|carries=4|throws=0|score=8}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=38|deaths=22|carries=1|throws=0|score=2}}
+|red1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=33|deaths=25|carries=1|throws=0|score=2}}
+|red2={{Scoreboard/Player|name=Johnny|link=Johnny|kills=16|deaths=29|carries=0|throws=3|score=3}}
+|red3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=28|deaths=28|carries=1|throws=0|score=2}}
+|red4={{Scoreboard/Player|name=Stamino|link=Stamino|kills=23|deaths=29|carries=1|throws=0|score=2}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Rogue|team1score=250|team2score=223
+|gamename=Game 4|map=Breakout|gamemode=Hardpoint|maptime=11:44
+|blue1={{Scoreboard/Player|name=General|link=General|kills=27|deaths=22|time=61}}
+|blue2={{Scoreboard/Player|name=Kade|link=Kade|kills=22|deaths=25|time=56}}
+|blue3={{Scoreboard/Player|name=Proto|link=Proto|kills=28|deaths=23|time=90}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=28|deaths=23|time=102}}
+|red1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=26|deaths=27|time=40}}
+|red2={{Scoreboard/Player|name=Johnny|link=Johnny|kills=20|deaths=27|time=76}}
+|red3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=21|deaths=26|time=46}}
+|red4={{Scoreboard/Player|name=Stamino|link=Stamino|kills=26|deaths=25|time=131}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Cloud9|Team MRN Black|title=Infinite Warfare|date=2017-08-10|time=0807|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Cloud9|team2=Team MRN Black|team1score=250|team2score=50
+|gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=6:59
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=16|deaths=6|time=123}}
+|blue2={{Scoreboard/Player|name=Assault|link=Assault|kills=12|deaths=10|time=72}}
+|blue3={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=23|deaths=10|time=29}}
+|blue4={{Scoreboard/Player|name=Xotic|link=Xotic|kills=22|deaths=8|time=65}}
+|red1={{Scoreboard/Player|name=Benji|link=Benji|kills=6|deaths=18|time=17}}
+|red2={{Scoreboard/Player|name=GefKid|link=GefKid|kills=8|deaths=21|time=7}}
+|red3={{Scoreboard/Player|name=Subsist|link=Subsist|kills=10|deaths=14|time=23}}
+|red4={{Scoreboard/Player|name=Yohanson|link=Yohanson|kills=10|deaths=20|time=5}}
+}}
+{{Scoreboard|team1=Cloud9|team2=Team MRN Black|team1score=6|team2score=4
+|gamename=Game 2|map=Throwback|gamemode=Search and Destroy|maptime=11:52
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=0|deaths=7|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Assault|link=Assault|kills=9|deaths=5|plants=3|defuses=1}}
+|blue3={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=11|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Xotic|link=Xotic|kills=12|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Benji|link=Benji|kills=2|deaths=8|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=GefKid|link=GefKid|kills=4|deaths=9|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Subsist|link=Subsist|kills=11|deaths=6|plants=0|defuses=2}}
+|red4={{Scoreboard/Player|name=Yohanson|link=Yohanson|kills=10|deaths=9|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=Cloud9|team2=Team MRN Black|team1score=9|team2score=1
+|gamename=Game 3|map=Frost|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=22|deaths=23|carries=0|throws=2|score=2}}
+|blue2={{Scoreboard/Player|name=Assault|link=Assault|kills=34|deaths=25|carries=1|throws=0|score=2}}
+|blue3={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=32|deaths=24|carries=0|throws=3|score=3}}
+|blue4={{Scoreboard/Player|name=Xotic|link=Xotic|kills=18|deaths=28|carries=0|throws=2|score=2}}
+|red1={{Scoreboard/Player|name=Benji|link=Benji|kills=28|deaths=29|carries=0|throws=0|score=0}}
+|red2={{Scoreboard/Player|name=GefKid|link=GefKid|kills=31|deaths=26|carries=0|throws=0|score=0}}
+|red3={{Scoreboard/Player|name=Subsist|link=Subsist|kills=27|deaths=21|carries=0|throws=1|score=1}}
+|red4={{Scoreboard/Player|name=Yohanson|link=Yohanson|kills=14|deaths=30|carries=0|throws=0|score=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Rogue|Team MRN Black|title=Infinite Warfare|date=2017-08-10|time=1331|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Rogue|team2=Team MRN Black|team1score=236|team2score=250
+|gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=11:6
+|blue1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=20|deaths=22|time=68}}
+|blue2={{Scoreboard/Player|name=Johnny|link=Johnny|kills=14|deaths=24|time=25}}
+|blue3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=18|deaths=24|time=78}}
+|blue4={{Scoreboard/Player|name=Stamino|link=Stamino|kills=18|deaths=21|time=123}}
+|red1={{Scoreboard/Player|name=Benji|link=Benji|kills=28|deaths=18|time=95}}
+|red2={{Scoreboard/Player|name=GefKid|link=GefKid|kills=28|deaths=17|time=106}}
+|red3={{Scoreboard/Player|name=Subsist|link=Subsist|kills=14|deaths=18|time=53}}
+|red4={{Scoreboard/Player|name=Yohanson|link=Yohanson|kills=20|deaths=17|time=79}}
+}}
+{{Scoreboard|team1=Rogue|team2=Team MRN Black|team1score=6|team2score=2
+|gamename=Game 2|map=Crusher|gamemode=Search and Destroy|maptime=8:10
+|blue1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=14|deaths=3|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=Johnny|link=Johnny|kills=4|deaths=4|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=4|deaths=5|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Stamino|link=Stamino|kills=3|deaths=6|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Benji|link=Benji|kills=5|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=GefKid|link=GefKid|kills=5|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Subsist|link=Subsist|kills=5|deaths=6|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Yohanson|link=Yohanson|kills=3|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Rogue|team2=Team MRN Black|team1score=9|team2score=2
+|gamename=Game 3|map=Precinct|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=31|deaths=21|carries=0|throws=3|score=3}}
+|blue2={{Scoreboard/Player|name=Johnny|link=Johnny|kills=20|deaths=22|carries=0|throws=0|score=0}}
+|blue3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=30|deaths=21|carries=3|throws=0|score=6}}
+|blue4={{Scoreboard/Player|name=Stamino|link=Stamino|kills=22|deaths=25|carries=0|throws=0|score=0}}
+|red1={{Scoreboard/Player|name=Benji|link=Benji|kills=20|deaths=27|carries=0|throws=0|score=0}}
+|red2={{Scoreboard/Player|name=GefKid|link=GefKid|kills=18|deaths=27|carries=0|throws=0|score=0}}
+|red3={{Scoreboard/Player|name=Subsist|link=Subsist|kills=28|deaths=21|carries=1|throws=0|score=2}}
+|red4={{Scoreboard/Player|name=Yohanson|link=Yohanson|kills=23|deaths=28|carries=0|throws=0|score=0}}
+}}
+{{Scoreboard|team1=Rogue|team2=Team MRN Black|team1score=250|team2score=123
+|gamename=Game 4|map=Throwback|gamemode=Hardpoint|maptime=10:25
+|blue1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=29|deaths=21|time=59}}
+|blue2={{Scoreboard/Player|name=Johnny|link=Johnny|kills=28|deaths=27|time=70}}
+|blue3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=22|deaths=25|time=63}}
+|blue4={{Scoreboard/Player|name=Stamino|link=Stamino|kills=26|deaths=22|time=118}}
+|red1={{Scoreboard/Player|name=Benji|link=Benji|kills=28|deaths=23|time=11}}
+|red2={{Scoreboard/Player|name=GefKid|link=GefKid|kills=15|deaths=27|time=37}}
+|red3={{Scoreboard/Player|name=Subsist|link=Subsist|kills=24|deaths=26|time=52}}
+|red4={{Scoreboard/Player|name=Yohanson|link=Yohanson|kills=28|deaths=29|time=37}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Cloud9|Enigma6 Group|title=Infinite Warfare|date=2017-08-10|time=1339|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Cloud9|team2=Enigma6 Group|team1score=152|team2score=250
+|gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=9:54
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=15|deaths=22|time=5}}
+|blue2={{Scoreboard/Player|name=Assault|link=Assault|kills=20|deaths=21|time=59}}
+|blue3={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=14|deaths=26|time=27}}
+|blue4={{Scoreboard/Player|name=Xotic|link=Xotic|kills=15|deaths=21|time=72}}
+|red1={{Scoreboard/Player|name=General|link=General|kills=24|deaths=16|time=56}}
+|red2={{Scoreboard/Player|name=Kade|link=Kade|kills=23|deaths=18|time=144}}
+|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=21|deaths=19|time=44}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=22|deaths=11|time=106}}
+}}
+{{Scoreboard|team1=Cloud9|team2=Enigma6 Group|team1score=3|team2score=6
+|gamename=Game 2|map=Crusher|gamemode=Search and Destroy|maptime=11:33
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=8|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Assault|link=Assault|kills=6|deaths=6|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=6|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Xotic|link=Xotic|kills=5|deaths=6|plants=3|defuses=0}}
+|red1={{Scoreboard/Player|name=General|link=General|kills=6|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Kade|link=Kade|kills=7|deaths=5|plants=3|defuses=0}}
+|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=6|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=6|deaths=6|plants=0|defuses=1}}
+}}
+{{Scoreboard|team1=Cloud9|team2=Enigma6 Group|team1score=11|team2score=4
+|gamename=Game 3|map=Precinct|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=19|deaths=24|carries=0|throws=2|score=2}}
+|blue2={{Scoreboard/Player|name=Assault|link=Assault|kills=24|deaths=25|carries=1|throws=0|score=2}}
+|blue3={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=33|deaths=26|carries=0|throws=1|score=1}}
+|blue4={{Scoreboard/Player|name=Xotic|link=Xotic|kills=28|deaths=25|carries=2|throws=2|score=6}}
+|red1={{Scoreboard/Player|name=General|link=General|kills=25|deaths=25|carries=0|throws=0|score=0}}
+|red2={{Scoreboard/Player|name=Kade|link=Kade|kills=25|deaths=25|carries=0|throws=1|score=1}}
+|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=19|deaths=29|carries=1|throws=1|score=3}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=31|deaths=25|carries=0|throws=0|score=0}}
+}}
+{{Scoreboard|team1=Cloud9|team2=Enigma6 Group|team1score=144|team2score=250
+|gamename=Game 4|map=Throwback|gamemode=Hardpoint|maptime=10:58
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=20|deaths=32|time=19}}
+|blue2={{Scoreboard/Player|name=Assault|link=Assault|kills=21|deaths=29|time=26}}
+|blue3={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=19|deaths=34|time=34}}
+|blue4={{Scoreboard/Player|name=Xotic|link=Xotic|kills=27|deaths=27|time=83}}
+|red1={{Scoreboard/Player|name=General|link=General|kills=29|deaths=24|time=15}}
+|red2={{Scoreboard/Player|name=Kade|link=Kade|kills=27|deaths=23|time=54}}
+|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=27|deaths=24|time=99}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=39|deaths=16|time=103}}
+}}
+{{Box|end}}

@@ -1,0 +1,756 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Fact Revolution|Tainted Minds|title=Black Ops 4|date=2019-01-16|time=0958|timezone=PST|dst=No}}
+{{Scoreboard|team1=Fact Revolution|team2=Tainted Minds|team1score=3|team2score=0
+|gamename=Game 1|map=Seaside|gamemode=Control|maptime=9:41
+|blue1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=24|deaths=13|caps=2}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=20|deaths=16|caps=1}}
+|blue3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=13|deaths=13|caps=1}}
+|blue4={{Scoreboard/Player|name=Maple|link=Maple|kills=15|deaths=13|caps=2}}
+|blue5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=16|deaths=15|caps=1}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=12|deaths=19|caps=1}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=17|deaths=15|caps=1}}
+|red3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=11|deaths=18|caps=1}}
+|red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=13|deaths=19|caps=1}}
+|red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=17|deaths=17|caps=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Team Heretics|Lightning Pandas|title=Black Ops 4|date=2019-01-16|time=1005|timezone=PST|dst=No}}
+{{Scoreboard|team1=Team Heretics|team2=Lightning Pandas|team1score=250|team2score=244
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=11:40
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=19|deaths=23|time=100}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=30|deaths=22|time=114}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=17|deaths=26|time=63}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=30|deaths=29|time=53}}
+|blue5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=31|deaths=24|time=63}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=37|deaths=21|time=87}}
+|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=25|deaths=24|time=64}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=17|deaths=25|time=67}}
+|red4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=25|deaths=24|time=76}}
+|red5={{Scoreboard/Player|name=Peatie|link=Peatie|kills=20|deaths=33|time=50}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|G2 Esports|Tainted Minds|title=Black Ops 4|date=2019-01-16|time=1215|timezone=PST|dst=No}}
+{{Scoreboard|team1=G2 Esports|team2=Tainted Minds|team1score=250|team2score=96
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=7:34
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=13|deaths=17|time=42}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=18|deaths=8|time=158}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=24|deaths=9|time=54}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=11|deaths=13|time=12}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=21|deaths=8|time=126}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=5|deaths=17|time=18}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=9|deaths=17|time=41}}
+|red3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=16|deaths=17|time=28}}
+|red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=14|deaths=17|time=18}}
+|red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=11|deaths=19|time=16}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Tainted Minds|team1score=3|team2score=1
+|gamename=Game 2|map=Frequency|gamemode=Control|maptime=10:30
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=15|deaths=17|caps=3}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=18|deaths=15|caps=3}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=25|deaths=8|caps=4}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=12|deaths=17|caps=4}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=20|deaths=7|caps=2}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=8|deaths=16|caps=2}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=14|deaths=18|caps=3}}
+|red3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=10|deaths=18|caps=3}}
+|red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=15|deaths=19|caps=2}}
+|red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=16|deaths=19|caps=3}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Tainted Minds|team1score=250|team2score=59
+|gamename=Game 3|map=Seaside|gamemode=Hardpoint|maptime=6:44
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=14|deaths=12|time=83}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=13|deaths=11|time=52}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=13|deaths=13|time=80}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=23|deaths=9|time=62}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=15|deaths=4|time=125}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=12|deaths=17|time=4}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=4|deaths=16|time=12}}
+|red3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=14|deaths=14|time=29}}
+|red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=11|deaths=15|time=3}}
+|red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=7|deaths=17|time=23}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Vodafone Giants|Team Heretics|title=Black Ops 4|date=2019-01-16|time=1216|timezone=PST|dst=No}}
+{{Scoreboard|team1=Vodafone Giants|team2=Team Heretics|team1score=111|team2score=250
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=7:56
+|blue1={{Scoreboard/Player|name=EnvdiaN|link=EnvdiaN|kills=17|deaths=24|time=14}}
+|blue2={{Scoreboard/Player|name=Inven|link=Inven|kills=11|deaths=23|time=36}}
+|blue3={{Scoreboard/Player|name=Pepo|link=Pepo|kills=16|deaths=22|time=32}}
+|blue4={{Scoreboard/Player|name=TojoR|link=TojoR|kills=16|deaths=21|time=34}}
+|blue5={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=20|deaths=21|time=35}}
+|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=30|deaths=17|time=43}}
+|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=18|deaths=17|time=82}}
+|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=25|deaths=12|time=105}}
+|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=24|deaths=20|time=49}}
+|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=14|deaths=14|time=84}}
+}}
+{{Scoreboard|team1=Vodafone Giants|team2=Team Heretics|team1score=2|team2score=6
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=9:22
+|blue1={{Scoreboard/Player|name=EnvdiaN|link=EnvdiaN|kills=4|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Inven|link=Inven|kills=1|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Pepo|link=Pepo|kills=5|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=TojoR|link=TojoR|kills=8|deaths=6|plants=0|defuses=1}}
+|blue5={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=5|deaths=8|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=11|deaths=5|plants=3|defuses=0}}
+|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=5|deaths=4|plants=1|defuses=1}}
+|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=7|deaths=4|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=2|deaths=4|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=9|deaths=6|plants=0|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|G2 Esports|Team Envy|title=Black Ops 4|date=2019-01-16|time=1418|timezone=PST|dst=No}}
+{{Scoreboard|team1=G2 Esports|team2=Team Envy|team1score=168|team2score=250
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:56
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=24|deaths=34|time=68}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=28|deaths=28|time=31}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=32|deaths=26|time=31}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=23|deaths=32|time=67}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=23|deaths=31|time=56}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=26|deaths=25|time=57}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=26|deaths=26|time=56}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=25|deaths=25|time=126}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=41|deaths=28|time=49}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=33|deaths=26|time=107}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Team Envy|team1score=6|team2score=1
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=8:22
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=7|deaths=3|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=6|deaths=5|plants=2|defuses=0}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=10|deaths=3|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=6|deaths=3|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=3|deaths=5|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=7|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=4|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=4|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=1|deaths=7|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=3|deaths=7|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Team Envy|team1score=0|team2score=3
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=10:53
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=29|deaths=20|caps=0}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=13|deaths=14|caps=1}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=12|deaths=19|caps=1}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=12|deaths=19|caps=1}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=15|deaths=17|caps=1}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=17|deaths=17|caps=1}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=15|deaths=14|caps=2}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=18|deaths=14|caps=1}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=26|deaths=17|caps=1}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=13|deaths=19|caps=2}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Team Envy|team1score=250|team2score=161
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=9:57
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=19|deaths=27|time=41}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=34|deaths=19|time=105}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=27|deaths=21|time=65}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=30|deaths=15|time=149}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=15|deaths=21|time=79}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=20|deaths=28|time=27}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=22|deaths=23|time=54}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=16|deaths=22|time=70}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=25|deaths=25|time=17}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=20|deaths=27|time=47}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Team Envy|team1score=0|team2score=6
+|gamename=Game 5|map=Gridlock|gamemode=Search and Destroy|maptime=6:43
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=3|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=4|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=4|deaths=6|plants=2|defuses=0}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=5|deaths=5|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=2|deaths=5|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=5|deaths=3|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=9|deaths=5|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=3|deaths=3|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=6|deaths=5|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=5|deaths=2|plants=2|defuses=2}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Fact Revolution|Vodafone Giants|title=Black Ops 4|date=2019-01-16|time=1524|timezone=PST|dst=No}}
+{{Scoreboard|team1=Fact Revolution|team2=Vodafone Giants|team1score=250|team2score=207
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:51
+|blue1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=16|deaths=27|time=83}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=31|deaths=24|time=54}}
+|blue3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=25|deaths=24|time=52}}
+|blue4={{Scoreboard/Player|name=Maple|link=Maple|kills=22|deaths=20|time=102}}
+|blue5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=23|deaths=17|time=66}}
+|red1={{Scoreboard/Player|name=EnvdiaN|link=EnvdiaN|kills=22|deaths=24|time=46}}
+|red2={{Scoreboard/Player|name=Inven|link=Inven|kills=23|deaths=20|time=104}}
+|red3={{Scoreboard/Player|name=Pepo|link=Pepo|kills=19|deaths=24|time=61}}
+|red4={{Scoreboard/Player|name=TojoR|link=TojoR|kills=16|deaths=25|time=58}}
+|red5={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=32|deaths=25|time=40}}
+}}
+{{Scoreboard|team1=Fact Revolution|team2=Vodafone Giants|team1score=3|team2score=0
+|gamename=Game 2|map=Seaside|gamemode=Control|maptime=10:1
+|blue1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=22|deaths=16|caps=1}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=17|deaths=18|caps=1}}
+|blue3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=18|deaths=13|caps=2}}
+|blue4={{Scoreboard/Player|name=Maple|link=Maple|kills=19|deaths=15|caps=1}}
+|blue5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=13|deaths=15|caps=2}}
+|red1={{Scoreboard/Player|name=EnvdiaN|link=EnvdiaN|kills=15|deaths=18|caps=1}}
+|red2={{Scoreboard/Player|name=Inven|link=Inven|kills=15|deaths=14|caps=1}}
+|red3={{Scoreboard/Player|name=Pepo|link=Pepo|kills=16|deaths=19|caps=1}}
+|red4={{Scoreboard/Player|name=TojoR|link=TojoR|kills=19|deaths=19|caps=1}}
+|red5={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=12|deaths=19|caps=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Vodafone Giants|Lightning Pandas|title=Black Ops 4|date=2019-01-17|time=1020|timezone=PST|dst=No}}
+{{Scoreboard|team1=Vodafone Giants|team2=Lightning Pandas|team1score=120|team2score=250
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=9:46
+|blue1={{Scoreboard/Player|name=EnvdiaN|link=EnvdiaN|kills=14|deaths=24|time=64}}
+|blue2={{Scoreboard/Player|name=Inven|link=Inven|kills=19|deaths=24|time=33}}
+|blue3={{Scoreboard/Player|name=Pepo|link=Pepo|kills=26|deaths=27|time=1}}
+|blue4={{Scoreboard/Player|name=TojoR|link=TojoR|kills=25|deaths=27|time=14}}
+|blue5={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=24|deaths=26|time=32}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=33|deaths=24|time=67}}
+|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=20|deaths=19|time=65}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=31|deaths=20|time=72}}
+|red4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=26|deaths=19|time=69}}
+|red5={{Scoreboard/Player|name=Peatie|link=Peatie|kills=18|deaths=26|time=67}}
+}}
+{{Scoreboard|team1=Vodafone Giants|team2=Lightning Pandas|team1score=3|team2score=2
+|gamename=Game 2|map=Frequency|gamemode=Control|maptime=16:43
+|blue1={{Scoreboard/Player|name=EnvdiaN|link=EnvdiaN|kills=24|deaths=26|caps=1}}
+|blue2={{Scoreboard/Player|name=Inven|link=Inven|kills=22|deaths=22|caps=1}}
+|blue3={{Scoreboard/Player|name=Pepo|link=Pepo|kills=26|deaths=26|caps=1}}
+|blue4={{Scoreboard/Player|name=TojoR|link=TojoR|kills=21|deaths=26|caps=1}}
+|blue5={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=34|deaths=23|caps=1}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=26|deaths=25|caps=4}}
+|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=26|deaths=24|caps=3}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=24|deaths=30|caps=1}}
+|red4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=25|deaths=21|caps=2}}
+|red5={{Scoreboard/Player|name=Peatie|link=Peatie|kills=22|deaths=29|caps=2}}
+}}
+{{Scoreboard|team1=Vodafone Giants|team2=Lightning Pandas|team1score=250|team2score=227
+|gamename=Game 3|map=Arsenal|gamemode=Hardpoint|maptime=10:40
+|blue1={{Scoreboard/Player|name=EnvdiaN|link=EnvdiaN|kills=18|deaths=21|time=85}}
+|blue2={{Scoreboard/Player|name=Inven|link=Inven|kills=19|deaths=23|time=51}}
+|blue3={{Scoreboard/Player|name=Pepo|link=Pepo|kills=25|deaths=15|time=54}}
+|blue4={{Scoreboard/Player|name=TojoR|link=TojoR|kills=14|deaths=25|time=78}}
+|blue5={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=27|deaths=27|time=84}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=23|deaths=19|time=95}}
+|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=24|deaths=22|time=47}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=16|deaths=21|time=58}}
+|red4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=20|deaths=20|time=63}}
+|red5={{Scoreboard/Player|name=Peatie|link=Peatie|kills=28|deaths=21|time=61}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Fact Revolution|G2 Esports|title=Black Ops 4|date=2019-01-17|time=1040|timezone=PST|dst=No}}
+{{Scoreboard|team1=Fact Revolution|team2=G2 Esports|team1score=130|team2score=250
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:6
+|blue1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=15|deaths=24|time=28}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=18|deaths=21|time=26}}
+|blue3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=15|deaths=18|time=47}}
+|blue4={{Scoreboard/Player|name=Maple|link=Maple|kills=11|deaths=20|time=36}}
+|blue5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=17|deaths=16|time=40}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=19|deaths=16|time=81}}
+|red2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=23|deaths=16|time=70}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=20|deaths=18|time=70}}
+|red4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=24|deaths=10|time=78}}
+|red5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=13|deaths=16|time=104}}
+}}
+{{Scoreboard|team1=Fact Revolution|team2=G2 Esports|team1score=6|team2score=5
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=14:52
+|blue1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=12|deaths=5|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=9|deaths=9|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=6|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Maple|link=Maple|kills=7|deaths=7|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=6|deaths=6|plants=4|defuses=1}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=3|deaths=10|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=4|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=11|deaths=6|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=11|deaths=7|plants=2|defuses=3}}
+|red5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=6|deaths=10|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Fact Revolution|team2=G2 Esports|team1score=1|team2score=3
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=11:16
+|blue1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=15|deaths=19|caps=1}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=24|deaths=21|caps=1}}
+|blue3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=14|deaths=19|caps=1}}
+|blue4={{Scoreboard/Player|name=Maple|link=Maple|kills=11|deaths=16|caps=0}}
+|blue5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=14|deaths=18|caps=0}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=23|deaths=14|caps=1}}
+|red2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=10|deaths=19|caps=0}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=21|deaths=17|caps=0}}
+|red4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=25|deaths=12|caps=1}}
+|red5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=14|deaths=16|caps=1}}
+}}
+{{Scoreboard|team1=Fact Revolution|team2=G2 Esports|team1score=209|team2score=250
+|gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=10:31
+|blue1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=22|deaths=26|time=94}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=38|deaths=26|time=29}}
+|blue3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=17|deaths=25|time=84}}
+|blue4={{Scoreboard/Player|name=Maple|link=Maple|kills=22|deaths=27|time=85}}
+|blue5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=23|deaths=25|time=57}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=24|deaths=27|time=43}}
+|red2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=25|deaths=27|time=58}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=26|deaths=20|time=112}}
+|red4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=21|deaths=26|time=101}}
+|red5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=33|deaths=23|time=61}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Vodafone Giants|Tainted Minds|title=Black Ops 4|date=2019-01-17|time=1327|timezone=PST|dst=No}}
+{{Scoreboard|team1=Vodafone Giants|team2=Tainted Minds|team1score=184|team2score=250
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:47
+|blue1={{Scoreboard/Player|name=EnvdiaN|link=EnvdiaN|kills=22|deaths=28|time=20}}
+|blue2={{Scoreboard/Player|name=Inven|link=Inven|kills=13|deaths=24|time=93}}
+|blue3={{Scoreboard/Player|name=Pepo|link=Pepo|kills=23|deaths=22|time=42}}
+|blue4={{Scoreboard/Player|name=TojoR|link=TojoR|kills=24|deaths=23|time=80}}
+|blue5={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=18|deaths=29|time=43}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=18|deaths=18|time=78}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=27|deaths=20|time=33}}
+|red3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=23|deaths=20|time=107}}
+|red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=27|deaths=21|time=79}}
+|red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=31|deaths=21|time=88}}
+}}
+{{Scoreboard|team1=Vodafone Giants|team2=Tainted Minds|team1score=6|team2score=5
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=16:52
+|blue1={{Scoreboard/Player|name=EnvdiaN|link=EnvdiaN|kills=8|deaths=6|plants=3|defuses=1}}
+|blue2={{Scoreboard/Player|name=Inven|link=Inven|kills=3|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Pepo|link=Pepo|kills=7|deaths=7|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=TojoR|link=TojoR|kills=9|deaths=7|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=10|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=8|deaths=6|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=5|deaths=7|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=7|deaths=8|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=6|deaths=9|plants=1|defuses=0}}
+|red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=10|deaths=9|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Vodafone Giants|team2=Tainted Minds|team1score=2|team2score=3
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=14:25
+|blue1={{Scoreboard/Player|name=EnvdiaN|link=EnvdiaN|kills=16|deaths=19|caps=2}}
+|blue2={{Scoreboard/Player|name=Inven|link=Inven|kills=19|deaths=17|caps=3}}
+|blue3={{Scoreboard/Player|name=Pepo|link=Pepo|kills=17|deaths=17|caps=3}}
+|blue4={{Scoreboard/Player|name=TojoR|link=TojoR|kills=23|deaths=22|caps=3}}
+|blue5={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=24|deaths=21|caps=2}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=16|deaths=14|caps=4}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=18|deaths=16|caps=5}}
+|red3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=21|deaths=24|caps=3}}
+|red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=16|deaths=19|caps=4}}
+|red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=24|deaths=27|caps=4}}
+}}
+{{Scoreboard|team1=Vodafone Giants|team2=Tainted Minds|team1score=170|team2score=250
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=8:57
+|blue1={{Scoreboard/Player|name=EnvdiaN|link=EnvdiaN|kills=14|deaths=18|time=58}}
+|blue2={{Scoreboard/Player|name=Inven|link=Inven|kills=12|deaths=15|time=58}}
+|blue3={{Scoreboard/Player|name=Pepo|link=Pepo|kills=12|deaths=17|time=10}}
+|blue4={{Scoreboard/Player|name=TojoR|link=TojoR|kills=21|deaths=21|time=53}}
+|blue5={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=11|deaths=21|time=56}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=11|deaths=17|time=76}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=19|deaths=12|time=86}}
+|red3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=29|deaths=11|time=75}}
+|red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=15|deaths=14|time=45}}
+|red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=18|deaths=16|time=105}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Team Heretics|Team Envy|title=Black Ops 4|date=2019-01-17|time=1344|timezone=PST|dst=No}}
+{{Scoreboard|team1=Team Heretics|team2=Team Envy|team1score=250|team2score=127
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=8:14
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=22|deaths=13|time=59}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=34|deaths=14|time=73}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=16|deaths=16|time=55}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=19|deaths=15|time=72}}
+|blue5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=16|deaths=19|time=65}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=15|deaths=23|time=48}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=7|deaths=22|time=39}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=18|deaths=22|time=14}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=18|deaths=20|time=24}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=19|deaths=20|time=38}}
+}}
+{{Scoreboard|team1=Team Heretics|team2=Team Envy|team1score=6|team2score=0
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=8:11
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=14|deaths=3|plants=3|defuses=0}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=2|deaths=3|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=4|deaths=3|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=6|deaths=4|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=4|deaths=3|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=2|deaths=6|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=4|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=3|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=7|deaths=6|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=0|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Team Heretics|team2=Team Envy|team1score=1|team2score=3
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=12:55
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=22|deaths=18|caps=2}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=20|deaths=20|caps=2}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=18|deaths=21|caps=2}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=23|deaths=25|caps=2}}
+|blue5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=11|deaths=21|caps=1}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=17|deaths=20|caps=1}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=27|deaths=17|caps=2}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=13|deaths=17|caps=2}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=28|deaths=22|caps=2}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=19|deaths=18|caps=2}}
+}}
+{{Scoreboard|team1=Team Heretics|team2=Team Envy|team1score=100|team2score=250
+|gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=7:47
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=17|deaths=19|time=18}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=17|deaths=17|time=19}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=13|deaths=21|time=14}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=13|deaths=23|time=44}}
+|blue5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=14|deaths=21|time=40}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=27|deaths=14|time=56}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=11|deaths=16|time=71}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=16|deaths=12|time=73}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=19|deaths=18|time=53}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=28|deaths=14|time=76}}
+}}
+{{Scoreboard|team1=Team Heretics|team2=Team Envy|team1score=2|team2score=6
+|gamename=Game 5|map=Payload|gamemode=Search and Destroy|maptime=10:54
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=7|deaths=6|plants=3|defuses=0}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=7|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=3|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=2|deaths=8|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=3|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=4|deaths=5|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=6|deaths=5|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=4|deaths=3|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=7|deaths=5|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=14|deaths=4|plants=3|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Team Heretics|Tainted Minds|title=Black Ops 4|date=2019-01-18|time=0901|timezone=PST|dst=No}}
+{{Scoreboard|team1=Team Heretics|team2=Tainted Minds|team1score=250|team2score=192
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=10:20
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=32|deaths=19|time=38}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=29|deaths=20|time=107}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=10|deaths=17|time=108}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=26|deaths=24|time=81}}
+|blue5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=24|deaths=22|time=79}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=21|deaths=23|time=48}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=17|deaths=20|time=14}}
+|red3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=23|deaths=26|time=43}}
+|red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=15|deaths=28|time=60}}
+|red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=26|deaths=24|time=106}}
+}}
+{{Scoreboard|team1=Team Heretics|team2=Tainted Minds|team1score=3|team2score=1
+|gamename=Game 2|map=Frequency|gamemode=Control|maptime=11:31
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=21|deaths=20|caps=4}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=27|deaths=18|caps=3}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=12|deaths=16|caps=4}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=23|deaths=11|caps=4}}
+|blue5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=19|deaths=19|caps=4}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=16|deaths=16|caps=2}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=10|deaths=20|caps=3}}
+|red3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=20|deaths=21|caps=2}}
+|red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=23|deaths=19|caps=2}}
+|red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=15|deaths=26|caps=2}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Lightning Pandas|Team Envy|title=Black Ops 4|date=2019-01-18|time=0903|timezone=PST|dst=No}}
+{{Scoreboard|team1=Lightning Pandas|team2=Team Envy|team1score=219|team2score=250
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:45
+|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=34|deaths=23|time=52}}
+|blue2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=21|deaths=24|time=74}}
+|blue3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=15|deaths=27|time=32}}
+|blue4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=16|deaths=22|time=75}}
+|blue5={{Scoreboard/Player|name=Peatie|link=Peatie|kills=31|deaths=26|time=86}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=23|deaths=22|time=68}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=31|deaths=24|time=51}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=27|deaths=19|time=90}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=22|deaths=31|time=66}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=18|deaths=21|time=86}}
+}}
+{{Scoreboard|team1=Lightning Pandas|team2=Team Envy|team1score=1|team2score=3
+|gamename=Game 2|map=Gridlock|gamemode=Control|maptime=12:39
+|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=15|deaths=18|caps=1}}
+|blue2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=20|deaths=16|caps=2}}
+|blue3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=10|deaths=29|caps=0}}
+|blue4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=15|deaths=12|caps=2}}
+|blue5={{Scoreboard/Player|name=Peatie|link=Peatie|kills=22|deaths=19|caps=2}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=16|deaths=18|caps=1}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=22|deaths=18|caps=2}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=16|deaths=14|caps=2}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=31|deaths=14|caps=2}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=9|deaths=18|caps=2}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Tainted Minds|Team Envy|title=Black Ops 4|date=2019-01-18|time=1203|timezone=PST|dst=No}}
+{{Scoreboard|team1=Tainted Minds|team2=Team Envy|team1score=2|team2score=6
+|gamename=Game 1|map=Payload|gamemode=Search and Destroy|maptime=11:53
+|blue1={{Scoreboard/Player|name=Damage|link=Damage|kills=1|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=5|deaths=6|plants=1|defuses=1}}
+|blue3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=6|deaths=6|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=4|deaths=8|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=5|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=3|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=7|deaths=3|plants=1|defuses=1}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=3|deaths=5|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=7|deaths=5|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=10|deaths=2|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=Tainted Minds|team2=Team Envy|team1score=2|team2score=3
+|gamename=Game 2|map=Gridlock|gamemode=Control|maptime=17:42
+|blue1={{Scoreboard/Player|name=Damage|link=Damage|kills=15|deaths=19|caps=4}}
+|blue2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=27|deaths=28|caps=3}}
+|blue3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=30|deaths=21|caps=4}}
+|blue4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=22|deaths=27|caps=2}}
+|blue5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=26|deaths=33|caps=1}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=22|deaths=27|caps=2}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=28|deaths=21|caps=2}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=23|deaths=19|caps=3}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=31|deaths=27|caps=2}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=24|deaths=26|caps=2}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|G2 Esports|Vodafone Giants|title=Black Ops 4|date=2019-01-18|time=1421|timezone=PST|dst=No}}
+{{Scoreboard|team1=G2 Esports|team2=Vodafone Giants|team1score=250|team2score=156
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:33
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=29|deaths=15|time=70}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=19|deaths=19|time=92}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=22|deaths=18|time=66}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=20|deaths=18|time=65}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=20|deaths=18|time=90}}
+|red1={{Scoreboard/Player|name=EnvdiaN|link=EnvdiaN|kills=18|deaths=23|time=49}}
+|red2={{Scoreboard/Player|name=Inven|link=Inven|kills=21|deaths=20|time=48}}
+|red3={{Scoreboard/Player|name=Pepo|link=Pepo|kills=16|deaths=22|time=56}}
+|red4={{Scoreboard/Player|name=TojoR|link=TojoR|kills=14|deaths=24|time=48}}
+|red5={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=19|deaths=21|time=41}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Vodafone Giants|team1score=6|team2score=4
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=12:13
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=5|deaths=7|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=7|deaths=6|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=9|deaths=6|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=6|deaths=5|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=11|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=EnvdiaN|link=EnvdiaN|kills=3|deaths=8|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Inven|link=Inven|kills=5|deaths=7|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Pepo|link=Pepo|kills=12|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=TojoR|link=TojoR|kills=1|deaths=8|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=10|deaths=8|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Vodafone Giants|team1score=3|team2score=1
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=12:17
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=16|deaths=14|caps=3}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=18|deaths=21|caps=4}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=24|deaths=14|caps=4}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=18|deaths=15|caps=4}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=28|deaths=11|caps=2}}
+|red1={{Scoreboard/Player|name=EnvdiaN|link=EnvdiaN|kills=16|deaths=21|caps=3}}
+|red2={{Scoreboard/Player|name=Inven|link=Inven|kills=12|deaths=22|caps=3}}
+|red3={{Scoreboard/Player|name=Pepo|link=Pepo|kills=15|deaths=16|caps=3}}
+|red4={{Scoreboard/Player|name=TojoR|link=TojoR|kills=12|deaths=24|caps=3}}
+|red5={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=20|deaths=22|caps=2}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Fact Revolution|Team Heretics|title=Black Ops 4|date=2019-01-18|time=1456|timezone=PST|dst=No}}
+{{Scoreboard|team1=Fact Revolution|team2=Team Heretics|team1score=177|team2score=250
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:51
+|blue1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=22|deaths=29|time=64}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=16|deaths=24|time=73}}
+|blue3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=21|deaths=26|time=82}}
+|blue4={{Scoreboard/Player|name=Maple|link=Maple|kills=28|deaths=24|time=51}}
+|blue5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=21|deaths=22|time=62}}
+|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=34|deaths=20|time=78}}
+|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=16|deaths=23|time=51}}
+|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=18|deaths=21|time=119}}
+|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=27|deaths=25|time=75}}
+|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=30|deaths=19|time=87}}
+}}
+{{Scoreboard|team1=Fact Revolution|team2=Team Heretics|team1score=4|team2score=6
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=14:34
+|blue1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=7|deaths=8|plants=1|defuses=1}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=10|deaths=10|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=5|deaths=10|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Maple|link=Maple|kills=5|deaths=9|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=6|deaths=9|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=8|deaths=6|plants=2|defuses=0}}
+|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=9|deaths=6|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=9|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=10|deaths=8|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=10|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Fact Revolution|team2=Team Heretics|team1score=2|team2score=3
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=15:35
+|blue1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=27|deaths=28|caps=3}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=24|deaths=22|caps=3}}
+|blue3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=15|deaths=22|caps=2}}
+|blue4={{Scoreboard/Player|name=Maple|link=Maple|kills=24|deaths=25|caps=2}}
+|blue5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=19|deaths=27|caps=2}}
+|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=19|deaths=25|caps=1}}
+|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=37|deaths=18|caps=2}}
+|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=16|deaths=22|caps=2}}
+|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=30|deaths=23|caps=1}}
+|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=22|deaths=22|caps=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|G2 Esports|Lightning Pandas|title=Black Ops 4|date=2019-01-19|time=1103|timezone=PST|dst=No}}
+{{Scoreboard|team1=G2 Esports|team2=Lightning Pandas|team1score=229|team2score=250
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:59
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=18|deaths=26|time=36}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=25|deaths=25|time=45}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=24|deaths=20|time=77}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=29|deaths=31|time=57}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=21|deaths=21|time=106}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=32|deaths=20|time=99}}
+|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=25|deaths=23|time=45}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=19|deaths=26|time=49}}
+|red4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=23|deaths=21|time=105}}
+|red5={{Scoreboard/Player|name=Peatie|link=Peatie|kills=23|deaths=27|time=112}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Lightning Pandas|team1score=6|team2score=0
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=7:51
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=3|deaths=3|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=8|deaths=3|plants=1|defuses=1}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=2|deaths=4|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=10|deaths=0|plants=2|defuses=0}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=7|deaths=2|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=4|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=1|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=3|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=3|deaths=6|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Peatie|link=Peatie|kills=1|deaths=6|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Lightning Pandas|team1score=3|team2score=1
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=12:56
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=31|deaths=19|caps=2}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=19|deaths=17|caps=3}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=22|deaths=19|caps=2}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=17|deaths=12|caps=3}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=22|deaths=15|caps=1}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=11|deaths=21|caps=1}}
+|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=21|deaths=23|caps=0}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=20|deaths=26|caps=0}}
+|red4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=12|deaths=22|caps=1}}
+|red5={{Scoreboard/Player|name=Peatie|link=Peatie|kills=18|deaths=20|caps=1}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Lightning Pandas|team1score=250|team2score=47
+|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=6:49
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=13|deaths=13|time=61}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=14|deaths=7|time=156}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=25|deaths=13|time=23}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=16|deaths=12|time=84}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=18|deaths=7|time=58}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=13|deaths=10|time=21}}
+|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=8|deaths=19|time=17}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=6|deaths=21|time=16}}
+|red4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=11|deaths=14|time=7}}
+|red5={{Scoreboard/Player|name=Peatie|link=Peatie|kills=14|deaths=22|time=4}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Fact Revolution|Team Envy|title=Black Ops 4|date=2019-01-19|time=1245|timezone=PST|dst=No}}
+{{Scoreboard|team1=Fact Revolution|team2=Team Envy|team1score=129|team2score=250
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:32
+|blue1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=16|deaths=21|time=37}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=21|deaths=23|time=37}}
+|blue3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=16|deaths=23|time=38}}
+|blue4={{Scoreboard/Player|name=Maple|link=Maple|kills=18|deaths=22|time=56}}
+|blue5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=14|deaths=21|time=18}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=16|deaths=19|time=96}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=22|deaths=19|time=88}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=22|deaths=14|time=83}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=33|deaths=13|time=75}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=17|deaths=21|time=17}}
+}}
+{{Scoreboard|team1=Fact Revolution|team2=Team Envy|team1score=3|team2score=6
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=12:9
+|blue1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=3|deaths=7|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=4|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=2|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Maple|link=Maple|kills=10|deaths=7|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=7|deaths=8|plants=2|defuses=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=1|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=7|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=5|deaths=5|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=21|deaths=3|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=4|deaths=6|plants=3|defuses=0}}
+}}
+{{Scoreboard|team1=Fact Revolution|team2=Team Envy|team1score=1|team2score=3
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=11:48
+|blue1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=17|deaths=19|caps=1}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=21|deaths=21|caps=1}}
+|blue3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=18|deaths=23|caps=1}}
+|blue4={{Scoreboard/Player|name=Maple|link=Maple|kills=12|deaths=24|caps=1}}
+|blue5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=19|deaths=23|caps=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=17|deaths=20|caps=1}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=15|deaths=17|caps=1}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=24|deaths=15|caps=2}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=28|deaths=18|caps=1}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=26|deaths=17|caps=2}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|G2 Esports|Team Heretics|title=Black Ops 4|date=2019-01-19|time=1415|timezone=PST|dst=No}}
+{{Scoreboard|team1=G2 Esports|team2=Team Heretics|team1score=250|team2score=197
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:35
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=24|deaths=13|time=101}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=10|deaths=20|time=107}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=22|deaths=19|time=72}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=24|deaths=17|time=65}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=25|deaths=15|time=59}}
+|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=18|deaths=20|time=45}}
+|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=22|deaths=23|time=42}}
+|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=12|deaths=16|time=87}}
+|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=15|deaths=26|time=27}}
+|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=17|deaths=20|time=63}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Team Heretics|team1score=5|team2score=6
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=12:20
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=7|deaths=8|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=3|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=7|deaths=9|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=10|deaths=6|plants=2|defuses=2}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=4|deaths=9|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=8|deaths=7|plants=3|defuses=0}}
+|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=7|deaths=5|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=5|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=10|deaths=8|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=9|deaths=5|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Team Heretics|team1score=3|team2score=0
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=11:4
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=24|deaths=14|caps=3}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=16|deaths=19|caps=1}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=20|deaths=16|caps=3}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=21|deaths=14|caps=2}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=8|deaths=16|caps=3}}
+|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=14|deaths=19|caps=0}}
+|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=18|deaths=15|caps=0}}
+|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=14|deaths=20|caps=0}}
+|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=16|deaths=19|caps=1}}
+|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=17|deaths=16|caps=1}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Team Heretics|team1score=145|team2score=250
+|gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=8:57
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=22|deaths=22|time=68}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=16|deaths=25|time=34}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=25|deaths=19|time=103}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=13|deaths=20|time=52}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=13|deaths=23|time=53}}
+|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=22|deaths=19|time=41}}
+|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=24|deaths=16|time=76}}
+|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=21|deaths=15|time=141}}
+|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=17|deaths=19|time=52}}
+|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=25|deaths=20|time=58}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Team Heretics|team1score=3|team2score=6
+|gamename=Game 5|map=Arsenal|gamemode=Search and Destroy|maptime=15:35
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=6|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=2|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=3|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=10|deaths=6|plants=3|defuses=0}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=12|deaths=5|plants=1|defuses=1}}
+|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=7|deaths=6|plants=4|defuses=0}}
+|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=9|deaths=5|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=2|deaths=9|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=7|deaths=6|plants=0|defuses=1}}
+|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=6|deaths=7|plants=0|defuses=1}}
+}}
+{{Box|end}}

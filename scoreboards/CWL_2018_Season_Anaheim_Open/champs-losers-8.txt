@@ -1,0 +1,47 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Luminosity Gaming|Red Reserve|title=World War II|date=2018-06-17|time=1700|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Red Reserve|team1score=205|team2score=250
+|gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=9:56
+|blue1={{Scoreboard/Player|name=FormaL|link=FormaL|kills=21|deaths=24|time=107}}
+|blue2={{Scoreboard/Player|name=JKap|link=JKap|kills=20|deaths=21|time=53}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=28|deaths=25|time=16}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=29|deaths=26|time=58}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=26|deaths=27|time=41}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=16|deaths=27|time=64}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=22|deaths=23|time=91}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=32|deaths=21|time=118}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Red Reserve|team1score=6|team2score=5
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=10:18
+|blue1={{Scoreboard/Player|name=FormaL|link=FormaL|kills=15|deaths=5|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=JKap|link=JKap|kills=2|deaths=10|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=7|deaths=5|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=7|deaths=9|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=6|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=12|deaths=7|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=3|deaths=7|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=8|deaths=9|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Red Reserve|team1score=1|team2score=3
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=9:59
+|blue1={{Scoreboard/Player|name=FormaL|link=FormaL|kills=14|deaths=16|caps=0|returns=0}}
+|blue2={{Scoreboard/Player|name=JKap|link=JKap|kills=10|deaths=23|caps=0|returns=1}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=19|deaths=17|caps=1|returns=0}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=23|deaths=17|caps=0|returns=2}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=15|deaths=18|caps=0|returns=3}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=14|deaths=14|caps=0|returns=1}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=24|deaths=18|caps=2|returns=1}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=20|deaths=16|caps=1|returns=0}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Red Reserve|team1score=157|team2score=250
+|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=10:19
+|blue1={{Scoreboard/Player|name=FormaL|link=FormaL|kills=30|deaths=31|time=62}}
+|blue2={{Scoreboard/Player|name=JKap|link=JKap|kills=26|deaths=24|time=54}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=32|deaths=28|time=30}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=21|deaths=33|time=15}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=32|deaths=30|time=27}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=33|deaths=22|time=116}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=25|deaths=28|time=56}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=26|deaths=29|time=55}}
+}}
+{{Box|end}}

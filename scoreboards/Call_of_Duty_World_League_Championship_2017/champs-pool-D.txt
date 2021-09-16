@@ -1,0 +1,260 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Luminosity Gaming|Supremacy|title=Infinite Warfare|date=2017-08-09|time=0804|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Supremacy|team1score=250|team2score=118
+|gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=7:42
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=22|deaths=12|time=64}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=16|deaths=12|time=122}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=18|deaths=16|time=87}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=19|deaths=15|time=86}}
+|red1={{Scoreboard/Player|name=Eazy|link=Eazy|kills=15|deaths=19|time=25}}
+|red2={{Scoreboard/Player|name=Malls|link=Malls|kills=11|deaths=20|time=24}}
+|red3={{Scoreboard/Player|name=Vortex (Brandon Gomes)|link=Vortex (Brandon Gomes)|kills=19|deaths=19|time=37}}
+|red4={{Scoreboard/Player|name=TonyJs|link=TonyJs|kills=10|deaths=17|time=50}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Supremacy|team1score=6|team2score=5
+|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=12:58
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=5|deaths=10|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=10|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=14|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=5|deaths=9|plants=2|defuses=0}}
+|red1={{Scoreboard/Player|name=Eazy|link=Eazy|kills=14|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Malls|link=Malls|kills=7|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Vortex (Brandon Gomes)|link=Vortex (Brandon Gomes)|kills=9|deaths=10|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=TonyJs|link=TonyJs|kills=4|deaths=10|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Supremacy|team1score=15|team2score=4
+|gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=10:26
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=29|deaths=21|carries=1|throws=0|score=2}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=23|deaths=22|carries=3|throws=0|score=6}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=26|deaths=23|carries=1|throws=0|score=2}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=33|deaths=20|carries=1|throws=3|score=5}}
+|red1={{Scoreboard/Player|name=Eazy|link=Eazy|kills=26|deaths=29|carries=0|throws=0|score=0}}
+|red2={{Scoreboard/Player|name=Malls|link=Malls|kills=22|deaths=23|carries=1|throws=0|score=2}}
+|red3={{Scoreboard/Player|name=Vortex (Brandon Gomes)|link=Vortex (Brandon Gomes)|kills=18|deaths=33|carries=1|throws=0|score=2}}
+|red4={{Scoreboard/Player|name=TonyJs|link=TonyJs|kills=20|deaths=26|carries=0|throws=0|score=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Rise Nation|Team Vitality|title=Infinite Warfare|date=2017-08-09|time=0836|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Rise Nation|team2=Team Vitality|team1score=250|team2score=200
+|gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=10:29
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=31|deaths=23|time=70}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=27|deaths=19|time=61}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=28|deaths=20|time=118}}
+|blue4={{Scoreboard/Player|name=Loony|link=Loony|kills=20|deaths=16|time=71}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=20|deaths=30|time=18}}
+|red2={{Scoreboard/Player|name=ShAnE|link=ShAnE|kills=17|deaths=29|time=14}}
+|red3={{Scoreboard/Player|name=Wailers|link=Wailers|kills=21|deaths=25|time=95}}
+|red4={{Scoreboard/Player|name=Weeman|link=Weeman|kills=20|deaths=22|time=141}}
+}}
+{{Scoreboard|team1=Rise Nation|team2=Team Vitality|team1score=2|team2score=6
+|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=11:26
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=11|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=1|deaths=7|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=3|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Loony|link=Loony|kills=2|deaths=7|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=5|deaths=2|plants=1|defuses=1}}
+|red2={{Scoreboard/Player|name=ShAnE|link=ShAnE|kills=13|deaths=4|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Wailers|link=Wailers|kills=5|deaths=5|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Weeman|link=Weeman|kills=3|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Rise Nation|team2=Team Vitality|team1score=11|team2score=11
+|gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=15:58
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=43|deaths=33|carries=0|throws=0|score=0}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=34|deaths=32|carries=2|throws=3|score=7}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=40|deaths=38|carries=1|throws=0|score=2}}
+|blue4={{Scoreboard/Player|name=Loony|link=Loony|kills=28|deaths=33|carries=0|throws=2|score=2}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=34|deaths=38|carries=1|throws=2|score=4}}
+|red2={{Scoreboard/Player|name=ShAnE|link=ShAnE|kills=26|deaths=36|carries=2|throws=0|score=4}}
+|red3={{Scoreboard/Player|name=Wailers|link=Wailers|kills=42|deaths=31|carries=0|throws=0|score=0}}
+|red4={{Scoreboard/Player|name=Weeman|link=Weeman|kills=34|deaths=40|carries=1|throws=1|score=3}}
+}}
+{{Scoreboard|team1=Rise Nation|team2=Team Vitality|team1score=250|team2score=151
+|gamename=Game 4|map=Retaliation|gamemode=Hardpoint|maptime=9:0
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=30|deaths=18|time=102}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=16|deaths=16|time=54}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=23|deaths=19|time=56}}
+|blue4={{Scoreboard/Player|name=Loony|link=Loony|kills=20|deaths=16|time=45}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=17|deaths=20|time=51}}
+|red2={{Scoreboard/Player|name=ShAnE|link=ShAnE|kills=11|deaths=23|time=26}}
+|red3={{Scoreboard/Player|name=Wailers|link=Wailers|kills=24|deaths=22|time=52}}
+|red4={{Scoreboard/Player|name=Weeman|link=Weeman|kills=17|deaths=24|time=46}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Luminosity Gaming|Rise Nation|title=Infinite Warfare|date=2017-08-09|time=1304|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Rise Nation|team1score=241|team2score=250
+|gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=11:6
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=24|deaths=24|time=21}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=24|deaths=19|time=113}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=24|deaths=20|time=95}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=13|deaths=24|time=88}}
+|red1={{Scoreboard/Player|name=AquA|link=AquA|kills=22|deaths=19|time=90}}
+|red2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=17|deaths=22|time=88}}
+|red3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=25|deaths=26|time=76}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=23|deaths=19|time=47}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Rise Nation|team1score=2|team2score=6
+|gamename=Game 2|map=Crusher|gamemode=Search and Destroy|maptime=8:36
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=5|deaths=7|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=7|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=2|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=2|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=AquA|link=AquA|kills=7|deaths=3|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=4|deaths=5|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=6|deaths=4|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=11|deaths=4|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Rise Nation|team1score=9|team2score=22
+|gamename=Game 3|map=Precinct|gamemode=Uplink|maptime=10:16
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=19|deaths=29|carries=2|throws=0|score=4}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=29|deaths=21|carries=1|throws=0|score=2}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=23|deaths=28|carries=1|throws=0|score=2}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=17|deaths=28|carries=0|throws=1|score=1}}
+|red1={{Scoreboard/Player|name=AquA|link=AquA|kills=32|deaths=22|carries=0|throws=0|score=0}}
+|red2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=18|deaths=21|carries=3|throws=1|score=7}}
+|red3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=32|deaths=23|carries=4|throws=1|score=9}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=24|deaths=22|carries=2|throws=2|score=6}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Supremacy|Team Vitality|title=Infinite Warfare|date=2017-08-09|time=1358|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Supremacy|team2=Team Vitality|team1score=250|team2score=130
+|gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=8:54
+|blue1={{Scoreboard/Player|name=Eazy|link=Eazy|kills=16|deaths=18|time=46}}
+|blue2={{Scoreboard/Player|name=Malls|link=Malls|kills=26|deaths=12|time=107}}
+|blue3={{Scoreboard/Player|name=Vortex (Brandon Gomes)|link=Vortex (Brandon Gomes)|kills=27|deaths=15|time=98}}
+|blue4={{Scoreboard/Player|name=TonyJs|link=TonyJs|kills=14|deaths=15|time=90}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=13|deaths=22|time=21}}
+|red2={{Scoreboard/Player|name=ShAnE|link=ShAnE|kills=14|deaths=20|time=46}}
+|red3={{Scoreboard/Player|name=Wailers|link=Wailers|kills=19|deaths=21|time=43}}
+|red4={{Scoreboard/Player|name=Weeman|link=Weeman|kills=14|deaths=21|time=60}}
+}}
+{{Scoreboard|team1=Supremacy|team2=Team Vitality|team1score=1|team2score=6
+|gamename=Game 2|map=Crusher|gamemode=Search and Destroy|maptime=9:31
+|blue1={{Scoreboard/Player|name=Eazy|link=Eazy|kills=7|deaths=6|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=Malls|link=Malls|kills=3|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Vortex (Brandon Gomes)|link=Vortex (Brandon Gomes)|kills=0|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=TonyJs|link=TonyJs|kills=7|deaths=4|plants=2|defuses=0}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=4|deaths=5|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=ShAnE|link=ShAnE|kills=6|deaths=3|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Wailers|link=Wailers|kills=6|deaths=4|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Weeman|link=Weeman|kills=7|deaths=5|plants=3|defuses=2}}
+}}
+{{Scoreboard|team1=Supremacy|team2=Team Vitality|team1score=6|team2score=5
+|gamename=Game 3|map=Precinct|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=Eazy|link=Eazy|kills=20|deaths=24|carries=0|throws=1|score=1}}
+|blue2={{Scoreboard/Player|name=Malls|link=Malls|kills=25|deaths=21|carries=0|throws=1|score=1}}
+|blue3={{Scoreboard/Player|name=Vortex (Brandon Gomes)|link=Vortex (Brandon Gomes)|kills=32|deaths=24|carries=0|throws=0|score=0}}
+|blue4={{Scoreboard/Player|name=TonyJs|link=TonyJs|kills=23|deaths=22|carries=2|throws=0|score=4}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=17|deaths=27|carries=0|throws=0|score=0}}
+|red2={{Scoreboard/Player|name=ShAnE|link=ShAnE|kills=24|deaths=25|carries=2|throws=1|score=5}}
+|red3={{Scoreboard/Player|name=Wailers|link=Wailers|kills=22|deaths=25|carries=0|throws=0|score=0}}
+|red4={{Scoreboard/Player|name=Weeman|link=Weeman|kills=28|deaths=23|carries=0|throws=0|score=0}}
+}}
+{{Scoreboard|team1=Supremacy|team2=Team Vitality|team1score=138|team2score=250
+|gamename=Game 4|map=Throwback|gamemode=Hardpoint|maptime=10:6
+|blue1={{Scoreboard/Player|name=Eazy|link=Eazy|kills=23|deaths=29|time=16}}
+|blue2={{Scoreboard/Player|name=Malls|link=Malls|kills=29|deaths=24|time=3}}
+|blue3={{Scoreboard/Player|name=Vortex (Brandon Gomes)|link=Vortex (Brandon Gomes)|kills=15|deaths=29|time=94}}
+|blue4={{Scoreboard/Player|name=TonyJs|link=TonyJs|kills=20|deaths=24|time=44}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=23|deaths=22|time=28}}
+|red2={{Scoreboard/Player|name=ShAnE|link=ShAnE|kills=29|deaths=23|time=36}}
+|red3={{Scoreboard/Player|name=Wailers|link=Wailers|kills=25|deaths=22|time=65}}
+|red4={{Scoreboard/Player|name=Weeman|link=Weeman|kills=29|deaths=20|time=161}}
+}}
+{{Scoreboard|team1=Supremacy|team2=Team Vitality|team1score=6|team2score=4
+|gamename=Game 5|map=Retaliation|gamemode=Search and Destroy|maptime=12:52
+|blue1={{Scoreboard/Player|name=Eazy|link=Eazy|kills=9|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Malls|link=Malls|kills=9|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Vortex (Brandon Gomes)|link=Vortex (Brandon Gomes)|kills=3|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=TonyJs|link=TonyJs|kills=9|deaths=7|plants=3|defuses=1}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=8|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=ShAnE|link=ShAnE|kills=4|deaths=9|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Wailers|link=Wailers|kills=6|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Weeman|link=Weeman|kills=9|deaths=5|plants=2|defuses=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Luminosity Gaming|Team Vitality|title=Infinite Warfare|date=2017-08-10|time=1042|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Team Vitality|team1score=250|team2score=217
+|gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=10:37
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=21|deaths=21|time=22}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=28|deaths=19|time=46}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=22|deaths=18|time=119}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=22|deaths=19|time=105}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=26|deaths=24|time=49}}
+|red2={{Scoreboard/Player|name=ShAnE|link=ShAnE|kills=19|deaths=22|time=55}}
+|red3={{Scoreboard/Player|name=Wailers|link=Wailers|kills=9|deaths=21|time=96}}
+|red4={{Scoreboard/Player|name=Weeman|link=Weeman|kills=23|deaths=26|time=45}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Team Vitality|team1score=4|team2score=6
+|gamename=Game 2|map=Throwback|gamemode=Search and Destroy|maptime=13:40
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=4|deaths=9|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=4|deaths=8|plants=1|defuses=1}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=5|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=14|deaths=6|plants=3|defuses=0}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=6|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=ShAnE|link=ShAnE|kills=7|deaths=8|plants=0|defuses=2}}
+|red3={{Scoreboard/Player|name=Wailers|link=Wailers|kills=9|deaths=5|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Weeman|link=Weeman|kills=9|deaths=7|plants=2|defuses=1}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Team Vitality|team1score=15|team2score=1
+|gamename=Game 3|map=Frost|gamemode=Uplink|maptime=10:26
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=29|deaths=20|carries=2|throws=2|score=6}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=23|deaths=22|carries=1|throws=2|score=4}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=30|deaths=22|carries=0|throws=0|score=0}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=26|deaths=23|carries=2|throws=1|score=5}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=20|deaths=26|carries=0|throws=0|score=0}}
+|red2={{Scoreboard/Player|name=ShAnE|link=ShAnE|kills=23|deaths=29|carries=0|throws=0|score=0}}
+|red3={{Scoreboard/Player|name=Wailers|link=Wailers|kills=24|deaths=27|carries=0|throws=0|score=0}}
+|red4={{Scoreboard/Player|name=Weeman|link=Weeman|kills=20|deaths=26|carries=0|throws=1|score=1}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Team Vitality|team1score=250|team2score=232
+|gamename=Game 4|map=Breakout|gamemode=Hardpoint|maptime=10:54
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=25|deaths=20|time=72}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=29|deaths=18|time=82}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=20|deaths=24|time=94}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=18|deaths=21|time=90}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=13|deaths=23|time=62}}
+|red2={{Scoreboard/Player|name=ShAnE|link=ShAnE|kills=29|deaths=25|time=34}}
+|red3={{Scoreboard/Player|name=Wailers|link=Wailers|kills=25|deaths=20|time=106}}
+|red4={{Scoreboard/Player|name=Weeman|link=Weeman|kills=16|deaths=25|time=103}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Rise Nation|Supremacy|title=Infinite Warfare|date=2017-08-10|time=1109|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Rise Nation|team2=Supremacy|team1score=250|team2score=159
+|gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=8:55
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=33|deaths=15|time=93}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=13|deaths=14|time=137}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=23|deaths=20|time=24}}
+|blue4={{Scoreboard/Player|name=Loony|link=Loony|kills=17|deaths=19|time=21}}
+|red1={{Scoreboard/Player|name=Eazy|link=Eazy|kills=17|deaths=24|time=47}}
+|red2={{Scoreboard/Player|name=Malls|link=Malls|kills=19|deaths=21|time=17}}
+|red3={{Scoreboard/Player|name=Vortex (Brandon Gomes)|link=Vortex (Brandon Gomes)|kills=18|deaths=22|time=95}}
+|red4={{Scoreboard/Player|name=TonyJs|link=TonyJs|kills=14|deaths=19|time=6}}
+}}
+{{Scoreboard|team1=Rise Nation|team2=Supremacy|team1score=6|team2score=5
+|gamename=Game 2|map=Throwback|gamemode=Search and Destroy|maptime=13:47
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=10|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=5|deaths=7|plants=1|defuses=2}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=7|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Loony|link=Loony|kills=8|deaths=9|plants=2|defuses=0}}
+|red1={{Scoreboard/Player|name=Eazy|link=Eazy|kills=4|deaths=8|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Malls|link=Malls|kills=7|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Vortex (Brandon Gomes)|link=Vortex (Brandon Gomes)|kills=8|deaths=8|plants=2|defuses=0}}
+|red4={{Scoreboard/Player|name=TonyJs|link=TonyJs|kills=11|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Rise Nation|team2=Supremacy|team1score=11|team2score=6
+|gamename=Game 3|map=Frost|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=27|deaths=23|carries=1|throws=1|score=3}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=25|deaths=23|carries=2|throws=1|score=5}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=29|deaths=26|carries=1|throws=0|score=2}}
+|blue4={{Scoreboard/Player|name=Loony|link=Loony|kills=32|deaths=24|carries=0|throws=1|score=1}}
+|red1={{Scoreboard/Player|name=Eazy|link=Eazy|kills=18|deaths=31|carries=1|throws=0|score=2}}
+|red2={{Scoreboard/Player|name=Malls|link=Malls|kills=27|deaths=27|carries=0|throws=1|score=1}}
+|red3={{Scoreboard/Player|name=Vortex (Brandon Gomes)|link=Vortex (Brandon Gomes)|kills=27|deaths=29|carries=0|throws=1|score=1}}
+|red4={{Scoreboard/Player|name=TonyJs|link=TonyJs|kills=24|deaths=26|carries=0|throws=2|score=2}}
+}}
+{{Box|end}}

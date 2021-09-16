@@ -1,0 +1,199 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Rise Nation|Team Allegiance|title=Infinite Warfare|date=2017-08-12|time=0952|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Rise Nation|team2=Team Allegiance|team1score=140|team2score=250
+|gamename=Game 1|map=Throwback|gamemode=Hardpoint|maptime=10:2
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=24|deaths=23|time=50}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=21|deaths=26|time=33}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=20|deaths=29|time=7}}
+|blue4={{Scoreboard/Player|name=Loony|link=Loony|kills=17|deaths=24|time=62}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=29|deaths=18|time=75}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=18|deaths=22|time=92}}
+|red3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=27|deaths=25|time=17}}
+|red4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=28|deaths=17|time=105}}
+}}
+{{Scoreboard|team1=Rise Nation|team2=Team Allegiance|team1score=6|team2score=0
+|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=9:38
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=6|deaths=2|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=5|deaths=0|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=9|deaths=1|plants=2|defuses=1}}
+|blue4={{Scoreboard/Player|name=Loony|link=Loony|kills=3|deaths=5|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=3|deaths=6|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=2|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=3|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=0|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Rise Nation|team2=Team Allegiance|team1score=10|team2score=5
+|gamename=Game 3|map=Frost|gamemode=Uplink|maptime=10:26
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=29|deaths=17|carries=1|throws=0|score=2}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=23|deaths=22|carries=3|throws=0|score=6}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=30|deaths=25|carries=1|throws=0|score=2}}
+|blue4={{Scoreboard/Player|name=Loony|link=Loony|kills=23|deaths=20|carries=0|throws=0|score=0}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=18|deaths=26|carries=0|throws=1|score=1}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=21|deaths=28|carries=1|throws=0|score=2}}
+|red3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=20|deaths=24|carries=1|throws=0|score=2}}
+|red4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=25|deaths=27|carries=0|throws=0|score=0}}
+}}
+{{Scoreboard|team1=Rise Nation|team2=Team Allegiance|team1score=250|team2score=167
+|gamename=Game 4|map=Retaliation|gamemode=Hardpoint|maptime=8:52
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=25|deaths=14|time=70}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=15|deaths=11|time=142}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=17|deaths=21|time=30}}
+|blue4={{Scoreboard/Player|name=Loony|link=Loony|kills=15|deaths=14|time=61}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=15|deaths=18|time=30}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=13|deaths=16|time=105}}
+|red3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=17|deaths=19|time=39}}
+|red4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=15|deaths=19|time=9}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Enigma6 Group|Ghost Gaming|title=Infinite Warfare|date=2017-08-12|time=1005|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Enigma6 Group|team2=Ghost Gaming|team1score=160|team2score=250
+|gamename=Game 1|map=Throwback|gamemode=Hardpoint|maptime=10:36
+|blue1={{Scoreboard/Player|name=General|link=General|kills=26|deaths=27|time=27}}
+|blue2={{Scoreboard/Player|name=Kade|link=Kade|kills=16|deaths=28|time=11}}
+|blue3={{Scoreboard/Player|name=Proto|link=Proto|kills=24|deaths=27|time=65}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=25|deaths=23|time=62}}
+|red1={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=19|deaths=20|time=69}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=33|deaths=22|time=42}}
+|red3={{Scoreboard/Player|name=Maux|link=Maux|kills=31|deaths=24|time=112}}
+|red4={{Scoreboard/Player|name=Spacely|link=Spacely|kills=22|deaths=25|time=54}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Ghost Gaming|team1score=6|team2score=4
+|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=11:58
+|blue1={{Scoreboard/Player|name=General|link=General|kills=3|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Kade|link=Kade|kills=13|deaths=8|plants=3|defuses=0}}
+|blue3={{Scoreboard/Player|name=Proto|link=Proto|kills=8|deaths=6|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=3|deaths=5|plants=0|defuses=1}}
+|red1={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=5|deaths=6|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=6|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Maux|link=Maux|kills=6|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Spacely|link=Spacely|kills=8|deaths=6|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Ghost Gaming|team1score=4|team2score=10
+|gamename=Game 3|map=Frost|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=General|link=General|kills=33|deaths=24|carries=0|throws=0|score=0}}
+|blue2={{Scoreboard/Player|name=Kade|link=Kade|kills=25|deaths=26|carries=0|throws=1|score=1}}
+|blue3={{Scoreboard/Player|name=Proto|link=Proto|kills=17|deaths=30|carries=0|throws=1|score=1}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=24|deaths=27|carries=1|throws=0|score=2}}
+|red1={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=15|deaths=29|carries=0|throws=0|score=0}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=32|deaths=24|carries=0|throws=0|score=0}}
+|red3={{Scoreboard/Player|name=Maux|link=Maux|kills=21|deaths=23|carries=3|throws=1|score=7}}
+|red4={{Scoreboard/Player|name=Spacely|link=Spacely|kills=38|deaths=24|carries=1|throws=1|score=3}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Ghost Gaming|team1score=198|team2score=250
+|gamename=Game 4|map=Retaliation|gamemode=Hardpoint|maptime=10:52
+|blue1={{Scoreboard/Player|name=General|link=General|kills=30|deaths=22|time=28}}
+|blue2={{Scoreboard/Player|name=Kade|link=Kade|kills=19|deaths=23|time=85}}
+|blue3={{Scoreboard/Player|name=Proto|link=Proto|kills=20|deaths=22|time=70}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=16|deaths=22|time=54}}
+|red1={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=20|deaths=19|time=117}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=26|deaths=21|time=99}}
+|red3={{Scoreboard/Player|name=Maux|link=Maux|kills=21|deaths=20|time=54}}
+|red4={{Scoreboard/Player|name=Spacely|link=Spacely|kills=22|deaths=25|time=34}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Luminosity Gaming|Team infused|title=Infinite Warfare|date=2017-08-12|time=1058|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Team infused|team1score=250|team2score=198
+|gamename=Game 1|map=Throwback|gamemode=Hardpoint|maptime=11:7
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=29|deaths=24|time=30}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=26|deaths=22|time=46}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=30|deaths=24|time=88}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=22|deaths=23|time=115}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=19|deaths=25|time=65}}
+|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=23|deaths=26|time=100}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=20|deaths=25|time=23}}
+|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=31|deaths=31|time=39}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Team infused|team1score=3|team2score=6
+|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=11:46
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=3|deaths=8|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=11|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=4|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=4|deaths=5|plants=1|defuses=1}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=2|deaths=5|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=5|deaths=7|plants=2|defuses=0}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=12|deaths=5|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=7|deaths=5|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Team infused|team1score=7|team2score=2
+|gamename=Game 3|map=Frost|gamemode=Uplink|maptime=10:26
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=29|deaths=22|carries=0|throws=1|score=1}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=28|deaths=20|carries=0|throws=0|score=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=29|deaths=22|carries=0|throws=2|score=2}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=14|deaths=22|carries=2|throws=0|score=4}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=27|deaths=25|carries=0|throws=1|score=1}}
+|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=20|deaths=29|carries=0|throws=0|score=0}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=14|deaths=21|carries=0|throws=1|score=1}}
+|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=24|deaths=25|carries=0|throws=0|score=0}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Team infused|team1score=250|team2score=92
+|gamename=Game 4|map=Retaliation|gamemode=Hardpoint|maptime=8:22
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=24|deaths=18|time=19}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=23|deaths=13|time=99}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=16|deaths=14|time=75}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=17|deaths=12|time=103}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=12|deaths=21|time=17}}
+|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=17|deaths=21|time=17}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=17|deaths=17|time=32}}
+|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=11|deaths=21|time=37}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Epsilon Esports EU|Splyce|title=Infinite Warfare|date=2017-08-12|time=1135|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=Splyce|team1score=168|team2score=250
+|gamename=Game 1|map=Throwback|gamemode=Hardpoint|maptime=10:9
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=23|deaths=24|time=93}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=22|deaths=23|time=24}}
+|blue3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=28|deaths=26|time=26}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=18|deaths=25|time=39}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=29|deaths=26|time=83}}
+|red2={{Scoreboard/Player|name=Jurd|link=Jurd|kills=17|deaths=21|time=104}}
+|red3={{Scoreboard/Player|name=MadCat|link=MadCat|kills=30|deaths=23|time=70}}
+|red4={{Scoreboard/Player|name=Zero|link=Zer0|kills=22|deaths=21|time=40}}
+}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=Splyce|team1score=6|team2score=3
+|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=13:10
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=11|deaths=6|plants=1|defuses=1}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=6|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=9|deaths=7|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=5|deaths=7|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=5|deaths=8|plants=2|defuses=0}}
+|red2={{Scoreboard/Player|name=Jurd|link=Jurd|kills=8|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=MadCat|link=MadCat|kills=11|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Zero|link=Zer0|kills=3|deaths=8|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=Splyce|team1score=4|team2score=6
+|gamename=Game 3|map=Frost|gamemode=Uplink|maptime=12:33
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=21|deaths=27|carries=1|throws=0|score=2}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=24|deaths=27|carries=0|throws=1|score=1}}
+|blue3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=21|deaths=26|carries=0|throws=0|score=0}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=30|deaths=27|carries=0|throws=1|score=1}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=27|deaths=28|carries=1|throws=0|score=2}}
+|red2={{Scoreboard/Player|name=Jurd|link=Jurd|kills=18|deaths=24|carries=1|throws=0|score=2}}
+|red3={{Scoreboard/Player|name=MadCat|link=MadCat|kills=22|deaths=24|carries=0|throws=0|score=0}}
+|red4={{Scoreboard/Player|name=Zero|link=Zer0|kills=39|deaths=21|carries=0|throws=2|score=2}}
+}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=Splyce|team1score=250|team2score=149
+|gamename=Game 4|map=Retaliation|gamemode=Hardpoint|maptime=8:53
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=20|deaths=12|time=123}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=13|deaths=14|time=70}}
+|blue3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=23|deaths=24|time=18}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=26|deaths=17|time=77}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=16|deaths=21|time=35}}
+|red2={{Scoreboard/Player|name=Jurd|link=Jurd|kills=17|deaths=23|time=27}}
+|red3={{Scoreboard/Player|name=MadCat|link=MadCat|kills=21|deaths=18|time=76}}
+|red4={{Scoreboard/Player|name=Zero|link=Zer0|kills=13|deaths=20|time=48}}
+}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=Splyce|team1score=5|team2score=6
+|gamename=Game 5|map=Throwback|gamemode=Search and Destroy|maptime=14:7
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=8|deaths=7|plants=0|defuses=2}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=4|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=5|deaths=9|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=12|deaths=6|plants=5|defuses=0}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=6|deaths=10|plants=3|defuses=1}}
+|red2={{Scoreboard/Player|name=Jurd|link=Jurd|kills=12|deaths=6|plants=0|defuses=2}}
+|red3={{Scoreboard/Player|name=MadCat|link=MadCat|kills=8|deaths=6|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Zero|link=Zer0|kills=4|deaths=7|plants=0|defuses=0}}
+}}
+{{Box|end}}

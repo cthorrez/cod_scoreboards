@@ -1,0 +1,94 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Echo Fox|Red Reserve|title=World War II|date=2018-07-28|time=1007|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Echo Fox|team2=Red Reserve|team1score=195|team2score=250
+|gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=12:19
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=31|deaths=25|time=93}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=34|deaths=31|time=55}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=28|deaths=38|time=22}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=29|deaths=32|time=47}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=24|deaths=31|time=109}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=27|deaths=28|time=53}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=36|deaths=31|time=83}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=39|deaths=32|time=52}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Red Reserve|team1score=5|team2score=6
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=15:30
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=5|deaths=9|plants=0|defuses=2}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=6|deaths=10|plants=2|defuses=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=10|deaths=5|plants=2|defuses=1}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=9|deaths=10|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=9|deaths=7|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=10|deaths=7|plants=1|defuses=1}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=7|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=8|deaths=9|plants=3|defuses=1}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Red Reserve|team1score=3|team2score=2
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=16:8
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=26|deaths=25|caps=1|returns=1}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=18|deaths=26|caps=1|returns=2}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=22|deaths=30|caps=0|returns=3}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=38|deaths=24|caps=0|returns=2}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=18|deaths=32|caps=2|returns=4}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=29|deaths=20|caps=0|returns=0}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=30|deaths=27|caps=0|returns=2}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=28|deaths=25|caps=0|returns=1}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Red Reserve|team1score=250|team2score=197
+|gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=12:14
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=41|deaths=24|time=89}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=28|deaths=27|time=65}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=30|deaths=31|time=90}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=37|deaths=26|time=46}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=26|deaths=35|time=63}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=24|deaths=28|time=89}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=26|deaths=40|time=54}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=32|deaths=33|time=41}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Red Reserve|team1score=4|team2score=6
+|gamename=Game 5|map=Ardennes Forest|gamemode=Search and Destroy|maptime=10:40
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=4|deaths=8|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=4|deaths=9|plants=3|defuses=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=11|deaths=6|plants=2|defuses=0}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=8|deaths=9|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=3|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=16|deaths=6|plants=2|defuses=2}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=10|deaths=7|plants=2|defuses=0}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=3|deaths=7|plants=0|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|OpTic Gaming|UNILAD Esports|title=World War II|date=2018-07-28|time=1205|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=OpTic Gaming|team2=UNILAD Esports|team1score=191|team2score=250
+|gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=9:47
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=22|deaths=31|time=43}}
+|blue2={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=25|deaths=27|time=76}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=26|deaths=26|time=63}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=20|deaths=28|time=66}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=35|deaths=25|time=26}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=23|deaths=26|time=107}}
+|red3={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=23|deaths=20|time=71}}
+|red4={{Scoreboard/Player|name=Zed|link=Zed|kills=31|deaths=22|time=68}}
+}}
+{{Scoreboard|team1=OpTic Gaming|team2=UNILAD Esports|team1score=4|team2score=6
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=9:47
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=4|deaths=9|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=6|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=7|deaths=8|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=7|deaths=7|plants=3|defuses=0}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=10|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=4|deaths=7|plants=2|defuses=0}}
+|red3={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=6|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Zed|link=Zed|kills=11|deaths=5|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=OpTic Gaming|team2=UNILAD Esports|team1score=1|team2score=2
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=9:59
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=16|deaths=22|caps=0|returns=1}}
+|blue2={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=18|deaths=20|caps=0|returns=2}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=18|deaths=20|caps=0|returns=0}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=13|deaths=20|caps=1|returns=1}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=24|deaths=14|caps=0|returns=4}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=18|deaths=19|caps=1|returns=0}}
+|red3={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=26|deaths=14|caps=0|returns=0}}
+|red4={{Scoreboard/Player|name=Zed|link=Zed|kills=14|deaths=18|caps=1|returns=0}}
+}}
+{{Box|end}}

@@ -1,0 +1,97 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|100 Thieves|Team Reciprocity|title=Black Ops 4|date=2019-08-18|time=1001|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=100 Thieves|team2=Team Reciprocity|team1score=250|team2score=145
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=9:0
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=21|deaths=19|time=71}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=27|deaths=20|time=17}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=22|deaths=11|time=132}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=23|deaths=17|time=62}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=16|deaths=17|time=48}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=20|deaths=23|time=38}}
+|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=18|deaths=19|time=31}}
+|red3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=19|deaths=22|time=50}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=12|deaths=25|time=15}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=14|deaths=20|time=73}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Team Reciprocity|team1score=6|team2score=3
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=11:10
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=5|deaths=4|plants=3|defuses=0}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=7|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=9|deaths=2|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=9|deaths=6|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=3|deaths=5|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=4|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=3|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=4|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=3|deaths=7|plants=1|defuses=0}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=7|deaths=6|plants=0|defuses=1}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Team Reciprocity|team1score=1|team2score=3
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=15:20
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=14|deaths=27|caps=1}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=21|deaths=22|caps=2}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=21|deaths=18|caps=2}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=19|deaths=26|caps=2}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=22|deaths=17|caps=2}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=27|deaths=17|caps=3}}
+|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=13|deaths=18|caps=3}}
+|red3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=34|deaths=21|caps=3}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=17|deaths=18|caps=1}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=19|deaths=23|caps=2}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Team Reciprocity|team1score=250|team2score=103
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=7:43
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=10|deaths=17|time=58}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=15|deaths=13|time=36}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=16|deaths=6|time=116}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=16|deaths=13|time=41}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=23|deaths=9|time=140}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=12|deaths=17|time=24}}
+|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=12|deaths=12|time=73}}
+|red3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=16|deaths=21|time=10}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=7|deaths=14|time=15}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=11|deaths=16|time=23}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Enigma6 Group|Units|title=Black Ops 4|date=2019-08-18|time=1003|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Enigma6 Group|team2=Units|team1score=250|team2score=186
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:42
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=23|deaths=21|time=67}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=20|deaths=20|time=152}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=23|deaths=26|time=51}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=36|deaths=25|time=41}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=28|deaths=21|time=57}}
+|red1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=25|deaths=26|time=55}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=21|deaths=27|time=52}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=21|deaths=27|time=60}}
+|red4={{Scoreboard/Player|name=Rated|link=Rated|kills=26|deaths=24|time=20}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=20|deaths=26|time=48}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Units|team1score=6|team2score=4
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=15:7
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=8|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=6|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=11|deaths=4|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=4|deaths=6|plants=3|defuses=2}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=2|deaths=10|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=7|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=7|deaths=5|plants=2|defuses=0}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=4|deaths=8|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Rated|link=Rated|kills=11|deaths=5|plants=1|defuses=1}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=3|deaths=7|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Units|team1score=3|team2score=0
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=10:33
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=14|deaths=12|caps=2}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=22|deaths=12|caps=2}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=15|deaths=13|caps=2}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=19|deaths=14|caps=2}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=18|deaths=14|caps=1}}
+|red1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=7|deaths=14|caps=0}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=13|deaths=21|caps=2}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=12|deaths=20|caps=1}}
+|red4={{Scoreboard/Player|name=Rated|link=Rated|kills=20|deaths=19|caps=2}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=13|deaths=14|caps=1}}
+}}
+{{Box|end}}

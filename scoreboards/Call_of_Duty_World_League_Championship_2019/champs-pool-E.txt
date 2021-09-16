@@ -1,0 +1,304 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|UYU|Vanity|title=Black Ops 4|date=2019-08-14|time=1241|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=UYU|team2=Vanity|team1score=250|team2score=216
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:55
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=24|deaths=15|time=151}}
+|blue2={{Scoreboard/Player|name=Classic|link=Classic|kills=14|deaths=23|time=50}}
+|blue3={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=22|deaths=19|time=55}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=22|deaths=15|time=47}}
+|blue5={{Scoreboard/Player|name=Saints|link=Saints|kills=23|deaths=20|time=86}}
+|red1={{Scoreboard/Player|name=Deelo|link=Deelo|kills=23|deaths=22|time=52}}
+|red2={{Scoreboard/Player|name=Landxnn|link=Landxnn|kills=16|deaths=17|time=132}}
+|red3={{Scoreboard/Player|name=Owakening|link=Owakening|kills=16|deaths=27|time=52}}
+|red4={{Scoreboard/Player|name=Reaper|link=Reaper|kills=18|deaths=18|time=17}}
+|red5={{Scoreboard/Player|name=Willett|link=Willett|kills=19|deaths=21|time=26}}
+}}
+{{Scoreboard|team1=UYU|team2=Vanity|team1score=6|team2score=0
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=5:43
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=9|deaths=2|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Classic|link=Classic|kills=6|deaths=3|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=5|deaths=1|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=7|deaths=0|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Saints|link=Saints|kills=3|deaths=4|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Deelo|link=Deelo|kills=0|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Landxnn|link=Landxnn|kills=2|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Owakening|link=Owakening|kills=3|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Reaper|link=Reaper|kills=3|deaths=6|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Willett|link=Willett|kills=2|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=UYU|team2=Vanity|team1score=3|team2score=0
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=9:31
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=21|deaths=12|caps=2}}
+|blue2={{Scoreboard/Player|name=Classic|link=Classic|kills=13|deaths=17|caps=1}}
+|blue3={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=12|deaths=9|caps=3}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=18|deaths=7|caps=3}}
+|blue5={{Scoreboard/Player|name=Saints|link=Saints|kills=25|deaths=11|caps=3}}
+|red1={{Scoreboard/Player|name=Deelo|link=Deelo|kills=12|deaths=18|caps=1}}
+|red2={{Scoreboard/Player|name=Landxnn|link=Landxnn|kills=4|deaths=15|caps=0}}
+|red3={{Scoreboard/Player|name=Owakening|link=Owakening|kills=11|deaths=18|caps=1}}
+|red4={{Scoreboard/Player|name=Reaper|link=Reaper|kills=14|deaths=18|caps=1}}
+|red5={{Scoreboard/Player|name=Willett|link=Willett|kills=15|deaths=20|caps=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Luminosity Gaming|Team Singularity|title=Black Ops 4|date=2019-08-14|time=1329|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Team Singularity|team1score=157|team2score=250
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:42
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=18|deaths=19|time=46}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=18|deaths=17|time=56}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=20|deaths=21|time=13}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=14|deaths=20|time=48}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=12|deaths=19|time=39}}
+|red1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=22|deaths=17|time=123}}
+|red2={{Scoreboard/Player|name=CleanX|link=CleanX|kills=23|deaths=18|time=44}}
+|red3={{Scoreboard/Player|name=Detain|link=Detain|kills=22|deaths=16|time=57}}
+|red4={{Scoreboard/Player|name=Insight|link=Insight|kills=12|deaths=16|time=85}}
+|red5={{Scoreboard/Player|name=Keza|link=Keza|kills=17|deaths=15|time=117}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Team Singularity|team1score=4|team2score=6
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=13:5
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=6|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=8|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=6|deaths=8|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=6|deaths=7|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=6|deaths=8|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=8|deaths=7|plants=2|defuses=0}}
+|red2={{Scoreboard/Player|name=CleanX|link=CleanX|kills=8|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Detain|link=Detain|kills=8|deaths=7|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Insight|link=Insight|kills=6|deaths=6|plants=0|defuses=1}}
+|red5={{Scoreboard/Player|name=Keza|link=Keza|kills=6|deaths=7|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Team Singularity|team1score=1|team2score=3
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=10:46
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=14|deaths=12|caps=3}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=22|deaths=20|caps=2}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=16|deaths=14|caps=3}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=12|deaths=15|caps=3}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=11|deaths=19|caps=2}}
+|red1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=13|deaths=17|caps=2}}
+|red2={{Scoreboard/Player|name=CleanX|link=CleanX|kills=17|deaths=17|caps=0}}
+|red3={{Scoreboard/Player|name=Detain|link=Detain|kills=14|deaths=16|caps=2}}
+|red4={{Scoreboard/Player|name=Insight|link=Insight|kills=16|deaths=11|caps=2}}
+|red5={{Scoreboard/Player|name=Keza|link=Keza|kills=19|deaths=14|caps=3}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Team Singularity|Vanity|title=Black Ops 4|date=2019-08-15|time=1003|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Team Singularity|team2=Vanity|team1score=250|team2score=175
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:45
+|blue1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=16|deaths=25|time=58}}
+|blue2={{Scoreboard/Player|name=CleanX|link=CleanX|kills=36|deaths=21|time=60}}
+|blue3={{Scoreboard/Player|name=Detain|link=Detain|kills=16|deaths=21|time=93}}
+|blue4={{Scoreboard/Player|name=Insight|link=Insight|kills=20|deaths=13|time=99}}
+|blue5={{Scoreboard/Player|name=Keza|link=Keza|kills=21|deaths=19|time=64}}
+|red1={{Scoreboard/Player|name=Deelo|link=Deelo|kills=21|deaths=26|time=62}}
+|red2={{Scoreboard/Player|name=Landxnn|link=Landxnn|kills=17|deaths=20|time=59}}
+|red3={{Scoreboard/Player|name=Owakening|link=Owakening|kills=20|deaths=23|time=63}}
+|red4={{Scoreboard/Player|name=Reaper|link=Reaper|kills=14|deaths=18|time=58}}
+|red5={{Scoreboard/Player|name=Willett|link=Willett|kills=27|deaths=22|time=64}}
+}}
+{{Scoreboard|team1=Team Singularity|team2=Vanity|team1score=6|team2score=2
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=12:6
+|blue1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=5|deaths=5|plants=2|defuses=1}}
+|blue2={{Scoreboard/Player|name=CleanX|link=CleanX|kills=9|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Detain|link=Detain|kills=9|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Insight|link=Insight|kills=8|deaths=3|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Keza|link=Keza|kills=5|deaths=4|plants=0|defuses=1}}
+|red1={{Scoreboard/Player|name=Deelo|link=Deelo|kills=3|deaths=7|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Landxnn|link=Landxnn|kills=3|deaths=7|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Owakening|link=Owakening|kills=6|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Reaper|link=Reaper|kills=4|deaths=8|plants=1|defuses=0}}
+|red5={{Scoreboard/Player|name=Willett|link=Willett|kills=7|deaths=7|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=Team Singularity|team2=Vanity|team1score=3|team2score=0
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=7:0
+|blue1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=13|deaths=12|caps=4}}
+|blue2={{Scoreboard/Player|name=CleanX|link=CleanX|kills=11|deaths=11|caps=3}}
+|blue3={{Scoreboard/Player|name=Detain|link=Detain|kills=12|deaths=10|caps=3}}
+|blue4={{Scoreboard/Player|name=Insight|link=Insight|kills=14|deaths=6|caps=2}}
+|blue5={{Scoreboard/Player|name=Keza|link=Keza|kills=14|deaths=5|caps=3}}
+|red1={{Scoreboard/Player|name=Deelo|link=Deelo|kills=9|deaths=12|caps=1}}
+|red2={{Scoreboard/Player|name=Landxnn|link=Landxnn|kills=5|deaths=12|caps=0}}
+|red3={{Scoreboard/Player|name=Owakening|link=Owakening|kills=9|deaths=12|caps=1}}
+|red4={{Scoreboard/Player|name=Reaper|link=Reaper|kills=12|deaths=13|caps=0}}
+|red5={{Scoreboard/Player|name=Willett|link=Willett|kills=9|deaths=15|caps=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Luminosity Gaming|UYU|title=Black Ops 4|date=2019-08-15|time=1009|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Luminosity Gaming|team2=UYU|team1score=250|team2score=121
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=8:14
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=18|deaths=13|time=96}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=18|deaths=18|time=51}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=16|deaths=14|time=46}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=19|deaths=9|time=103}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=17|deaths=15|time=85}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=11|deaths=18|time=13}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=17|deaths=21|time=13}}
+|red3={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=11|deaths=16|time=48}}
+|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=12|deaths=17|time=31}}
+|red5={{Scoreboard/Player|name=Saints|link=Saints|kills=18|deaths=16|time=43}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=UYU|team1score=6|team2score=1
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=8:29
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=9|deaths=5|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=10|deaths=3|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=6|deaths=4|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=4|deaths=3|plants=1|defuses=1}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=4|deaths=5|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=3|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=8|deaths=7|plants=3|defuses=0}}
+|red3={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=1|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=2|deaths=6|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Saints|link=Saints|kills=6|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=UYU|team1score=1|team2score=3
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=13:29
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=22|deaths=21|caps=2}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=10|deaths=22|caps=1}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=23|deaths=25|caps=1}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=16|deaths=21|caps=2}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=22|deaths=23|caps=0}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=22|deaths=21|caps=3}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=22|deaths=25|caps=2}}
+|red3={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=23|deaths=13|caps=2}}
+|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=15|deaths=15|caps=2}}
+|red5={{Scoreboard/Player|name=Saints|link=Saints|kills=30|deaths=19|caps=2}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=UYU|team1score=228|team2score=250
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=10:6
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=19|deaths=23|time=51}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=21|deaths=20|time=73}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=12|deaths=19|time=48}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=16|deaths=18|time=95}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=23|deaths=16|time=71}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=24|deaths=16|time=75}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=15|deaths=20|time=123}}
+|red3={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=19|deaths=14|time=75}}
+|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=17|deaths=16|time=51}}
+|red5={{Scoreboard/Player|name=Saints|link=Saints|kills=21|deaths=25|time=44}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=UYU|team1score=6|team2score=5
+|gamename=Game 5|map=Arsenal|gamemode=Search and Destroy|maptime=17:19
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=8|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=10|deaths=9|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=9|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=8|deaths=9|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=2|deaths=7|plants=3|defuses=2}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=10|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=3|deaths=9|plants=3|defuses=0}}
+|red3={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=7|deaths=8|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=7|deaths=7|plants=0|defuses=1}}
+|red5={{Scoreboard/Player|name=Saints|link=Saints|kills=13|deaths=8|plants=1|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Team Singularity|UYU|title=Black Ops 4|date=2019-08-15|time=1549|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Team Singularity|team2=UYU|team1score=250|team2score=182
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:52
+|blue1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=16|deaths=24|time=53}}
+|blue2={{Scoreboard/Player|name=CleanX|link=CleanX|kills=21|deaths=25|time=28}}
+|blue3={{Scoreboard/Player|name=Detain|link=Detain|kills=33|deaths=14|time=129}}
+|blue4={{Scoreboard/Player|name=Insight|link=Insight|kills=20|deaths=13|time=85}}
+|blue5={{Scoreboard/Player|name=Keza|link=Keza|kills=24|deaths=19|time=36}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=22|deaths=22|time=27}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=17|deaths=26|time=60}}
+|red3={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=17|deaths=23|time=53}}
+|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=26|deaths=17|time=53}}
+|red5={{Scoreboard/Player|name=Saints|link=Saints|kills=13|deaths=26|time=42}}
+}}
+{{Scoreboard|team1=Team Singularity|team2=UYU|team1score=6|team2score=2
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=10:16
+|blue1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=4|deaths=4|plants=3|defuses=0}}
+|blue2={{Scoreboard/Player|name=CleanX|link=CleanX|kills=5|deaths=4|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Detain|link=Detain|kills=12|deaths=6|plants=1|defuses=1}}
+|blue4={{Scoreboard/Player|name=Insight|link=Insight|kills=3|deaths=3|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Keza|link=Keza|kills=8|deaths=3|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=6|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=4|deaths=7|plants=2|defuses=0}}
+|red3={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=4|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=2|deaths=7|plants=0|defuses=1}}
+|red5={{Scoreboard/Player|name=Saints|link=Saints|kills=4|deaths=5|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Team Singularity|team2=UYU|team1score=1|team2score=3
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=14:6
+|blue1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=17|deaths=21|caps=0}}
+|blue2={{Scoreboard/Player|name=CleanX|link=CleanX|kills=21|deaths=19|caps=1}}
+|blue3={{Scoreboard/Player|name=Detain|link=Detain|kills=19|deaths=19|caps=1}}
+|blue4={{Scoreboard/Player|name=Insight|link=Insight|kills=15|deaths=18|caps=2}}
+|blue5={{Scoreboard/Player|name=Keza|link=Keza|kills=17|deaths=20|caps=2}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=15|deaths=20|caps=2}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=16|deaths=22|caps=3}}
+|red3={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=16|deaths=12|caps=3}}
+|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=17|deaths=15|caps=3}}
+|red5={{Scoreboard/Player|name=Saints|link=Saints|kills=31|deaths=20|caps=2}}
+}}
+{{Scoreboard|team1=Team Singularity|team2=UYU|team1score=119|team2score=250
+|gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=9:3
+|blue1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=18|deaths=22|time=18}}
+|blue2={{Scoreboard/Player|name=CleanX|link=CleanX|kills=11|deaths=22|time=27}}
+|blue3={{Scoreboard/Player|name=Detain|link=Detain|kills=12|deaths=23|time=42}}
+|blue4={{Scoreboard/Player|name=Insight|link=Insight|kills=14|deaths=25|time=33}}
+|blue5={{Scoreboard/Player|name=Keza|link=Keza|kills=13|deaths=24|time=31}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=20|deaths=18|time=45}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=23|deaths=15|time=87}}
+|red3={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=16|deaths=12|time=91}}
+|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=18|deaths=10|time=49}}
+|red5={{Scoreboard/Player|name=Saints|link=Saints|kills=39|deaths=13|time=74}}
+}}
+{{Scoreboard|team1=Team Singularity|team2=UYU|team1score=6|team2score=3
+|gamename=Game 5|map=Arsenal|gamemode=Search and Destroy|maptime=14:1
+|blue1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=2|deaths=8|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=CleanX|link=CleanX|kills=7|deaths=6|plants=1|defuses=1}}
+|blue3={{Scoreboard/Player|name=Detain|link=Detain|kills=7|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Insight|link=Insight|kills=10|deaths=5|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Keza|link=Keza|kills=6|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=9|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=4|deaths=9|plants=2|defuses=0}}
+|red3={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=6|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=5|deaths=6|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Saints|link=Saints|kills=8|deaths=5|plants=1|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Luminosity Gaming|Vanity|title=Black Ops 4|date=2019-08-15|time=1556|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Vanity|team1score=250|team2score=81
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=7:24
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=24|deaths=12|time=133}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=19|deaths=21|time=53}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=16|deaths=13|time=52}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=16|deaths=12|time=85}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=28|deaths=16|time=52}}
+|red1={{Scoreboard/Player|name=Deelo|link=Deelo|kills=16|deaths=24|time=19}}
+|red2={{Scoreboard/Player|name=Landxnn|link=Landxnn|kills=12|deaths=21|time=17}}
+|red3={{Scoreboard/Player|name=Owakening|link=Owakening|kills=20|deaths=19|time=46}}
+|red4={{Scoreboard/Player|name=Reaper|link=Reaper|kills=13|deaths=20|time=12}}
+|red5={{Scoreboard/Player|name=Willett|link=Willett|kills=13|deaths=21|time=14}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Vanity|team1score=6|team2score=1
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=7:46
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=3|deaths=4|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=8|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=9|deaths=5|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=7|deaths=2|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=6|deaths=3|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Deelo|link=Deelo|kills=9|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Landxnn|link=Landxnn|kills=3|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Owakening|link=Owakening|kills=4|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Reaper|link=Reaper|kills=2|deaths=6|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Willett|link=Willett|kills=1|deaths=7|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Vanity|team1score=3|team2score=0
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=6:29
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=10|deaths=9|caps=4}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=15|deaths=11|caps=2}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=20|deaths=8|caps=4}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=12|deaths=8|caps=4}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=13|deaths=10|caps=4}}
+|red1={{Scoreboard/Player|name=Deelo|link=Deelo|kills=10|deaths=15|caps=0}}
+|red2={{Scoreboard/Player|name=Landxnn|link=Landxnn|kills=7|deaths=13|caps=0}}
+|red3={{Scoreboard/Player|name=Owakening|link=Owakening|kills=14|deaths=14|caps=0}}
+|red4={{Scoreboard/Player|name=Reaper|link=Reaper|kills=6|deaths=13|caps=0}}
+|red5={{Scoreboard/Player|name=Willett|link=Willett|kills=9|deaths=16|caps=0}}
+}}
+{{Box|end}}

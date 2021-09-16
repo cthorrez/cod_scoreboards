@@ -1,0 +1,123 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Enigma6 Group|Gen.G|title=Black Ops 4|date=2019-06-15|time=1902|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Enigma6 Group|team2=Gen.G|team1score=250|team2score=189
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=9:36
+|blue1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=13|deaths=22|time=36}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=21|deaths=12|time=52}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=30|deaths=15|time=78}}
+|blue4={{Scoreboard/Player|name=JetLi|link=JetLi|kills=15|deaths=19|time=67}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=23|deaths=17|time=105}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=13|deaths=22|time=87}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=23|deaths=24|time=9}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=19|deaths=16|time=39}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=10|deaths=18|time=55}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=20|deaths=22|time=43}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Gen.G|team1score=4|team2score=6
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=12:23
+|blue1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=3|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=5|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=16|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=JetLi|link=JetLi|kills=1|deaths=8|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=8|deaths=8|plants=3|defuses=0}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=10|deaths=7|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=8|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=6|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=5|deaths=6|plants=0|defuses=1}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=8|deaths=7|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Gen.G|team1score=3|team2score=1
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=14:21
+|blue1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=22|deaths=18|caps=2}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=19|deaths=17|caps=3}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=23|deaths=16|caps=3}}
+|blue4={{Scoreboard/Player|name=JetLi|link=JetLi|kills=23|deaths=21|caps=1}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=27|deaths=20|caps=3}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=19|deaths=25|caps=1}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=18|deaths=21|caps=1}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=19|deaths=23|caps=2}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=23|deaths=21|caps=1}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=13|deaths=24|caps=2}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Gen.G|team1score=212|team2score=250
+|gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=11:4
+|blue1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=23|deaths=26|time=76}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=20|deaths=23|time=68}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=35|deaths=25|time=55}}
+|blue4={{Scoreboard/Player|name=JetLi|link=JetLi|kills=18|deaths=25|time=60}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=24|deaths=28|time=65}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=31|deaths=25|time=75}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=31|deaths=30|time=56}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=20|deaths=17|time=71}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=23|deaths=25|time=72}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=21|deaths=23|time=124}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Gen.G|team1score=1|team2score=6
+|gamename=Game 5|map=Gridlock|gamemode=Search and Destroy|maptime=10:19
+|blue1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=4|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=7|deaths=6|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=3|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=JetLi|link=JetLi|kills=0|deaths=6|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=3|deaths=6|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=4|deaths=5|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=5|deaths=4|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=8|deaths=4|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=6|deaths=3|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=8|deaths=1|plants=1|defuses=2}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|100 Thieves|OpTic Gaming|title=Black Ops 4|date=2019-06-15|time=2044|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=100 Thieves|team2=OpTic Gaming|team1score=218|team2score=250
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=10:46
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=22|deaths=25|time=59}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=20|deaths=35|time=57}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=41|deaths=27|time=94}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=19|deaths=34|time=57}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=20|deaths=29|time=80}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=21|deaths=24|time=32}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=49|deaths=21|time=69}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=24|deaths=28|time=61}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=28|deaths=24|time=54}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=27|deaths=25|time=125}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=OpTic Gaming|team1score=6|team2score=3
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=10:40
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=4|deaths=6|plants=3|defuses=0}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=14|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=8|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=6|deaths=5|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=4|deaths=3|plants=1|defuses=1}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=6|deaths=7|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=8|deaths=7|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=4|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=4|deaths=7|plants=2|defuses=0}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=5|deaths=8|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=OpTic Gaming|team1score=3|team2score=2
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=17:3
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=25|deaths=21|caps=2}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=30|deaths=25|caps=3}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=26|deaths=17|caps=3}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=28|deaths=24|caps=1}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=21|deaths=21|caps=1}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=15|deaths=22|caps=3}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=20|deaths=27|caps=2}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=23|deaths=25|caps=2}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=23|deaths=27|caps=3}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=27|deaths=29|caps=3}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=OpTic Gaming|team1score=250|team2score=207
+|gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=11:17
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=24|deaths=29|time=61}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=19|deaths=26|time=74}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=24|deaths=32|time=79}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=30|deaths=26|time=53}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=35|deaths=24|time=81}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=22|deaths=25|time=22}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=32|deaths=23|time=52}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=26|deaths=27|time=60}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=26|deaths=31|time=36}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=31|deaths=26|time=101}}
+}}
+{{Box|end}}

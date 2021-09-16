@@ -1,0 +1,220 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|100 Thieves|Sicario Gaming|title=Black Ops 4|date=2019-08-17|time=1324|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=100 Thieves|team2=Sicario Gaming|team1score=250|team2score=186
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=11:12
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=24|deaths=21|time=85}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=30|deaths=22|time=40}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=25|deaths=23|time=77}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=31|deaths=25|time=104}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=28|deaths=27|time=65}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=31|deaths=26|time=54}}
+|red2={{Scoreboard/Player|name=Exceed|link=Exceed|kills=26|deaths=26|time=62}}
+|red3={{Scoreboard/Player|name=Linney|link=Linney|kills=17|deaths=26|time=71}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=27|deaths=29|time=25}}
+|red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=17|deaths=31|time=39}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Sicario Gaming|team1score=5|team2score=6
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=16:43
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=8|deaths=8|plants=4|defuses=0}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=7|deaths=8|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=9|deaths=7|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=10|deaths=7|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=5|deaths=9|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=10|deaths=5|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=Exceed|link=Exceed|kills=7|deaths=8|plants=1|defuses=1}}
+|red3={{Scoreboard/Player|name=Linney|link=Linney|kills=7|deaths=9|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=9|deaths=8|plants=3|defuses=0}}
+|red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=6|deaths=9|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Sicario Gaming|team1score=3|team2score=0
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=8:50
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=13|deaths=15|caps=1}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=19|deaths=9|caps=1}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=10|deaths=6|caps=1}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=20|deaths=14|caps=1}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=15|deaths=8|caps=1}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=10|deaths=14|caps=0}}
+|red2={{Scoreboard/Player|name=Exceed|link=Exceed|kills=11|deaths=14|caps=0}}
+|red3={{Scoreboard/Player|name=Linney|link=Linney|kills=8|deaths=15|caps=0}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=12|deaths=16|caps=0}}
+|red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=11|deaths=18|caps=0}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Sicario Gaming|team1score=250|team2score=59
+|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=7:14
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=20|deaths=13|time=40}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=23|deaths=12|time=40}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=20|deaths=13|time=76}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=14|deaths=13|time=86}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=12|deaths=11|time=94}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=10|deaths=19|time=4}}
+|red2={{Scoreboard/Player|name=Exceed|link=Exceed|kills=15|deaths=18|time=34}}
+|red3={{Scoreboard/Player|name=Linney|link=Linney|kills=10|deaths=18|time=17}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=8|deaths=19|time=3}}
+|red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=19|deaths=15|time=26}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Elevate|Evil Geniuses|title=Black Ops 4|date=2019-08-17|time=1332|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Elevate|team2=Evil Geniuses|team1score=227|team2score=250
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:52
+|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=23|deaths=21|time=44}}
+|blue2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=25|deaths=21|time=74}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=14|deaths=18|time=62}}
+|blue4={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=23|deaths=19|time=127}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=24|deaths=16|time=51}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=19|deaths=17|time=110}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=15|deaths=23|time=52}}
+|red3={{Scoreboard/Player|name=Attach|link=Attach|kills=15|deaths=23|time=59}}
+|red4={{Scoreboard/Player|name=JKap|link=JKap|kills=21|deaths=25|time=37}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=25|deaths=21|time=82}}
+}}
+{{Scoreboard|team1=Elevate|team2=Evil Geniuses|team1score=2|team2score=6
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=9:24
+|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=3|deaths=6|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=4|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=3|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=4|deaths=7|plants=2|defuses=0}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=4|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=7|deaths=4|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=7|deaths=4|plants=1|defuses=1}}
+|red3={{Scoreboard/Player|name=Attach|link=Attach|kills=9|deaths=4|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=JKap|link=JKap|kills=4|deaths=3|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=6|deaths=3|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=Elevate|team2=Evil Geniuses|team1score=0|team2score=3
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=8:53
+|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=8|deaths=7|caps=1}}
+|blue2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=13|deaths=11|caps=0}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=10|deaths=10|caps=0}}
+|blue4={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=8|deaths=14|caps=0}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=8|deaths=9|caps=1}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=10|deaths=8|caps=4}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=10|deaths=13|caps=3}}
+|red3={{Scoreboard/Player|name=Attach|link=Attach|kills=15|deaths=7|caps=3}}
+|red4={{Scoreboard/Player|name=JKap|link=JKap|kills=5|deaths=10|caps=3}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=11|deaths=9|caps=4}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Enigma6 Group|Team WaR|title=Black Ops 4|date=2019-08-17|time=1435|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team WaR|team1score=249|team2score=250
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=12:7
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=22|deaths=27|time=11}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=21|deaths=23|time=122}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=29|deaths=25|time=59}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=29|deaths=33|time=31}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=29|deaths=25|time=106}}
+|red1={{Scoreboard/Player|name=Defrag|link=Defrag|kills=25|deaths=25|time=68}}
+|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=24|deaths=23|time=82}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=26|deaths=27|time=51}}
+|red4={{Scoreboard/Player|name=Peatie|link=Peatie|kills=20|deaths=29|time=62}}
+|red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=38|deaths=26|time=112}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team WaR|team1score=4|team2score=6
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=15:57
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=6|deaths=7|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=4|deaths=7|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=13|deaths=6|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=6|deaths=7|plants=2|defuses=0}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=8|deaths=4|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Defrag|link=Defrag|kills=3|deaths=8|plants=3|defuses=0}}
+|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=8|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=9|deaths=6|plants=1|defuses=3}}
+|red4={{Scoreboard/Player|name=Peatie|link=Peatie|kills=2|deaths=8|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=9|deaths=8|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team WaR|team1score=3|team2score=1
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=11:28
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=17|deaths=17|caps=2}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=14|deaths=14|caps=3}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=18|deaths=11|caps=3}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=18|deaths=16|caps=3}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=11|deaths=17|caps=3}}
+|red1={{Scoreboard/Player|name=Defrag|link=Defrag|kills=9|deaths=16|caps=2}}
+|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=16|deaths=14|caps=2}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=18|deaths=20|caps=2}}
+|red4={{Scoreboard/Player|name=Peatie|link=Peatie|kills=11|deaths=15|caps=2}}
+|red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=21|deaths=14|caps=2}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team WaR|team1score=250|team2score=185
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=9:56
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=20|deaths=20|time=46}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=17|deaths=16|time=62}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=25|deaths=17|time=96}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=18|deaths=20|time=126}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=23|deaths=15|time=31}}
+|red1={{Scoreboard/Player|name=Defrag|link=Defrag|kills=13|deaths=22|time=38}}
+|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=24|deaths=15|time=91}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=17|deaths=22|time=36}}
+|red4={{Scoreboard/Player|name=Peatie|link=Peatie|kills=14|deaths=22|time=57}}
+|red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=20|deaths=22|time=50}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team WaR|team1score=6|team2score=3
+|gamename=Game 5|map=Payload|gamemode=Search and Destroy|maptime=12:15
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=4|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=8|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=6|deaths=5|plants=1|defuses=1}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=6|deaths=5|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=10|deaths=3|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Defrag|link=Defrag|kills=7|deaths=7|plants=3|defuses=0}}
+|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=6|deaths=6|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=1|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Peatie|link=Peatie|kills=4|deaths=8|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=5|deaths=8|plants=0|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Luminosity Gaming|Team Singularity|title=Black Ops 4|date=2019-08-17|time=1441|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Team Singularity|team1score=214|team2score=250
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:40
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=14|deaths=24|time=17}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=24|deaths=18|time=66}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=15|deaths=21|time=55}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=25|deaths=20|time=99}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=25|deaths=26|time=46}}
+|red1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=25|deaths=22|time=65}}
+|red2={{Scoreboard/Player|name=CleanX|link=CleanX|kills=25|deaths=24|time=57}}
+|red3={{Scoreboard/Player|name=Detain|link=Detain|kills=25|deaths=21|time=64}}
+|red4={{Scoreboard/Player|name=Insight|link=Insight|kills=24|deaths=15|time=103}}
+|red5={{Scoreboard/Player|name=Keza|link=Keza|kills=10|deaths=22|time=92}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Team Singularity|team1score=6|team2score=5
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=15:42
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=6|deaths=8|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=1|deaths=7|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=12|deaths=9|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=12|deaths=5|plants=0|defuses=1}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=13|deaths=6|plants=3|defuses=1}}
+|red1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=9|deaths=8|plants=4|defuses=0}}
+|red2={{Scoreboard/Player|name=CleanX|link=CleanX|kills=6|deaths=10|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Detain|link=Detain|kills=9|deaths=9|plants=2|defuses=1}}
+|red4={{Scoreboard/Player|name=Insight|link=Insight|kills=6|deaths=8|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Keza|link=Keza|kills=5|deaths=9|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Team Singularity|team1score=3|team2score=0
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=10:20
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=19|deaths=11|caps=2}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=22|deaths=10|caps=2}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=12|deaths=15|caps=2}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=14|deaths=11|caps=2}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=17|deaths=15|caps=2}}
+|red1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=10|deaths=20|caps=0}}
+|red2={{Scoreboard/Player|name=CleanX|link=CleanX|kills=17|deaths=18|caps=2}}
+|red3={{Scoreboard/Player|name=Detain|link=Detain|kills=13|deaths=15|caps=2}}
+|red4={{Scoreboard/Player|name=Insight|link=Insight|kills=12|deaths=14|caps=2}}
+|red5={{Scoreboard/Player|name=Keza|link=Keza|kills=10|deaths=17|caps=2}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Team Singularity|team1score=250|team2score=170
+|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=9:36
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=19|deaths=11|time=96}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=21|deaths=18|time=61}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=24|deaths=17|time=19}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=19|deaths=14|time=69}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=14|deaths=16|time=86}}
+|red1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=16|deaths=21|time=12}}
+|red2={{Scoreboard/Player|name=CleanX|link=CleanX|kills=17|deaths=19|time=69}}
+|red3={{Scoreboard/Player|name=Detain|link=Detain|kills=14|deaths=19|time=72}}
+|red4={{Scoreboard/Player|name=Insight|link=Insight|kills=16|deaths=22|time=43}}
+|red5={{Scoreboard/Player|name=Keza|link=Keza|kills=13|deaths=16|time=37}}
+}}
+{{Box|end}}

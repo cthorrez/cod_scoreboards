@@ -1,0 +1,72 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Epsilon Esports EU|EZG.Blue|title=World War II|date=2018-04-19|time=1438|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=EZG.Blue|team1score=250|team2score=206
+|gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=11:5
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=32|deaths=25|time=57}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=24|deaths=24|time=3}}
+|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=30|deaths=27|time=101}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=27|deaths=23|time=115}}
+|red1={{Scoreboard/Player|name=Evasion|link=Evasion|kills=23|deaths=28|time=23}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=21|deaths=26|time=61}}
+|red3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=27|deaths=32|time=64}}
+|red4={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=28|deaths=27|time=72}}
+}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=EZG.Blue|team1score=6|team2score=4
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=10:49
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=5|deaths=8|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=15|deaths=4|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=6|deaths=6|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=4|deaths=5|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Evasion|link=Evasion|kills=5|deaths=8|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=7|deaths=6|plants=2|defuses=0}}
+|red3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=5|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=6|deaths=9|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=EZG.Blue|team1score=1|team2score=0
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=11:25
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=27|deaths=19|caps=0|returns=2}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=26|deaths=18|caps=0|returns=0}}
+|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=13|deaths=19|caps=1|returns=1}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=25|deaths=20|caps=0|returns=1}}
+|red1={{Scoreboard/Player|name=Evasion|link=Evasion|kills=16|deaths=26|caps=0|returns=2}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=24|deaths=22|caps=0|returns=0}}
+|red3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=22|deaths=22|caps=0|returns=0}}
+|red4={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=14|deaths=21|caps=0|returns=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|GGEA Orange|Nordic|title=World War II|date=2018-04-19|time=1556|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=GGEA Orange|team2=Nordic|team1score=250|team2score=188
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=10:6
+|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=32|deaths=21|time=34}}
+|blue2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=31|deaths=26|time=29}}
+|blue3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=30|deaths=22|time=156}}
+|blue4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=36|deaths=26|time=46}}
+|red1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=26|deaths=35|time=74}}
+|red2={{Scoreboard/Player|name=Cammy|link=Cammy|kills=26|deaths=35|time=22}}
+|red3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=22|deaths=27|time=88}}
+|red4={{Scoreboard/Player|name=Nevo|link=Nevo|kills=21|deaths=32|time=73}}
+}}
+{{Scoreboard|team1=GGEA Orange|team2=Nordic|team1score=6|team2score=3
+|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=6:52
+|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=6|deaths=5|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=6|deaths=5|plants=2|defuses=0}}
+|blue3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=9|deaths=3|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=9|deaths=4|plants=2|defuses=0}}
+|red1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=5|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Cammy|link=Cammy|kills=3|deaths=9|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=2|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Nevo|link=Nevo|kills=7|deaths=6|plants=0|defuses=1}}
+}}
+{{Scoreboard|team1=GGEA Orange|team2=Nordic|team1score=3|team2score=2
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=14:42
+|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=29|deaths=18|caps=0|returns=2}}
+|blue2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=21|deaths=19|caps=3|returns=1}}
+|blue3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=24|deaths=18|caps=0|returns=1}}
+|blue4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=27|deaths=23|caps=0|returns=0}}
+|red1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=17|deaths=28|caps=0|returns=3}}
+|red2={{Scoreboard/Player|name=Cammy|link=Cammy|kills=24|deaths=24|caps=1|returns=0}}
+|red3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=20|deaths=24|caps=0|returns=1}}
+|red4={{Scoreboard/Player|name=Nevo|link=Nevo|kills=17|deaths=25|caps=1|returns=1}}
+}}
+{{Box|end}}

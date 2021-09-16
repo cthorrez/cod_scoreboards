@@ -1,0 +1,94 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Mindfreak|Tainted Minds|title=World War II|date=2018-04-19|time=1546|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Mindfreak|team2=Tainted Minds|team1score=250|team2score=66
+|gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=8:20
+|blue1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=25|deaths=17|time=66}}
+|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=27|deaths=12|time=149}}
+|blue3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=23|deaths=23|time=40}}
+|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=32|deaths=16|time=42}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=11|deaths=24|time=14}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=20|deaths=27|time=19}}
+|red3={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=17|deaths=27|time=23}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=20|deaths=29|time=22}}
+}}
+{{Scoreboard|team1=Mindfreak|team2=Tainted Minds|team1score=5|team2score=6
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=9:31
+|blue1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=8|deaths=8|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=7|deaths=10|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=7|deaths=6|plants=1|defuses=1}}
+|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=4|deaths=9|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=10|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=11|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=9|deaths=6|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=3|deaths=6|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=Mindfreak|team2=Tainted Minds|team1score=1|team2score=6
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=9:59
+|blue1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=14|deaths=16|caps=0|returns=1}}
+|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=21|deaths=18|caps=0|returns=0}}
+|blue3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=11|deaths=21|caps=1|returns=0}}
+|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=16|deaths=16|caps=0|returns=0}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=14|deaths=13|caps=0|returns=1}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=16|deaths=16|caps=1|returns=1}}
+|red3={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=25|deaths=19|caps=1|returns=0}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=16|deaths=14|caps=4|returns=1}}
+}}
+{{Scoreboard|team1=Mindfreak|team2=Tainted Minds|team1score=250|team2score=184
+|gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=10:35
+|blue1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=31|deaths=21|time=67}}
+|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=34|deaths=24|time=94}}
+|blue3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=30|deaths=31|time=28}}
+|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=28|deaths=24|time=110}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=33|deaths=25|time=57}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=23|deaths=34|time=51}}
+|red3={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=25|deaths=33|time=56}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=19|deaths=31|time=61}}
+}}
+{{Scoreboard|team1=Mindfreak|team2=Tainted Minds|team1score=6|team2score=1
+|gamename=Game 5|map=London Docks|gamemode=Search and Destroy|maptime=8:5
+|blue1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=10|deaths=1|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=6|deaths=4|plants=3|defuses=1}}
+|blue3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=5|deaths=5|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=5|deaths=4|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=2|deaths=7|plants=2|defuses=0}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=4|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=4|deaths=5|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=4|deaths=7|plants=0|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Evil Geniuses|Team Vitality|title=World War II|date=2018-04-19|time=1711|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Evil Geniuses|team2=Team Vitality|team1score=250|team2score=152
+|gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=9:7
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=22|deaths=25|time=59}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=15|deaths=20|time=63}}
+|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=32|deaths=17|time=87}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=20|deaths=14|time=109}}
+|red1={{Scoreboard/Player|name=Malls|link=Malls|kills=12|deaths=26|time=48}}
+|red2={{Scoreboard/Player|name=MarkyB|link=MarkyB|kills=23|deaths=21|time=78}}
+|red3={{Scoreboard/Player|name=Moose|link=Moose|kills=16|deaths=21|time=37}}
+|red4={{Scoreboard/Player|name=Wailers|link=Wailers|kills=25|deaths=21|time=36}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Team Vitality|team1score=6|team2score=3
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=10:5
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=6|deaths=4|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=8|deaths=3|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=9|deaths=4|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=6|deaths=5|plants=3|defuses=0}}
+|red1={{Scoreboard/Player|name=Malls|link=Malls|kills=6|deaths=7|plants=3|defuses=0}}
+|red2={{Scoreboard/Player|name=MarkyB|link=MarkyB|kills=2|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Moose|link=Moose|kills=5|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Wailers|link=Wailers|kills=3|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Team Vitality|team1score=6|team2score=2
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:0
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=15|deaths=16|caps=0|returns=0}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=15|deaths=15|caps=2|returns=1}}
+|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=24|deaths=12|caps=2|returns=2}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=25|deaths=13|caps=2|returns=1}}
+|red1={{Scoreboard/Player|name=Malls|link=Malls|kills=16|deaths=19|caps=0|returns=0}}
+|red2={{Scoreboard/Player|name=MarkyB|link=MarkyB|kills=12|deaths=22|caps=1|returns=0}}
+|red3={{Scoreboard/Player|name=Moose|link=Moose|kills=14|deaths=19|caps=1|returns=0}}
+|red4={{Scoreboard/Player|name=Wailers|link=Wailers|kills=14|deaths=19|caps=0|returns=0}}
+}}
+{{Box|end}}

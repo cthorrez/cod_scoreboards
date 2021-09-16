@@ -1,0 +1,36 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Luminosity Gaming|OpTic Gaming|title=Infinite Warfare|date=2017-08-13|time=1006|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Luminosity Gaming|team2=OpTic Gaming|team1score=107|team2score=250
+|gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=9:41
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=22|deaths=21|time=50}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=13|deaths=25|time=37}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=15|deaths=21|time=32}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=16|deaths=22|time=23}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=16|deaths=17|time=89}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=26|deaths=14|time=124}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=25|deaths=15|time=43}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=21|deaths=20|time=58}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=OpTic Gaming|team1score=3|team2score=6
+|gamename=Game 2|map=Retaliation|gamemode=Search and Destroy|maptime=11:48
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=12|deaths=7|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=8|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=2|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=4|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=7|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=10|deaths=6|plants=2|defuses=0}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=7|deaths=7|plants=2|defuses=0}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=4|deaths=6|plants=0|defuses=1}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=OpTic Gaming|team1score=2|team2score=11
+|gamename=Game 3|map=Precinct|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=20|deaths=26|carries=0|throws=0|score=0}}
+|blue2={{Scoreboard/Player|name=Octane|link=Octane|kills=27|deaths=26|carries=0|throws=0|score=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=19|deaths=27|carries=0|throws=2|score=2}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=15|deaths=27|carries=0|throws=0|score=0}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=25|deaths=21|carries=1|throws=0|score=2}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=36|deaths=19|carries=1|throws=0|score=2}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=20|deaths=18|carries=2|throws=1|score=5}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=25|deaths=23|carries=1|throws=0|score=2}}
+}}
+{{Box|end}}

@@ -1,0 +1,123 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|100 Thieves|Evil Geniuses|title=Black Ops 4|date=2019-07-20|time=1231|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=100 Thieves|team2=Evil Geniuses|team1score=250|team2score=225
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:34
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=16|deaths=22|time=41}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=31|deaths=21|time=29}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=17|deaths=20|time=93}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=28|deaths=21|time=65}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=22|deaths=22|time=73}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=22|deaths=22|time=121}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=28|deaths=26|time=64}}
+|red3={{Scoreboard/Player|name=Attach|link=Attach|kills=25|deaths=22|time=33}}
+|red4={{Scoreboard/Player|name=JKap|link=JKap|kills=19|deaths=17|time=73}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=12|deaths=27|time=49}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Evil Geniuses|team1score=5|team2score=6
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=14:19
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=9|deaths=9|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=7|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=7|deaths=7|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=6|deaths=8|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=11|deaths=9|plants=0|defuses=1}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=4|deaths=9|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=12|deaths=7|plants=3|defuses=0}}
+|red3={{Scoreboard/Player|name=Attach|link=Attach|kills=15|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=JKap|link=JKap|kills=6|deaths=8|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=4|deaths=10|plants=3|defuses=0}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Evil Geniuses|team1score=3|team2score=2
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=17:43
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=15|deaths=23|caps=3}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=27|deaths=28|caps=2}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=23|deaths=26|caps=4}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=28|deaths=25|caps=4}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=37|deaths=22|caps=1}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=24|deaths=24|caps=2}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=35|deaths=31|caps=1}}
+|red3={{Scoreboard/Player|name=Attach|link=Attach|kills=24|deaths=25|caps=1}}
+|red4={{Scoreboard/Player|name=JKap|link=JKap|kills=24|deaths=25|caps=2}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=17|deaths=25|caps=2}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Evil Geniuses|team1score=189|team2score=250
+|gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=11:6
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=19|deaths=30|time=43}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=21|deaths=27|time=57}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=23|deaths=24|time=46}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=30|deaths=22|time=74}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=27|deaths=27|time=36}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=29|deaths=20|time=111}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=32|deaths=27|time=87}}
+|red3={{Scoreboard/Player|name=Attach|link=Attach|kills=25|deaths=23|time=83}}
+|red4={{Scoreboard/Player|name=JKap|link=JKap|kills=20|deaths=22|time=36}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=24|deaths=28|time=67}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Evil Geniuses|team1score=6|team2score=2
+|gamename=Game 5|map=Hacienda|gamemode=Search and Destroy|maptime=9:25
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=5|deaths=6|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=6|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=5|deaths=5|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=6|deaths=4|plants=0|defuses=1}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=8|deaths=4|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=6|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=4|deaths=5|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Attach|link=Attach|kills=5|deaths=5|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=JKap|link=JKap|kills=6|deaths=6|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=3|deaths=7|plants=2|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Team Heretics|Splyce|title=Black Ops 4|date=2019-07-20|time=1246|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Team Heretics|team2=Splyce|team1score=235|team2score=250
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:59
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=16|deaths=21|time=52}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=17|deaths=20|time=85}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=19|deaths=18|time=51}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=23|deaths=18|time=104}}
+|blue5={{Scoreboard/Player|name=Wartex|link=Wartex|kills=23|deaths=28|time=63}}
+|red1={{Scoreboard/Player|name=AquA|link=AquA|kills=22|deaths=19|time=79}}
+|red2={{Scoreboard/Player|name=Huke|link=Huke|kills=21|deaths=21|time=71}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=17|deaths=17|time=54}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=15|deaths=22|time=117}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=30|deaths=19|time=40}}
+}}
+{{Scoreboard|team1=Team Heretics|team2=Splyce|team1score=2|team2score=6
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=12:28
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=5|deaths=5|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=4|deaths=7|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=2|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=6|deaths=7|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Wartex|link=Wartex|kills=1|deaths=8|plants=2|defuses=0}}
+|red1={{Scoreboard/Player|name=AquA|link=AquA|kills=8|deaths=3|plants=3|defuses=2}}
+|red2={{Scoreboard/Player|name=Huke|link=Huke|kills=9|deaths=4|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=3|deaths=3|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=6|deaths=5|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=9|deaths=3|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Team Heretics|team2=Splyce|team1score=3|team2score=1
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=12:37
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=18|deaths=20|caps=4}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=19|deaths=17|caps=3}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=24|deaths=13|caps=3}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=22|deaths=22|caps=2}}
+|blue5={{Scoreboard/Player|name=Wartex|link=Wartex|kills=16|deaths=19|caps=3}}
+|red1={{Scoreboard/Player|name=AquA|link=AquA|kills=16|deaths=18|caps=2}}
+|red2={{Scoreboard/Player|name=Huke|link=Huke|kills=28|deaths=24|caps=2}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=15|deaths=21|caps=2}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=13|deaths=19|caps=2}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=19|deaths=18|caps=2}}
+}}
+{{Scoreboard|team1=Team Heretics|team2=Splyce|team1score=119|team2score=250
+|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=9:15
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=15|deaths=20|time=37}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=22|deaths=21|time=34}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=15|deaths=16|time=33}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=14|deaths=22|time=31}}
+|blue5={{Scoreboard/Player|name=Wartex|link=Wartex|kills=15|deaths=22|time=44}}
+|red1={{Scoreboard/Player|name=AquA|link=AquA|kills=16|deaths=19|time=71}}
+|red2={{Scoreboard/Player|name=Huke|link=Huke|kills=25|deaths=17|time=75}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=17|deaths=11|time=54}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=20|deaths=14|time=87}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=23|deaths=20|time=58}}
+}}
+{{Box|end}}

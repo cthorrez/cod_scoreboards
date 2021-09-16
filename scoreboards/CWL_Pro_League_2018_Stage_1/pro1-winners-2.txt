@@ -1,0 +1,83 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|eUnited|Luminosity Gaming|title=World War II|date=2018-04-07|time=1335|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=eUnited|team2=Luminosity Gaming|team1score=250|team2score=197
+|gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=11:7
+|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=40|deaths=21|time=21}}
+|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=25|deaths=28|time=21}}
+|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=26|deaths=29|time=130}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=33|deaths=26|time=113}}
+|red1={{Scoreboard/Player|name=JKap|link=JKap|kills=27|deaths=32|time=53}}
+|red2={{Scoreboard/Player|name=John|link=John|kills=36|deaths=34|time=27}}
+|red3={{Scoreboard/Player|name=Octane|link=Octane|kills=14|deaths=29|time=54}}
+|red4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=27|deaths=29|time=78}}
+}}
+{{Scoreboard|team1=eUnited|team2=Luminosity Gaming|team1score=4|team2score=6
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=7:49
+|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=3|deaths=8|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=11|deaths=6|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=6|deaths=7|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=6|deaths=9|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=JKap|link=JKap|kills=5|deaths=6|plants=2|defuses=0}}
+|red2={{Scoreboard/Player|name=John|link=John|kills=12|deaths=6|plants=1|defuses=1}}
+|red3={{Scoreboard/Player|name=Octane|link=Octane|kills=8|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=5|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=eUnited|team2=Luminosity Gaming|team1score=2|team2score=3
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:9
+|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=25|deaths=14|caps=1|returns=0}}
+|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=11|deaths=20|caps=0|returns=0}}
+|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=16|deaths=23|caps=0|returns=1}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=13|deaths=18|caps=1|returns=0}}
+|red1={{Scoreboard/Player|name=JKap|link=JKap|kills=20|deaths=14|caps=1|returns=0}}
+|red2={{Scoreboard/Player|name=John|link=John|kills=19|deaths=20|caps=0|returns=2}}
+|red3={{Scoreboard/Player|name=Octane|link=Octane|kills=16|deaths=16|caps=0|returns=0}}
+|red4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=20|deaths=15|caps=2|returns=0}}
+}}
+{{Scoreboard|team1=eUnited|team2=Luminosity Gaming|team1score=151|team2score=250
+|gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=11:34
+|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=31|deaths=27|time=41}}
+|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=28|deaths=34|time=19}}
+|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=31|deaths=41|time=57}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=38|deaths=39|time=59}}
+|red1={{Scoreboard/Player|name=JKap|link=JKap|kills=25|deaths=35|time=66}}
+|red2={{Scoreboard/Player|name=John|link=John|kills=29|deaths=35|time=109}}
+|red3={{Scoreboard/Player|name=Octane|link=Octane|kills=48|deaths=31|time=78}}
+|red4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=39|deaths=27|time=69}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|OpTic Gaming|Team Kaliber|title=World War II|date=2018-04-07|time=1455|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Kaliber|team1score=250|team2score=205
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:34
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=35|deaths=32|time=99}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=28|deaths=34|time=44}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=32|deaths=31|time=92}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=38|deaths=34|time=76}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=24|deaths=29|time=142}}
+|red2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=32|deaths=37|time=44}}
+|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=40|deaths=28|time=31}}
+|red4={{Scoreboard/Player|name=Theory|link=Theory|kills=35|deaths=39|time=5}}
+}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Kaliber|team1score=6|team2score=5
+|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=8:27
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=9|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=7|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=11|deaths=7|plants=2|defuses=1}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=8|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=7|deaths=8|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=11|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=6|deaths=10|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Theory|link=Theory|kills=5|deaths=10|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Kaliber|team1score=5|team2score=1
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=9:59
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=19|deaths=17|caps=1|returns=2}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=25|deaths=14|caps=1|returns=1}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=22|deaths=14|caps=2|returns=0}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=19|deaths=20|caps=1|returns=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=15|deaths=23|caps=0|returns=0}}
+|red2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=15|deaths=19|caps=0|returns=1}}
+|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=22|deaths=19|caps=1|returns=0}}
+|red4={{Scoreboard/Player|name=Theory|link=Theory|kills=13|deaths=24|caps=0|returns=1}}
+}}
+{{Box|end}}

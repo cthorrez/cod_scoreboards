@@ -1,0 +1,47 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Luminosity Gaming|OpTic Gaming|title=World War II|date=2018-04-08|time=1129|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Luminosity Gaming|team2=OpTic Gaming|team1score=250|team2score=202
+|gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=12:30
+|blue1={{Scoreboard/Player|name=JKap|link=JKap|kills=33|deaths=30|time=60}}
+|blue2={{Scoreboard/Player|name=John|link=John|kills=34|deaths=35|time=29}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=39|deaths=23|time=86}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=33|deaths=24|time=121}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=23|deaths=42|time=45}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=22|deaths=32|time=35}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=31|deaths=29|time=44}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=36|deaths=36|time=97}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=OpTic Gaming|team1score=5|team2score=6
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=8:52
+|blue1={{Scoreboard/Player|name=JKap|link=JKap|kills=11|deaths=7|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=John|link=John|kills=10|deaths=8|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=4|deaths=9|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=3|deaths=8|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=9|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=10|deaths=6|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=10|deaths=8|plants=3|defuses=0}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=3|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=OpTic Gaming|team1score=0|team2score=2
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=9:59
+|blue1={{Scoreboard/Player|name=JKap|link=JKap|kills=15|deaths=22|caps=0|returns=0}}
+|blue2={{Scoreboard/Player|name=John|link=John|kills=18|deaths=22|caps=0|returns=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=23|deaths=17|caps=0|returns=1}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=21|deaths=20|caps=0|returns=2}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=22|deaths=19|caps=1|returns=2}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=21|deaths=19|caps=0|returns=1}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=21|deaths=16|caps=1|returns=1}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=17|deaths=23|caps=0|returns=0}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=OpTic Gaming|team1score=189|team2score=250
+|gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=12:41
+|blue1={{Scoreboard/Player|name=JKap|link=JKap|kills=33|deaths=36|time=79}}
+|blue2={{Scoreboard/Player|name=John|link=John|kills=42|deaths=45|time=40}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=35|deaths=38|time=65}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=34|deaths=40|time=37}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=43|deaths=33|time=107}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=46|deaths=30|time=60}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=31|deaths=43|time=27}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=39|deaths=38|time=106}}
+}}
+{{Box|end}}

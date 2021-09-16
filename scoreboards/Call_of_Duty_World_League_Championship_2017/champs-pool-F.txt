@@ -1,0 +1,271 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Evil Geniuses|Str8 Rippin|title=Infinite Warfare|date=2017-08-09|time=0912|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Evil Geniuses|team2=Str8 Rippin|team1score=142|team2score=250
+|gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=8:45
+|blue1={{Scoreboard/Player|name=Havok|link=Havok|kills=23|deaths=20|time=12}}
+|blue2={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=10|deaths=20|time=48}}
+|blue3={{Scoreboard/Player|name=NAMELESS|link=NAMELESS|kills=16|deaths=21|time=13}}
+|blue4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=16|deaths=19|time=78}}
+|red1={{Scoreboard/Player|name=Dashy|link=Dashy|kills=17|deaths=18|time=57}}
+|red2={{Scoreboard/Player|name=Ricky|link=Ricky|kills=25|deaths=16|time=47}}
+|red3={{Scoreboard/Player|name=StuDyy|link=StuDyy|kills=16|deaths=18|time=92}}
+|red4={{Scoreboard/Player|name=Temp|link=Temp|kills=22|deaths=14|time=91}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Str8 Rippin|team1score=5|team2score=6
+|gamename=Game 2|map=Throwback|gamemode=Search and Destroy|maptime=13:55
+|blue1={{Scoreboard/Player|name=Havok|link=Havok|kills=9|deaths=8|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=7|deaths=7|plants=2|defuses=1}}
+|blue3={{Scoreboard/Player|name=NAMELESS|link=NAMELESS|kills=3|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=8|deaths=7|plants=3|defuses=0}}
+|red1={{Scoreboard/Player|name=Dashy|link=Dashy|kills=8|deaths=9|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=Ricky|link=Ricky|kills=9|deaths=6|plants=1|defuses=1}}
+|red3={{Scoreboard/Player|name=StuDyy|link=StuDyy|kills=9|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Temp|link=Temp|kills=4|deaths=6|plants=2|defuses=1}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Str8 Rippin|team1score=1|team2score=13
+|gamename=Game 3|map=Frost|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=Havok|link=Havok|kills=21|deaths=30|carries=0|throws=0|score=0}}
+|blue2={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=16|deaths=31|carries=0|throws=1|score=1}}
+|blue3={{Scoreboard/Player|name=NAMELESS|link=NAMELESS|kills=25|deaths=28|carries=0|throws=0|score=0}}
+|blue4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=23|deaths=29|carries=0|throws=0|score=0}}
+|red1={{Scoreboard/Player|name=Dashy|link=Dashy|kills=30|deaths=23|carries=0|throws=0|score=0}}
+|red2={{Scoreboard/Player|name=Ricky|link=Ricky|kills=26|deaths=21|carries=1|throws=1|score=3}}
+|red3={{Scoreboard/Player|name=StuDyy|link=StuDyy|kills=29|deaths=22|carries=1|throws=1|score=3}}
+|red4={{Scoreboard/Player|name=Temp|link=Temp|kills=33|deaths=19|carries=3|throws=1|score=7}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Fnatic|Tainted Minds|title=Infinite Warfare|date=2017-08-09|time=0955|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Fnatic|team2=Tainted Minds|team1score=250|team2score=199
+|gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=9:30
+|blue1={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=22|deaths=17|time=84}}
+|blue2={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=18|deaths=17|time=39}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=21|deaths=18|time=67}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=19|deaths=15|time=85}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=10|deaths=17|time=91}}
+|red2={{Scoreboard/Player|name=Excite|link=Excite|kills=24|deaths=20|time=56}}
+|red3={{Scoreboard/Player|name=Nimble|link=Nimble|kills=21|deaths=23|time=19}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=12|deaths=21|time=67}}
+}}
+{{Scoreboard|team1=Fnatic|team2=Tainted Minds|team1score=5|team2score=6
+|gamename=Game 2|map=Throwback|gamemode=Search and Destroy|maptime=14:8
+|blue1={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=13|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=5|deaths=10|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=5|deaths=10|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=6|deaths=6|plants=2|defuses=1}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=9|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Excite|link=Excite|kills=3|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Nimble|link=Nimble|kills=10|deaths=7|plants=1|defuses=1}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=10|deaths=6|plants=1|defuses=1}}
+}}
+{{Scoreboard|team1=Fnatic|team2=Tainted Minds|team1score=5|team2score=2
+|gamename=Game 3|map=Frost|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=24|deaths=26|carries=1|throws=1|score=3}}
+|blue2={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=22|deaths=25|carries=0|throws=0|score=0}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=32|deaths=24|carries=0|throws=1|score=1}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=26|deaths=27|carries=0|throws=1|score=1}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=27|deaths=23|carries=0|throws=0|score=0}}
+|red2={{Scoreboard/Player|name=Excite|link=Excite|kills=21|deaths=28|carries=0|throws=0|score=0}}
+|red3={{Scoreboard/Player|name=Nimble|link=Nimble|kills=24|deaths=27|carries=1|throws=0|score=2}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=30|deaths=26|carries=0|throws=0|score=0}}
+}}
+{{Scoreboard|team1=Fnatic|team2=Tainted Minds|team1score=146|team2score=250
+|gamename=Game 4|map=Breakout|gamemode=Hardpoint|maptime=9:20
+|blue1={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=18|deaths=20|time=47}}
+|blue2={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=15|deaths=21|time=19}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=14|deaths=19|time=91}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=16|deaths=23|time=44}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=19|deaths=13|time=83}}
+|red2={{Scoreboard/Player|name=Excite|link=Excite|kills=25|deaths=17|time=38}}
+|red3={{Scoreboard/Player|name=Nimble|link=Nimble|kills=21|deaths=16|time=89}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=17|deaths=17|time=70}}
+}}
+{{Scoreboard|team1=Fnatic|team2=Tainted Minds|team1score=6|team2score=4
+|gamename=Game 5|map=Crusher|gamemode=Search and Destroy|maptime=12:21
+|blue1={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=8|deaths=7|plants=1|defuses=1}}
+|blue2={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=8|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=4|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=13|deaths=6|plants=2|defuses=1}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=6|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Excite|link=Excite|kills=7|deaths=9|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Nimble|link=Nimble|kills=12|deaths=9|plants=2|defuses=1}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=1|deaths=7|plants=1|defuses=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Str8 Rippin|Tainted Minds|title=Infinite Warfare|date=2017-08-10|time=0703|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Str8 Rippin|team2=Tainted Minds|team1score=250|team2score=161
+|gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=9:17
+|blue1={{Scoreboard/Player|name=Dashy|link=Dashy|kills=16|deaths=14|time=32}}
+|blue2={{Scoreboard/Player|name=Ricky|link=Ricky|kills=14|deaths=17|time=89}}
+|blue3={{Scoreboard/Player|name=StuDyy|link=StuDyy|kills=20|deaths=19|time=64}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=19|deaths=12|time=115}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=20|deaths=16|time=79}}
+|red2={{Scoreboard/Player|name=Excite|link=Excite|kills=13|deaths=18|time=29}}
+|red3={{Scoreboard/Player|name=Nimble|link=Nimble|kills=11|deaths=17|time=59}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=18|deaths=18|time=48}}
+}}
+{{Scoreboard|team1=Str8 Rippin|team2=Tainted Minds|team1score=6|team2score=2
+|gamename=Game 2|map=Crusher|gamemode=Search and Destroy|maptime=9:9
+|blue1={{Scoreboard/Player|name=Dashy|link=Dashy|kills=8|deaths=5|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Ricky|link=Ricky|kills=5|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=StuDyy|link=StuDyy|kills=9|deaths=4|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=6|deaths=3|plants=2|defuses=0}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=6|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Excite|link=Excite|kills=1|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Nimble|link=Nimble|kills=9|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=1|deaths=7|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Str8 Rippin|team2=Tainted Minds|team1score=10|team2score=1
+|gamename=Game 3|map=Precinct|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=Dashy|link=Dashy|kills=28|deaths=23|carries=2|throws=1|score=5}}
+|blue2={{Scoreboard/Player|name=Ricky|link=Ricky|kills=24|deaths=24|carries=1|throws=0|score=2}}
+|blue3={{Scoreboard/Player|name=StuDyy|link=StuDyy|kills=26|deaths=23|carries=0|throws=0|score=0}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=28|deaths=20|carries=1|throws=1|score=3}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=20|deaths=28|carries=0|throws=0|score=0}}
+|red2={{Scoreboard/Player|name=Excite|link=Excite|kills=26|deaths=23|carries=0|throws=1|score=1}}
+|red3={{Scoreboard/Player|name=Nimble|link=Nimble|kills=24|deaths=28|carries=0|throws=0|score=0}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=20|deaths=27|carries=0|throws=0|score=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Evil Geniuses|Fnatic|title=Infinite Warfare|date=2017-08-10|time=0707|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Evil Geniuses|team2=Fnatic|team1score=156|team2score=250
+|gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=9:31
+|blue1={{Scoreboard/Player|name=Havok|link=Havok|kills=21|deaths=19|time=58}}
+|blue2={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=16|deaths=22|time=35}}
+|blue3={{Scoreboard/Player|name=NAMELESS|link=NAMELESS|kills=14|deaths=21|time=40}}
+|blue4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=18|deaths=18|time=72}}
+|red1={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=19|deaths=18|time=82}}
+|red2={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=23|deaths=13|time=95}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=15|deaths=23|time=71}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=23|deaths=15|time=90}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Fnatic|team1score=2|team2score=6
+|gamename=Game 2|map=Crusher|gamemode=Search and Destroy|maptime=10:7
+|blue1={{Scoreboard/Player|name=Havok|link=Havok|kills=4|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=6|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=NAMELESS|link=NAMELESS|kills=4|deaths=7|plants=2|defuses=0}}
+|blue4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=4|deaths=8|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=9|deaths=5|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=3|deaths=5|plants=2|defuses=0}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=9|deaths=4|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=8|deaths=4|plants=0|defuses=1}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Fnatic|team1score=8|team2score=9
+|gamename=Game 3|map=Precinct|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=Havok|link=Havok|kills=21|deaths=26|carries=2|throws=1|score=5}}
+|blue2={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=18|deaths=26|carries=1|throws=0|score=2}}
+|blue3={{Scoreboard/Player|name=NAMELESS|link=NAMELESS|kills=33|deaths=23|carries=0|throws=1|score=1}}
+|blue4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=21|deaths=21|carries=0|throws=0|score=0}}
+|red1={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=23|deaths=27|carries=0|throws=1|score=1}}
+|red2={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=26|deaths=23|carries=2|throws=1|score=5}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=23|deaths=21|carries=0|throws=2|score=2}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=24|deaths=22|carries=0|throws=1|score=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Evil Geniuses|Tainted Minds|title=Infinite Warfare|date=2017-08-10|time=1205|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Evil Geniuses|team2=Tainted Minds|team1score=250|team2score=168
+|gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=9:10
+|blue1={{Scoreboard/Player|name=Havok|link=Havok|kills=23|deaths=14|time=59}}
+|blue2={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=25|deaths=16|time=97}}
+|blue3={{Scoreboard/Player|name=NAMELESS|link=NAMELESS|kills=16|deaths=18|time=65}}
+|blue4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=23|deaths=17|time=86}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=13|deaths=23|time=24}}
+|red2={{Scoreboard/Player|name=Excite|link=Excite|kills=21|deaths=18|time=81}}
+|red3={{Scoreboard/Player|name=Nimble|link=Nimble|kills=18|deaths=22|time=71}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=13|deaths=24|time=47}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Tainted Minds|team1score=2|team2score=6
+|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=10:59
+|blue1={{Scoreboard/Player|name=Havok|link=Havok|kills=10|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=3|deaths=8|plants=2|defuses=0}}
+|blue3={{Scoreboard/Player|name=NAMELESS|link=NAMELESS|kills=4|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=4|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=5|deaths=4|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=Excite|link=Excite|kills=14|deaths=4|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Nimble|link=Nimble|kills=6|deaths=6|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=3|deaths=7|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Tainted Minds|team1score=5|team2score=9
+|gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=10:26
+|blue1={{Scoreboard/Player|name=Havok|link=Havok|kills=25|deaths=25|carries=1|throws=0|score=2}}
+|blue2={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=13|deaths=25|carries=0|throws=2|score=2}}
+|blue3={{Scoreboard/Player|name=NAMELESS|link=NAMELESS|kills=19|deaths=24|carries=0|throws=1|score=1}}
+|blue4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=23|deaths=21|carries=0|throws=0|score=0}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=14|deaths=21|carries=0|throws=0|score=0}}
+|red2={{Scoreboard/Player|name=Excite|link=Excite|kills=25|deaths=23|carries=3|throws=1|score=7}}
+|red3={{Scoreboard/Player|name=Nimble|link=Nimble|kills=28|deaths=18|carries=0|throws=1|score=1}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=28|deaths=18|carries=0|throws=1|score=1}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Tainted Minds|team1score=250|team2score=218
+|gamename=Game 4|map=Retaliation|gamemode=Hardpoint|maptime=10:4
+|blue1={{Scoreboard/Player|name=Havok|link=Havok|kills=20|deaths=17|time=117}}
+|blue2={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=15|deaths=20|time=15}}
+|blue3={{Scoreboard/Player|name=NAMELESS|link=NAMELESS|kills=22|deaths=16|time=113}}
+|blue4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=24|deaths=24|time=28}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=15|deaths=18|time=77}}
+|red2={{Scoreboard/Player|name=Excite|link=Excite|kills=29|deaths=20|time=71}}
+|red3={{Scoreboard/Player|name=Nimble|link=Nimble|kills=17|deaths=22|time=28}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=16|deaths=21|time=86}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Tainted Minds|team1score=2|team2score=6
+|gamename=Game 5|map=Throwback|gamemode=Search and Destroy|maptime=8:49
+|blue1={{Scoreboard/Player|name=Havok|link=Havok|kills=7|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=3|deaths=7|plants=3|defuses=0}}
+|blue3={{Scoreboard/Player|name=NAMELESS|link=NAMELESS|kills=3|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=4|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=7|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Excite|link=Excite|kills=11|deaths=3|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Nimble|link=Nimble|kills=6|deaths=3|plants=2|defuses=0}}
+|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=3|deaths=6|plants=0|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Fnatic|Str8 Rippin|title=Infinite Warfare|date=2017-08-10|time=1211|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Fnatic|team2=Str8 Rippin|team1score=220|team2score=250
+|gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=10:27
+|blue1={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=25|deaths=26|time=98}}
+|blue2={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=21|deaths=24|time=49}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=26|deaths=27|time=54}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=25|deaths=21|time=69}}
+|red1={{Scoreboard/Player|name=Dashy|link=Dashy|kills=27|deaths=25|time=90}}
+|red2={{Scoreboard/Player|name=Ricky|link=Ricky|kills=15|deaths=22|time=123}}
+|red3={{Scoreboard/Player|name=StuDyy|link=StuDyy|kills=31|deaths=28|time=71}}
+|red4={{Scoreboard/Player|name=Temp|link=Temp|kills=25|deaths=22|time=36}}
+}}
+{{Scoreboard|team1=Fnatic|team2=Str8 Rippin|team1score=6|team2score=4
+|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=14:48
+|blue1={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=9|deaths=8|plants=2|defuses=1}}
+|blue2={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=10|deaths=6|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=7|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=6|deaths=3|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Dashy|link=Dashy|kills=5|deaths=10|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Ricky|link=Ricky|kills=6|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=StuDyy|link=StuDyy|kills=6|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Temp|link=Temp|kills=7|deaths=8|plants=4|defuses=0}}
+}}
+{{Scoreboard|team1=Fnatic|team2=Str8 Rippin|team1score=6|team2score=2
+|gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=31|deaths=23|carries=1|throws=2|score=4}}
+|blue2={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=16|deaths=25|carries=1|throws=0|score=2}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=22|deaths=26|carries=0|throws=0|score=0}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=20|deaths=21|carries=0|throws=0|score=0}}
+|red1={{Scoreboard/Player|name=Dashy|link=Dashy|kills=25|deaths=24|carries=0|throws=0|score=0}}
+|red2={{Scoreboard/Player|name=Ricky|link=Ricky|kills=23|deaths=22|carries=0|throws=0|score=0}}
+|red3={{Scoreboard/Player|name=StuDyy|link=StuDyy|kills=23|deaths=23|carries=0|throws=0|score=0}}
+|red4={{Scoreboard/Player|name=Temp|link=Temp|kills=24|deaths=20|carries=1|throws=0|score=2}}
+}}
+{{Scoreboard|team1=Fnatic|team2=Str8 Rippin|team1score=250|team2score=224
+|gamename=Game 4|map=Retaliation|gamemode=Hardpoint|maptime=10:24
+|blue1={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=26|deaths=23|time=60}}
+|blue2={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=19|deaths=18|time=84}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=28|deaths=21|time=48}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=19|deaths=20|time=115}}
+|red1={{Scoreboard/Player|name=Dashy|link=Dashy|kills=24|deaths=21|time=109}}
+|red2={{Scoreboard/Player|name=Ricky|link=Ricky|kills=18|deaths=25|time=53}}
+|red3={{Scoreboard/Player|name=StuDyy|link=StuDyy|kills=15|deaths=22|time=47}}
+|red4={{Scoreboard/Player|name=Temp|link=Temp|kills=25|deaths=24|time=45}}
+}}
+{{Box|end}}

@@ -1,0 +1,55 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|100 Thieves|Team Reciprocity|title=Black Ops 4|date=2019-03-17|time=1011|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=100 Thieves|team2=Team Reciprocity|team1score=234|team2score=250
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:52
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=17|deaths=26|time=43}}
+|blue2={{Scoreboard/Player|name=Fero|link=Fero|kills=24|deaths=27|time=72}}
+|blue3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=16|deaths=25|time=25}}
+|blue4={{Scoreboard/Player|name=Octane|link=Octane|kills=36|deaths=21|time=137}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=29|deaths=27|time=60}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=25|deaths=26|time=40}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=25|deaths=18|time=78}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=30|deaths=28|time=45}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=21|deaths=25|time=94}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=25|deaths=25|time=83}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Team Reciprocity|team1score=2|team2score=6
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=11:1
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=2|deaths=7|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=Fero|link=Fero|kills=4|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=6|deaths=7|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=Octane|link=Octane|kills=5|deaths=7|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=8|deaths=6|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=3|deaths=7|plants=2|defuses=0}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=5|deaths=5|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=10|deaths=5|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=3|deaths=6|plants=0|defuses=1}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=13|deaths=3|plants=0|defuses=1}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Team Reciprocity|team1score=3|team2score=2
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=16:14
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=17|deaths=22|caps=1}}
+|blue2={{Scoreboard/Player|name=Fero|link=Fero|kills=17|deaths=29|caps=2}}
+|blue3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=27|deaths=20|caps=3}}
+|blue4={{Scoreboard/Player|name=Octane|link=Octane|kills=25|deaths=22|caps=3}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=29|deaths=22|caps=2}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=20|deaths=28|caps=1}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=28|deaths=19|caps=2}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=24|deaths=26|caps=1}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=18|deaths=22|caps=1}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=25|deaths=20|caps=1}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Team Reciprocity|team1score=217|team2score=250
+|gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=9:30
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=18|deaths=22|time=51}}
+|blue2={{Scoreboard/Player|name=Fero|link=Fero|kills=23|deaths=24|time=76}}
+|blue3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=14|deaths=22|time=59}}
+|blue4={{Scoreboard/Player|name=Octane|link=Octane|kills=12|deaths=20|time=94}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=26|deaths=19|time=50}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=20|deaths=21|time=61}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=12|deaths=20|time=71}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=27|deaths=18|time=60}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=15|deaths=17|time=50}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=32|deaths=17|time=110}}
+}}
+{{Box|end}}

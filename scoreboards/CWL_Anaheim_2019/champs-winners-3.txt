@@ -1,0 +1,42 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|100 Thieves|Gen.G|title=Black Ops 4|date=2019-06-16|time=1426|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=100 Thieves|team2=Gen.G|team1score=250|team2score=228
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=11:8
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=18|deaths=27|time=65}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=29|deaths=22|time=39}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=27|deaths=23|time=60}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=30|deaths=23|time=73}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=27|deaths=20|time=85}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=31|deaths=23|time=78}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=19|deaths=29|time=38}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=23|deaths=28|time=60}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=22|deaths=23|time=90}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=20|deaths=28|time=66}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Gen.G|team1score=6|team2score=5
+|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=14:40
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=6|deaths=5|plants=1|defuses=1}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=8|deaths=6|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=10|deaths=5|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=8|deaths=6|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=7|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=10|deaths=7|plants=3|defuses=1}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=6|deaths=8|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=3|deaths=8|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=4|deaths=9|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=5|deaths=10|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Gen.G|team1score=3|team2score=2
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=17:0
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=24|deaths=25|caps=2}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=33|deaths=25|caps=1}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=24|deaths=22|caps=2}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=31|deaths=23|caps=0}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=25|deaths=22|caps=2}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=34|deaths=29|caps=2}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=22|deaths=27|caps=2}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=17|deaths=25|caps=2}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=18|deaths=26|caps=2}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=25|deaths=32|caps=2}}
+}}
+{{Box|end}}

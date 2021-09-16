@@ -1,0 +1,83 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|eUnited|Team Envy|title=Infinite Warfare|date=2017-08-12|time=1325|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=eUnited|team2=Team Envy|team1score=250|team2score=95
+|gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=8:7
+|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=24|deaths=10|time=73}}
+|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=12|deaths=12|time=56}}
+|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=23|deaths=15|time=91}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=15|deaths=13|time=100}}
+|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=13|deaths=21|time=24}}
+|red2={{Scoreboard/Player|name=JKap|link=JKap|kills=11|deaths=18|time=41}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=15|deaths=18|time=21}}
+|red4={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=11|deaths=18|time=32}}
+}}
+{{Scoreboard|team1=eUnited|team2=Team Envy|team1score=4|team2score=6
+|gamename=Game 2|map=Throwback|gamemode=Search and Destroy|maptime=11:43
+|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=4|deaths=8|plants=3|defuses=0}}
+|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=10|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=6|deaths=7|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=7|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=5|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=JKap|link=JKap|kills=5|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=13|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=8|deaths=6|plants=0|defuses=1}}
+}}
+{{Scoreboard|team1=eUnited|team2=Team Envy|team1score=10|team2score=12
+|gamename=Game 3|map=Precinct|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=16|deaths=24|carries=0|throws=2|score=2}}
+|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=19|deaths=27|carries=1|throws=0|score=2}}
+|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=24|deaths=25|carries=2|throws=0|score=4}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=27|deaths=22|carries=1|throws=0|score=2}}
+|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=23|deaths=20|carries=1|throws=0|score=2}}
+|red2={{Scoreboard/Player|name=JKap|link=JKap|kills=18|deaths=24|carries=3|throws=0|score=6}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=35|deaths=21|carries=0|throws=1|score=1}}
+|red4={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=22|deaths=21|carries=1|throws=1|score=3}}
+}}
+{{Scoreboard|team1=eUnited|team2=Team Envy|team1score=240|team2score=250
+|gamename=Game 4|map=Retaliation|gamemode=Hardpoint|maptime=11:0
+|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=15|deaths=25|time=36}}
+|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=22|deaths=26|time=13}}
+|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=16|deaths=28|time=66}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=21|deaths=18|time=149}}
+|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=24|deaths=13|time=153}}
+|red2={{Scoreboard/Player|name=JKap|link=JKap|kills=23|deaths=20|time=26}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=32|deaths=22|time=48}}
+|red4={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=18|deaths=19|time=48}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FaZe Clan|OpTic Gaming|title=Infinite Warfare|date=2017-08-12|time=1453|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=82|team2score=250
+|gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=7:44
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=11|deaths=18|time=7}}
+|blue2={{Scoreboard/Player|name=Enable|link=Enable|kills=14|deaths=18|time=41}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=8|deaths=18|time=28}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=12|deaths=17|time=10}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=20|deaths=8|time=127}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=16|deaths=12|time=95}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=16|deaths=12|time=65}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=19|deaths=14|time=48}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=0|team2score=6
+|gamename=Game 2|map=Throwback|gamemode=Search and Destroy|maptime=8:16
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=1|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Enable|link=Enable|kills=1|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=1|deaths=6|plants=2|defuses=0}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=2|deaths=6|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=5|deaths=2|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=5|deaths=2|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=10|deaths=0|plants=2|defuses=2}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=4|deaths=1|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=4|team2score=8
+|gamename=Game 3|map=Precinct|gamemode=Uplink|maptime=10:15
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=24|deaths=21|carries=0|throws=0|score=0}}
+|blue2={{Scoreboard/Player|name=Enable|link=Enable|kills=25|deaths=21|carries=1|throws=0|score=2}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=28|deaths=22|carries=0|throws=0|score=0}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=13|deaths=24|carries=1|throws=0|score=2}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=27|deaths=22|carries=2|throws=0|score=4}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=21|deaths=21|carries=0|throws=0|score=0}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=22|deaths=24|carries=1|throws=0|score=2}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=18|deaths=23|carries=0|throws=2|score=2}}
+}}
+{{Box|end}}

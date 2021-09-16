@@ -1,0 +1,249 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Echo Fox|Epsilon Esports EU|title=Infinite Warfare|date=2017-08-09|time=0703|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Echo Fox|team2=Epsilon Esports EU|team1score=106|team2score=250
+|gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=8:0
+|blue1={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=12|deaths=19|time=8}}
+|blue2={{Scoreboard/Player|name=Mosh|link=Mosh|kills=19|deaths=20|time=34}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=12|deaths=23|time=43}}
+|blue4={{Scoreboard/Player|name=Crowder|link=Crowder|kills=15|deaths=17|time=35}}
+|red1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=18|deaths=15|time=33}}
+|red2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=26|deaths=13|time=140}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=16|deaths=15|time=79}}
+|red4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=19|deaths=16|time=37}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Epsilon Esports EU|team1score=5|team2score=6
+|gamename=Game 2|map=Throwback|gamemode=Search and Destroy|maptime=12:52
+|blue1={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=8|deaths=8|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Mosh|link=Mosh|kills=3|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=8|deaths=9|plants=3|defuses=1}}
+|blue4={{Scoreboard/Player|name=Crowder|link=Crowder|kills=13|deaths=9|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=8|deaths=9|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=5|deaths=10|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=11|deaths=6|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=10|deaths=7|plants=3|defuses=1}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Epsilon Esports EU|team1score=5|team2score=7
+|gamename=Game 3|map=Frost|gamemode=Uplink|maptime=13:2
+|blue1={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=37|deaths=26|carries=0|throws=0|score=0}}
+|blue2={{Scoreboard/Player|name=Mosh|link=Mosh|kills=38|deaths=30|carries=0|throws=0|score=0}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=21|deaths=29|carries=2|throws=1|score=5}}
+|blue4={{Scoreboard/Player|name=Crowder|link=Crowder|kills=31|deaths=30|carries=0|throws=0|score=0}}
+|red1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=39|deaths=26|carries=1|throws=1|score=3}}
+|red2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=18|deaths=33|carries=1|throws=0|score=2}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=25|deaths=32|carries=0|throws=0|score=0}}
+|red4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=33|deaths=37|carries=1|throws=0|score=2}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|3sUP|OpTic Gaming|title=Infinite Warfare|date=2017-08-09|time=0705|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=3sUP|team2=OpTic Gaming|team1score=94|team2score=250
+|gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=7:38
+|blue1={{Scoreboard/Player|name=ColeChan|link=ColeChan|kills=14|deaths=22|time=16}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=13|deaths=21|time=37}}
+|blue3={{Scoreboard/Player|name=Mochila|link=Mochila|kills=10|deaths=21|time=16}}
+|blue4={{Scoreboard/Player|name=Swarley|link=Swarley|kills=9|deaths=20|time=32}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=18|deaths=10|time=38}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=29|deaths=10|time=127}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=13|deaths=16|time=24}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=24|deaths=10|time=79}}
+}}
+{{Scoreboard|team1=3sUP|team2=OpTic Gaming|team1score=2|team2score=6
+|gamename=Game 2|map=Throwback|gamemode=Search and Destroy|maptime=7:24
+|blue1={{Scoreboard/Player|name=ColeChan|link=ColeChan|kills=4|deaths=8|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=6|deaths=7|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Mochila|link=Mochila|kills=5|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Swarley|link=Swarley|kills=5|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=7|deaths=5|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=12|deaths=3|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=3|deaths=7|plants=2|defuses=0}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=7|deaths=5|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=3sUP|team2=OpTic Gaming|team1score=6|team2score=10
+|gamename=Game 3|map=Frost|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=ColeChan|link=ColeChan|kills=33|deaths=30|carries=0|throws=1|score=1}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=21|deaths=30|carries=0|throws=1|score=1}}
+|blue3={{Scoreboard/Player|name=Mochila|link=Mochila|kills=23|deaths=28|carries=0|throws=2|score=2}}
+|blue4={{Scoreboard/Player|name=Swarley|link=Swarley|kills=24|deaths=30|carries=1|throws=0|score=2}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=29|deaths=25|carries=1|throws=0|score=2}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=28|deaths=27|carries=2|throws=2|score=6}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=28|deaths=25|carries=0|throws=1|score=1}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=32|deaths=24|carries=0|throws=1|score=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Epsilon Esports EU|OpTic Gaming|title=Infinite Warfare|date=2017-08-09|time=1202|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=OpTic Gaming|team1score=96|team2score=250
+|gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=8:5
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=12|deaths=20|time=9}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=16|deaths=19|time=15}}
+|blue3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=15|deaths=19|time=24}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=6|deaths=20|time=69}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=27|deaths=11|time=75}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=19|deaths=11|time=66}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=16|deaths=14|time=84}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=15|deaths=13|time=76}}
+}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=OpTic Gaming|team1score=5|team2score=6
+|gamename=Game 2|map=Crusher|gamemode=Search and Destroy|maptime=13:2
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=10|deaths=6|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=8|deaths=7|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=8|deaths=9|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=4|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=8|deaths=7|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=7|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=7|deaths=9|plants=4|defuses=0}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=8|deaths=7|plants=0|defuses=1}}
+}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=OpTic Gaming|team1score=2|team2score=11
+|gamename=Game 3|map=Precinct|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=26|deaths=27|carries=0|throws=0|score=0}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=19|deaths=29|carries=0|throws=0|score=0}}
+|blue3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=20|deaths=30|carries=1|throws=0|score=2}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=22|deaths=31|carries=0|throws=0|score=0}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=23|deaths=23|carries=3|throws=1|score=7}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=43|deaths=18|carries=0|throws=0|score=0}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=26|deaths=24|carries=1|throws=0|score=2}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=25|deaths=22|carries=0|throws=2|score=2}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|3sUP|Echo Fox|title=Infinite Warfare|date=2017-08-09|time=1235|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=3sUP|team2=Echo Fox|team1score=142|team2score=250
+|gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=10:12
+|blue1={{Scoreboard/Player|name=ColeChan|link=ColeChan|kills=15|deaths=23|time=65}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=17|deaths=26|time=22}}
+|blue3={{Scoreboard/Player|name=Mochila|link=Mochila|kills=14|deaths=23|time=45}}
+|blue4={{Scoreboard/Player|name=Swarley|link=Swarley|kills=22|deaths=19|time=27}}
+|red1={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=21|deaths=16|time=95}}
+|red2={{Scoreboard/Player|name=Mosh|link=Mosh|kills=25|deaths=16|time=78}}
+|red3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=19|deaths=15|time=94}}
+|red4={{Scoreboard/Player|name=Crowder|link=Crowder|kills=26|deaths=21|time=36}}
+}}
+{{Scoreboard|team1=3sUP|team2=Echo Fox|team1score=6|team2score=4
+|gamename=Game 2|map=Crusher|gamemode=Search and Destroy|maptime=12:2
+|blue1={{Scoreboard/Player|name=ColeChan|link=ColeChan|kills=15|deaths=6|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=10|deaths=5|plants=3|defuses=0}}
+|blue3={{Scoreboard/Player|name=Mochila|link=Mochila|kills=3|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Swarley|link=Swarley|kills=4|deaths=9|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=8|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Mosh|link=Mosh|kills=6|deaths=8|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=8|deaths=8|plants=3|defuses=0}}
+|red4={{Scoreboard/Player|name=Crowder|link=Crowder|kills=5|deaths=9|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=3sUP|team2=Echo Fox|team1score=4|team2score=12
+|gamename=Game 3|map=Precinct|gamemode=Uplink|maptime=10:15
+|blue1={{Scoreboard/Player|name=ColeChan|link=ColeChan|kills=24|deaths=28|carries=0|throws=0|score=0}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=20|deaths=26|carries=0|throws=0|score=0}}
+|blue3={{Scoreboard/Player|name=Mochila|link=Mochila|kills=20|deaths=23|carries=1|throws=0|score=2}}
+|blue4={{Scoreboard/Player|name=Swarley|link=Swarley|kills=21|deaths=29|carries=1|throws=0|score=2}}
+|red1={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=28|deaths=18|carries=2|throws=1|score=5}}
+|red2={{Scoreboard/Player|name=Mosh|link=Mosh|kills=24|deaths=21|carries=0|throws=1|score=1}}
+|red3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=29|deaths=24|carries=2|throws=0|score=4}}
+|red4={{Scoreboard/Player|name=Crowder|link=Crowder|kills=25|deaths=22|carries=1|throws=0|score=2}}
+}}
+{{Scoreboard|team1=3sUP|team2=Echo Fox|team1score=213|team2score=207
+|gamename=Game 4|map=Throwback|gamemode=Hardpoint|maptime=12:23
+|blue1={{Scoreboard/Player|name=ColeChan|link=ColeChan|kills=30|deaths=34|time=54}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=30|deaths=33|time=43}}
+|blue3={{Scoreboard/Player|name=Mochila|link=Mochila|kills=30|deaths=27|time=45}}
+|blue4={{Scoreboard/Player|name=Swarley|link=Swarley|kills=36|deaths=26|time=103}}
+|red1={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=27|deaths=35|time=71}}
+|red2={{Scoreboard/Player|name=Mosh|link=Mosh|kills=27|deaths=30|time=15}}
+|red3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=31|deaths=29|time=86}}
+|red4={{Scoreboard/Player|name=Crowder|link=Crowder|kills=35|deaths=32|time=71}}
+}}
+{{Scoreboard|team1=3sUP|team2=Echo Fox|team1score=4|team2score=6
+|gamename=Game 5|map=Retaliation|gamemode=Search and Destroy|maptime=11:48
+|blue1={{Scoreboard/Player|name=ColeChan|link=ColeChan|kills=5|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=6|deaths=6|plants=3|defuses=0}}
+|blue3={{Scoreboard/Player|name=Mochila|link=Mochila|kills=5|deaths=7|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=Swarley|link=Swarley|kills=1|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=7|deaths=4|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=Mosh|link=Mosh|kills=9|deaths=5|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=6|deaths=5|plants=3|defuses=0}}
+|red4={{Scoreboard/Player|name=Crowder|link=Crowder|kills=5|deaths=4|plants=1|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|3sUP|Epsilon Esports EU|title=Infinite Warfare|date=2017-08-10|time=0922|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=3sUP|team2=Epsilon Esports EU|team1score=187|team2score=250
+|gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=9:42
+|blue1={{Scoreboard/Player|name=ColeChan|link=ColeChan|kills=26|deaths=27|time=34}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=15|deaths=21|time=76}}
+|blue3={{Scoreboard/Player|name=Mochila|link=Mochila|kills=29|deaths=20|time=86}}
+|blue4={{Scoreboard/Player|name=Swarley|link=Swarley|kills=13|deaths=24|time=66}}
+|red1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=22|deaths=20|time=104}}
+|red2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=24|deaths=19|time=75}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=21|deaths=26|time=46}}
+|red4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=24|deaths=18|time=139}}
+}}
+{{Scoreboard|team1=3sUP|team2=Epsilon Esports EU|team1score=4|team2score=6
+|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=11:20
+|blue1={{Scoreboard/Player|name=ColeChan|link=ColeChan|kills=5|deaths=8|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=7|deaths=7|plants=2|defuses=0}}
+|blue3={{Scoreboard/Player|name=Mochila|link=Mochila|kills=7|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Swarley|link=Swarley|kills=4|deaths=7|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=5|deaths=7|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=10|deaths=5|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=7|deaths=6|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=8|deaths=6|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=3sUP|team2=Epsilon Esports EU|team1score=4|team2score=14
+|gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=ColeChan|link=ColeChan|kills=21|deaths=24|carries=1|throws=2|score=4}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=21|deaths=28|carries=0|throws=0|score=0}}
+|blue3={{Scoreboard/Player|name=Mochila|link=Mochila|kills=21|deaths=20|carries=0|throws=0|score=0}}
+|blue4={{Scoreboard/Player|name=Swarley|link=Swarley|kills=15|deaths=28|carries=0|throws=0|score=0}}
+|red1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=27|deaths=18|carries=3|throws=0|score=6}}
+|red2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=23|deaths=20|carries=1|throws=0|score=2}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=28|deaths=18|carries=1|throws=0|score=2}}
+|red4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=22|deaths=22|carries=2|throws=0|score=4}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Echo Fox|OpTic Gaming|title=Infinite Warfare|date=2017-08-10|time=0950|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Echo Fox|team2=OpTic Gaming|team1score=94|team2score=250
+|gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=8:27
+|blue1={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=17|deaths=22|time=34}}
+|blue2={{Scoreboard/Player|name=Mosh|link=Mosh|kills=14|deaths=23|time=26}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=16|deaths=20|time=34}}
+|blue4={{Scoreboard/Player|name=Crowder|link=Crowder|kills=16|deaths=22|time=7}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=14|deaths=18|time=48}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=31|deaths=13|time=93}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=20|deaths=19|time=74}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=22|deaths=14|time=109}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=OpTic Gaming|team1score=6|team2score=4
+|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=12:27
+|blue1={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=11|deaths=6|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=Mosh|link=Mosh|kills=4|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=8|deaths=6|plants=4|defuses=0}}
+|blue4={{Scoreboard/Player|name=Crowder|link=Crowder|kills=4|deaths=7|plants=0|defuses=1}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=8|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=8|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=5|deaths=8|plants=3|defuses=0}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=5|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=OpTic Gaming|team1score=7|team2score=10
+|gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=27|deaths=22|carries=0|throws=0|score=0}}
+|blue2={{Scoreboard/Player|name=Mosh|link=Mosh|kills=17|deaths=26|carries=1|throws=0|score=2}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=21|deaths=25|carries=1|throws=1|score=3}}
+|blue4={{Scoreboard/Player|name=Crowder|link=Crowder|kills=20|deaths=23|carries=0|throws=2|score=2}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=23|deaths=22|carries=2|throws=2|score=6}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=30|deaths=20|carries=1|throws=0|score=2}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=20|deaths=23|carries=0|throws=0|score=0}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=23|deaths=21|carries=1|throws=0|score=2}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=OpTic Gaming|team1score=182|team2score=250
+|gamename=Game 4|map=Retaliation|gamemode=Hardpoint|maptime=10:3
+|blue1={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=17|deaths=21|time=52}}
+|blue2={{Scoreboard/Player|name=Mosh|link=Mosh|kills=21|deaths=22|time=72}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=22|deaths=17|time=59}}
+|blue4={{Scoreboard/Player|name=Crowder|link=Crowder|kills=22|deaths=21|time=20}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=25|deaths=19|time=89}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=14|deaths=19|time=63}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=31|deaths=19|time=96}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=11|deaths=25|time=21}}
+}}
+{{Box|end}}

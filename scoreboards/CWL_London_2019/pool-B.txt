@@ -1,0 +1,220 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Denial Esports EU|Luminosity Gaming|title=Black Ops 4|date=2019-05-03|time=0930|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Denial Esports EU|team2=Luminosity Gaming|team1score=247|team2score=250
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=11:29
+|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=26|deaths=32|time=36}}
+|blue2={{Scoreboard/Player|name=Bance|link=Bance|kills=20|deaths=27|time=106}}
+|blue3={{Scoreboard/Player|name=Brack|link=Brack|kills=27|deaths=21|time=77}}
+|blue4={{Scoreboard/Player|name=Joee|link=Joee|kills=23|deaths=30|time=61}}
+|blue5={{Scoreboard/Player|name=Rated|link=Rated|kills=29|deaths=26|time=76}}
+|red1={{Scoreboard/Player|name=Classic|link=Classic|kills=22|deaths=24|time=48}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=28|deaths=20|time=146}}
+|red3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=27|deaths=25|time=69}}
+|red4={{Scoreboard/Player|name=John|link=John|kills=28|deaths=29|time=27}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=31|deaths=27|time=80}}
+}}
+{{Scoreboard|team1=Denial Esports EU|team2=Luminosity Gaming|team1score=6|team2score=3
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=10:35
+|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=4|deaths=6|plants=4|defuses=0}}
+|blue2={{Scoreboard/Player|name=Bance|link=Bance|kills=6|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Brack|link=Brack|kills=12|deaths=5|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Joee|link=Joee|kills=3|deaths=3|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Rated|link=Rated|kills=6|deaths=4|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Classic|link=Classic|kills=5|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=3|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=8|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=John|link=John|kills=4|deaths=8|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=3|deaths=7|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Denial Esports EU|team2=Luminosity Gaming|team1score=3|team2score=0
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=10:53
+|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=19|deaths=13|caps=2}}
+|blue2={{Scoreboard/Player|name=Bance|link=Bance|kills=20|deaths=10|caps=2}}
+|blue3={{Scoreboard/Player|name=Brack|link=Brack|kills=27|deaths=12|caps=2}}
+|blue4={{Scoreboard/Player|name=Joee|link=Joee|kills=11|deaths=17|caps=2}}
+|blue5={{Scoreboard/Player|name=Rated|link=Rated|kills=11|deaths=17|caps=1}}
+|red1={{Scoreboard/Player|name=Classic|link=Classic|kills=17|deaths=17|caps=1}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=12|deaths=19|caps=3}}
+|red3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=15|deaths=16|caps=3}}
+|red4={{Scoreboard/Player|name=John|link=John|kills=19|deaths=17|caps=3}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=6|deaths=19|caps=3}}
+}}
+{{Scoreboard|team1=Denial Esports EU|team2=Luminosity Gaming|team1score=198|team2score=250
+|gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=9:43
+|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=24|deaths=19|time=69}}
+|blue2={{Scoreboard/Player|name=Bance|link=Bance|kills=18|deaths=22|time=61}}
+|blue3={{Scoreboard/Player|name=Brack|link=Brack|kills=25|deaths=20|time=48}}
+|blue4={{Scoreboard/Player|name=Joee|link=Joee|kills=18|deaths=24|time=40}}
+|blue5={{Scoreboard/Player|name=Rated|link=Rated|kills=15|deaths=22|time=66}}
+|red1={{Scoreboard/Player|name=Classic|link=Classic|kills=18|deaths=23|time=62}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=20|deaths=16|time=125}}
+|red3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=23|deaths=23|time=69}}
+|red4={{Scoreboard/Player|name=John|link=John|kills=28|deaths=18|time=47}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=18|deaths=21|time=76}}
+}}
+{{Scoreboard|team1=Denial Esports EU|team2=Luminosity Gaming|team1score=6|team2score=3
+|gamename=Game 5|map=Hacienda|gamemode=Search and Destroy|maptime=11:55
+|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=6|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Bance|link=Bance|kills=7|deaths=7|plants=3|defuses=0}}
+|blue3={{Scoreboard/Player|name=Brack|link=Brack|kills=17|deaths=4|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Joee|link=Joee|kills=3|deaths=7|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=Rated|link=Rated|kills=5|deaths=4|plants=0|defuses=1}}
+|red1={{Scoreboard/Player|name=Classic|link=Classic|kills=10|deaths=8|plants=2|defuses=1}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=2|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=6|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=John|link=John|kills=4|deaths=8|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=6|deaths=8|plants=1|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Gen.G|Splyce|title=Black Ops 4|date=2019-05-03|time=0937|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Gen.G|team2=Splyce|team1score=250|team2score=174
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:29
+|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=17|deaths=21|time=65}}
+|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=30|deaths=19|time=65}}
+|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=19|deaths=21|time=93}}
+|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=22|deaths=17|time=66}}
+|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=26|deaths=16|time=106}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=20|deaths=19|time=81}}
+|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=14|deaths=26|time=69}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=16|deaths=25|time=52}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=16|deaths=23|time=39}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=28|deaths=21|time=66}}
+}}
+{{Scoreboard|team1=Gen.G|team2=Splyce|team1score=6|team2score=3
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=12:11
+|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=7|deaths=5|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=5|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=12|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=10|deaths=6|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=6|deaths=6|plants=4|defuses=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=3|deaths=9|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=6|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=2|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=7|deaths=8|plants=2|defuses=0}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=11|deaths=7|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Gen.G|team2=Splyce|team1score=3|team2score=2
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=14:45
+|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=23|deaths=24|caps=3}}
+|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=24|deaths=26|caps=4}}
+|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=25|deaths=25|caps=3}}
+|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=20|deaths=16|caps=5}}
+|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=19|deaths=27|caps=5}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=21|deaths=21|caps=2}}
+|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=21|deaths=21|caps=2}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=22|deaths=23|caps=2}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=20|deaths=22|caps=3}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=34|deaths=24|caps=3}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Luminosity Gaming|Splyce|title=Black Ops 4|date=2019-05-03|time=1206|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Splyce|team1score=233|team2score=226
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=12:39
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=28|deaths=31|time=72}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=32|deaths=29|time=31}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=33|deaths=28|time=38}}
+|blue4={{Scoreboard/Player|name=John|link=John|kills=26|deaths=29|time=72}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=34|deaths=30|time=100}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=27|deaths=29|time=70}}
+|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=26|deaths=31|time=67}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=29|deaths=38|time=33}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=25|deaths=30|time=50}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=40|deaths=25|time=69}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Splyce|team1score=5|team2score=6
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=15:10
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=9|deaths=8|plants=4|defuses=0}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=10|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=6|deaths=9|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=John|link=John|kills=6|deaths=9|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=11|deaths=5|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=10|deaths=8|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=7|deaths=9|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=5|deaths=11|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=11|deaths=7|plants=1|defuses=1}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=5|deaths=8|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Splyce|team1score=1|team2score=3
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=12:3
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=18|deaths=21|caps=1}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=16|deaths=20|caps=2}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=28|deaths=20|caps=2}}
+|blue4={{Scoreboard/Player|name=John|link=John|kills=18|deaths=24|caps=2}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=14|deaths=23|caps=1}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=20|deaths=17|caps=3}}
+|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=27|deaths=17|caps=3}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=24|deaths=20|caps=3}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=17|deaths=19|caps=3}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=20|deaths=21|caps=1}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Splyce|team1score=153|team2score=250
+|gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=9:40
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=24|deaths=26|time=27}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=19|deaths=26|time=67}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=20|deaths=22|time=65}}
+|blue4={{Scoreboard/Player|name=John|link=John|kills=21|deaths=24|time=52}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=15|deaths=25|time=51}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=19|deaths=17|time=65}}
+|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=19|deaths=17|time=65}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=34|deaths=22|time=84}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=24|deaths=20|time=97}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=26|deaths=23|time=80}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Denial Esports EU|Gen.G|title=Black Ops 4|date=2019-05-03|time=1211|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Denial Esports EU|team2=Gen.G|team1score=185|team2score=250
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:13
+|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=23|deaths=21|time=54}}
+|blue2={{Scoreboard/Player|name=Bance|link=Bance|kills=17|deaths=24|time=51}}
+|blue3={{Scoreboard/Player|name=Brack|link=Brack|kills=30|deaths=21|time=103}}
+|blue4={{Scoreboard/Player|name=Joee|link=Joee|kills=21|deaths=23|time=28}}
+|blue5={{Scoreboard/Player|name=Rated|link=Rated|kills=17|deaths=21|time=61}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=25|deaths=19|time=95}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=25|deaths=23|time=72}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=22|deaths=21|time=72}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=19|deaths=20|time=50}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=19|deaths=25|time=111}}
+}}
+{{Scoreboard|team1=Denial Esports EU|team2=Gen.G|team1score=6|team2score=5
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=15:36
+|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=5|deaths=7|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Bance|link=Bance|kills=8|deaths=8|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Brack|link=Brack|kills=8|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Joee|link=Joee|kills=11|deaths=6|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Rated|link=Rated|kills=7|deaths=7|plants=3|defuses=0}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=4|deaths=8|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=9|deaths=10|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=10|deaths=7|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=6|deaths=8|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=6|deaths=8|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=Denial Esports EU|team2=Gen.G|team1score=1|team2score=3
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=11:33
+|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=17|deaths=16|caps=1}}
+|blue2={{Scoreboard/Player|name=Bance|link=Bance|kills=12|deaths=22|caps=1}}
+|blue3={{Scoreboard/Player|name=Brack|link=Brack|kills=18|deaths=17|caps=0}}
+|blue4={{Scoreboard/Player|name=Joee|link=Joee|kills=10|deaths=21|caps=1}}
+|blue5={{Scoreboard/Player|name=Rated|link=Rated|kills=15|deaths=18|caps=0}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=20|deaths=10|caps=3}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=11|deaths=15|caps=2}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=21|deaths=16|caps=3}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=28|deaths=12|caps=3}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=14|deaths=19|caps=2}}
+}}
+{{Scoreboard|team1=Denial Esports EU|team2=Gen.G|team1score=93|team2score=250
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=8:0
+|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=9|deaths=17|time=31}}
+|blue2={{Scoreboard/Player|name=Bance|link=Bance|kills=8|deaths=21|time=20}}
+|blue3={{Scoreboard/Player|name=Brack|link=Brack|kills=13|deaths=16|time=40}}
+|blue4={{Scoreboard/Player|name=Joee|link=Joee|kills=16|deaths=18|time=20}}
+|blue5={{Scoreboard/Player|name=Rated|link=Rated|kills=10|deaths=19|time=34}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=23|deaths=12|time=45}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=17|deaths=14|time=58}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=23|deaths=10|time=62}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=11|deaths=10|time=60}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=17|deaths=11|time=113}}
+}}
+{{Box|end}}

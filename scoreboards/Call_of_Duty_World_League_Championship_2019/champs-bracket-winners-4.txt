@@ -1,0 +1,55 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|eUnited|OpTic Gaming|title=Black Ops 4|date=2019-08-18|time=1125|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=eUnited|team2=OpTic Gaming|team1score=109|team2score=250
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=8:51
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=23|deaths=24|time=43}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=25|deaths=17|time=21}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=15|deaths=27|time=40}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=19|deaths=27|time=33}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=21|deaths=22|time=34}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=19|deaths=18|time=89}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=25|deaths=17|time=95}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=16|deaths=25|time=72}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=30|deaths=19|time=94}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=27|deaths=24|time=69}}
+}}
+{{Scoreboard|team1=eUnited|team2=OpTic Gaming|team1score=6|team2score=5
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=16:13
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=9|deaths=8|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=11|deaths=4|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=7|deaths=9|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=4|deaths=7|plants=3|defuses=0}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=10|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=2|deaths=8|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=16|deaths=9|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=4|deaths=8|plants=1|defuses=1}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=6|deaths=8|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=5|deaths=9|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=eUnited|team2=OpTic Gaming|team1score=3|team2score=0
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=8:0
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=20|deaths=9|caps=4}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=10|deaths=7|caps=2}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=14|deaths=8|caps=4}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=10|deaths=14|caps=3}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=14|deaths=9|caps=4}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=10|deaths=13|caps=1}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=6|deaths=13|caps=1}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=12|deaths=11|caps=1}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=7|deaths=14|caps=1}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=12|deaths=17|caps=0}}
+}}
+{{Scoreboard|team1=eUnited|team2=OpTic Gaming|team1score=250|team2score=52
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=6:52
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=12|deaths=10|time=53}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=22|deaths=6|time=158}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=14|deaths=13|time=40}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=26|deaths=8|time=60}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=21|deaths=11|time=81}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=7|deaths=19|time=12}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=8|deaths=18|time=15}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=8|deaths=23|time=11}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=16|deaths=14|time=30}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=9|deaths=21|time=12}}
+}}
+{{Box|end}}

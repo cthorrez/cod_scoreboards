@@ -1,0 +1,317 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|100 Thieves|Sicario Gaming|title=Black Ops 4|date=2019-08-14|time=1313|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=100 Thieves|team2=Sicario Gaming|team1score=250|team2score=206
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:22
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=25|deaths=16|time=47}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=21|deaths=18|time=78}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=25|deaths=19|time=76}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=19|deaths=22|time=38}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=23|deaths=22|time=68}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=30|deaths=21|time=111}}
+|red2={{Scoreboard/Player|name=Exceed|link=Exceed|kills=17|deaths=25|time=73}}
+|red3={{Scoreboard/Player|name=Linney|link=Linney|kills=13|deaths=24|time=24}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=23|deaths=21|time=38}}
+|red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=14|deaths=22|time=32}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Sicario Gaming|team1score=6|team2score=4
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=13:28
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=7|deaths=6|plants=2|defuses=1}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=10|deaths=5|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=9|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=3|deaths=8|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=6|deaths=6|plants=0|defuses=1}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=11|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Exceed|link=Exceed|kills=6|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Linney|link=Linney|kills=8|deaths=5|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=5|deaths=9|plants=2|defuses=0}}
+|red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=2|deaths=7|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Sicario Gaming|team1score=3|team2score=2
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=14:34
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=23|deaths=19|caps=0}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=20|deaths=25|caps=1}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=21|deaths=18|caps=1}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=23|deaths=20|caps=1}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=30|deaths=18|caps=1}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=20|deaths=24|caps=2}}
+|red2={{Scoreboard/Player|name=Exceed|link=Exceed|kills=21|deaths=28|caps=2}}
+|red3={{Scoreboard/Player|name=Linney|link=Linney|kills=23|deaths=22|caps=1}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=24|deaths=24|caps=1}}
+|red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=12|deaths=20|caps=2}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FURY Gaming|Midnight Esports|title=Black Ops 4|date=2019-08-14|time=1328|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=FURY Gaming|team2=Midnight Esports|team1score=170|team2score=250
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:44
+|blue1={{Scoreboard/Player|name=Demise|link=Demise|kills=14|deaths=23|time=37}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=23|deaths=22|time=37}}
+|blue3={{Scoreboard/Player|name=Hamza|link=Hamza|kills=16|deaths=20|time=64}}
+|blue4={{Scoreboard/Player|name=Ramby|link=Ramby|kills=15|deaths=19|time=49}}
+|blue5={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=17|deaths=27|time=36}}
+|red1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=28|deaths=15|time=70}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=14|deaths=16|time=78}}
+|red3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=29|deaths=15|time=152}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=16|deaths=23|time=45}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=24|deaths=16|time=47}}
+}}
+{{Scoreboard|team1=FURY Gaming|team2=Midnight Esports|team1score=3|team2score=6
+|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=10:41
+|blue1={{Scoreboard/Player|name=Demise|link=Demise|kills=5|deaths=6|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=6|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Hamza|link=Hamza|kills=8|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Ramby|link=Ramby|kills=6|deaths=8|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=5|deaths=7|plants=2|defuses=0}}
+|red1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=7|deaths=5|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=7|deaths=5|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=8|deaths=7|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=8|deaths=7|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=6|deaths=6|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=FURY Gaming|team2=Midnight Esports|team1score=3|team2score=0
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=10:26
+|blue1={{Scoreboard/Player|name=Demise|link=Demise|kills=15|deaths=12|caps=1}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=21|deaths=14|caps=2}}
+|blue3={{Scoreboard/Player|name=Hamza|link=Hamza|kills=18|deaths=13|caps=2}}
+|blue4={{Scoreboard/Player|name=Ramby|link=Ramby|kills=14|deaths=14|caps=1}}
+|blue5={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=20|deaths=17|caps=2}}
+|red1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=19|deaths=17|caps=1}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=10|deaths=14|caps=1}}
+|red3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=11|deaths=17|caps=2}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=14|deaths=22|caps=2}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=16|deaths=18|caps=2}}
+}}
+{{Scoreboard|team1=FURY Gaming|team2=Midnight Esports|team1score=128|team2score=250
+|gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=9:42
+|blue1={{Scoreboard/Player|name=Demise|link=Demise|kills=14|deaths=23|time=57}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=22|deaths=25|time=7}}
+|blue3={{Scoreboard/Player|name=Hamza|link=Hamza|kills=14|deaths=26|time=24}}
+|blue4={{Scoreboard/Player|name=Ramby|link=Ramby|kills=14|deaths=27|time=13}}
+|blue5={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=14|deaths=28|time=66}}
+|red1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=25|deaths=14|time=85}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=24|deaths=9|time=100}}
+|red3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=27|deaths=14|time=89}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=27|deaths=21|time=56}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=26|deaths=20|time=48}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|100 Thieves|FURY Gaming|title=Black Ops 4|date=2019-08-15|time=1003|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=100 Thieves|team2=FURY Gaming|team1score=250|team2score=118
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=7:39
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=10|deaths=10|time=81}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=17|deaths=11|time=58}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=18|deaths=6|time=94}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=24|deaths=16|time=19}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=12|deaths=12|time=51}}
+|red1={{Scoreboard/Player|name=Demise|link=Demise|kills=6|deaths=16|time=4}}
+|red2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=20|deaths=15|time=40}}
+|red3={{Scoreboard/Player|name=Hamza|link=Hamza|kills=9|deaths=14|time=25}}
+|red4={{Scoreboard/Player|name=Ramby|link=Ramby|kills=10|deaths=18|time=40}}
+|red5={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=10|deaths=18|time=56}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=FURY Gaming|team1score=6|team2score=3
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=12:41
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=8|deaths=6|plants=3|defuses=0}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=11|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=5|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=5|deaths=5|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=9|deaths=4|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Demise|link=Demise|kills=4|deaths=8|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=4|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Hamza|link=Hamza|kills=2|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Ramby|link=Ramby|kills=11|deaths=7|plants=0|defuses=1}}
+|red5={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=6|deaths=8|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=FURY Gaming|team1score=1|team2score=3
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=12:56
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=18|deaths=23|caps=2}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=27|deaths=20|caps=2}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=18|deaths=20|caps=2}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=23|deaths=23|caps=2}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=16|deaths=21|caps=2}}
+|red1={{Scoreboard/Player|name=Demise|link=Demise|kills=13|deaths=18|caps=1}}
+|red2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=27|deaths=22|caps=1}}
+|red3={{Scoreboard/Player|name=Hamza|link=Hamza|kills=20|deaths=20|caps=1}}
+|red4={{Scoreboard/Player|name=Ramby|link=Ramby|kills=23|deaths=20|caps=1}}
+|red5={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=23|deaths=22|caps=0}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=FURY Gaming|team1score=250|team2score=118
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=8:4
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=11|deaths=20|time=26}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=21|deaths=14|time=67}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=16|deaths=15|time=112}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=19|deaths=16|time=37}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=21|deaths=17|time=80}}
+|red1={{Scoreboard/Player|name=Demise|link=Demise|kills=21|deaths=15|time=57}}
+|red2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=19|deaths=17|time=16}}
+|red3={{Scoreboard/Player|name=Hamza|link=Hamza|kills=15|deaths=16|time=44}}
+|red4={{Scoreboard/Player|name=Ramby|link=Ramby|kills=13|deaths=16|time=26}}
+|red5={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=14|deaths=24|time=9}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Midnight Esports|Sicario Gaming|title=Black Ops 4|date=2019-08-15|time=1001|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Midnight Esports|team2=Sicario Gaming|team1score=250|team2score=205
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:46
+|blue1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=33|deaths=27|time=72}}
+|blue2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=33|deaths=27|time=110}}
+|blue3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=31|deaths=25|time=50}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=29|deaths=28|time=88}}
+|blue5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=34|deaths=28|time=49}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=23|deaths=31|time=81}}
+|red2={{Scoreboard/Player|name=Exceed|link=Exceed|kills=35|deaths=34|time=76}}
+|red3={{Scoreboard/Player|name=Linney|link=Linney|kills=26|deaths=32|time=33}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=23|deaths=37|time=48}}
+|red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=27|deaths=26|time=77}}
+}}
+{{Scoreboard|team1=Midnight Esports|team2=Sicario Gaming|team1score=2|team2score=6
+|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=9:48
+|blue1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=4|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=3|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=1|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=9|deaths=6|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=7|deaths=8|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=5|deaths=5|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=Exceed|link=Exceed|kills=5|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Linney|link=Linney|kills=4|deaths=5|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=10|deaths=3|plants=3|defuses=0}}
+|red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=9|deaths=5|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Midnight Esports|team2=Sicario Gaming|team1score=3|team2score=0
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=8:13
+|blue1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=17|deaths=8|caps=2}}
+|blue2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=21|deaths=9|caps=2}}
+|blue3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=8|deaths=13|caps=2}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=17|deaths=12|caps=2}}
+|blue5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=17|deaths=8|caps=2}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=7|deaths=15|caps=1}}
+|red2={{Scoreboard/Player|name=Exceed|link=Exceed|kills=16|deaths=17|caps=1}}
+|red3={{Scoreboard/Player|name=Linney|link=Linney|kills=7|deaths=16|caps=1}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=10|deaths=16|caps=1}}
+|red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=10|deaths=16|caps=1}}
+}}
+{{Scoreboard|team1=Midnight Esports|team2=Sicario Gaming|team1score=188|team2score=250
+|gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=10:43
+|blue1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=25|deaths=23|time=48}}
+|blue2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=20|deaths=23|time=37}}
+|blue3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=20|deaths=23|time=69}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=26|deaths=24|time=34}}
+|blue5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=22|deaths=24|time=102}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=23|deaths=23|time=109}}
+|red2={{Scoreboard/Player|name=Exceed|link=Exceed|kills=22|deaths=23|time=84}}
+|red3={{Scoreboard/Player|name=Linney|link=Linney|kills=20|deaths=25|time=46}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=28|deaths=20|time=64}}
+|red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=23|deaths=22|time=59}}
+}}
+{{Scoreboard|team1=Midnight Esports|team2=Sicario Gaming|team1score=5|team2score=6
+|gamename=Game 5|map=Gridlock|gamemode=Search and Destroy|maptime=16:9
+|blue1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=4|deaths=9|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=4|deaths=9|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=8|deaths=8|plants=1|defuses=2}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=9|deaths=8|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=9|deaths=9|plants=4|defuses=1}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=6|deaths=6|plants=1|defuses=1}}
+|red2={{Scoreboard/Player|name=Exceed|link=Exceed|kills=13|deaths=7|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Linney|link=Linney|kills=8|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=5|deaths=8|plants=2|defuses=1}}
+|red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=11|deaths=7|plants=1|defuses=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FURY Gaming|Sicario Gaming|title=Black Ops 4|date=2019-08-15|time=1553|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=FURY Gaming|team2=Sicario Gaming|team1score=143|team2score=250
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=9:34
+|blue1={{Scoreboard/Player|name=Demise|link=Demise|kills=17|deaths=25|time=13}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=20|deaths=26|time=46}}
+|blue3={{Scoreboard/Player|name=Hamza|link=Hamza|kills=22|deaths=21|time=95}}
+|blue4={{Scoreboard/Player|name=Ramby|link=Ramby|kills=23|deaths=24|time=30}}
+|blue5={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=18|deaths=28|time=14}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=24|deaths=16|time=97}}
+|red2={{Scoreboard/Player|name=Exceed|link=Exceed|kills=25|deaths=25|time=31}}
+|red3={{Scoreboard/Player|name=Linney|link=Linney|kills=19|deaths=20|time=66}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=30|deaths=21|time=46}}
+|red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=26|deaths=18|time=81}}
+}}
+{{Scoreboard|team1=FURY Gaming|team2=Sicario Gaming|team1score=2|team2score=6
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=11:44
+|blue1={{Scoreboard/Player|name=Demise|link=Demise|kills=2|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=7|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Hamza|link=Hamza|kills=6|deaths=5|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Ramby|link=Ramby|kills=6|deaths=7|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=5|deaths=7|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=9|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Exceed|link=Exceed|kills=13|deaths=4|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Linney|link=Linney|kills=4|deaths=5|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=4|deaths=6|plants=1|defuses=0}}
+|red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=3|deaths=5|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=FURY Gaming|team2=Sicario Gaming|team1score=1|team2score=3
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=11:10
+|blue1={{Scoreboard/Player|name=Demise|link=Demise|kills=12|deaths=13|caps=0}}
+|blue2={{Scoreboard/Player|name=DraMa|link=DraMa|kills=15|deaths=15|caps=0}}
+|blue3={{Scoreboard/Player|name=Hamza|link=Hamza|kills=20|deaths=14|caps=0}}
+|blue4={{Scoreboard/Player|name=Ramby|link=Ramby|kills=13|deaths=21|caps=0}}
+|blue5={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=15|deaths=20|caps=0}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=16|deaths=15|caps=1}}
+|red2={{Scoreboard/Player|name=Exceed|link=Exceed|kills=21|deaths=13|caps=2}}
+|red3={{Scoreboard/Player|name=Linney|link=Linney|kills=18|deaths=13|caps=3}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=16|deaths=16|caps=3}}
+|red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=12|deaths=18|caps=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|100 Thieves|Midnight Esports|title=Black Ops 4|date=2019-08-15|time=1552|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=100 Thieves|team2=Midnight Esports|team1score=248|team2score=250
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:51
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=16|deaths=22|time=79}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=19|deaths=23|time=15}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=14|deaths=20|time=181}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=29|deaths=21|time=55}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=21|deaths=22|time=46}}
+|red1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=24|deaths=17|time=85}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=18|deaths=18|time=74}}
+|red3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=19|deaths=20|time=52}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=22|deaths=24|time=100}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=24|deaths=22|time=22}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Midnight Esports|team1score=6|team2score=5
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=16:18
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=3|deaths=8|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=13|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=7|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=8|deaths=8|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=7|deaths=8|plants=0|defuses=1}}
+|red1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=5|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=8|deaths=7|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=4|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=13|deaths=8|plants=1|defuses=0}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=5|deaths=8|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Midnight Esports|team1score=3|team2score=0
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=5:18
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=4|deaths=3|caps=3}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=17|deaths=5|caps=4}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=10|deaths=4|caps=4}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=12|deaths=5|caps=3}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=8|deaths=3|caps=2}}
+|red1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=4|deaths=12|caps=0}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=4|deaths=9|caps=0}}
+|red3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=6|deaths=10|caps=0}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=3|deaths=9|caps=0}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=3|deaths=11|caps=0}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Midnight Esports|team1score=250|team2score=211
+|gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=10:55
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=27|deaths=19|time=72}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=25|deaths=25|time=69}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=31|deaths=17|time=138}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=32|deaths=26|time=75}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=18|deaths=23|time=119}}
+|red1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=25|deaths=26|time=67}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=17|deaths=24|time=89}}
+|red3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=22|deaths=27|time=44}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=28|deaths=30|time=42}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=18|deaths=27|time=43}}
+}}
+{{Box|end}}

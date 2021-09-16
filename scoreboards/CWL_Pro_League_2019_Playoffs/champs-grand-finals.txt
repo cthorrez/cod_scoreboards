@@ -1,0 +1,84 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|eUnited|Gen.G|title=Black Ops 4|date=2019-07-21|time=1455|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=eUnited|team2=Gen.G|team1score=123|team2score=250
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:25
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=12|deaths=19|time=10}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=13|deaths=16|time=54}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=15|deaths=19|time=51}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=9|deaths=19|time=21}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=15|deaths=16|time=61}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=28|deaths=12|time=68}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=18|deaths=16|time=67}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=17|deaths=12|time=54}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=14|deaths=13|time=78}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=12|deaths=11|time=135}}
+}}
+{{Scoreboard|team1=eUnited|team2=Gen.G|team1score=3|team2score=6
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=12:35
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=8|deaths=8|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=5|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=4|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=6|deaths=7|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=2|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=11|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=9|deaths=5|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=4|deaths=5|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=5|deaths=5|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=7|deaths=6|plants=1|defuses=1}}
+}}
+{{Scoreboard|team1=eUnited|team2=Gen.G|team1score=2|team2score=3
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=13:52
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=16|deaths=24|caps=1}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=22|deaths=17|caps=2}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=11|deaths=26|caps=2}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=19|deaths=26|caps=3}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=15|deaths=16|caps=3}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=21|deaths=19|caps=2}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=27|deaths=18|caps=2}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=18|deaths=16|caps=2}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=14|deaths=16|caps=2}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=29|deaths=15|caps=2}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|eUnited|Gen.G|title=Black Ops 4|date=2019-07-21|time=1553|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=eUnited|team2=Gen.G|team1score=250|team2score=119
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:35
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=18|deaths=15|time=126}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=17|deaths=18|time=76}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=21|deaths=16|time=38}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=22|deaths=19|time=56}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=18|deaths=15|time=118}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=19|deaths=22|time=23}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=18|deaths=21|time=25}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=10|deaths=19|time=35}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=16|deaths=13|time=72}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=20|deaths=21|time=35}}
+}}
+{{Scoreboard|team1=eUnited|team2=Gen.G|team1score=6|team2score=5
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=14:39
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=9|deaths=8|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=9|deaths=6|plants=0|defuses=2}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=9|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=7|deaths=6|plants=2|defuses=1}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=7|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=9|deaths=9|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=2|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=5|deaths=10|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=11|deaths=6|plants=1|defuses=0}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=7|deaths=8|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=eUnited|team2=Gen.G|team1score=3|team2score=0
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=9:27
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=26|deaths=13|caps=2}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=11|deaths=11|caps=2}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=13|deaths=13|caps=1}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=19|deaths=15|caps=1}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=11|deaths=16|caps=2}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=14|deaths=17|caps=1}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=12|deaths=18|caps=1}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=12|deaths=16|caps=0}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=17|deaths=13|caps=1}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=13|deaths=17|caps=1}}
+}}
+{{Box|end}}

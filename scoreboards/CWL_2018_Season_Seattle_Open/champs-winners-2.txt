@@ -1,0 +1,83 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Echo Fox|Evil Geniuses|title=World War II|date=2018-04-22|time=1017|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Echo Fox|team2=Evil Geniuses|team1score=217|team2score=250
+|gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=9:58
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=21|deaths=19|time=136}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=29|deaths=31|time=20}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=27|deaths=26|time=21}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=26|deaths=23|time=74}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=23|deaths=30|time=104}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=22|deaths=30|time=67}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=25|deaths=17|time=103}}
+|red4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=29|deaths=26|time=60}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Evil Geniuses|team1score=2|team2score=6
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=9:0
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=4|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=3|deaths=6|plants=4|defuses=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=5|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=7|deaths=6|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=5|deaths=5|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=4|deaths=4|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=8|deaths=5|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=8|deaths=5|plants=3|defuses=1}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Evil Geniuses|team1score=2|team2score=0
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=9:59
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=28|deaths=16|caps=0|returns=1}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=20|deaths=17|caps=0|returns=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=16|deaths=14|caps=2|returns=1}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=20|deaths=16|caps=0|returns=1}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=17|deaths=18|caps=0|returns=1}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=12|deaths=19|caps=0|returns=0}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=18|deaths=23|caps=0|returns=0}}
+|red4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=16|deaths=24|caps=0|returns=1}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Evil Geniuses|team1score=183|team2score=250
+|gamename=Game 4|map=Valkyrie|gamemode=Hardpoint|maptime=9:39
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=15|deaths=21|time=87}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=25|deaths=30|time=48}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=19|deaths=26|time=55}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=30|deaths=22|time=54}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=23|deaths=24|time=75}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=22|deaths=19|time=138}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=25|deaths=22|time=54}}
+|red4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=29|deaths=24|time=81}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|eUnited|Ghost Gaming|title=World War II|date=2018-04-22|time=1140|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=eUnited|team2=Ghost Gaming|team1score=250|team2score=228
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=12:4
+|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=27|deaths=26|time=121}}
+|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=28|deaths=31|time=39}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=33|deaths=33|time=55}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=34|deaths=27|time=71}}
+|red1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=24|deaths=33|time=62}}
+|red2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=28|deaths=29|time=72}}
+|red3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=30|deaths=32|time=109}}
+|red4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=35|deaths=28|time=52}}
+}}
+{{Scoreboard|team1=eUnited|team2=Ghost Gaming|team1score=6|team2score=3
+|gamename=Game 2|map=USS Texas|gamemode=Search and Destroy|maptime=6:52
+|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=6|deaths=3|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=5|deaths=4|plants=2|defuses=0}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=5|deaths=7|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=11|deaths=5|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=6|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=2|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=4|deaths=7|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=7|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=eUnited|team2=Ghost Gaming|team1score=4|team2score=0
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=9:59
+|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=15|deaths=12|caps=1|returns=0}}
+|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=17|deaths=11|caps=1|returns=2}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=18|deaths=18|caps=0|returns=2}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=16|deaths=10|caps=2|returns=2}}
+|red1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=10|deaths=13|caps=0|returns=2}}
+|red2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=16|deaths=16|caps=0|returns=0}}
+|red3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=16|deaths=18|caps=0|returns=0}}
+|red4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=9|deaths=19|caps=0|returns=1}}
+}}
+{{Box|end}}

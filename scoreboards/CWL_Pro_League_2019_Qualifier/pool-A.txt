@@ -1,0 +1,789 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FC Black|Project 18|title=Black Ops 4|date=2019-01-16|time=1157|timezone=PST|dst=No}}
+{{Scoreboard|team1=FC Black|team2=Project 18|team1score=250|team2score=175
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:50
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=21|deaths=20|time=65}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=15|deaths=16|time=57}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=22|deaths=18|time=87}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=26|deaths=14|time=97}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=20|deaths=12|time=77}}
+|red1={{Scoreboard/Player|name=Apox|link=Apox|kills=27|deaths=18|time=48}}
+|red2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=18|deaths=21|time=42}}
+|red3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=8|deaths=23|time=68}}
+|red4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=13|deaths=24|time=58}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=14|deaths=18|time=57}}
+}}
+{{Scoreboard|team1=FC Black|team2=Project 18|team1score=6|team2score=3
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=10:31
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=14|deaths=5|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=9|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=7|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=5|deaths=4|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=1|deaths=5|plants=4|defuses=0}}
+|red1={{Scoreboard/Player|name=Apox|link=Apox|kills=6|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=4|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=6|deaths=7|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=6|deaths=8|plants=1|defuses=0}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=3|deaths=7|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=FC Black|team2=Project 18|team1score=1|team2score=3
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=13:48
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=22|deaths=26|caps=1}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=21|deaths=19|caps=2}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=15|deaths=25|caps=1}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=23|deaths=20|caps=2}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=16|deaths=20|caps=2}}
+|red1={{Scoreboard/Player|name=Apox|link=Apox|kills=14|deaths=20|caps=1}}
+|red2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=17|deaths=20|caps=2}}
+|red3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=28|deaths=16|caps=2}}
+|red4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=18|deaths=21|caps=2}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=33|deaths=20|caps=2}}
+}}
+{{Scoreboard|team1=FC Black|team2=Project 18|team1score=250|team2score=118
+|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=8:2
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=28|deaths=16|time=41}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=20|deaths=12|time=57}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=16|deaths=14|time=85}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=19|deaths=16|time=33}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=15|deaths=11|time=90}}
+|red1={{Scoreboard/Player|name=Apox|link=Apox|kills=13|deaths=22|time=28}}
+|red2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=13|deaths=20|time=26}}
+|red3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=13|deaths=17|time=18}}
+|red4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=12|deaths=21|time=50}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=18|deaths=18|time=46}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Team Reciprocity|Team Sween|title=Black Ops 4|date=2019-01-16|time=1201|timezone=PST|dst=No}}
+{{Scoreboard|team1=Team Reciprocity|team2=Team Sween|team1score=250|team2score=241
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:48
+|blue1={{Scoreboard/Player|name=Denz|link=Denz|kills=15|deaths=23|time=119}}
+|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=21|deaths=23|time=85}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=24|deaths=24|time=36}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=20|deaths=25|time=32}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=30|deaths=21|time=68}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=34|deaths=19|time=120}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=25|deaths=23|time=64}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=14|deaths=21|time=64}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=21|deaths=25|time=36}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=22|deaths=23|time=64}}
+}}
+{{Scoreboard|team1=Team Reciprocity|team2=Team Sween|team1score=6|team2score=0
+|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=6:12
+|blue1={{Scoreboard/Player|name=Denz|link=Denz|kills=4|deaths=1|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=3|deaths=1|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=12|deaths=1|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=4|deaths=3|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=6|deaths=1|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=0|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=1|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=1|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=4|deaths=5|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=1|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Team Reciprocity|team2=Team Sween|team1score=3|team2score=0
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=9:21
+|blue1={{Scoreboard/Player|name=Denz|link=Denz|kills=10|deaths=13|caps=1}}
+|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=20|deaths=11|caps=2}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=19|deaths=18|caps=1}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=20|deaths=12|caps=2}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=21|deaths=13|caps=1}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=8|deaths=18|caps=0}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=19|deaths=17|caps=0}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=21|deaths=23|caps=0}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=6|deaths=19|caps=0}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=13|deaths=13|caps=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Project 18|Team Divine|title=Black Ops 4|date=2019-01-16|time=1457|timezone=PST|dst=No}}
+{{Scoreboard|team1=Project 18|team2=Team Divine|team1score=216|team2score=250
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:16
+|blue1={{Scoreboard/Player|name=Apox|link=Apox|kills=23|deaths=24|time=73}}
+|blue2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=20|deaths=23|time=100}}
+|blue3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=16|deaths=21|time=72}}
+|blue4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=19|deaths=24|time=60}}
+|blue5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=33|deaths=22|time=55}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=23|deaths=21|time=54}}
+|red2={{Scoreboard/Player|name=Deleo|link=Deleo|kills=17|deaths=21|time=56}}
+|red3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=23|deaths=25|time=52}}
+|red4={{Scoreboard/Player|name=Keza|link=Keza|kills=17|deaths=23|time=100}}
+|red5={{Scoreboard/Player|name=Niall|link=Niall|kills=34|deaths=21|time=81}}
+}}
+{{Scoreboard|team1=Project 18|team2=Team Divine|team1score=6|team2score=5
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=17:23
+|blue1={{Scoreboard/Player|name=Apox|link=Apox|kills=6|deaths=9|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=10|deaths=7|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=7|deaths=7|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=9|deaths=6|plants=2|defuses=2}}
+|blue5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=7|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=11|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Deleo|link=Deleo|kills=5|deaths=7|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=3|deaths=9|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Keza|link=Keza|kills=5|deaths=6|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Niall|link=Niall|kills=13|deaths=10|plants=4|defuses=0}}
+}}
+{{Scoreboard|team1=Project 18|team2=Team Divine|team1score=3|team2score=1
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=12:22
+|blue1={{Scoreboard/Player|name=Apox|link=Apox|kills=17|deaths=17|caps=2}}
+|blue2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=20|deaths=16|caps=2}}
+|blue3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=29|deaths=10|caps=2}}
+|blue4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=14|deaths=22|caps=2}}
+|blue5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=20|deaths=19|caps=3}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=21|deaths=22|caps=1}}
+|red2={{Scoreboard/Player|name=Deleo|link=Deleo|kills=18|deaths=21|caps=1}}
+|red3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=13|deaths=19|caps=1}}
+|red4={{Scoreboard/Player|name=Keza|link=Keza|kills=17|deaths=17|caps=1}}
+|red5={{Scoreboard/Player|name=Niall|link=Niall|kills=15|deaths=22|caps=1}}
+}}
+{{Scoreboard|team1=Project 18|team2=Team Divine|team1score=250|team2score=230
+|gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=11:35
+|blue1={{Scoreboard/Player|name=Apox|link=Apox|kills=12|deaths=31|time=80}}
+|blue2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=34|deaths=20|time=76}}
+|blue3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=27|deaths=23|time=87}}
+|blue4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=32|deaths=29|time=74}}
+|blue5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=27|deaths=28|time=41}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=21|deaths=28|time=28}}
+|red2={{Scoreboard/Player|name=Deleo|link=Deleo|kills=31|deaths=22|time=96}}
+|red3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=20|deaths=27|time=58}}
+|red4={{Scoreboard/Player|name=Keza|link=Keza|kills=19|deaths=30|time=55}}
+|red5={{Scoreboard/Player|name=Niall|link=Niall|kills=40|deaths=25|time=112}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Enigma6 Group|FaZe Clan|title=Black Ops 4|date=2019-01-16|time=1513|timezone=PST|dst=No}}
+{{Scoreboard|team1=Enigma6 Group|team2=FaZe Clan|team1score=250|team2score=198
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:51
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=22|deaths=21|time=71}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=24|deaths=20|time=77}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=30|deaths=16|time=75}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=24|deaths=23|time=72}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=20|deaths=27|time=59}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=28|deaths=21|time=63}}
+|red2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=21|deaths=21|time=111}}
+|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=11|deaths=29|time=39}}
+|red4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=25|deaths=23|time=8}}
+|red5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=22|deaths=26|time=18}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=FaZe Clan|team1score=6|team2score=2
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=10:58
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=8|deaths=3|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=6|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=5|deaths=8|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=5|deaths=6|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=10|deaths=4|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=6|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=5|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=4|deaths=7|plants=2|defuses=0}}
+|red4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=10|deaths=5|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=1|deaths=8|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=FaZe Clan|team1score=2|team2score=3
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=16:30
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=18|deaths=27|caps=1}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=22|deaths=23|caps=2}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=16|deaths=23|caps=3}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=23|deaths=23|caps=2}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=30|deaths=26|caps=3}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=22|deaths=21|caps=4}}
+|red2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=22|deaths=23|caps=5}}
+|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=28|deaths=24|caps=3}}
+|red4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=24|deaths=20|caps=5}}
+|red5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=26|deaths=21|caps=3}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=FaZe Clan|team1score=250|team2score=169
+|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=9:44
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=17|deaths=22|time=45}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=24|deaths=18|time=30}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=25|deaths=17|time=89}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=22|deaths=20|time=80}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=25|deaths=13|time=81}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=20|deaths=22|time=29}}
+|red2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=16|deaths=21|time=79}}
+|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=10|deaths=25|time=32}}
+|red4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=24|deaths=21|time=80}}
+|red5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=20|deaths=24|time=58}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Enigma6 Group|Team Reciprocity|title=Black Ops 4|date=2019-01-17|time=1008|timezone=PST|dst=No}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team Reciprocity|team1score=94|team2score=250
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:6
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=10|deaths=23|time=18}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=21|deaths=21|time=34}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=14|deaths=20|time=33}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=15|deaths=19|time=38}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=19|deaths=24|time=25}}
+|red1={{Scoreboard/Player|name=Denz|link=Denz|kills=22|deaths=15|time=83}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=10|deaths=18|time=46}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=25|deaths=16|time=26}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=20|deaths=14|time=111}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=30|deaths=16|time=18}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team Reciprocity|team1score=4|team2score=6
+|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=14:20
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=8|deaths=8|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=3|deaths=8|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=5|deaths=10|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=4|deaths=9|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=12|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Denz|link=Denz|kills=7|deaths=6|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=9|deaths=6|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=15|deaths=6|plants=2|defuses=0}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=3|deaths=7|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=8|deaths=8|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team Reciprocity|team1score=3|team2score=2
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=16:22
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=20|deaths=22|caps=2}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=26|deaths=27|caps=2}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=30|deaths=23|caps=3}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=21|deaths=24|caps=2}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=27|deaths=22|caps=2}}
+|red1={{Scoreboard/Player|name=Denz|link=Denz|kills=21|deaths=25|caps=3}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=26|deaths=22|caps=4}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=24|deaths=29|caps=0}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=26|deaths=23|caps=3}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=21|deaths=25|caps=3}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team Reciprocity|team1score=250|team2score=225
+|gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=11:59
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=39|deaths=30|time=67}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=24|deaths=27|time=65}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=27|deaths=25|time=118}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=25|deaths=27|time=34}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=41|deaths=29|time=81}}
+|red1={{Scoreboard/Player|name=Denz|link=Denz|kills=30|deaths=33|time=33}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=29|deaths=29|time=56}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=28|deaths=35|time=60}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=22|deaths=28|time=69}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=29|deaths=31|time=78}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team Reciprocity|team1score=5|team2score=6
+|gamename=Game 5|map=Arsenal|gamemode=Search and Destroy|maptime=17:18
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=8|deaths=9|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=7|deaths=6|plants=1|defuses=1}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=5|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=10|deaths=6|plants=1|defuses=1}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=9|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Denz|link=Denz|kills=13|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=4|deaths=9|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=10|deaths=6|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=7|deaths=7|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=2|deaths=9|plants=2|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FaZe Clan|Project 18|title=Black Ops 4|date=2019-01-17|time=1018|timezone=PST|dst=No}}
+{{Scoreboard|team1=FaZe Clan|team2=Project 18|team1score=212|team2score=250
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:19
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=26|deaths=21|time=62}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=22|deaths=24|time=121}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=16|deaths=27|time=46}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=27|deaths=20|time=17}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=23|deaths=25|time=46}}
+|red1={{Scoreboard/Player|name=Apox|link=Apox|kills=27|deaths=19|time=87}}
+|red2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=20|deaths=22|time=106}}
+|red3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=26|deaths=20|time=55}}
+|red4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=24|deaths=30|time=54}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=20|deaths=23|time=78}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Project 18|team1score=4|team2score=6
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=14:53
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=9|deaths=7|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=9|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=6|deaths=8|plants=2|defuses=0}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=5|deaths=8|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=4|deaths=9|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Apox|link=Apox|kills=6|deaths=6|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=3|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=5|deaths=6|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=11|deaths=7|plants=2|defuses=0}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=15|deaths=6|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Project 18|team1score=3|team2score=0
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=9:34
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=14|deaths=12|caps=1}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=15|deaths=11|caps=1}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=19|deaths=14|caps=1}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=23|deaths=17|caps=1}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=18|deaths=13|caps=1}}
+|red1={{Scoreboard/Player|name=Apox|link=Apox|kills=9|deaths=17|caps=2}}
+|red2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=14|deaths=14|caps=0}}
+|red3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=13|deaths=16|caps=2}}
+|red4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=11|deaths=20|caps=2}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=20|deaths=22|caps=1}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Project 18|team1score=209|team2score=250
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=10:3
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=22|deaths=21|time=30}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=26|deaths=28|time=24}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=12|deaths=27|time=55}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=25|deaths=23|time=45}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=20|deaths=24|time=116}}
+|red1={{Scoreboard/Player|name=Apox|link=Apox|kills=20|deaths=22|time=100}}
+|red2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=26|deaths=23|time=94}}
+|red3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=24|deaths=17|time=85}}
+|red4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=24|deaths=26|time=35}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=29|deaths=17|time=58}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FC Black|Team Sween|title=Black Ops 4|date=2019-01-17|time=1418|timezone=PST|dst=No}}
+{{Scoreboard|team1=FC Black|team2=Team Sween|team1score=2|team2score=3
+|gamename=Game 1|map=Arsenal|gamemode=Control|maptime=13:8
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=15|deaths=27|caps=2}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=20|deaths=22|caps=1}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=12|deaths=20|caps=2}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=28|deaths=18|caps=2}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=16|deaths=19|caps=2}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=25|deaths=16|caps=3}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=29|deaths=17|caps=3}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=19|deaths=19|caps=3}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=17|deaths=21|caps=2}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=16|deaths=19|caps=2}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FC Black|Team Divine|title=Black Ops 4|date=2019-01-18|time=0905|timezone=PST|dst=No}}
+{{Scoreboard|team1=FC Black|team2=Team Divine|team1score=250|team2score=98
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=7:31
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=22|deaths=16|time=58}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=28|deaths=13|time=87}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=9|deaths=15|time=94}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=18|deaths=16|time=64}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=20|deaths=11|time=153}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=17|deaths=22|time=23}}
+|red2={{Scoreboard/Player|name=Deleo|link=Deleo|kills=19|deaths=17|time=26}}
+|red3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=9|deaths=21|time=17}}
+|red4={{Scoreboard/Player|name=Keza|link=Keza|kills=10|deaths=21|time=36}}
+|red5={{Scoreboard/Player|name=Niall|link=Niall|kills=16|deaths=16|time=36}}
+}}
+{{Scoreboard|team1=FC Black|team2=Team Divine|team1score=6|team2score=2
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=10:7
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=11|deaths=4|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=12|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=5|deaths=3|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=3|deaths=4|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=7|deaths=7|plants=2|defuses=1}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=8|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Deleo|link=Deleo|kills=4|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=3|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Keza|link=Keza|kills=1|deaths=8|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Niall|link=Niall|kills=8|deaths=8|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=FC Black|team2=Team Divine|team1score=3|team2score=0
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=8:10
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=17|deaths=16|caps=2}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=9|deaths=12|caps=1}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=20|deaths=9|caps=1}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=21|deaths=7|caps=2}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=13|deaths=9|caps=2}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=12|deaths=16|caps=0}}
+|red2={{Scoreboard/Player|name=Deleo|link=Deleo|kills=4|deaths=14|caps=0}}
+|red3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=10|deaths=19|caps=0}}
+|red4={{Scoreboard/Player|name=Keza|link=Keza|kills=11|deaths=15|caps=0}}
+|red5={{Scoreboard/Player|name=Niall|link=Niall|kills=16|deaths=16|caps=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Enigma6 Group|Project 18|title=Black Ops 4|date=2019-01-18|time=1140|timezone=PST|dst=No}}
+{{Scoreboard|team1=Enigma6 Group|team2=Project 18|team1score=250|team2score=241
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:50
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=21|deaths=21|time=76}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=23|deaths=22|time=66}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=24|deaths=20|time=98}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=19|deaths=27|time=35}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=26|deaths=21|time=58}}
+|red1={{Scoreboard/Player|name=Apox|link=Apox|kills=27|deaths=21|time=80}}
+|red2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=21|deaths=24|time=61}}
+|red3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=23|deaths=19|time=93}}
+|red4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=19|deaths=26|time=70}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=21|deaths=23|time=80}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Project 18|team1score=6|team2score=4
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=17:3
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=5|deaths=5|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=5|deaths=6|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=5|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=5|deaths=7|plants=1|defuses=1}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=13|deaths=6|plants=1|defuses=1}}
+|red1={{Scoreboard/Player|name=Apox|link=Apox|kills=7|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=4|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=6|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=8|deaths=7|plants=2|defuses=0}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=5|deaths=7|plants=2|defuses=1}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Project 18|team1score=1|team2score=3
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=12:46
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=18|deaths=17|caps=2}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=12|deaths=20|caps=1}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=17|deaths=21|caps=2}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=19|deaths=22|caps=2}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=28|deaths=23|caps=2}}
+|red1={{Scoreboard/Player|name=Apox|link=Apox|kills=17|deaths=21|caps=0}}
+|red2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=27|deaths=17|caps=1}}
+|red3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=20|deaths=17|caps=0}}
+|red4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=17|deaths=23|caps=1}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=22|deaths=17|caps=1}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Project 18|team1score=250|team2score=227
+|gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=12:14
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=26|deaths=24|time=77}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=27|deaths=23|time=71}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=33|deaths=26|time=103}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=19|deaths=31|time=35}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=41|deaths=31|time=62}}
+|red1={{Scoreboard/Player|name=Apox|link=Apox|kills=20|deaths=33|time=67}}
+|red2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=17|deaths=30|time=56}}
+|red3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=28|deaths=27|time=60}}
+|red4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=27|deaths=31|time=52}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=43|deaths=26|time=53}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FC Black|Team Reciprocity|title=Black Ops 4|date=2019-01-18|time=1146|timezone=PST|dst=No}}
+{{Scoreboard|team1=FC Black|team2=Team Reciprocity|team1score=223|team2score=250
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:10
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=18|deaths=29|time=54}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=18|deaths=21|time=82}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=23|deaths=24|time=88}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=27|deaths=16|time=111}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=15|deaths=25|time=38}}
+|red1={{Scoreboard/Player|name=Denz|link=Denz|kills=24|deaths=20|time=90}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=24|deaths=20|time=63}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=24|deaths=19|time=32}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=22|deaths=24|time=34}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=21|deaths=18|time=99}}
+}}
+{{Scoreboard|team1=FC Black|team2=Team Reciprocity|team1score=6|team2score=2
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=11:14
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=8|deaths=4|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=7|deaths=5|plants=1|defuses=1}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=12|deaths=5|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=8|deaths=3|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=4|deaths=5|plants=2|defuses=0}}
+|red1={{Scoreboard/Player|name=Denz|link=Denz|kills=4|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=3|deaths=8|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=2|deaths=7|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=4|deaths=8|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=9|deaths=8|plants=0|defuses=1}}
+}}
+{{Scoreboard|team1=FC Black|team2=Team Reciprocity|team1score=3|team2score=0
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=7:30
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=11|deaths=10|caps=2}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=15|deaths=7|caps=2}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=13|deaths=5|caps=1}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=17|deaths=6|caps=2}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=7|deaths=8|caps=2}}
+|red1={{Scoreboard/Player|name=Denz|link=Denz|kills=6|deaths=11|caps=0}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=4|deaths=12|caps=0}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=9|deaths=16|caps=0}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=10|deaths=12|caps=0}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=7|deaths=13|caps=0}}
+}}
+{{Scoreboard|team1=FC Black|team2=Team Reciprocity|team1score=250|team2score=188
+|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=9:43
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=21|deaths=21|time=77}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=11|deaths=18|time=104}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=22|deaths=21|time=48}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=30|deaths=19|time=24}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=23|deaths=17|time=102}}
+|red1={{Scoreboard/Player|name=Denz|link=Denz|kills=17|deaths=20|time=26}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=13|deaths=24|time=47}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=24|deaths=23|time=36}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=19|deaths=19|time=54}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=23|deaths=21|time=114}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FaZe Clan|Team Reciprocity|title=Black Ops 4|date=2019-01-18|time=1428|timezone=PST|dst=No}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Reciprocity|team1score=215|team2score=250
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:6
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=13|deaths=25|time=12}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=23|deaths=19|time=40}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=17|deaths=18|time=74}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=31|deaths=22|time=86}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=23|deaths=22|time=57}}
+|red1={{Scoreboard/Player|name=Denz|link=Denz|kills=16|deaths=22|time=100}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=23|deaths=21|time=76}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=15|deaths=27|time=78}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=22|deaths=19|time=32}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=30|deaths=19|time=66}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Reciprocity|team1score=5|team2score=6
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=15:40
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=9|deaths=9|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=9|deaths=8|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=5|deaths=9|plants=3|defuses=0}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=8|deaths=9|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=7|deaths=9|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Denz|link=Denz|kills=4|deaths=7|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=9|deaths=7|plants=1|defuses=2}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=9|deaths=8|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=9|deaths=8|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=13|deaths=8|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Reciprocity|team1score=1|team2score=3
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=11:59
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=14|deaths=15|caps=1}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=12|deaths=20|caps=1}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=17|deaths=14|caps=1}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=16|deaths=19|caps=1}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=16|deaths=22|caps=1}}
+|red1={{Scoreboard/Player|name=Denz|link=Denz|kills=14|deaths=19|caps=0}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=14|deaths=9|caps=2}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=15|deaths=18|caps=1}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=16|deaths=15|caps=1}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=31|deaths=14|caps=2}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FaZe Clan|Team Divine|title=Black Ops 4|date=2019-01-19|time=1015|timezone=PST|dst=No}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Divine|team1score=177|team2score=250
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:50
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=29|deaths=25|time=31}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=17|deaths=25|time=71}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=15|deaths=20|time=82}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=21|deaths=24|time=22}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=20|deaths=27|time=54}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=23|deaths=22|time=62}}
+|red2={{Scoreboard/Player|name=Deleo|link=Deleo|kills=30|deaths=16|time=116}}
+|red3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=15|deaths=22|time=69}}
+|red4={{Scoreboard/Player|name=Keza|link=Keza|kills=17|deaths=22|time=84}}
+|red5={{Scoreboard/Player|name=Niall|link=Niall|kills=36|deaths=21|time=61}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Divine|team1score=2|team2score=6
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=9:11
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=3|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=5|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=6|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=3|deaths=6|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=4|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=11|deaths=3|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Deleo|link=Deleo|kills=7|deaths=2|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=6|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Keza|link=Keza|kills=2|deaths=5|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Niall|link=Niall|kills=6|deaths=5|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Divine|team1score=3|team2score=1
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=12:41
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=25|deaths=18|caps=0}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=24|deaths=20|caps=2}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=18|deaths=20|caps=2}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=27|deaths=23|caps=1}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=21|deaths=21|caps=2}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=13|deaths=27|caps=1}}
+|red2={{Scoreboard/Player|name=Deleo|link=Deleo|kills=22|deaths=22|caps=1}}
+|red3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=18|deaths=24|caps=1}}
+|red4={{Scoreboard/Player|name=Keza|link=Keza|kills=18|deaths=21|caps=1}}
+|red5={{Scoreboard/Player|name=Niall|link=Niall|kills=31|deaths=21|caps=1}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Divine|team1score=250|team2score=120
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=8:10
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=17|deaths=13|time=77}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=21|deaths=18|time=30}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=21|deaths=15|time=119}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=16|deaths=18|time=52}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=18|deaths=19|time=59}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=11|deaths=20|time=23}}
+|red2={{Scoreboard/Player|name=Deleo|link=Deleo|kills=22|deaths=19|time=19}}
+|red3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=13|deaths=17|time=22}}
+|red4={{Scoreboard/Player|name=Keza|link=Keza|kills=15|deaths=20|time=47}}
+|red5={{Scoreboard/Player|name=Niall|link=Niall|kills=22|deaths=17|time=56}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Divine|team1score=6|team2score=1
+|gamename=Game 5|map=Gridlock|gamemode=Search and Destroy|maptime=8:18
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=9|deaths=1|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=7|deaths=4|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=6|deaths=1|plants=1|defuses=1}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=2|deaths=2|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=8|deaths=5|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=3|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Deleo|link=Deleo|kills=1|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=3|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Keza|link=Keza|kills=3|deaths=7|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Niall|link=Niall|kills=3|deaths=7|plants=2|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Enigma6 Group|Team Sween|title=Black Ops 4|date=2019-01-19|time=1016|timezone=PST|dst=No}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team Sween|team1score=250|team2score=160
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=9:46
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=14|deaths=21|time=70}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=28|deaths=16|time=68}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=28|deaths=17|time=98}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=24|deaths=20|time=62}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=27|deaths=22|time=70}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=19|deaths=21|time=28}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=34|deaths=25|time=45}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=14|deaths=22|time=68}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=14|deaths=27|time=50}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=15|deaths=26|time=28}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team Sween|team1score=6|team2score=2
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=8:49
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=7|deaths=4|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=4|deaths=4|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=5|deaths=3|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=4|deaths=4|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=11|deaths=3|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=1|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=2|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=2|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=6|deaths=6|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=7|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team Sween|team1score=2|team2score=3
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=17:8
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=21|deaths=27|caps=3}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=24|deaths=24|caps=3}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=21|deaths=22|caps=2}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=24|deaths=23|caps=3}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=32|deaths=28|caps=3}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=20|deaths=23|caps=4}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=38|deaths=26|caps=4}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=22|deaths=20|caps=4}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=22|deaths=26|caps=5}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=22|deaths=27|caps=3}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=Team Sween|team1score=250|team2score=244
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=11:35
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=14|deaths=28|time=40}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=28|deaths=20|time=87}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=18|deaths=32|time=63}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=27|deaths=22|time=82}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=34|deaths=26|time=59}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=27|deaths=21|time=113}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=29|deaths=21|time=108}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=18|deaths=27|time=71}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=30|deaths=23|time=43}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=24|deaths=29|time=32}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Project 18|Team Reciprocity|title=Black Ops 4|date=2019-01-19|time=1312|timezone=PST|dst=No}}
+{{Scoreboard|team1=Project 18|team2=Team Reciprocity|team1score=33|team2score=250
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=6:21
+|blue1={{Scoreboard/Player|name=Apox|link=Apox|kills=10|deaths=17|time=6}}
+|blue2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=6|deaths=15|time=2}}
+|blue3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=6|deaths=18|time=9}}
+|blue4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=13|deaths=16|time=21}}
+|blue5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=8|deaths=18|time=4}}
+|red1={{Scoreboard/Player|name=Denz|link=Denz|kills=15|deaths=10|time=68}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=17|deaths=9|time=73}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=15|deaths=9|time=41}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=21|deaths=7|time=119}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=16|deaths=8|time=60}}
+}}
+{{Scoreboard|team1=Project 18|team2=Team Reciprocity|team1score=3|team2score=6
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=14:21
+|blue1={{Scoreboard/Player|name=Apox|link=Apox|kills=6|deaths=6|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Ramby|link=Ramby|kills=9|deaths=9|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Super|link=Super (Tanner Bowen)|kills=3|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=6|deaths=7|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=5|deaths=8|plants=0|defuses=1}}
+|red1={{Scoreboard/Player|name=Denz|link=Denz|kills=3|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=4|deaths=6|plants=2|defuses=0}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=5|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=11|deaths=5|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=14|deaths=3|plants=2|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Enigma6 Group|FC Black|title=Black Ops 4|date=2019-01-19|time=1413|timezone=PST|dst=No}}
+{{Scoreboard|team1=Enigma6 Group|team2=FC Black|team1score=6|team2score=5
+|gamename=Game 1|map=Hacienda|gamemode=Search and Destroy|maptime=18:28
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=5|deaths=8|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=8|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=11|deaths=5|plants=1|defuses=1}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=3|deaths=9|plants=1|defuses=1}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=9|deaths=9|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Asim|link=Asim|kills=8|deaths=9|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=5|deaths=8|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=8|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=9|deaths=6|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=7|deaths=7|plants=2|defuses=1}}
+}}
+{{Scoreboard|team1=Enigma6 Group|team2=FC Black|team1score=3|team2score=2
+|gamename=Game 2|map=Arsenal|gamemode=Control|maptime=16:10
+|blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=21|deaths=23|caps=3}}
+|blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=23|deaths=18|caps=3}}
+|blue3={{Scoreboard/Player|name=General|link=General|kills=30|deaths=20|caps=3}}
+|blue4={{Scoreboard/Player|name=Kade|link=Kade|kills=21|deaths=21|caps=3}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=28|deaths=21|caps=2}}
+|red1={{Scoreboard/Player|name=Asim|link=Asim|kills=28|deaths=26|caps=2}}
+|red2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=25|deaths=26|caps=1}}
+|red3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=19|deaths=23|caps=3}}
+|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=17|deaths=23|caps=3}}
+|red5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=14|deaths=25|caps=3}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FaZe Clan|Team Sween|title=Black Ops 4|date=2019-01-19|time=1530|timezone=PST|dst=No}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Sween|team1score=188|team2score=250
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:50
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=19|deaths=25|time=52}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=28|deaths=23|time=43}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=16|deaths=22|time=62}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=20|deaths=25|time=61}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=19|deaths=24|time=22}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=24|deaths=20|time=74}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=28|deaths=20|time=64}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=28|deaths=22|time=102}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=21|deaths=19|time=81}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=18|deaths=21|time=31}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Sween|team1score=6|team2score=2
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=10:40
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=8|deaths=4|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=9|deaths=3|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=6|deaths=3|plants=1|defuses=1}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=5|deaths=6|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=5|deaths=6|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=4|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=2|deaths=8|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=7|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=3|deaths=7|plants=1|defuses=0}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=6|deaths=6|plants=0|defuses=1}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Sween|team1score=3|team2score=1
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=12:7
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=21|deaths=14|caps=3}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=27|deaths=12|caps=2}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=11|deaths=17|caps=1}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=24|deaths=18|caps=3}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=22|deaths=17|caps=2}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=7|deaths=18|caps=2}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=22|deaths=25|caps=1}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=18|deaths=22|caps=1}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=10|deaths=22|caps=2}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=21|deaths=19|caps=1}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Sween|team1score=227|team2score=250
+|gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=10:22
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=17|deaths=24|time=44}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=26|deaths=23|time=99}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=17|deaths=22|time=50}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=20|deaths=21|time=64}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=26|deaths=23|time=65}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=13|deaths=21|time=54}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=34|deaths=20|time=58}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=22|deaths=22|time=104}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=23|deaths=22|time=96}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=21|deaths=21|time=61}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Sween|team1score=6|team2score=2
+|gamename=Game 5|map=Gridlock|gamemode=Search and Destroy|maptime=10:11
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=5|deaths=5|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=10|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=4|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=9|deaths=4|plants=2|defuses=0}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=3|deaths=6|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=3|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=9|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=8|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=4|deaths=6|plants=1|defuses=0}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=3|deaths=6|plants=0|defuses=0}}
+}}
+{{Box|end}}

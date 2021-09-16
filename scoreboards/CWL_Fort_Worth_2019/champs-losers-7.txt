@@ -1,0 +1,68 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Team Reciprocity|Splyce|title=Black Ops 4|date=2019-03-17|time=1305|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Team Reciprocity|team2=Splyce|team1score=250|team2score=208
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=9:38
+|blue1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=24|deaths=20|time=31}}
+|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=21|deaths=15|time=63}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=27|deaths=16|time=122}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=19|deaths=18|time=55}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=5|deaths=21|time=72}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=17|deaths=14|time=102}}
+|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=17|deaths=18|time=43}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=12|deaths=23|time=47}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=20|deaths=21|time=47}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=24|deaths=20|time=11}}
+}}
+{{Scoreboard|team1=Team Reciprocity|team2=Splyce|team1score=6|team2score=2
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=9:41
+|blue1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=13|deaths=3|plants=1|defuses=1}}
+|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=8|deaths=4|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=3|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=2|deaths=6|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=7|deaths=5|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=2|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=7|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=7|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=1|deaths=7|plants=2|defuses=0}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=6|deaths=7|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Team Reciprocity|team2=Splyce|team1score=1|team2score=3
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=12:49
+|blue1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=20|deaths=16|caps=2}}
+|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=23|deaths=18|caps=2}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=17|deaths=21|caps=2}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=12|deaths=19|caps=1}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=10|deaths=19|caps=2}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=14|deaths=14|caps=3}}
+|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=21|deaths=19|caps=2}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=24|deaths=16|caps=2}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=13|deaths=17|caps=3}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=19|deaths=17|caps=2}}
+}}
+{{Scoreboard|team1=Team Reciprocity|team2=Splyce|team1score=179|team2score=250
+|gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=10:50
+|blue1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=33|deaths=26|time=37}}
+|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=17|deaths=26|time=58}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=20|deaths=26|time=50}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=19|deaths=24|time=49}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=12|deaths=29|time=66}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=29|deaths=24|time=127}}
+|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=26|deaths=14|time=111}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=24|deaths=18|time=92}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=29|deaths=21|time=44}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=23|deaths=24|time=57}}
+}}
+{{Scoreboard|team1=Team Reciprocity|team2=Splyce|team1score=4|team2score=6
+|gamename=Game 5|map=Frequency|gamemode=Search and Destroy|maptime=14:5
+|blue1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=6|deaths=9|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=5|deaths=7|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=6|deaths=9|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=7|deaths=9|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=9|deaths=8|plants=2|defuses=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=7|deaths=4|plants=0|defuses=2}}
+|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=9|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=6|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=7|deaths=8|plants=3|defuses=0}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=9|deaths=7|plants=0|defuses=0}}
+}}
+{{Box|end}}

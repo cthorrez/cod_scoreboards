@@ -1,0 +1,265 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Team Heretics|UYU|title=Black Ops 4|date=2019-05-03|time=0830|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Team Heretics|team2=UYU|team1score=3|team2score=0
+|gamename=Game 1|map=Arsenal|gamemode=Control|maptime=8:52
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=17|deaths=11|caps=3}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=14|deaths=13|caps=1}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=13|deaths=9|caps=3}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=14|deaths=12|caps=3}}
+|blue5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=20|deaths=12|caps=2}}
+|red1={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=19|deaths=13|caps=0}}
+|red2={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=10|deaths=16|caps=0}}
+|red3={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=7|deaths=16|caps=0}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=11|deaths=17|caps=0}}
+|red5={{Scoreboard/Player|name=Royalty|link=Royalty|kills=9|deaths=16|caps=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Elevate|Midnight Esports|title=Black Ops 4|date=2019-05-03|time=0831|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Elevate|team2=Midnight Esports|team1score=2|team2score=3
+|gamename=Game 1|map=Arsenal|gamemode=Control|maptime=16:46
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=24|deaths=24|caps=2}}
+|blue2={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=23|deaths=22|caps=0}}
+|blue3={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=20|deaths=26|caps=1}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=36|deaths=17|caps=2}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=14|deaths=27|caps=2}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=22|deaths=27|caps=2}}
+|red2={{Scoreboard/Player|name=Knight|link=Knight|kills=20|deaths=27|caps=3}}
+|red3={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=30|deaths=19|caps=3}}
+|red4={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=20|deaths=20|caps=3}}
+|red5={{Scoreboard/Player|name=Parasite|link=Parasite|kills=24|deaths=24|caps=1}}
+}}
+{{Scoreboard|team1=Elevate|team2=Midnight Esports|team1score=250|team2score=207
+|gamename=Game 2|map=Seaside|gamemode=Hardpoint|maptime=10:29
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=20|deaths=25|time=82}}
+|blue2={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=25|deaths=23|time=71}}
+|blue3={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=28|deaths=23|time=63}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=23|deaths=15|time=93}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=16|deaths=22|time=98}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=29|deaths=24|time=59}}
+|red2={{Scoreboard/Player|name=Knight|link=Knight|kills=13|deaths=21|time=118}}
+|red3={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=17|deaths=23|time=32}}
+|red4={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=24|deaths=23|time=40}}
+|red5={{Scoreboard/Player|name=Parasite|link=Parasite|kills=25|deaths=21|time=65}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Elevate|Team Heretics|title=Black Ops 4|date=2019-05-03|time=1054|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Elevate|team2=Team Heretics|team1score=122|team2score=250
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:15
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=14|deaths=20|time=23}}
+|blue2={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=14|deaths=16|time=27}}
+|blue3={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=17|deaths=18|time=43}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=19|deaths=18|time=65}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=12|deaths=17|time=34}}
+|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=19|deaths=17|time=74}}
+|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=24|deaths=13|time=20}}
+|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=15|deaths=17|time=71}}
+|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=14|deaths=14|time=76}}
+|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=17|deaths=15|time=111}}
+}}
+{{Scoreboard|team1=Elevate|team2=Team Heretics|team1score=5|team2score=6
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=16:35
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=6|deaths=7|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=6|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=10|deaths=6|plants=2|defuses=2}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=8|deaths=6|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=3|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=9|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=5|deaths=7|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=4|deaths=8|plants=5|defuses=0}}
+|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=9|deaths=7|plants=0|defuses=1}}
+|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=5|deaths=5|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Elevate|team2=Team Heretics|team1score=2|team2score=3
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=15:24
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=20|deaths=26|caps=2}}
+|blue2={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=25|deaths=22|caps=0}}
+|blue3={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=31|deaths=20|caps=2}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=17|deaths=25|caps=1}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=28|deaths=19|caps=1}}
+|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=26|deaths=25|caps=4}}
+|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=22|deaths=24|caps=4}}
+|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=19|deaths=26|caps=4}}
+|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=26|deaths=25|caps=3}}
+|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=19|deaths=24|caps=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Midnight Esports|UYU|title=Black Ops 4|date=2019-05-03|time=1124|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Midnight Esports|team2=UYU|team1score=250|team2score=239
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:19
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=35|deaths=26|time=97}}
+|blue2={{Scoreboard/Player|name=Knight|link=Knight|kills=19|deaths=25|time=106}}
+|blue3={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=29|deaths=23|time=74}}
+|blue4={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=21|deaths=29|time=49}}
+|blue5={{Scoreboard/Player|name=Parasite|link=Parasite|kills=34|deaths=20|time=85}}
+|red1={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=35|deaths=28|time=52}}
+|red2={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=24|deaths=30|time=66}}
+|red3={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=28|deaths=25|time=67}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=15|deaths=26|time=115}}
+|red5={{Scoreboard/Player|name=Royalty|link=Royalty|kills=21|deaths=29|time=127}}
+}}
+{{Scoreboard|team1=Midnight Esports|team2=UYU|team1score=6|team2score=5
+|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=15:43
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=8|deaths=10|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Knight|link=Knight|kills=7|deaths=7|plants=1|defuses=1}}
+|blue3={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=10|deaths=10|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=9|deaths=6|plants=0|defuses=1}}
+|blue5={{Scoreboard/Player|name=Parasite|link=Parasite|kills=8|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=5|deaths=10|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=4|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=15|deaths=9|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=8|deaths=8|plants=2|defuses=0}}
+|red5={{Scoreboard/Player|name=Royalty|link=Royalty|kills=9|deaths=8|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Midnight Esports|team2=UYU|team1score=2|team2score=3
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=12:25
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=21|deaths=19|caps=3}}
+|blue2={{Scoreboard/Player|name=Knight|link=Knight|kills=9|deaths=21|caps=2}}
+|blue3={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=18|deaths=16|caps=3}}
+|blue4={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=16|deaths=21|caps=1}}
+|blue5={{Scoreboard/Player|name=Parasite|link=Parasite|kills=14|deaths=17|caps=3}}
+|red1={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=17|deaths=13|caps=1}}
+|red2={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=23|deaths=13|caps=2}}
+|red3={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=15|deaths=16|caps=2}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=19|deaths=17|caps=1}}
+|red5={{Scoreboard/Player|name=Royalty|link=Royalty|kills=20|deaths=20|caps=1}}
+}}
+{{Scoreboard|team1=Midnight Esports|team2=UYU|team1score=176|team2score=250
+|gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=10:32
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=24|deaths=28|time=13}}
+|blue2={{Scoreboard/Player|name=Knight|link=Knight|kills=12|deaths=22|time=66}}
+|blue3={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=23|deaths=20|time=62}}
+|blue4={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=18|deaths=24|time=25}}
+|blue5={{Scoreboard/Player|name=Parasite|link=Parasite|kills=27|deaths=18|time=88}}
+|red1={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=26|deaths=18|time=42}}
+|red2={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=21|deaths=18|time=138}}
+|red3={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=19|deaths=23|time=29}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=20|deaths=22|time=93}}
+|red5={{Scoreboard/Player|name=Royalty|link=Royalty|kills=26|deaths=24|time=54}}
+}}
+{{Scoreboard|team1=Midnight Esports|team2=UYU|team1score=6|team2score=3
+|gamename=Game 5|map=Payload|gamemode=Search and Destroy|maptime=12:4
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=8|deaths=6|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Knight|link=Knight|kills=8|deaths=4|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=6|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=9|deaths=6|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Parasite|link=Parasite|kills=3|deaths=6|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=6|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=8|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=3|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=5|deaths=7|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Royalty|link=Royalty|kills=6|deaths=8|plants=1|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Team Heretics|Midnight Esports|title=Black Ops 4|date=2019-05-03|time=1337|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Team Heretics|team2=Midnight Esports|team1score=250|team2score=146
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=9:8
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=20|deaths=16|time=37}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=18|deaths=19|time=30}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=19|deaths=23|time=54}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=16|deaths=18|time=80}}
+|blue5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=18|deaths=14|time=131}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=14|deaths=19|time=21}}
+|red2={{Scoreboard/Player|name=Knight|link=Knight|kills=21|deaths=16|time=30}}
+|red3={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=17|deaths=16|time=89}}
+|red4={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=20|deaths=17|time=18}}
+|red5={{Scoreboard/Player|name=Parasite|link=Parasite|kills=18|deaths=23|time=39}}
+}}
+{{Scoreboard|team1=Team Heretics|team2=Midnight Esports|team1score=3|team2score=6
+|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=10:54
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=11|deaths=6|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=3|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=5|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=2|deaths=9|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=2|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=12|deaths=3|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Knight|link=Knight|kills=3|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=5|deaths=5|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=5|deaths=4|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Parasite|link=Parasite|kills=11|deaths=5|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=Team Heretics|team2=Midnight Esports|team1score=3|team2score=0
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=7:25
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=12|deaths=10|caps=1}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=14|deaths=9|caps=1}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=13|deaths=12|caps=1}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=10|deaths=7|caps=2}}
+|blue5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=11|deaths=10|caps=2}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=6|deaths=13|caps=0}}
+|red2={{Scoreboard/Player|name=Knight|link=Knight|kills=6|deaths=11|caps=0}}
+|red3={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=10|deaths=13|caps=0}}
+|red4={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=13|deaths=12|caps=0}}
+|red5={{Scoreboard/Player|name=Parasite|link=Parasite|kills=13|deaths=11|caps=0}}
+}}
+{{Scoreboard|team1=Team Heretics|team2=Midnight Esports|team1score=250|team2score=127
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=7:55
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=25|deaths=9|time=104}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=16|deaths=13|time=102}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=12|deaths=16|time=48}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=27|deaths=14|time=54}}
+|blue5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=10|deaths=16|time=87}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=11|deaths=18|time=30}}
+|red2={{Scoreboard/Player|name=Knight|link=Knight|kills=16|deaths=18|time=15}}
+|red3={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=17|deaths=18|time=48}}
+|red4={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=14|deaths=19|time=23}}
+|red5={{Scoreboard/Player|name=Parasite|link=Parasite|kills=10|deaths=17|time=61}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Elevate|UYU|title=Black Ops 4|date=2019-05-03|time=1423|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Elevate|team2=UYU|team1score=250|team2score=228
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:59
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=16|deaths=26|time=101}}
+|blue2={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=22|deaths=21|time=69}}
+|blue3={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=25|deaths=24|time=36}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=33|deaths=17|time=115}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=22|deaths=22|time=85}}
+|red1={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=29|deaths=23|time=83}}
+|red2={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=13|deaths=27|time=26}}
+|red3={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=24|deaths=19|time=62}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=22|deaths=23|time=78}}
+|red5={{Scoreboard/Player|name=Royalty|link=Royalty|kills=22|deaths=26|time=97}}
+}}
+{{Scoreboard|team1=Elevate|team2=UYU|team1score=1|team2score=6
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=11:48
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=2|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=2|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=5|deaths=7|plants=3|defuses=0}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=6|deaths=5|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=3|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=5|deaths=4|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=13|deaths=2|plants=1|defuses=1}}
+|red3={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=4|deaths=3|plants=1|defuses=1}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=5|deaths=3|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Royalty|link=Royalty|kills=5|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Elevate|team2=UYU|team1score=1|team2score=3
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=9:54
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=12|deaths=19|caps=0}}
+|blue2={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=11|deaths=18|caps=0}}
+|blue3={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=11|deaths=18|caps=1}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=13|deaths=14|caps=1}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=11|deaths=11|caps=1}}
+|red1={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=17|deaths=12|caps=1}}
+|red2={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=17|deaths=6|caps=2}}
+|red3={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=13|deaths=12|caps=1}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=17|deaths=14|caps=1}}
+|red5={{Scoreboard/Player|name=Royalty|link=Royalty|kills=16|deaths=14|caps=1}}
+}}
+{{Scoreboard|team1=Elevate|team2=UYU|team1score=232|team2score=250
+|gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=11:25
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=30|deaths=25|time=54}}
+|blue2={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=21|deaths=25|time=71}}
+|blue3={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=17|deaths=27|time=99}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=23|deaths=23|time=91}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=21|deaths=22|time=97}}
+|red1={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=34|deaths=20|time=59}}
+|red2={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=24|deaths=25|time=44}}
+|red3={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=22|deaths=19|time=75}}
+|red4={{Scoreboard/Player|name=Proto|link=Proto|kills=14|deaths=22|time=58}}
+|red5={{Scoreboard/Player|name=Royalty|link=Royalty|kills=28|deaths=26|time=111}}
+}}
+{{Box|end}}

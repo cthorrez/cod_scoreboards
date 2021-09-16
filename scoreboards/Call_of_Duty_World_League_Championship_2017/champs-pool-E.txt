@@ -1,0 +1,271 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FaZe Clan|Team Allegiance|title=Infinite Warfare|date=2017-08-09|time=0902|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Allegiance|team1score=250|team2score=153
+|gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=8:22
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=12|deaths=19|time=89}}
+|blue2={{Scoreboard/Player|name=Enable|link=Enable|kills=17|deaths=18|time=47}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=30|deaths=14|time=108}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=15|deaths=16|time=90}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=17|deaths=16|time=67}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=14|deaths=20|time=26}}
+|red3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=17|deaths=18|time=72}}
+|red4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=19|deaths=20|time=25}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Allegiance|team1score=6|team2score=2
+|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=10:9
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=9|deaths=3|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Enable|link=Enable|kills=5|deaths=3|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=6|deaths=3|plants=2|defuses=0}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=6|deaths=4|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=3|deaths=7|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=5|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=2|deaths=7|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=3|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Allegiance|team1score=1|team2score=7
+|gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=19|deaths=29|carries=0|throws=0|score=0}}
+|blue2={{Scoreboard/Player|name=Enable|link=Enable|kills=29|deaths=23|carries=0|throws=0|score=0}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=17|deaths=23|carries=0|throws=1|score=1}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=20|deaths=28|carries=0|throws=0|score=0}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=25|deaths=23|carries=0|throws=1|score=1}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=23|deaths=22|carries=1|throws=1|score=3}}
+|red3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=29|deaths=19|carries=0|throws=1|score=1}}
+|red4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=26|deaths=21|carries=1|throws=0|score=2}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Allegiance|team1score=250|team2score=150
+|gamename=Game 4|map=Retaliation|gamemode=Hardpoint|maptime=9:1
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=27|deaths=15|time=47}}
+|blue2={{Scoreboard/Player|name=Enable|link=Enable|kills=18|deaths=14|time=88}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=16|deaths=19|time=53}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=23|deaths=18|time=85}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=18|deaths=17|time=32}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=18|deaths=24|time=35}}
+|red3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=9|deaths=21|time=25}}
+|red4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=21|deaths=22|time=69}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|eRa Eternity|Red Reserve|title=Infinite Warfare|date=2017-08-09|time=0942|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=eRa Eternity|team2=Red Reserve|team1score=180|team2score=250
+|gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=9:10
+|blue1={{Scoreboard/Player|name=Carbines|link=Carbines|kills=13|deaths=20|time=35}}
+|blue2={{Scoreboard/Player|name=DREAL|link=DREAL|kills=19|deaths=19|time=30}}
+|blue3={{Scoreboard/Player|name=Verdict|link=Verdict|kills=19|deaths=16|time=89}}
+|blue4={{Scoreboard/Player|name=Zayrox|link=Zayrox|kills=25|deaths=19|time=78}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=14|deaths=19|time=73}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=21|deaths=20|time=55}}
+|red3={{Scoreboard/Player|name=Seany|link=Seany|kills=19|deaths=18|time=135}}
+|red4={{Scoreboard/Player|name=Urban|link=Urban|kills=20|deaths=19|time=83}}
+}}
+{{Scoreboard|team1=eRa Eternity|team2=Red Reserve|team1score=2|team2score=6
+|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=10:7
+|blue1={{Scoreboard/Player|name=Carbines|link=Carbines|kills=1|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=DREAL|link=DREAL|kills=6|deaths=7|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Verdict|link=Verdict|kills=2|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Zayrox|link=Zayrox|kills=6|deaths=6|plants=0|defuses=1}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=7|deaths=4|plants=2|defuses=0}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=2|deaths=4|plants=2|defuses=0}}
+|red3={{Scoreboard/Player|name=Seany|link=Seany|kills=10|deaths=3|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Urban|link=Urban|kills=9|deaths=4|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=eRa Eternity|team2=Red Reserve|team1score=5|team2score=22
+|gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=10:26
+|blue1={{Scoreboard/Player|name=Carbines|link=Carbines|kills=18|deaths=25|carries=1|throws=0|score=2}}
+|blue2={{Scoreboard/Player|name=DREAL|link=DREAL|kills=14|deaths=25|carries=1|throws=1|score=3}}
+|blue3={{Scoreboard/Player|name=Verdict|link=Verdict|kills=19|deaths=21|carries=0|throws=0|score=0}}
+|blue4={{Scoreboard/Player|name=Zayrox|link=Zayrox|kills=25|deaths=23|carries=0|throws=0|score=0}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=27|deaths=20|carries=3|throws=0|score=6}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=14|deaths=17|carries=2|throws=1|score=5}}
+|red3={{Scoreboard/Player|name=Seany|link=Seany|kills=24|deaths=21|carries=1|throws=5|score=7}}
+|red4={{Scoreboard/Player|name=Urban|link=Urban|kills=29|deaths=18|carries=2|throws=0|score=4}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|eRa Eternity|FaZe Clan|title=Infinite Warfare|date=2017-08-10|time=0702|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=eRa Eternity|team2=FaZe Clan|team1score=101|team2score=250
+|gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=7:27
+|blue1={{Scoreboard/Player|name=Carbines|link=Carbines|kills=13|deaths=18|time=35}}
+|blue2={{Scoreboard/Player|name=DREAL|link=DREAL|kills=16|deaths=17|time=44}}
+|blue3={{Scoreboard/Player|name=Verdict|link=Verdict|kills=14|deaths=16|time=20}}
+|blue4={{Scoreboard/Player|name=Zayrox|link=Zayrox|kills=6|deaths=21|time=10}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=17|deaths=12|time=33}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=20|deaths=10|time=142}}
+|red3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=16|deaths=15|time=43}}
+|red4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=19|deaths=12|time=58}}
+}}
+{{Scoreboard|team1=eRa Eternity|team2=FaZe Clan|team1score=0|team2score=6
+|gamename=Game 2|map=Throwback|gamemode=Search and Destroy|maptime=6:49
+|blue1={{Scoreboard/Player|name=Carbines|link=Carbines|kills=2|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=DREAL|link=DREAL|kills=2|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Verdict|link=Verdict|kills=2|deaths=5|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Zayrox|link=Zayrox|kills=1|deaths=6|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=4|deaths=5|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=4|deaths=1|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=5|deaths=1|plants=3|defuses=0}}
+|red4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=10|deaths=1|plants=0|defuses=1}}
+}}
+{{Scoreboard|team1=eRa Eternity|team2=FaZe Clan|team1score=3|team2score=5
+|gamename=Game 3|map=Frost|gamemode=Uplink|maptime=10:26
+|blue1={{Scoreboard/Player|name=Carbines|link=Carbines|kills=18|deaths=29|carries=1|throws=0|score=2}}
+|blue2={{Scoreboard/Player|name=DREAL|link=DREAL|kills=16|deaths=24|carries=0|throws=0|score=0}}
+|blue3={{Scoreboard/Player|name=Verdict|link=Verdict|kills=26|deaths=23|carries=0|throws=1|score=1}}
+|blue4={{Scoreboard/Player|name=Zayrox|link=Zayrox|kills=23|deaths=22|carries=0|throws=0|score=0}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=23|deaths=19|carries=1|throws=1|score=3}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=22|deaths=21|carries=0|throws=1|score=1}}
+|red3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=25|deaths=24|carries=0|throws=0|score=0}}
+|red4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=27|deaths=20|carries=0|throws=1|score=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Red Reserve|Team Allegiance|title=Infinite Warfare|date=2017-08-10|time=0703|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Red Reserve|team2=Team Allegiance|team1score=168|team2score=250
+|gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=8:49
+|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=11|deaths=21|time=18}}
+|blue2={{Scoreboard/Player|name=Rated|link=Rated|kills=16|deaths=18|time=41}}
+|blue3={{Scoreboard/Player|name=Seany|link=Seany|kills=12|deaths=20|time=27}}
+|blue4={{Scoreboard/Player|name=Urban|link=Urban|kills=19|deaths=15|time=102}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=12|deaths=17|time=76}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=19|deaths=15|time=30}}
+|red3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=22|deaths=15|time=78}}
+|red4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=21|deaths=11|time=90}}
+}}
+{{Scoreboard|team1=Red Reserve|team2=Team Allegiance|team1score=6|team2score=2
+|gamename=Game 2|map=Throwback|gamemode=Search and Destroy|maptime=12:28
+|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=8|deaths=4|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Rated|link=Rated|kills=4|deaths=6|plants=3|defuses=2}}
+|blue3={{Scoreboard/Player|name=Seany|link=Seany|kills=8|deaths=6|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Urban|link=Urban|kills=7|deaths=6|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=10|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=3|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=5|deaths=6|plants=4|defuses=0}}
+|red4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=3|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Red Reserve|team2=Team Allegiance|team1score=6|team2score=11
+|gamename=Game 3|map=Frost|gamemode=Uplink|maptime=10:26
+|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=26|deaths=26|carries=1|throws=0|score=2}}
+|blue2={{Scoreboard/Player|name=Rated|link=Rated|kills=23|deaths=25|carries=0|throws=0|score=0}}
+|blue3={{Scoreboard/Player|name=Seany|link=Seany|kills=11|deaths=27|carries=2|throws=0|score=4}}
+|blue4={{Scoreboard/Player|name=Urban|link=Urban|kills=20|deaths=24|carries=0|throws=0|score=0}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=25|deaths=19|carries=1|throws=0|score=2}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=16|deaths=23|carries=2|throws=1|score=5}}
+|red3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=33|deaths=17|carries=1|throws=0|score=2}}
+|red4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=27|deaths=22|carries=0|throws=2|score=2}}
+}}
+{{Scoreboard|team1=Red Reserve|team2=Team Allegiance|team1score=111|team2score=250
+|gamename=Game 4|map=Breakout|gamemode=Hardpoint|maptime=8:33
+|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=9|deaths=20|time=61}}
+|blue2={{Scoreboard/Player|name=Rated|link=Rated|kills=8|deaths=18|time=52}}
+|blue3={{Scoreboard/Player|name=Seany|link=Seany|kills=8|deaths=21|time=38}}
+|blue4={{Scoreboard/Player|name=Urban|link=Urban|kills=12|deaths=19|time=32}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=24|deaths=8|time=92}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=18|deaths=10|time=58}}
+|red3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=23|deaths=8|time=71}}
+|red4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=13|deaths=11|time=85}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|eRa Eternity|Team Allegiance|title=Infinite Warfare|date=2017-08-10|time=1152|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=eRa Eternity|team2=Team Allegiance|team1score=140|team2score=250
+|gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=9:36
+|blue1={{Scoreboard/Player|name=Carbines|link=Carbines|kills=12|deaths=21|time=49}}
+|blue2={{Scoreboard/Player|name=DREAL|link=DREAL|kills=18|deaths=17|time=26}}
+|blue3={{Scoreboard/Player|name=Verdict|link=Verdict|kills=15|deaths=18|time=68}}
+|blue4={{Scoreboard/Player|name=Zayrox|link=Zayrox|kills=15|deaths=22|time=21}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=19|deaths=12|time=56}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=24|deaths=17|time=97}}
+|red3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=21|deaths=12|time=78}}
+|red4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=14|deaths=19|time=69}}
+}}
+{{Scoreboard|team1=eRa Eternity|team2=Team Allegiance|team1score=2|team2score=6
+|gamename=Game 2|map=Crusher|gamemode=Search and Destroy|maptime=9:47
+|blue1={{Scoreboard/Player|name=Carbines|link=Carbines|kills=5|deaths=7|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=DREAL|link=DREAL|kills=5|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Verdict|link=Verdict|kills=3|deaths=6|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Zayrox|link=Zayrox|kills=6|deaths=6|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=7|deaths=5|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=6|deaths=5|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=4|deaths=5|plants=3|defuses=0}}
+|red4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=8|deaths=4|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=eRa Eternity|team2=Team Allegiance|team1score=6|team2score=5
+|gamename=Game 3|map=Precinct|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=Carbines|link=Carbines|kills=14|deaths=27|carries=0|throws=0|score=0}}
+|blue2={{Scoreboard/Player|name=DREAL|link=DREAL|kills=20|deaths=22|carries=2|throws=1|score=5}}
+|blue3={{Scoreboard/Player|name=Verdict|link=Verdict|kills=29|deaths=13|carries=0|throws=0|score=0}}
+|blue4={{Scoreboard/Player|name=Zayrox|link=Zayrox|kills=27|deaths=21|carries=0|throws=1|score=1}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=22|deaths=25|carries=0|throws=2|score=2}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=17|deaths=21|carries=1|throws=1|score=3}}
+|red3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=29|deaths=18|carries=0|throws=0|score=0}}
+|red4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=15|deaths=26|carries=0|throws=0|score=0}}
+}}
+{{Scoreboard|team1=eRa Eternity|team2=Team Allegiance|team1score=129|team2score=250
+|gamename=Game 4|map=Throwback|gamemode=Hardpoint|maptime=10:40
+|blue1={{Scoreboard/Player|name=Carbines|link=Carbines|kills=25|deaths=31|time=30}}
+|blue2={{Scoreboard/Player|name=DREAL|link=DREAL|kills=19|deaths=29|time=23}}
+|blue3={{Scoreboard/Player|name=Verdict|link=Verdict|kills=17|deaths=24|time=26}}
+|blue4={{Scoreboard/Player|name=Zayrox|link=Zayrox|kills=22|deaths=28|time=65}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=31|deaths=20|time=68}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=30|deaths=20|time=49}}
+|red3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=30|deaths=23|time=42}}
+|red4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=21|deaths=20|time=109}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FaZe Clan|Red Reserve|title=Infinite Warfare|date=2017-08-10|time=1205|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=FaZe Clan|team2=Red Reserve|team1score=250|team2score=164
+|gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=9:4
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=21|deaths=16|time=26}}
+|blue2={{Scoreboard/Player|name=Enable|link=Enable|kills=21|deaths=15|time=44}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=22|deaths=10|time=183}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=19|deaths=16|time=17}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=13|deaths=23|time=46}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=13|deaths=18|time=72}}
+|red3={{Scoreboard/Player|name=Seany|link=Seany|kills=14|deaths=21|time=37}}
+|red4={{Scoreboard/Player|name=Urban|link=Urban|kills=17|deaths=21|time=67}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Red Reserve|team1score=3|team2score=6
+|gamename=Game 2|map=Crusher|gamemode=Search and Destroy|maptime=11:53
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=10|deaths=6|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=Enable|link=Enable|kills=1|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=8|deaths=8|plants=3|defuses=0}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=2|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=10|deaths=4|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=7|deaths=6|plants=3|defuses=1}}
+|red3={{Scoreboard/Player|name=Seany|link=Seany|kills=6|deaths=5|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Urban|link=Urban|kills=6|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Red Reserve|team1score=11|team2score=12
+|gamename=Game 3|map=Precinct|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=22|deaths=23|carries=1|throws=2|score=4}}
+|blue2={{Scoreboard/Player|name=Enable|link=Enable|kills=27|deaths=20|carries=0|throws=0|score=0}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=17|deaths=28|carries=1|throws=1|score=3}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=24|deaths=21|carries=2|throws=0|score=4}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=25|deaths=23|carries=0|throws=0|score=0}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=16|deaths=22|carries=4|throws=0|score=8}}
+|red3={{Scoreboard/Player|name=Seany|link=Seany|kills=25|deaths=23|carries=0|throws=0|score=0}}
+|red4={{Scoreboard/Player|name=Urban|link=Urban|kills=26|deaths=22|carries=2|throws=0|score=4}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Red Reserve|team1score=250|team2score=151
+|gamename=Game 4|map=Throwback|gamemode=Hardpoint|maptime=9:53
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=21|deaths=23|time=131}}
+|blue2={{Scoreboard/Player|name=Enable|link=Enable|kills=31|deaths=19|time=49}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=29|deaths=20|time=51}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=33|deaths=19|time=76}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=15|deaths=28|time=57}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=24|deaths=24|time=26}}
+|red3={{Scoreboard/Player|name=Seany|link=Seany|kills=16|deaths=30|time=72}}
+|red4={{Scoreboard/Player|name=Urban|link=Urban|kills=26|deaths=32|time=36}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Red Reserve|team1score=4|team2score=6
+|gamename=Game 5|map=Retaliation|gamemode=Search and Destroy|maptime=11:46
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=7|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Enable|link=Enable|kills=7|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=6|deaths=6|plants=2|defuses=0}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=5|deaths=9|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=4|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=9|deaths=6|plants=4|defuses=0}}
+|red3={{Scoreboard/Player|name=Seany|link=Seany|kills=8|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Urban|link=Urban|kills=9|deaths=6|plants=0|defuses=0}}
+}}
+{{Box|end}}

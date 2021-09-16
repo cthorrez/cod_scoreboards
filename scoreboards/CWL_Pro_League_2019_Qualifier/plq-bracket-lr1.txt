@@ -1,0 +1,207 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FC Black|Team Overtime	|title=Black Ops 4|date=2019-01-20|time=1225|timezone=PST|dst=No}}
+{{Scoreboard|team1=FC Black|team2=Team Overtime	|team1score=192|team2score=250
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:2
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=17|deaths=26|time=46}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=19|deaths=22|time=29}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=22|deaths=21|time=10}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=24|deaths=18|time=100}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=14|deaths=26|time=42}}
+|red1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=25|deaths=19|time=71}}
+|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=17|deaths=22|time=88}}
+|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=29|deaths=16|time=72}}
+|red4={{Scoreboard/Player|name=Wailers|link=Wailers|kills=22|deaths=19|time=51}}
+|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=20|deaths=20|time=64}}
+}}
+{{Scoreboard|team1=FC Black|team2=Team Overtime	|team1score=2|team2score=6
+|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=10:26
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=2|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=6|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=3|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=4|deaths=7|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=4|deaths=7|plants=3|defuses=0}}
+|red1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=11|deaths=3|plants=0|defuses=2}}
+|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=3|deaths=5|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=5|deaths=4|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Wailers|link=Wailers|kills=7|deaths=4|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=7|deaths=4|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=FC Black|team2=Team Overtime	|team1score=3|team2score=0
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=6:51
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=9|deaths=9|caps=4}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=9|deaths=9|caps=4}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=11|deaths=5|caps=3}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=17|deaths=5|caps=4}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=9|deaths=6|caps=4}}
+|red1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=7|deaths=10|caps=0}}
+|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=4|deaths=15|caps=0}}
+|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=9|deaths=12|caps=0}}
+|red4={{Scoreboard/Player|name=Wailers|link=Wailers|kills=6|deaths=10|caps=0}}
+|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=7|deaths=8|caps=0}}
+}}
+{{Scoreboard|team1=FC Black|team2=Team Overtime	|team1score=189|team2score=250
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=9:58
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=16|deaths=26|time=40}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=14|deaths=21|time=37}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=22|deaths=20|time=29}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=25|deaths=19|time=83}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=16|deaths=17|time=66}}
+|red1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=32|deaths=20|time=82}}
+|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=20|deaths=18|time=115}}
+|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=20|deaths=21|time=76}}
+|red4={{Scoreboard/Player|name=Wailers|link=Wailers|kills=18|deaths=18|time=61}}
+|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=13|deaths=16|time=65}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|G2 Esports|Movistar Riders	|title=Black Ops 4|date=2019-01-20|time=1225|timezone=PST|dst=No}}
+{{Scoreboard|team1=G2 Esports|team2=Movistar Riders	|team1score=250|team2score=231
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:49
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=27|deaths=21|time=70}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=22|deaths=20|time=87}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=33|deaths=22|time=88}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=28|deaths=25|time=80}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=17|deaths=27|time=49}}
+|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=22|deaths=30|time=61}}
+|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=17|deaths=26|time=48}}
+|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=23|deaths=25|time=37}}
+|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=30|deaths=21|time=74}}
+|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=23|deaths=25|time=65}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Movistar Riders	|team1score=6|team2score=3
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=12:48
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=10|deaths=5|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=3|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=5|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=11|deaths=5|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=6|deaths=4|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=2|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=5|deaths=7|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=5|deaths=8|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=8|deaths=6|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=5|deaths=7|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Movistar Riders	|team1score=2|team2score=3
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=13:57
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=19|deaths=25|caps=3}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=17|deaths=23|caps=4}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=29|deaths=25|caps=2}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=20|deaths=11|caps=4}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=20|deaths=23|caps=3}}
+|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=27|deaths=19|caps=3}}
+|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=18|deaths=20|caps=3}}
+|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=22|deaths=19|caps=4}}
+|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=29|deaths=24|caps=3}}
+|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=11|deaths=23|caps=4}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Movistar Riders	|team1score=151|team2score=250
+|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=8:38
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=26|deaths=17|time=41}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=10|deaths=21|time=55}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=19|deaths=24|time=22}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=6|deaths=15|time=75}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=12|deaths=21|time=30}}
+|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=18|deaths=21|time=48}}
+|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=27|deaths=11|time=94}}
+|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=20|deaths=12|time=67}}
+|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=18|deaths=11|time=111}}
+|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=15|deaths=18|time=48}}
+}}
+{{Scoreboard|team1=G2 Esports|team2=Movistar Riders	|team1score=6|team2score=2
+|gamename=Game 5|map=Gridlock|gamemode=Search and Destroy|maptime=9:29
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=5|deaths=5|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=6|deaths=5|plants=2|defuses=0}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=10|deaths=5|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=6|deaths=3|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=7|deaths=4|plants=0|defuses=1}}
+|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=2|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=5|deaths=7|plants=2|defuses=0}}
+|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=3|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=3|deaths=6|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=9|deaths=7|plants=0|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Fact Revolution|Red Reserve|title=Black Ops 4|date=2019-01-20|time=1229|timezone=PST|dst=No}}
+{{Scoreboard|team1=Fact Revolution|team2=Red Reserve|team1score=225|team2score=250
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:35
+|blue1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=26|deaths=29|time=60}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=21|deaths=28|time=48}}
+|blue3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=18|deaths=29|time=57}}
+|blue4={{Scoreboard/Player|name=Maple|link=Maple|kills=37|deaths=20|time=81}}
+|blue5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=22|deaths=21|time=52}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=23|deaths=26|time=29}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=25|deaths=24|time=81}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=24|deaths=20|time=117}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=34|deaths=23|time=43}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=21|deaths=31|time=42}}
+}}
+{{Scoreboard|team1=Fact Revolution|team2=Red Reserve|team1score=1|team2score=6
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=9:58
+|blue1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=3|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=6|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=2|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Maple|link=Maple|kills=5|deaths=6|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=2|deaths=7|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=5|deaths=3|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=6|deaths=4|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=4|deaths=5|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=12|deaths=2|plants=1|defuses=1}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=5|deaths=4|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Fact Revolution|team2=Red Reserve|team1score=1|team2score=3
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=13:24
+|blue1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=18|deaths=25|caps=1}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=20|deaths=23|caps=2}}
+|blue3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=21|deaths=18|caps=2}}
+|blue4={{Scoreboard/Player|name=Maple|link=Maple|kills=21|deaths=22|caps=1}}
+|blue5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=14|deaths=16|caps=2}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=23|deaths=21|caps=2}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=23|deaths=23|caps=2}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=21|deaths=14|caps=1}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=24|deaths=16|caps=1}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=13|deaths=20|caps=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FaZe Clan|Tainted Minds|title=Black Ops 4|date=2019-01-20|time=1240|timezone=PST|dst=No}}
+{{Scoreboard|team1=FaZe Clan|team2=Tainted Minds|team1score=250|team2score=229
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:44
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=22|deaths=21|time=20}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=25|deaths=18|time=19}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=21|deaths=20|time=113}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=23|deaths=20|time=59}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=25|deaths=18|time=92}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=14|deaths=23|time=92}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=21|deaths=23|time=74}}
+|red3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=14|deaths=23|time=60}}
+|red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=21|deaths=24|time=49}}
+|red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=27|deaths=23|time=79}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Tainted Minds|team1score=6|team2score=3
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=12:29
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=3|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=4|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=4|deaths=6|plants=2|defuses=0}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=9|deaths=5|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=13|deaths=5|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=5|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=6|deaths=7|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=5|deaths=8|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=5|deaths=7|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=9|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Tainted Minds|team1score=3|team2score=2
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=17:0
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=23|deaths=25|caps=1}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=23|deaths=22|caps=3}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=17|deaths=22|caps=3}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=22|deaths=27|caps=3}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=36|deaths=26|caps=1}}
+|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=16|deaths=22|caps=3}}
+|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=30|deaths=27|caps=3}}
+|red3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=23|deaths=23|caps=3}}
+|red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=27|deaths=25|caps=2}}
+|red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=26|deaths=24|caps=2}}
+}}
+{{Box|end}}

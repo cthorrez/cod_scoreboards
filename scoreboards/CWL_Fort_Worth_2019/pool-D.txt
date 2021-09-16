@@ -1,0 +1,343 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|eUnited|Team Envy|title=Black Ops 4|date=2019-03-15|time=1406|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=eUnited|team2=Team Envy|team1score=153|team2score=250
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:1
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=21|deaths=27|time=59}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=22|deaths=21|time=55}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=18|deaths=26|time=30}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=14|deaths=23|time=25}}
+|blue5={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=22|deaths=27|time=44}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=24|deaths=20|time=66}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=24|deaths=17|time=114}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=15|deaths=21|time=102}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=27|deaths=20|time=77}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=34|deaths=19|time=87}}
+}}
+{{Scoreboard|team1=eUnited|team2=Team Envy|team1score=5|team2score=6
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=17:23
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=9|deaths=8|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=5|deaths=9|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=9|deaths=9|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=8|deaths=8|plants=3|defuses=0}}
+|blue5={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=11|deaths=11|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=9|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=11|deaths=7|plants=1|defuses=1}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=8|deaths=8|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=10|deaths=9|plants=1|defuses=0}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=5|deaths=11|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=eUnited|team2=Team Envy|team1score=2|team2score=3
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=15:45
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=23|deaths=26|caps=2}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=21|deaths=20|caps=2}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=18|deaths=25|caps=3}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=21|deaths=26|caps=3}}
+|blue5={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=31|deaths=26|caps=3}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=20|deaths=22|caps=1}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=24|deaths=22|caps=1}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=29|deaths=26|caps=0}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=26|deaths=21|caps=1}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=23|deaths=23|caps=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|OpTic Gaming|Team Reciprocity|title=Black Ops 4|date=2019-03-15|time=1406|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Reciprocity|team1score=250|team2score=190
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:1
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=30|deaths=17|time=109}}
+|blue2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=32|deaths=18|time=27}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=21|deaths=19|time=54}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=15|deaths=27|time=48}}
+|blue5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=19|deaths=24|time=101}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=25|deaths=29|time=20}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=18|deaths=24|time=45}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=22|deaths=18|time=70}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=15|deaths=21|time=80}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=25|deaths=25|time=30}}
+}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Reciprocity|team1score=5|team2score=6
+|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=15:52
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=9|deaths=7|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=13|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=5|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=7|deaths=9|plants=2|defuses=1}}
+|blue5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=5|deaths=9|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=13|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=8|deaths=7|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=9|deaths=10|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=7|deaths=7|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=3|deaths=8|plants=4|defuses=0}}
+}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Reciprocity|team1score=3|team2score=2
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=13:55
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=33|deaths=14|caps=3}}
+|blue2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=22|deaths=15|caps=3}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=18|deaths=23|caps=1}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=25|deaths=17|caps=2}}
+|blue5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=24|deaths=20|caps=2}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=17|deaths=26|caps=3}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=15|deaths=21|caps=4}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=16|deaths=27|caps=1}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=16|deaths=25|caps=2}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=25|deaths=23|caps=4}}
+}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Reciprocity|team1score=244|team2score=250
+|gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=11:12
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=28|deaths=28|time=33}}
+|blue2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=35|deaths=23|time=117}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=32|deaths=25|time=92}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=20|deaths=30|time=49}}
+|blue5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=18|deaths=29|time=44}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=35|deaths=29|time=61}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=15|deaths=24|time=59}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=33|deaths=27|time=73}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=28|deaths=28|time=84}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=23|deaths=25|time=87}}
+}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Reciprocity|team1score=3|team2score=6
+|gamename=Game 5|map=Arsenal|gamemode=Search and Destroy|maptime=12:47
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=4|deaths=5|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=8|deaths=6|plants=0|defuses=2}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=4|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=9|deaths=8|plants=3|defuses=0}}
+|blue5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=2|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=8|deaths=7|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=5|deaths=5|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=6|deaths=5|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=5|deaths=6|plants=0|defuses=1}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=11|deaths=4|plants=2|defuses=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|OpTic Gaming|Team Envy|title=Black Ops 4|date=2019-03-15|time=1649|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Envy|team1score=161|team2score=250
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=9:36
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=13|deaths=27|time=62}}
+|blue2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=23|deaths=23|time=67}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=19|deaths=24|time=51}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=25|deaths=22|time=45}}
+|blue5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=26|deaths=26|time=26}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=33|deaths=21|time=24}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=15|deaths=19|time=103}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=33|deaths=20|time=52}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=25|deaths=25|time=29}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=15|deaths=22|time=111}}
+}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Envy|team1score=1|team2score=6
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=8:18
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=2|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=2|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=4|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=4|deaths=6|plants=2|defuses=0}}
+|blue5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=3|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=4|deaths=3|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=4|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=8|deaths=1|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=10|deaths=2|plants=0|defuses=1}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=6|deaths=3|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Envy|team1score=3|team2score=1
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=13:18
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=25|deaths=15|caps=2}}
+|blue2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=32|deaths=15|caps=3}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=16|deaths=18|caps=1}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=17|deaths=22|caps=1}}
+|blue5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=20|deaths=23|caps=3}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=14|deaths=20|caps=1}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=17|deaths=24|caps=2}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=22|deaths=18|caps=2}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=21|deaths=23|caps=0}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=19|deaths=25|caps=2}}
+}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Envy|team1score=242|team2score=250
+|gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=12:11
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=34|deaths=29|time=22}}
+|blue2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=26|deaths=35|time=52}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=29|deaths=31|time=68}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=28|deaths=30|time=97}}
+|blue5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=31|deaths=30|time=121}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=39|deaths=29|time=53}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=33|deaths=30|time=54}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=28|deaths=27|time=82}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=27|deaths=31|time=91}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=28|deaths=31|time=70}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|eUnited|Team Reciprocity|title=Black Ops 4|date=2019-03-15|time=1720|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=eUnited|team2=Team Reciprocity|team1score=219|team2score=250
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:44
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=25|deaths=26|time=66}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=25|deaths=18|time=96}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=25|deaths=26|time=56}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=17|deaths=27|time=59}}
+|blue5={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=29|deaths=26|time=20}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=32|deaths=22|time=116}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=30|deaths=23|time=80}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=24|deaths=26|time=94}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=18|deaths=25|time=35}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=19|deaths=25|time=54}}
+}}
+{{Scoreboard|team1=eUnited|team2=Team Reciprocity|team1score=6|team2score=3
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=13:15
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=13|deaths=3|plants=1|defuses=1}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=8|deaths=4|plants=1|defuses=1}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=9|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=6|deaths=6|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=3|deaths=7|plants=0|defuses=1}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=3|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=5|deaths=8|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=4|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=3|deaths=8|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=12|deaths=7|plants=4|defuses=0}}
+}}
+{{Scoreboard|team1=eUnited|team2=Team Reciprocity|team1score=0|team2score=3
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=7:6
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=9|deaths=14|caps=1}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=11|deaths=13|caps=1}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=7|deaths=12|caps=1}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=4|deaths=12|caps=1}}
+|blue5={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=7|deaths=19|caps=0}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=11|deaths=6|caps=4}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=15|deaths=9|caps=3}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=15|deaths=6|caps=4}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=18|deaths=8|caps=3}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=11|deaths=9|caps=3}}
+}}
+{{Scoreboard|team1=eUnited|team2=Team Reciprocity|team1score=250|team2score=89
+|gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=7:57
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=25|deaths=17|time=85}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=20|deaths=17|time=79}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=28|deaths=13|time=85}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=22|deaths=17|time=65}}
+|blue5={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=14|deaths=20|time=47}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=19|deaths=26|time=18}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=20|deaths=16|time=33}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=17|deaths=23|time=31}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=17|deaths=19|time=37}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=11|deaths=25|time=19}}
+}}
+{{Scoreboard|team1=eUnited|team2=Team Reciprocity|team1score=6|team2score=4
+|gamename=Game 5|map=Hacienda|gamemode=Search and Destroy|maptime=14:26
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=8|deaths=8|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=5|deaths=8|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=10|deaths=5|plants=1|defuses=2}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=5|deaths=6|plants=2|defuses=0}}
+|blue5={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=9|deaths=8|plants=0|defuses=1}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=6|deaths=7|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=11|deaths=6|plants=0|defuses=2}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=4|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=7|deaths=8|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=7|deaths=8|plants=3|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|eUnited|OpTic Gaming|title=Black Ops 4|date=2019-03-15|time=1932|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=eUnited|team2=OpTic Gaming|team1score=144|team2score=250
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=9:36
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=25|deaths=26|time=38}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=16|deaths=25|time=45}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=14|deaths=24|time=44}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=21|deaths=22|time=49}}
+|blue5={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=17|deaths=24|time=22}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=23|deaths=20|time=37}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=27|deaths=18|time=109}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=34|deaths=16|time=57}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=16|deaths=18|time=98}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=20|deaths=21|time=47}}
+}}
+{{Scoreboard|team1=eUnited|team2=OpTic Gaming|team1score=5|team2score=6
+|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=16:15
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=10|deaths=9|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=8|deaths=9|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=8|deaths=9|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=4|deaths=9|plants=3|defuses=0}}
+|blue5={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=11|deaths=9|plants=1|defuses=2}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=13|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=12|deaths=8|plants=0|defuses=2}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=10|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=5|deaths=9|plants=5|defuses=1}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=4|deaths=9|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=eUnited|team2=OpTic Gaming|team1score=0|team2score=3
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=7:0
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=14|deaths=14|caps=1}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=6|deaths=15|caps=1}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=4|deaths=15|caps=0}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=7|deaths=15|caps=0}}
+|blue5={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=12|deaths=16|caps=1}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=14|deaths=8|caps=2}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=13|deaths=11|caps=2}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=19|deaths=7|caps=1}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=15|deaths=8|caps=1}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=14|deaths=9|caps=2}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Team Reciprocity|Team Envy|title=Black Ops 4|date=2019-03-15|time=2039|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Team Reciprocity|team2=Team Envy|team1score=250|team2score=85
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=7:49
+|blue1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=22|deaths=14|time=96}}
+|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=15|deaths=14|time=118}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=18|deaths=20|time=64}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=26|deaths=13|time=93}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=24|deaths=15|time=56}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=14|deaths=24|time=20}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=14|deaths=20|time=31}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=11|deaths=20|time=22}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=16|deaths=21|time=18}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=20|deaths=20|time=47}}
+}}
+{{Scoreboard|team1=Team Reciprocity|team2=Team Envy|team1score=6|team2score=3
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=12:0
+|blue1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=8|deaths=6|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=5|deaths=6|plants=2|defuses=0}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=7|deaths=3|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=4|deaths=6|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=7|deaths=7|plants=2|defuses=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=2|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=6|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=4|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=12|deaths=7|plants=0|defuses=1}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=4|deaths=6|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=Team Reciprocity|team2=Team Envy|team1score=2|team2score=3
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=15:10
+|blue1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=30|deaths=23|caps=3}}
+|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=28|deaths=22|caps=3}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=30|deaths=29|caps=2}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=19|deaths=26|caps=2}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=28|deaths=26|caps=3}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=18|deaths=30|caps=1}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=21|deaths=26|caps=1}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=26|deaths=27|caps=0}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=37|deaths=25|caps=1}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=24|deaths=27|caps=1}}
+}}
+{{Scoreboard|team1=Team Reciprocity|team2=Team Envy|team1score=214|team2score=250
+|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=10:34
+|blue1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=26|deaths=24|time=41}}
+|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=13|deaths=21|time=29}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=24|deaths=23|time=63}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=19|deaths=22|time=54}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=22|deaths=24|time=65}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=23|deaths=23|time=66}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=15|deaths=23|time=25}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=17|deaths=14|time=177}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=32|deaths=22|time=29}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=27|deaths=22|time=33}}
+}}
+{{Scoreboard|team1=Team Reciprocity|team2=Team Envy|team1score=6|team2score=5
+|gamename=Game 5|map=Hacienda|gamemode=Search and Destroy|maptime=15:14
+|blue1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=8|deaths=10|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=11|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=9|deaths=8|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=4|deaths=8|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=7|deaths=7|plants=3|defuses=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=6|deaths=10|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=8|deaths=9|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=6|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=11|deaths=8|plants=0|defuses=2}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=9|deaths=6|plants=3|defuses=0}}
+}}
+{{Box|end}}

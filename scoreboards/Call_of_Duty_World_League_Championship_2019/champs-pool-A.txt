@@ -1,0 +1,291 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Celtic FC Esports|Elevate|title=Black Ops 4|date=2019-08-14|time=1010|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Celtic FC Esports|team2=Elevate|team1score=250|team2score=160
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:22
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=24|deaths=28|time=91}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=27|deaths=21|time=78}}
+|blue3={{Scoreboard/Player|name=Nastie|link=Nastie|kills=15|deaths=22|time=45}}
+|blue4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=28|deaths=22|time=90}}
+|blue5={{Scoreboard/Player|name=Seany|link=Seany|kills=28|deaths=20|time=84}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=22|deaths=26|time=37}}
+|red2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=27|deaths=22|time=50}}
+|red3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=16|deaths=24|time=58}}
+|red4={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=22|deaths=28|time=56}}
+|red5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=26|deaths=22|time=19}}
+}}
+{{Scoreboard|team1=Celtic FC Esports|team2=Elevate|team1score=0|team2score=6
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=8:39
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=4|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=3|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Nastie|link=Nastie|kills=3|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=4|deaths=6|plants=2|defuses=0}}
+|blue5={{Scoreboard/Player|name=Seany|link=Seany|kills=4|deaths=6|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=2|deaths=5|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=4|deaths=4|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=9|deaths=2|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=9|deaths=3|plants=2|defuses=2}}
+|red5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=6|deaths=4|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Celtic FC Esports|team2=Elevate|team1score=250|team2score=237
+|gamename=Game 3|map=Gridlock|gamemode=Hardpoint|maptime=11:18
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=26|deaths=25|time=87}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=21|deaths=24|time=74}}
+|blue3={{Scoreboard/Player|name=Nastie|link=Nastie|kills=26|deaths=22|time=99}}
+|blue4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=16|deaths=24|time=24}}
+|blue5={{Scoreboard/Player|name=Seany|link=Seany|kills=17|deaths=21|time=83}}
+|red1={{Scoreboard/Player|name=Believe|link=Believe|kills=15|deaths=30|time=72}}
+|red2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=22|deaths=19|time=61}}
+|red3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=24|deaths=18|time=76}}
+|red4={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=29|deaths=18|time=70}}
+|red5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=26|deaths=21|time=50}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|eUnited|Rebel Esports|title=Black Ops 4|date=2019-08-14|time=1019|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=eUnited|team2=Rebel Esports|team1score=250|team2score=64
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=6:21
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=18|deaths=11|time=41}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=15|deaths=5|time=38}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=16|deaths=7|time=57}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=10|deaths=6|time=106}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=14|deaths=9|time=110}}
+|red1={{Scoreboard/Player|name=2ReaL|link=2ReaL|kills=6|deaths=16|time=0}}
+|red2={{Scoreboard/Player|name=Glory|link=Glory|kills=10|deaths=18|time=9}}
+|red3={{Scoreboard/Player|name=Gunsiii|link=Gunsiii|kills=7|deaths=15|time=36}}
+|red4={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=8|deaths=12|time=35}}
+|red5={{Scoreboard/Player|name=KlinK|link=KlinK|kills=7|deaths=12|time=9}}
+}}
+{{Scoreboard|team1=eUnited|team2=Rebel Esports|team1score=4|team2score=6
+|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=13:6
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=12|deaths=8|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=6|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=4|deaths=7|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=8|deaths=7|plants=1|defuses=1}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=4|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=2ReaL|link=2ReaL|kills=9|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Glory|link=Glory|kills=10|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Gunsiii|link=Gunsiii|kills=10|deaths=7|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=4|deaths=7|plants=2|defuses=1}}
+|red5={{Scoreboard/Player|name=KlinK|link=KlinK|kills=3|deaths=7|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=eUnited|team2=Rebel Esports|team1score=3|team2score=1
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=13:42
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=26|deaths=19|caps=1}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=16|deaths=15|caps=2}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=15|deaths=20|caps=2}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=17|deaths=24|caps=0}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=29|deaths=21|caps=1}}
+|red1={{Scoreboard/Player|name=2ReaL|link=2ReaL|kills=21|deaths=26|caps=0}}
+|red2={{Scoreboard/Player|name=Glory|link=Glory|kills=26|deaths=21|caps=1}}
+|red3={{Scoreboard/Player|name=Gunsiii|link=Gunsiii|kills=25|deaths=22|caps=1}}
+|red4={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=13|deaths=15|caps=1}}
+|red5={{Scoreboard/Player|name=KlinK|link=KlinK|kills=14|deaths=19|caps=1}}
+}}
+{{Scoreboard|team1=eUnited|team2=Rebel Esports|team1score=250|team2score=83
+|gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=7:26
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=25|deaths=9|time=43}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=10|deaths=11|time=87}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=16|deaths=16|time=48}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=16|deaths=14|time=89}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=18|deaths=12|time=106}}
+|red1={{Scoreboard/Player|name=2ReaL|link=2ReaL|kills=10|deaths=21|time=10}}
+|red2={{Scoreboard/Player|name=Glory|link=Glory|kills=12|deaths=19|time=29}}
+|red3={{Scoreboard/Player|name=Gunsiii|link=Gunsiii|kills=16|deaths=14|time=35}}
+|red4={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=15|deaths=14|time=46}}
+|red5={{Scoreboard/Player|name=KlinK|link=KlinK|kills=9|deaths=18|time=15}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Celtic FC Esports|eUnited|title=Black Ops 4|date=2019-08-14|time=1548|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Celtic FC Esports|team2=eUnited|team1score=88|team2score=250
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=7:47
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=14|deaths=22|time=20}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=11|deaths=20|time=25}}
+|blue3={{Scoreboard/Player|name=Nastie|link=Nastie|kills=17|deaths=21|time=31}}
+|blue4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=14|deaths=22|time=33}}
+|blue5={{Scoreboard/Player|name=Seany|link=Seany|kills=16|deaths=21|time=29}}
+|red1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=19|deaths=19|time=30}}
+|red2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=23|deaths=12|time=76}}
+|red3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=19|deaths=14|time=54}}
+|red4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=20|deaths=12|time=80}}
+|red5={{Scoreboard/Player|name=Simp|link=Simp|kills=25|deaths=15|time=97}}
+}}
+{{Scoreboard|team1=Celtic FC Esports|team2=eUnited|team1score=0|team2score=3
+|gamename=Game 2|map=Seaside|gamemode=Control|maptime=6:30
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=5|deaths=12|caps=0}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=4|deaths=12|caps=0}}
+|blue3={{Scoreboard/Player|name=Nastie|link=Nastie|kills=11|deaths=14|caps=0}}
+|blue4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=5|deaths=16|caps=0}}
+|blue5={{Scoreboard/Player|name=Seany|link=Seany|kills=4|deaths=17|caps=0}}
+|red1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=19|deaths=4|caps=3}}
+|red2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=14|deaths=6|caps=2}}
+|red3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=14|deaths=7|caps=3}}
+|red4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=12|deaths=5|caps=2}}
+|red5={{Scoreboard/Player|name=Simp|link=Simp|kills=12|deaths=7|caps=3}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Elevate|Rebel Esports|title=Black Ops 4|date=2019-08-14|time=1602|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Elevate|team2=Rebel Esports|team1score=250|team2score=145
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:15
+|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=19|deaths=14|time=83}}
+|blue2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=23|deaths=20|time=75}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=11|deaths=21|time=44}}
+|blue4={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=25|deaths=17|time=105}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=20|deaths=11|time=85}}
+|red1={{Scoreboard/Player|name=2ReaL|link=2ReaL|kills=23|deaths=19|time=26}}
+|red2={{Scoreboard/Player|name=Glory|link=Glory|kills=13|deaths=21|time=53}}
+|red3={{Scoreboard/Player|name=Gunsiii|link=Gunsiii|kills=13|deaths=24|time=53}}
+|red4={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=11|deaths=17|time=92}}
+|red5={{Scoreboard/Player|name=KlinK|link=KlinK|kills=23|deaths=17|time=58}}
+}}
+{{Scoreboard|team1=Elevate|team2=Rebel Esports|team1score=6|team2score=4
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=16:9
+|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=3|deaths=8|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=14|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=6|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=7|deaths=7|plants=2|defuses=1}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=8|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=2ReaL|link=2ReaL|kills=9|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Glory|link=Glory|kills=10|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Gunsiii|link=Gunsiii|kills=9|deaths=7|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=2|deaths=7|plants=4|defuses=0}}
+|red5={{Scoreboard/Player|name=KlinK|link=KlinK|kills=3|deaths=8|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Elevate|team2=Rebel Esports|team1score=0|team2score=3
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=10:43
+|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=12|deaths=14|caps=0}}
+|blue2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=9|deaths=15|caps=2}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=14|deaths=14|caps=0}}
+|blue4={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=11|deaths=15|caps=2}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=10|deaths=13|caps=1}}
+|red1={{Scoreboard/Player|name=2ReaL|link=2ReaL|kills=17|deaths=12|caps=1}}
+|red2={{Scoreboard/Player|name=Glory|link=Glory|kills=20|deaths=11|caps=2}}
+|red3={{Scoreboard/Player|name=Gunsiii|link=Gunsiii|kills=14|deaths=11|caps=2}}
+|red4={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=9|deaths=12|caps=2}}
+|red5={{Scoreboard/Player|name=KlinK|link=KlinK|kills=11|deaths=10|caps=2}}
+}}
+{{Scoreboard|team1=Elevate|team2=Rebel Esports|team1score=250|team2score=200
+|gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=10:55
+|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=24|deaths=23|time=101}}
+|blue2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=32|deaths=16|time=93}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=26|deaths=18|time=79}}
+|blue4={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=24|deaths=22|time=79}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=18|deaths=16|time=60}}
+|red1={{Scoreboard/Player|name=2ReaL|link=2ReaL|kills=18|deaths=28|time=43}}
+|red2={{Scoreboard/Player|name=Glory|link=Glory|kills=18|deaths=28|time=82}}
+|red3={{Scoreboard/Player|name=Gunsiii|link=Gunsiii|kills=22|deaths=26|time=58}}
+|red4={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=21|deaths=18|time=50}}
+|red5={{Scoreboard/Player|name=KlinK|link=KlinK|kills=16|deaths=24|time=57}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Celtic FC Esports|Rebel Esports|title=Black Ops 4|date=2019-08-15|time=1248|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Celtic FC Esports|team2=Rebel Esports|team1score=250|team2score=91
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=7:48
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=15|deaths=16|time=66}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=11|deaths=12|time=66}}
+|blue3={{Scoreboard/Player|name=Nastie|link=Nastie|kills=22|deaths=14|time=91}}
+|blue4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=23|deaths=11|time=28}}
+|blue5={{Scoreboard/Player|name=Seany|link=Seany|kills=23|deaths=13|time=85}}
+|red1={{Scoreboard/Player|name=2ReaL|link=2ReaL|kills=14|deaths=19|time=27}}
+|red2={{Scoreboard/Player|name=Glory|link=Glory|kills=12|deaths=22|time=24}}
+|red3={{Scoreboard/Player|name=Gunsiii|link=Gunsiii|kills=16|deaths=19|time=27}}
+|red4={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=14|deaths=15|time=42}}
+|red5={{Scoreboard/Player|name=KlinK|link=KlinK|kills=10|deaths=19|time=13}}
+}}
+{{Scoreboard|team1=Celtic FC Esports|team2=Rebel Esports|team1score=4|team2score=6
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=12:32
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=8|deaths=9|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=6|deaths=9|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Nastie|link=Nastie|kills=7|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=10|deaths=6|plants=2|defuses=0}}
+|blue5={{Scoreboard/Player|name=Seany|link=Seany|kills=4|deaths=9|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=2ReaL|link=2ReaL|kills=5|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Glory|link=Glory|kills=10|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Gunsiii|link=Gunsiii|kills=13|deaths=4|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=3|deaths=7|plants=3|defuses=0}}
+|red5={{Scoreboard/Player|name=KlinK|link=KlinK|kills=7|deaths=8|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=Celtic FC Esports|team2=Rebel Esports|team1score=1|team2score=3
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=13:9
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=16|deaths=18|caps=3}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=21|deaths=20|caps=3}}
+|blue3={{Scoreboard/Player|name=Nastie|link=Nastie|kills=19|deaths=19|caps=3}}
+|blue4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=18|deaths=19|caps=2}}
+|blue5={{Scoreboard/Player|name=Seany|link=Seany|kills=14|deaths=17|caps=3}}
+|red1={{Scoreboard/Player|name=2ReaL|link=2ReaL|kills=22|deaths=18|caps=3}}
+|red2={{Scoreboard/Player|name=Glory|link=Glory|kills=23|deaths=19|caps=3}}
+|red3={{Scoreboard/Player|name=Gunsiii|link=Gunsiii|kills=25|deaths=18|caps=3}}
+|red4={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=10|deaths=15|caps=3}}
+|red5={{Scoreboard/Player|name=KlinK|link=KlinK|kills=13|deaths=18|caps=2}}
+}}
+{{Scoreboard|team1=Celtic FC Esports|team2=Rebel Esports|team1score=107|team2score=250
+|gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=8:7
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=15|deaths=24|time=20}}
+|blue2={{Scoreboard/Player|name=Chain|link=Chain|kills=18|deaths=22|time=34}}
+|blue3={{Scoreboard/Player|name=Nastie|link=Nastie|kills=24|deaths=23|time=41}}
+|blue4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=14|deaths=21|time=17}}
+|blue5={{Scoreboard/Player|name=Seany|link=Seany|kills=16|deaths=22|time=45}}
+|red1={{Scoreboard/Player|name=2ReaL|link=2ReaL|kills=37|deaths=14|time=54}}
+|red2={{Scoreboard/Player|name=Glory|link=Glory|kills=16|deaths=20|time=73}}
+|red3={{Scoreboard/Player|name=Gunsiii|link=Gunsiii|kills=23|deaths=17|time=90}}
+|red4={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=15|deaths=17|time=94}}
+|red5={{Scoreboard/Player|name=KlinK|link=KlinK|kills=20|deaths=19|time=81}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Elevate|eUnited|title=Black Ops 4|date=2019-08-15|time=1306|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Elevate|team2=eUnited|team1score=245|team2score=224
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=12:49
+|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=22|deaths=29|time=105}}
+|blue2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=30|deaths=31|time=43}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=26|deaths=30|time=49}}
+|blue4={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=36|deaths=29|time=110}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=23|deaths=22|time=45}}
+|red1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=22|deaths=31|time=53}}
+|red2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=34|deaths=23|time=80}}
+|red3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=31|deaths=27|time=30}}
+|red4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=26|deaths=29|time=55}}
+|red5={{Scoreboard/Player|name=Simp|link=Simp|kills=28|deaths=27|time=84}}
+}}
+{{Scoreboard|team1=Elevate|team2=eUnited|team1score=2|team2score=6
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=11:54
+|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=2|deaths=8|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=4|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=5|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=6|deaths=8|plants=2|defuses=0}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=3|deaths=8|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=7|deaths=4|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=4|deaths=3|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=10|deaths=4|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=10|deaths=5|plants=3|defuses=0}}
+|red5={{Scoreboard/Player|name=Simp|link=Simp|kills=7|deaths=4|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Elevate|team2=eUnited|team1score=1|team2score=3
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=12:18
+|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=16|deaths=19|caps=1}}
+|blue2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=23|deaths=20|caps=0}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=13|deaths=23|caps=0}}
+|blue4={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=15|deaths=22|caps=1}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=14|deaths=19|caps=0}}
+|red1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=20|deaths=15|caps=2}}
+|red2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=17|deaths=17|caps=2}}
+|red3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=25|deaths=17|caps=0}}
+|red4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=25|deaths=16|caps=0}}
+|red5={{Scoreboard/Player|name=Simp|link=Simp|kills=16|deaths=16|caps=1}}
+}}
+{{Scoreboard|team1=Elevate|team2=eUnited|team1score=159|team2score=250
+|gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=9:49
+|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=20|deaths=18|time=77}}
+|blue2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=23|deaths=21|time=69}}
+|blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=17|deaths=18|time=53}}
+|blue4={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=20|deaths=22|time=47}}
+|blue5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=21|deaths=21|time=29}}
+|red1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=21|deaths=23|time=66}}
+|red2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=22|deaths=17|time=46}}
+|red3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=11|deaths=22|time=42}}
+|red4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=24|deaths=20|time=108}}
+|red5={{Scoreboard/Player|name=Simp|link=Simp|kills=22|deaths=19|time=119}}
+}}
+{{Box|end}}

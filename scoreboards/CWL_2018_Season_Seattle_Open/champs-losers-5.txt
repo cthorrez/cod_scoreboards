@@ -1,0 +1,116 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Red Reserve|Team Kaliber|title=World War II|date=2018-04-22|time=1145|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Red Reserve|team2=Team Kaliber|team1score=111|team2score=250
+|gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=9:41
+|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=28|deaths=25|time=17}}
+|blue2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=21|deaths=33|time=57}}
+|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=16|deaths=28|time=14}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=26|deaths=27|time=38}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=27|deaths=24|time=52}}
+|red2={{Scoreboard/Player|name=Fero|link=Fero|kills=32|deaths=26|time=95}}
+|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=30|deaths=26|time=63}}
+|red4={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=24|deaths=15|time=63}}
+}}
+{{Scoreboard|team1=Red Reserve|team2=Team Kaliber|team1score=6|team2score=0
+|gamename=Game 2|map=Valkyrie|gamemode=Search and Destroy|maptime=4:58
+|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=7|deaths=2|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=8|deaths=1|plants=2|defuses=1}}
+|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=2|deaths=2|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=7|deaths=4|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=3|deaths=6|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Fero|link=Fero|kills=2|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=1|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=3|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Red Reserve|team2=Team Kaliber|team1score=3|team2score=1
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:1
+|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=20|deaths=19|caps=0|returns=3}}
+|blue2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=24|deaths=16|caps=2|returns=0}}
+|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=20|deaths=18|caps=0|returns=2}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=12|deaths=15|caps=1|returns=1}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=16|deaths=19|caps=1|returns=0}}
+|red2={{Scoreboard/Player|name=Fero|link=Fero|kills=28|deaths=18|caps=0|returns=1}}
+|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=10|deaths=19|caps=0|returns=0}}
+|red4={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=14|deaths=20|caps=0|returns=1}}
+}}
+{{Scoreboard|team1=Red Reserve|team2=Team Kaliber|team1score=141|team2score=250
+|gamename=Game 4|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=8:50
+|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=12|deaths=26|time=21}}
+|blue2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=19|deaths=27|time=24}}
+|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=16|deaths=21|time=77}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=25|deaths=22|time=50}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=22|deaths=21|time=65}}
+|red2={{Scoreboard/Player|name=Fero|link=Fero|kills=29|deaths=18|time=81}}
+|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=22|deaths=19|time=26}}
+|red4={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=23|deaths=14|time=113}}
+}}
+{{Scoreboard|team1=Red Reserve|team2=Team Kaliber|team1score=5|team2score=6
+|gamename=Game 5|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=12:10
+|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=8|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=6|deaths=11|plants=2|defuses=0}}
+|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=7|deaths=8|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=7|deaths=7|plants=1|defuses=2}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=3|deaths=7|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Fero|link=Fero|kills=12|deaths=7|plants=2|defuses=1}}
+|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=12|deaths=6|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=6|deaths=8|plants=1|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Luminosity Gaming|Rise Nation|title=World War II|date=2018-04-22|time=1148|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Rise Nation|team1score=86|team2score=250
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=8:49
+|blue1={{Scoreboard/Player|name=JKap|link=JKap|kills=17|deaths=29|time=27}}
+|blue2={{Scoreboard/Player|name=John|link=John|kills=23|deaths=26|time=14}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=27|deaths=24|time=28}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=22|deaths=31|time=43}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=33|deaths=16|time=71}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=22|deaths=24|time=74}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=30|deaths=24|time=54}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=25|deaths=25|time=105}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Rise Nation|team1score=6|team2score=3
+|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=6:51
+|blue1={{Scoreboard/Player|name=JKap|link=JKap|kills=6|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=John|link=John|kills=5|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=8|deaths=5|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=9|deaths=6|plants=0|defuses=1}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=7|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=3|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=10|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=5|deaths=6|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Rise Nation|team1score=2|team2score=1
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=17:51
+|blue1={{Scoreboard/Player|name=JKap|link=JKap|kills=35|deaths=34|caps=1|returns=4}}
+|blue2={{Scoreboard/Player|name=John|link=John|kills=47|deaths=32|caps=1|returns=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=33|deaths=37|caps=0|returns=0}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=25|deaths=39|caps=0|returns=1}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=39|deaths=32|caps=1|returns=0}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=35|deaths=32|caps=0|returns=2}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=35|deaths=35|caps=0|returns=1}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=33|deaths=41|caps=0|returns=2}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Rise Nation|team1score=218|team2score=250
+|gamename=Game 4|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=10:13
+|blue1={{Scoreboard/Player|name=JKap|link=JKap|kills=39|deaths=27|time=45}}
+|blue2={{Scoreboard/Player|name=John|link=John|kills=29|deaths=24|time=83}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=19|deaths=29|time=65}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=21|deaths=25|time=64}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=28|deaths=28|time=31}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=18|deaths=27|time=147}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=38|deaths=25|time=44}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=21|deaths=28|time=90}}
+}}
+{{Scoreboard|team1=Luminosity Gaming|team2=Rise Nation|team1score=2|team2score=6
+|gamename=Game 5|map=Valkyrie|gamemode=Search and Destroy|maptime=6:25
+|blue1={{Scoreboard/Player|name=JKap|link=JKap|kills=2|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=John|link=John|kills=5|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=4|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=5|deaths=6|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=7|deaths=4|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=2|deaths=4|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=9|deaths=4|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=8|deaths=4|plants=0|defuses=0}}
+}}
+{{Box|end}}

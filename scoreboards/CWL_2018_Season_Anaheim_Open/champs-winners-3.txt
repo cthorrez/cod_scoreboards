@@ -1,0 +1,69 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Red Reserve|Rise Nation|title=World War II|date=2018-06-17|time=1451|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Red Reserve|team2=Rise Nation|team1score=250|team2score=216
+|gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=10:27
+|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=22|deaths=28|time=93}}
+|blue2={{Scoreboard/Player|name=Rated|link=Rated|kills=23|deaths=24|time=104}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=25|deaths=28|time=81}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=32|deaths=29|time=49}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=28|deaths=22|time=82}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=18|deaths=27|time=67}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=28|deaths=24|time=55}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=35|deaths=29|time=66}}
+}}
+{{Scoreboard|team1=Red Reserve|team2=Rise Nation|team1score=3|team2score=6
+|gamename=Game 2|map=Valkyrie|gamemode=Search and Destroy|maptime=9:37
+|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=3|deaths=8|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Rated|link=Rated|kills=6|deaths=7|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=4|deaths=7|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=6|deaths=8|plants=2|defuses=0}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=6|deaths=4|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=7|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=8|deaths=5|plants=1|defuses=2}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=9|deaths=4|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Red Reserve|team2=Rise Nation|team1score=3|team2score=2
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=15:10
+|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=25|deaths=28|caps=0|returns=2}}
+|blue2={{Scoreboard/Player|name=Rated|link=Rated|kills=23|deaths=27|caps=2|returns=0}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=34|deaths=30|caps=1|returns=1}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=31|deaths=30|caps=0|returns=1}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=34|deaths=29|caps=1|returns=1}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=21|deaths=28|caps=0|returns=1}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=27|deaths=24|caps=0|returns=0}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=33|deaths=32|caps=1|returns=0}}
+}}
+{{Scoreboard|team1=Red Reserve|team2=Rise Nation|team1score=227|team2score=227
+|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=13:9
+|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=26|deaths=35|time=120}}
+|blue2={{Scoreboard/Player|name=Rated|link=Rated|kills=33|deaths=28|time=61}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=33|deaths=38|time=31}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=32|deaths=42|time=38}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=37|deaths=33|time=19}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=33|deaths=34|time=45}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=35|deaths=24|time=28}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=38|deaths=33|time=152}}
+}}
+{{Scoreboard|team1=Red Reserve|team2=Rise Nation|team1score=163|team2score=250
+|gamename=Game 5|map=Ardennes Forest|gamemode=Hardpoint|maptime=11:50
+|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=28|deaths=39|time=55}}
+|blue2={{Scoreboard/Player|name=Rated|link=Rated|kills=14|deaths=34|time=37}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=40|deaths=31|time=65}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=37|deaths=37|time=29}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=26|deaths=33|time=73}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=39|deaths=30|time=77}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=39|deaths=24|time=85}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=37|deaths=32|time=90}}
+}}
+{{Scoreboard|team1=Red Reserve|team2=Rise Nation|team1score=3|team2score=6
+|gamename=Game 6|map=London Docks|gamemode=Search and Destroy|maptime=8:14
+|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=3|deaths=7|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=Rated|link=Rated|kills=2|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=3|deaths=7|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=6|deaths=6|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=8|deaths=1|plants=2|defuses=1}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=6|deaths=5|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=3|deaths=4|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=9|deaths=4|plants=0|defuses=0}}
+}}
+{{Box|end}}

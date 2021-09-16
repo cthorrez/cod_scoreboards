@@ -1,0 +1,47 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Rise Nation|Team Kaliber|title=World War II|date=2018-07-29|time=1316|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Rise Nation|team2=Team Kaliber|team1score=250|team2score=209
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=10:0
+|blue1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=39|deaths=34|time=0}}
+|blue2={{Scoreboard/Player|name=Loony|link=Loony|kills=28|deaths=32|time=0}}
+|blue3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=40|deaths=28|time=0}}
+|blue4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=34|deaths=28|time=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=34|deaths=34|time=0}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=20|deaths=36|time=0}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=33|deaths=33|time=0}}
+|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=35|deaths=38|time=0}}
+}}
+{{Scoreboard|team1=Rise Nation|team2=Team Kaliber|team1score=5|team2score=6
+|gamename=Game 2|map=Valkyrie|gamemode=Search and Destroy|maptime=10:0
+|blue1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=8|deaths=6|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Loony|link=Loony|kills=4|deaths=9|plants=2|defuses=0}}
+|blue3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=5|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=10|deaths=11|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=9|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=4|deaths=6|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=10|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=10|deaths=6|plants=0|defuses=1}}
+}}
+{{Scoreboard|team1=Rise Nation|team2=Team Kaliber|team1score=1|team2score=3
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:0
+|blue1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=16|deaths=16|caps=0|returns=0}}
+|blue2={{Scoreboard/Player|name=Loony|link=Loony|kills=7|deaths=19|caps=0|returns=0}}
+|blue3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=18|deaths=17|caps=0|returns=0}}
+|blue4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=17|deaths=19|caps=0|returns=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=11|deaths=15|caps=0|returns=0}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=15|deaths=13|caps=0|returns=0}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=19|deaths=14|caps=0|returns=0}}
+|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=26|deaths=16|caps=0|returns=0}}
+}}
+{{Scoreboard|team1=Rise Nation|team2=Team Kaliber|team1score=102|team2score=250
+|gamename=Game 4|map=Gibraltar|gamemode=Hardpoint|maptime=10:0
+|blue1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=11|deaths=19|time=0}}
+|blue2={{Scoreboard/Player|name=Loony|link=Loony|kills=16|deaths=22|time=0}}
+|blue3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=16|deaths=20|time=0}}
+|blue4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=19|deaths=22|time=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=18|deaths=18|time=0}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=25|deaths=14|time=0}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=21|deaths=16|time=0}}
+|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=19|deaths=14|time=0}}
+}}
+{{Box|end}}

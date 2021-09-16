@@ -1,0 +1,36 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|eUnited|Evil Geniuses|title=World War II|date=2018-04-22|time=1454|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=eUnited|team2=Evil Geniuses|team1score=211|team2score=250
+|gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=9:38
+|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=11|deaths=20|time=103}}
+|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=17|deaths=18|time=55}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=26|deaths=23|time=65}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=24|deaths=27|time=32}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=14|deaths=25|time=17}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=26|deaths=15|time=80}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=24|deaths=19|time=101}}
+|red4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=24|deaths=19|time=105}}
+}}
+{{Scoreboard|team1=eUnited|team2=Evil Geniuses|team1score=5|team2score=6
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=11:28
+|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=9|deaths=7|plants=1|defuses=1}}
+|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=11|deaths=10|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=6|deaths=10|plants=2|defuses=0}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=3|deaths=8|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=10|deaths=7|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=8|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=4|deaths=9|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=13|deaths=5|plants=1|defuses=2}}
+}}
+{{Scoreboard|team1=eUnited|team2=Evil Geniuses|team1score=4|team2score=7
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:0
+|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=13|deaths=19|caps=1|returns=0}}
+|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=20|deaths=16|caps=1|returns=0}}
+|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=16|deaths=22|caps=1|returns=0}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=16|deaths=18|caps=1|returns=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=22|deaths=16|caps=2|returns=2}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=17|deaths=18|caps=1|returns=3}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=18|deaths=17|caps=1|returns=1}}
+|red4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=18|deaths=14|caps=3|returns=0}}
+}}
+{{Box|end}}

@@ -1,0 +1,658 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Echo Fox|Red Reserve|title=World War II|date=2018-06-26|time=1116|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Echo Fox|team2=Red Reserve|team1score=124|team2score=250
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=9:32
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=19|deaths=30|time=38}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=27|deaths=28|time=17}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=23|deaths=24|time=57}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=26|deaths=29|time=18}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=24|deaths=27|time=76}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=24|deaths=23|time=109}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=34|deaths=20|time=133}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=29|deaths=25|time=34}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Red Reserve|team1score=3|team2score=6
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=7:26
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=8|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=6|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=6|deaths=6|plants=2|defuses=0}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=4|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=6|deaths=5|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=4|deaths=7|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=9|deaths=7|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=6|deaths=5|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Red Reserve|team1score=2|team2score=1
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:20
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=21|deaths=21|caps=0|returns=2}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=21|deaths=18|caps=1|returns=1}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=13|deaths=16|caps=0|returns=0}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=25|deaths=18|caps=1|returns=0}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=14|deaths=20|caps=1|returns=1}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=14|deaths=21|caps=0|returns=1}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=19|deaths=22|caps=0|returns=0}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=26|deaths=17|caps=0|returns=2}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Red Reserve|team1score=250|team2score=169
+|gamename=Game 4|map=Valkyrie|gamemode=Hardpoint|maptime=8:49
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=32|deaths=16|time=166}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=25|deaths=22|time=31}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=25|deaths=18|time=70}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=23|deaths=22|time=37}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=18|deaths=32|time=16}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=22|deaths=22|time=81}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=20|deaths=26|time=32}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=18|deaths=25|time=58}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Red Reserve|team1score=6|team2score=1
+|gamename=Game 5|map=Valkyrie|gamemode=Search and Destroy|maptime=8:9
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=9|deaths=1|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=6|deaths=2|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=7|deaths=2|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=4|deaths=5|plants=2|defuses=0}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=4|deaths=6|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=4|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=1|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=1|deaths=7|plants=1|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Epsilon Esports EU|Evil Geniuses|title=World War II|date=2018-06-26|time=1258|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=Evil Geniuses|team1score=214|team2score=250
+|gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=10:0
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=26|deaths=28|time=0}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=18|deaths=23|time=0}}
+|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=18|deaths=22|time=0}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=25|deaths=31|time=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=24|deaths=22|time=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=26|deaths=22|time=0}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=30|deaths=16|time=0}}
+|red4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=24|deaths=27|time=0}}
+}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=Evil Geniuses|team1score=6|team2score=4
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=9:55
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=5|deaths=9|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=3|deaths=6|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=13|deaths=5|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=7|deaths=8|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=12|deaths=6|plants=1|defuses=1}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=8|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=7|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=1|deaths=8|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=Evil Geniuses|team1score=0|team2score=2
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:0
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=17|deaths=16|caps=0|returns=0}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=14|deaths=19|caps=0|returns=0}}
+|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=10|deaths=12|caps=0|returns=0}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=9|deaths=20|caps=0|returns=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=18|deaths=13|caps=0|returns=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=17|deaths=13|caps=0|returns=0}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=17|deaths=10|caps=0|returns=0}}
+|red4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=15|deaths=14|caps=0|returns=0}}
+}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=Evil Geniuses|team1score=105|team2score=250
+|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=10:0
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=29|deaths=37|time=0}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=19|deaths=29|time=0}}
+|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=19|deaths=19|time=0}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=22|deaths=35|time=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=28|deaths=24|time=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=38|deaths=27|time=0}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=26|deaths=19|time=0}}
+|red4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=28|deaths=19|time=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Splyce|Team Kaliber|title=World War II|date=2018-06-26|time=1416|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Splyce|team2=Team Kaliber|team1score=205|team2score=250
+|gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=10:0
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=22|deaths=33|time=0}}
+|blue2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=23|deaths=30|time=0}}
+|blue3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=29|deaths=30|time=0}}
+|blue4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=22|deaths=27|time=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=28|deaths=23|time=0}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=27|deaths=26|time=0}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=35|deaths=22|time=0}}
+|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=30|deaths=25|time=0}}
+}}
+{{Scoreboard|team1=Splyce|team2=Team Kaliber|team1score=1|team2score=6
+|gamename=Game 2|map=USS Texas|gamemode=Search and Destroy|maptime=10:0
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=6|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=3|deaths=7|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=1|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=3|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=11|deaths=2|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=5|deaths=5|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=7|deaths=2|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=3|deaths=4|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Splyce|team2=Team Kaliber|team1score=4|team2score=3
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=13:27
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=21|deaths=23|caps=2|returns=2}}
+|blue2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=24|deaths=22|caps=1|returns=1}}
+|blue3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=22|deaths=19|caps=0|returns=0}}
+|blue4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=19|deaths=17|caps=1|returns=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=23|deaths=22|caps=0|returns=1}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=25|deaths=16|caps=1|returns=1}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=12|deaths=23|caps=1|returns=1}}
+|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=21|deaths=25|caps=1|returns=0}}
+}}
+{{Scoreboard|team1=Splyce|team2=Team Kaliber|team1score=150|team2score=250
+|gamename=Game 4|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=9:2
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=21|deaths=27|time=28}}
+|blue2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=19|deaths=30|time=39}}
+|blue3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=18|deaths=24|time=47}}
+|blue4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=23|deaths=20|time=72}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=25|deaths=21|time=68}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=20|deaths=16|time=67}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=25|deaths=20|time=121}}
+|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=31|deaths=24|time=34}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Echo Fox|Evil Geniuses|title=World War II|date=2018-06-26|time=1531|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Echo Fox|team2=Evil Geniuses|team1score=250|team2score=204
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:14
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=25|deaths=25|time=110}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=25|deaths=24|time=75}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=36|deaths=31|time=63}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=33|deaths=32|time=61}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=30|deaths=30|time=36}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=29|deaths=31|time=64}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=18|deaths=28|time=95}}
+|red4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=35|deaths=30|time=74}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Evil Geniuses|team1score=6|team2score=3
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=10:20
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=15|deaths=5|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=4|deaths=6|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=8|deaths=5|plants=2|defuses=0}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=4|deaths=8|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=2|deaths=9|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=6|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=7|deaths=7|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=9|deaths=7|plants=1|defuses=1}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Evil Geniuses|team1score=4|team2score=1
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=9:59
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=18|deaths=16|caps=1|returns=1}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=14|deaths=19|caps=1|returns=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=25|deaths=15|caps=1|returns=1}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=22|deaths=16|caps=1|returns=2}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=20|deaths=19|caps=0|returns=0}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=21|deaths=19|caps=1|returns=1}}
+|red3={{Scoreboard/Player|name=Assault|link=Assault|kills=14|deaths=19|caps=0|returns=0}}
+|red4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=11|deaths=22|caps=0|returns=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FaZe Clan|Team Envy|title=World War II|date=2018-06-26|time=1639|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Envy|team1score=142|team2score=250
+|gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=9:3
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=21|deaths=20|time=58}}
+|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=21|deaths=27|time=25}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=12|deaths=24|time=59}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=20|deaths=21|time=32}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=17|deaths=18|time=109}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=18|deaths=22|time=63}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=26|deaths=13|time=97}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=31|deaths=21|time=45}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Envy|team1score=6|team2score=3
+|gamename=Game 2|map=Valkyrie|gamemode=Search and Destroy|maptime=8:16
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=5|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=13|deaths=5|plants=2|defuses=1}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=6|deaths=5|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=7|deaths=5|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=5|deaths=9|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=5|deaths=9|plants=2|defuses=0}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=4|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=7|deaths=6|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Envy|team1score=2|team2score=3
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=9:59
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=18|deaths=19|caps=0|returns=0}}
+|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=17|deaths=18|caps=0|returns=0}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=14|deaths=19|caps=1|returns=0}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=13|deaths=20|caps=1|returns=1}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=19|deaths=17|caps=0|returns=0}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=17|deaths=16|caps=2|returns=0}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=18|deaths=14|caps=1|returns=1}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=22|deaths=15|caps=0|returns=2}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Team Envy|team1score=151|team2score=250
+|gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=9:39
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=16|deaths=28|time=15}}
+|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=20|deaths=26|time=61}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=24|deaths=25|time=85}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=29|deaths=33|time=14}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=25|deaths=19|time=102}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=27|deaths=27|time=43}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=29|deaths=18|time=90}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=31|deaths=25|time=58}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Evil Geniuses|Red Reserve|title=World War II|date=2018-06-27|time=1105|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Evil Geniuses|team2=Red Reserve|team1score=211|team2score=250
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:18
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=23|deaths=30|time=78}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=24|deaths=29|time=31}}
+|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=23|deaths=23|time=41}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=33|deaths=28|time=84}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=29|deaths=27|time=67}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=24|deaths=22|time=162}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=28|deaths=24|time=40}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=29|deaths=30|time=49}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Red Reserve|team1score=4|team2score=6
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=12:30
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=3|deaths=10|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=4|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=3|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=10|deaths=7|plants=2|defuses=1}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=3|deaths=6|plants=2|defuses=0}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=5|deaths=6|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=9|deaths=3|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=14|deaths=5|plants=0|defuses=1}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Red Reserve|team1score=2|team2score=1
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=9:59
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=18|deaths=13|caps=0|returns=1}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=13|deaths=18|caps=1|returns=1}}
+|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=16|deaths=12|caps=0|returns=0}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=20|deaths=13|caps=1|returns=0}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=12|deaths=18|caps=1|returns=0}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=16|deaths=14|caps=0|returns=2}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=22|deaths=15|caps=0|returns=0}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=6|deaths=20|caps=0|returns=0}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Red Reserve|team1score=250|team2score=242
+|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=13:10
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=28|deaths=35|time=90}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=36|deaths=30|time=53}}
+|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=29|deaths=31|time=81}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=41|deaths=32|time=56}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=24|deaths=38|time=57}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=28|deaths=28|time=86}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=40|deaths=35|time=58}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=36|deaths=33|time=65}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Red Reserve|team1score=5|team2score=6
+|gamename=Game 5|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=13:35
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=7|deaths=8|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=6|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=9|deaths=7|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=4|deaths=8|plants=5|defuses=0}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=7|deaths=5|plants=0|defuses=1}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=5|deaths=10|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=12|deaths=6|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=6|deaths=5|plants=2|defuses=2}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Splyce|Team Envy|title=World War II|date=2018-06-27|time=1302|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Splyce|team2=Team Envy|team1score=134|team2score=250
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=10:5
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=21|deaths=33|time=20}}
+|blue2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=23|deaths=27|time=67}}
+|blue3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=28|deaths=25|time=62}}
+|blue4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=19|deaths=25|time=48}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=33|deaths=20|time=131}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=20|deaths=29|time=57}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=26|deaths=21|time=84}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=31|deaths=21|time=13}}
+}}
+{{Scoreboard|team1=Splyce|team2=Team Envy|team1score=6|team2score=5
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=11:31
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=13|deaths=6|plants=1|defuses=1}}
+|blue2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=11|deaths=8|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=4|deaths=6|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=6|deaths=7|plants=0|defuses=2}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=8|deaths=8|plants=5|defuses=0}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=5|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=9|deaths=8|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=5|deaths=10|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Splyce|team2=Team Envy|team1score=7|team2score=5
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=13:36
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=19|deaths=24|caps=2|returns=1}}
+|blue2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=30|deaths=26|caps=1|returns=0}}
+|blue3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=26|deaths=20|caps=4|returns=1}}
+|blue4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=27|deaths=18|caps=0|returns=1}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=21|deaths=23|caps=2|returns=3}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=17|deaths=25|caps=2|returns=1}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=20|deaths=28|caps=0|returns=1}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=30|deaths=26|caps=1|returns=1}}
+}}
+{{Scoreboard|team1=Splyce|team2=Team Envy|team1score=189|team2score=170
+|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=11:42
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=28|deaths=34|time=58}}
+|blue2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=36|deaths=38|time=24}}
+|blue3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=35|deaths=34|time=30}}
+|blue4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=33|deaths=26|time=90}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=30|deaths=33|time=65}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=38|deaths=34|time=52}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=27|deaths=33|time=27}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=37|deaths=32|time=49}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Epsilon Esports EU|FaZe Clan|title=World War II|date=2018-06-27|time=1428|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=FaZe Clan|team1score=156|team2score=250
+|gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=9:1
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=13|deaths=26|time=77}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=23|deaths=22|time=28}}
+|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=24|deaths=24|time=32}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=23|deaths=28|time=50}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=25|deaths=25|time=71}}
+|red2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=22|deaths=16|time=118}}
+|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=26|deaths=19|time=56}}
+|red4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=27|deaths=23|time=48}}
+}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=FaZe Clan|team1score=6|team2score=4
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=10:41
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=4|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=8|deaths=7|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=9|deaths=6|plants=2|defuses=0}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=11|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=11|deaths=8|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=3|deaths=10|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=6|deaths=6|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=6|deaths=8|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=FaZe Clan|team1score=1|team2score=3
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=12:55
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=21|deaths=29|caps=1|returns=0}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=14|deaths=17|caps=0|returns=0}}
+|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=14|deaths=16|caps=0|returns=1}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=26|deaths=24|caps=0|returns=0}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=24|deaths=15|caps=0|returns=2}}
+|red2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=20|deaths=21|caps=1|returns=0}}
+|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=14|deaths=19|caps=1|returns=1}}
+|red4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=28|deaths=20|caps=1|returns=2}}
+}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=FaZe Clan|team1score=206|team2score=250
+|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=12:48
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=32|deaths=43|time=42}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=31|deaths=31|time=21}}
+|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=26|deaths=36|time=91}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=26|deaths=39|time=96}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=32|deaths=25|time=58}}
+|red2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=44|deaths=28|time=80}}
+|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=30|deaths=29|time=116}}
+|red4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=43|deaths=33|time=17}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Echo Fox|Team Kaliber|title=World War II|date=2018-06-27|time=1551|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Echo Fox|team2=Team Kaliber|team1score=188|team2score=250
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=10:55
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=25|deaths=34|time=55}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=28|deaths=32|time=34}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=33|deaths=29|time=95}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=27|deaths=35|time=35}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=41|deaths=27|time=168}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=25|deaths=27|time=62}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=32|deaths=32|time=63}}
+|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=32|deaths=27|time=7}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Team Kaliber|team1score=3|team2score=6
+|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=6:54
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=6|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=3|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=8|deaths=8|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=6|deaths=6|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=6|deaths=4|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=6|deaths=7|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=6|deaths=4|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=11|deaths=8|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Team Kaliber|team1score=5|team2score=4
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=15:10
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=32|deaths=31|caps=2|returns=0}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=27|deaths=28|caps=0|returns=2}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=21|deaths=31|caps=1|returns=1}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=27|deaths=27|caps=1|returns=2}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=22|deaths=23|caps=1|returns=2}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=30|deaths=25|caps=0|returns=0}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=38|deaths=28|caps=2|returns=0}}
+|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=27|deaths=31|caps=1|returns=1}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Team Kaliber|team1score=250|team2score=220
+|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=12:58
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=39|deaths=23|time=110}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=35|deaths=28|time=59}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=45|deaths=36|time=34}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=28|deaths=33|time=61}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=29|deaths=32|time=109}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=34|deaths=39|time=46}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=26|deaths=37|time=58}}
+|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=31|deaths=39|time=19}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Team Kaliber|team1score=6|team2score=5
+|gamename=Game 5|map=Valkyrie|gamemode=Search and Destroy|maptime=12:46
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=6|deaths=9|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=16|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=5|deaths=6|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=8|deaths=7|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=10|deaths=6|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=10|deaths=10|plants=2|defuses=0}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=5|deaths=10|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=4|deaths=9|plants=0|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FaZe Clan|Splyce|title=World War II|date=2018-06-27|time=1738|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=FaZe Clan|team2=Splyce|team1score=250|team2score=231
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:43
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=29|deaths=22|time=109}}
+|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=38|deaths=27|time=88}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=30|deaths=24|time=52}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=32|deaths=36|time=57}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=34|deaths=39|time=22}}
+|red2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=23|deaths=31|time=86}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=21|deaths=30|time=82}}
+|red4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=31|deaths=29|time=71}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Splyce|team1score=6|team2score=1
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=6:38
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=7|deaths=4|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=9|deaths=1|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=4|deaths=1|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=5|deaths=3|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=3|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=2|deaths=7|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=2|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=2|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Splyce|team1score=6|team2score=1
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=9:59
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=17|deaths=13|caps=0|returns=0}}
+|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=19|deaths=15|caps=3|returns=0}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=26|deaths=11|caps=2|returns=0}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=16|deaths=16|caps=1|returns=3}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=9|deaths=23|caps=1|returns=1}}
+|red2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=15|deaths=21|caps=0|returns=0}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=18|deaths=17|caps=0|returns=0}}
+|red4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=13|deaths=17|caps=0|returns=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Epsilon Esports EU|Team Kaliber|title=World War II|date=2018-06-28|time=1106|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=Team Kaliber|team1score=233|team2score=250
+|gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=11:26
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=26|deaths=27|time=119}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=25|deaths=24|time=35}}
+|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=32|deaths=30|time=57}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=25|deaths=29|time=73}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=19|deaths=22|time=79}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=28|deaths=32|time=59}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=34|deaths=28|time=66}}
+|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=29|deaths=26|time=76}}
+}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=Team Kaliber|team1score=0|team2score=6
+|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=4:21
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=0|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=1|deaths=6|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=4|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=4|deaths=6|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=6|deaths=2|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=3|deaths=3|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=8|deaths=1|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=7|deaths=3|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Epsilon Esports EU|team2=Team Kaliber|team1score=0|team2score=2
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=9:59
+|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=9|deaths=19|caps=0|returns=1}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=17|deaths=15|caps=0|returns=3}}
+|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=12|deaths=17|caps=0|returns=1}}
+|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=17|deaths=20|caps=0|returns=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=17|deaths=15|caps=1|returns=2}}
+|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=21|deaths=17|caps=0|returns=1}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=21|deaths=12|caps=1|returns=0}}
+|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=12|deaths=11|caps=0|returns=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Evil Geniuses|Splyce|title=World War II|date=2018-06-28|time=1206|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Evil Geniuses|team2=Splyce|team1score=237|team2score=224
+|gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=13:13
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=33|deaths=34|time=51}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=38|deaths=36|time=33}}
+|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=36|deaths=31|time=52}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=28|deaths=35|time=112}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=31|deaths=36|time=40}}
+|red2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=45|deaths=34|time=64}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=31|deaths=35|time=88}}
+|red4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=29|deaths=30|time=59}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Splyce|team1score=6|team2score=4
+|gamename=Game 2|map=Valkyrie|gamemode=Search and Destroy|maptime=10:36
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=4|deaths=7|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=10|deaths=6|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=8|deaths=5|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=7|deaths=9|plants=2|defuses=0}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=8|deaths=6|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=6|deaths=7|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=6|deaths=8|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=7|deaths=8|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=Evil Geniuses|team2=Splyce|team1score=2|team2score=1
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=17:2
+|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=18|deaths=23|caps=0|returns=0}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=16|deaths=15|caps=2|returns=1}}
+|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=20|deaths=18|caps=0|returns=1}}
+|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=18|deaths=23|caps=0|returns=0}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=26|deaths=21|caps=1|returns=0}}
+|red2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=25|deaths=20|caps=0|returns=0}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=12|deaths=15|caps=0|returns=0}}
+|red4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=16|deaths=16|caps=0|returns=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FaZe Clan|Red Reserve|title=World War II|date=2018-06-28|time=1322|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=FaZe Clan|team2=Red Reserve|team1score=133|team2score=250
+|gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=8:8
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=13|deaths=20|time=51}}
+|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=20|deaths=27|time=33}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=21|deaths=17|time=50}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=18|deaths=23|time=23}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=22|deaths=19|time=61}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=18|deaths=19|time=79}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=23|deaths=17|time=66}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=24|deaths=17|time=95}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Red Reserve|team1score=5|team2score=6
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=11:47
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=10|deaths=8|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=6|deaths=7|plants=4|defuses=0}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=7|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=8|deaths=6|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=4|deaths=9|plants=2|defuses=0}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=12|deaths=8|plants=1|defuses=1}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=2|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=9|deaths=7|plants=0|defuses=1}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Red Reserve|team1score=2|team2score=1
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=9:59
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=21|deaths=17|caps=0|returns=0}}
+|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=19|deaths=14|caps=1|returns=0}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=15|deaths=17|caps=0|returns=1}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=21|deaths=15|caps=1|returns=0}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=9|deaths=20|caps=0|returns=1}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=11|deaths=19|caps=1|returns=0}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=23|deaths=18|caps=0|returns=0}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=20|deaths=19|caps=0|returns=2}}
+}}
+{{Scoreboard|team1=FaZe Clan|team2=Red Reserve|team1score=182|team2score=250
+|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=11:5
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=21|deaths=27|time=77}}
+|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=23|deaths=34|time=30}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=27|deaths=22|time=71}}
+|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=36|deaths=28|time=29}}
+|red1={{Scoreboard/Player|name=Joee|link=Joee|kills=22|deaths=23|time=89}}
+|red2={{Scoreboard/Player|name=Rated|link=Rated|kills=31|deaths=22|time=90}}
+|red3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=24|deaths=28|time=32}}
+|red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=34|deaths=34|time=81}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Echo Fox|Team Envy|title=World War II|date=2018-06-28|time=1443|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Echo Fox|team2=Team Envy|team1score=242|team2score=250
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=12:33
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=43|deaths=26|time=105}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=33|deaths=35|time=111}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=31|deaths=36|time=22}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=42|deaths=32|time=36}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=24|deaths=34|time=133}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=34|deaths=43|time=66}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=38|deaths=39|time=67}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=33|deaths=33|time=82}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Team Envy|team1score=6|team2score=0
+|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=4:34
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=5|deaths=3|plants=1|defuses=1}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=6|deaths=3|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=6|deaths=2|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=7|deaths=2|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=5|deaths=6|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=0|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=2|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=3|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Team Envy|team1score=5|team2score=1
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=9:59
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=22|deaths=15|caps=3|returns=1}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=17|deaths=17|caps=0|returns=1}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=23|deaths=14|caps=1|returns=2}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=19|deaths=13|caps=1|returns=0}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=12|deaths=21|caps=0|returns=2}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=17|deaths=22|caps=1|returns=0}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=14|deaths=19|caps=0|returns=0}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=16|deaths=19|caps=0|returns=0}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Team Envy|team1score=248|team2score=250
+|gamename=Game 4|map=Valkyrie|gamemode=Hardpoint|maptime=11:4
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=26|deaths=28|time=89}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=25|deaths=31|time=54}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=40|deaths=23|time=79}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=30|deaths=28|time=71}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=29|deaths=28|time=106}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=20|deaths=29|time=91}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=32|deaths=34|time=44}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=29|deaths=30|time=123}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Team Envy|team1score=6|team2score=4
+|gamename=Game 5|map=Valkyrie|gamemode=Search and Destroy|maptime=12:51
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=7|deaths=10|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=9|deaths=7|plants=1|defuses=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=13|deaths=5|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=4|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=1|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=15|deaths=7|plants=1|defuses=1}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=9|deaths=9|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=4|deaths=10|plants=0|defuses=0}}
+}}
+{{Box|end}}

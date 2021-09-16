@@ -1,0 +1,220 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|FC Black|Mindfreak|title=Black Ops 4|date=2019-01-20|time=0901|timezone=PST|dst=No}}
+{{Scoreboard|team1=FC Black|team2=Mindfreak|team1score=143|team2score=250
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=8:57
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=23|deaths=27|time=28}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=20|deaths=19|time=45}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=13|deaths=25|time=70}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=18|deaths=23|time=26}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=16|deaths=22|time=56}}
+|red1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=19|deaths=19|time=73}}
+|red2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=26|deaths=20|time=84}}
+|red3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=28|deaths=16|time=98}}
+|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=14|deaths=16|time=112}}
+|red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=29|deaths=19|time=94}}
+}}
+{{Scoreboard|team1=FC Black|team2=Mindfreak|team1score=6|team2score=2
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=11:11
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=7|deaths=5|plants=2|defuses=0}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=7|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=4|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=3|deaths=7|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=14|deaths=4|plants=2|defuses=1}}
+|red1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=4|deaths=7|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=3|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=4|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=8|deaths=6|plants=1|defuses=1}}
+|red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=8|deaths=7|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=FC Black|team2=Mindfreak|team1score=3|team2score=0
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=7:8
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=14|deaths=11|caps=2}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=13|deaths=8|caps=2}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=10|deaths=8|caps=2}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=12|deaths=11|caps=2}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=18|deaths=4|caps=2}}
+|red1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=7|deaths=13|caps=1}}
+|red2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=7|deaths=16|caps=1}}
+|red3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=8|deaths=11|caps=1}}
+|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=10|deaths=13|caps=1}}
+|red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=10|deaths=14|caps=1}}
+}}
+{{Scoreboard|team1=FC Black|team2=Mindfreak|team1score=226|team2score=250
+|gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=9:48
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=17|deaths=27|time=32}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=16|deaths=18|time=42}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=28|deaths=20|time=85}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=20|deaths=17|time=46}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=19|deaths=15|time=156}}
+|red1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=19|deaths=20|time=57}}
+|red2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=22|deaths=21|time=138}}
+|red3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=19|deaths=21|time=81}}
+|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=18|deaths=19|time=62}}
+|red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=19|deaths=19|time=75}}
+}}
+{{Scoreboard|team1=FC Black|team2=Mindfreak|team1score=2|team2score=6
+|gamename=Game 5|map=Hacienda|gamemode=Search and Destroy|maptime=10:31
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=11|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=4|deaths=6|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Mosh|link=Mosh|kills=0|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=7|deaths=6|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=5|deaths=6|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=5|deaths=4|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=8|deaths=5|plants=3|defuses=0}}
+|red3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=6|deaths=7|plants=0|defuses=1}}
+|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=6|deaths=6|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=6|deaths=5|plants=0|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Tainted Minds|Team Space|title=Black Ops 4|date=2019-01-20|time=0904|timezone=PST|dst=No}}
+{{Scoreboard|team1=Tainted Minds|team2=Team Space|team1score=73|team2score=250
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=7:17
+|blue1={{Scoreboard/Player|name=Damage|link=Damage|kills=13|deaths=16|time=2}}
+|blue2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=7|deaths=16|time=4}}
+|blue3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=10|deaths=17|time=2}}
+|blue4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=10|deaths=20|time=31}}
+|blue5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=17|deaths=17|time=39}}
+|red1={{Scoreboard/Player|name=Havok|link=Havok|kills=16|deaths=12|time=59}}
+|red2={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=22|deaths=10|time=32}}
+|red3={{Scoreboard/Player|name=Maux|link=Maux|kills=19|deaths=13|time=40}}
+|red4={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=18|deaths=8|time=143}}
+|red5={{Scoreboard/Player|name=Spacely|link=Spacely|kills=11|deaths=14|time=56}}
+}}
+{{Scoreboard|team1=Tainted Minds|team2=Team Space|team1score=3|team2score=6
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=12:4
+|blue1={{Scoreboard/Player|name=Damage|link=Damage|kills=6|deaths=8|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=5|deaths=7|plants=2|defuses=0}}
+|blue3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=7|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=5|deaths=9|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=4|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Havok|link=Havok|kills=7|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=6|deaths=5|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Maux|link=Maux|kills=9|deaths=4|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=8|deaths=5|plants=3|defuses=1}}
+|red5={{Scoreboard/Player|name=Spacely|link=Spacely|kills=7|deaths=6|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=Tainted Minds|team2=Team Space|team1score=0|team2score=3
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=10:14
+|blue1={{Scoreboard/Player|name=Damage|link=Damage|kills=12|deaths=11|caps=2}}
+|blue2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=8|deaths=16|caps=2}}
+|blue3={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=12|deaths=16|caps=1}}
+|blue4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=19|deaths=16|caps=0}}
+|blue5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=11|deaths=11|caps=2}}
+|red1={{Scoreboard/Player|name=Havok|link=Havok|kills=12|deaths=14|caps=1}}
+|red2={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=18|deaths=12|caps=2}}
+|red3={{Scoreboard/Player|name=Maux|link=Maux|kills=16|deaths=10|caps=2}}
+|red4={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=8|deaths=16|caps=2}}
+|red5={{Scoreboard/Player|name=Spacely|link=Spacely|kills=16|deaths=10|caps=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Movistar Riders	|Team Sween|title=Black Ops 4|date=2019-01-20|time=0905|timezone=PST|dst=No}}
+{{Scoreboard|team1=Movistar Riders	|team2=Team Sween|team1score=107|team2score=250
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=7:42
+|blue1={{Scoreboard/Player|name=Katru|link=Katru|kills=11|deaths=17|time=62}}
+|blue2={{Scoreboard/Player|name=Oney|link=Oney|kills=18|deaths=20|time=19}}
+|blue3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=13|deaths=18|time=12}}
+|blue4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=17|deaths=16|time=36}}
+|blue5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=8|deaths=22|time=16}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=15|deaths=8|time=103}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=20|deaths=19|time=65}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=20|deaths=13|time=45}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=12|deaths=15|time=79}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=26|deaths=12|time=25}}
+}}
+{{Scoreboard|team1=Movistar Riders	|team2=Team Sween|team1score=0|team2score=6
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=8:5
+|blue1={{Scoreboard/Player|name=Katru|link=Katru|kills=2|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Oney|link=Oney|kills=3|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=0|deaths=5|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=4|deaths=6|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=1|deaths=6|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=4|deaths=1|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=3|deaths=3|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=5|deaths=3|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=5|deaths=2|plants=1|defuses=0}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=11|deaths=1|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=Movistar Riders	|team2=Team Sween|team1score=1|team2score=3
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=13:23
+|blue1={{Scoreboard/Player|name=Katru|link=Katru|kills=17|deaths=23|caps=1}}
+|blue2={{Scoreboard/Player|name=Oney|link=Oney|kills=18|deaths=19|caps=1}}
+|blue3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=16|deaths=23|caps=1}}
+|blue4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=25|deaths=24|caps=1}}
+|blue5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=17|deaths=20|caps=2}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=20|deaths=13|caps=2}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=27|deaths=20|caps=2}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=28|deaths=18|caps=3}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=19|deaths=21|caps=3}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=15|deaths=21|caps=3}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Excelerate Gaming|Fact Revolution|title=Black Ops 4|date=2019-01-20|time=0909|timezone=PST|dst=No}}
+{{Scoreboard|team1=Excelerate Gaming|team2=Fact Revolution|team1score=250|team2score=163
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:27
+|blue1={{Scoreboard/Player|name=Beehzy|link=Beehzy|kills=21|deaths=15|time=62}}
+|blue2={{Scoreboard/Player|name=Believe|link=Believe|kills=24|deaths=11|time=103}}
+|blue3={{Scoreboard/Player|name=FA5TBALLA|link=FA5TBALLA|kills=33|deaths=22|time=43}}
+|blue4={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=14|deaths=17|time=58}}
+|blue5={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=29|deaths=13|time=100}}
+|red1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=18|deaths=26|time=38}}
+|red2={{Scoreboard/Player|name=Chain|link=Chain|kills=12|deaths=26|time=47}}
+|red3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=17|deaths=26|time=62}}
+|red4={{Scoreboard/Player|name=Maple|link=Maple|kills=18|deaths=21|time=44}}
+|red5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=13|deaths=23|time=30}}
+}}
+{{Scoreboard|team1=Excelerate Gaming|team2=Fact Revolution|team1score=6|team2score=4
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=14:52
+|blue1={{Scoreboard/Player|name=Beehzy|link=Beehzy|kills=5|deaths=8|plants=1|defuses=0}}
+|blue2={{Scoreboard/Player|name=Believe|link=Believe|kills=8|deaths=8|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=FA5TBALLA|link=FA5TBALLA|kills=8|deaths=6|plants=2|defuses=1}}
+|blue4={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=8|deaths=6|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=9|deaths=8|plants=2|defuses=0}}
+|red1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=6|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Chain|link=Chain|kills=10|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=7|deaths=8|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Maple|link=Maple|kills=6|deaths=7|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=7|deaths=8|plants=3|defuses=0}}
+}}
+{{Scoreboard|team1=Excelerate Gaming|team2=Fact Revolution|team1score=2|team2score=3
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=15:15
+|blue1={{Scoreboard/Player|name=Beehzy|link=Beehzy|kills=24|deaths=17|caps=2}}
+|blue2={{Scoreboard/Player|name=Believe|link=Believe|kills=15|deaths=22|caps=1}}
+|blue3={{Scoreboard/Player|name=FA5TBALLA|link=FA5TBALLA|kills=26|deaths=29|caps=2}}
+|blue4={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=27|deaths=18|caps=2}}
+|blue5={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=21|deaths=20|caps=2}}
+|red1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=24|deaths=24|caps=5}}
+|red2={{Scoreboard/Player|name=Chain|link=Chain|kills=21|deaths=22|caps=5}}
+|red3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=23|deaths=21|caps=5}}
+|red4={{Scoreboard/Player|name=Maple|link=Maple|kills=20|deaths=25|caps=3}}
+|red5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=18|deaths=22|caps=4}}
+}}
+{{Scoreboard|team1=Excelerate Gaming|team2=Fact Revolution|team1score=194|team2score=250
+|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=10:4
+|blue1={{Scoreboard/Player|name=Beehzy|link=Beehzy|kills=16|deaths=17|time=29}}
+|blue2={{Scoreboard/Player|name=Believe|link=Believe|kills=24|deaths=15|time=50}}
+|blue3={{Scoreboard/Player|name=FA5TBALLA|link=FA5TBALLA|kills=29|deaths=24|time=52}}
+|blue4={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=13|deaths=20|time=23}}
+|blue5={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=20|deaths=16|time=94}}
+|red1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=25|deaths=23|time=44}}
+|red2={{Scoreboard/Player|name=Chain|link=Chain|kills=22|deaths=21|time=33}}
+|red3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=15|deaths=17|time=123}}
+|red4={{Scoreboard/Player|name=Maple|link=Maple|kills=18|deaths=22|time=63}}
+|red5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=12|deaths=19|time=63}}
+}}
+{{Scoreboard|team1=Excelerate Gaming|team2=Fact Revolution|team1score=6|team2score=1
+|gamename=Game 5|map=Frequency|gamemode=Search and Destroy|maptime=8:11
+|blue1={{Scoreboard/Player|name=Beehzy|link=Beehzy|kills=4|deaths=4|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Believe|link=Believe|kills=5|deaths=3|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=FA5TBALLA|link=FA5TBALLA|kills=9|deaths=4|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=3|deaths=4|plants=1|defuses=0}}
+|blue5={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=9|deaths=2|plants=3|defuses=1}}
+|red1={{Scoreboard/Player|name=Cammy|link=Cammy|kills=3|deaths=6|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Chain|link=Chain|kills=4|deaths=6|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Defrag|link=Defrag|kills=3|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Maple|link=Maple|kills=4|deaths=6|plants=0|defuses=0}}
+|red5={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=3|deaths=6|plants=2|defuses=0}}
+}}
+{{Box|end}}

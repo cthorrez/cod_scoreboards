@@ -1,0 +1,83 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|OpTic Gaming|Team Envy|title=Infinite Warfare|date=2017-08-13|time=1150|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Envy|team1score=250|team2score=135
+|gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=9:5
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=15|deaths=16|time=79}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=18|deaths=14|time=100}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=23|deaths=20|time=44}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=21|deaths=21|time=61}}
+|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=15|deaths=21|time=48}}
+|red2={{Scoreboard/Player|name=JKap|link=JKap|kills=20|deaths=16|time=65}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=18|deaths=20|time=20}}
+|red4={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=18|deaths=20|time=14}}
+}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Envy|team1score=2|team2score=6
+|gamename=Game 2|map=Throwback|gamemode=Search and Destroy|maptime=9:30
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=2|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=6|deaths=7|plants=0|defuses=1}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=6|deaths=6|plants=3|defuses=0}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=5|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=11|deaths=3|plants=0|defuses=2}}
+|red2={{Scoreboard/Player|name=JKap|link=JKap|kills=3|deaths=6|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=6|deaths=5|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=7|deaths=5|plants=0|defuses=1}}
+}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Envy|team1score=9|team2score=2
+|gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=22|deaths=24|carries=1|throws=2|score=4}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=22|deaths=19|carries=0|throws=0|score=0}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=22|deaths=23|carries=2|throws=1|score=5}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=36|deaths=21|carries=0|throws=0|score=0}}
+|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=23|deaths=25|carries=0|throws=1|score=1}}
+|red2={{Scoreboard/Player|name=JKap|link=JKap|kills=29|deaths=26|carries=0|throws=1|score=1}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=16|deaths=24|carries=0|throws=0|score=0}}
+|red4={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=19|deaths=27|carries=0|throws=0|score=0}}
+}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Envy|team1score=250|team2score=204
+|gamename=Game 4|map=Scorch|gamemode=Hardpoint|maptime=9:35
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=32|deaths=18|time=69}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=14|deaths=17|time=116}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=25|deaths=21|time=78}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=18|deaths=21|time=44}}
+|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=22|deaths=24|time=14}}
+|red2={{Scoreboard/Player|name=JKap|link=JKap|kills=12|deaths=23|time=65}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=16|deaths=23|time=41}}
+|red4={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=27|deaths=19|time=131}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|OpTic Gaming|Team Envy|title=Infinite Warfare|date=2017-08-13|time=1307|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Envy|team1score=250|team2score=176
+|gamename=Game 1|map=Throwback|gamemode=Hardpoint|maptime=11:20
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=20|deaths=29|time=51}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=36|deaths=21|time=54}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=38|deaths=24|time=104}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=25|deaths=31|time=63}}
+|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=32|deaths=29|time=79}}
+|red2={{Scoreboard/Player|name=JKap|link=JKap|kills=17|deaths=30|time=75}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=27|deaths=29|time=25}}
+|red4={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=29|deaths=31|time=31}}
+}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Envy|team1score=6|team2score=3
+|gamename=Game 2|map=Crusher|gamemode=Search and Destroy|maptime=9:36
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=8|deaths=6|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=10|deaths=5|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=7|deaths=4|plants=1|defuses=0}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=5|deaths=7|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=4|deaths=7|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=JKap|link=JKap|kills=6|deaths=8|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=6|deaths=7|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=6|deaths=8|plants=0|defuses=0}}
+}}
+{{Scoreboard|team1=OpTic Gaming|team2=Team Envy|team1score=7|team2score=2
+|gamename=Game 3|map=Precinct|gamemode=Uplink|maptime=10:25
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=20|deaths=23|carries=1|throws=1|score=3}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=25|deaths=20|carries=1|throws=0|score=2}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=30|deaths=20|carries=0|throws=2|score=2}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=19|deaths=20|carries=0|throws=0|score=0}}
+|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=21|deaths=22|carries=0|throws=0|score=0}}
+|red2={{Scoreboard/Player|name=JKap|link=JKap|kills=13|deaths=27|carries=0|throws=0|score=0}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=24|deaths=23|carries=1|throws=0|score=2}}
+|red4={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=25|deaths=22|carries=0|throws=0|score=0}}
+}}
+{{Box|end}}

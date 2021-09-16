@@ -1,0 +1,42 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|100 Thieves|Enigma6 Group|title=Black Ops 4|date=2019-08-18|time=1126|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=100 Thieves|team2=Enigma6 Group|team1score=250|team2score=217
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=12:20
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=26|deaths=25|time=79}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=31|deaths=23|time=71}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=30|deaths=21|time=82}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=39|deaths=31|time=82}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=23|deaths=32|time=67}}
+|red1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=24|deaths=32|time=44}}
+|red2={{Scoreboard/Player|name=General|link=General|kills=32|deaths=25|time=67}}
+|red3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=26|deaths=27|time=66}}
+|red4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=25|deaths=36|time=41}}
+|red5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=25|deaths=29|time=69}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Enigma6 Group|team1score=6|team2score=4
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=14:48
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=8|deaths=7|plants=2|defuses=1}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=10|deaths=6|plants=1|defuses=1}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=6|deaths=8|plants=0|defuses=1}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=8|deaths=8|plants=0|defuses=0}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=5|deaths=10|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=7|deaths=7|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=General|link=General|kills=9|deaths=9|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=11|deaths=6|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=5|deaths=8|plants=4|defuses=0}}
+|red5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=7|deaths=7|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=100 Thieves|team2=Enigma6 Group|team1score=3|team2score=1
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=15:15
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=21|deaths=25|caps=2}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=21|deaths=24|caps=2}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=24|deaths=14|caps=3}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=23|deaths=22|caps=2}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=17|deaths=17|caps=2}}
+|red1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=20|deaths=23|caps=2}}
+|red2={{Scoreboard/Player|name=General|link=General|kills=18|deaths=19|caps=3}}
+|red3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=27|deaths=20|caps=1}}
+|red4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=14|deaths=24|caps=0}}
+|red5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=23|deaths=20|caps=0}}
+}}
+{{Box|end}}

@@ -1,0 +1,94 @@
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Echo Fox|Team Kaliber|title=World War II|date=2018-04-22|time=1319|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Echo Fox|team2=Team Kaliber|team1score=250|team2score=178
+|gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=10:3
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=31|deaths=18|time=92}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=24|deaths=24|time=108}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=21|deaths=25|time=34}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=26|deaths=21|time=29}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=20|deaths=28|time=83}}
+|red2={{Scoreboard/Player|name=Fero|link=Fero|kills=27|deaths=30|time=57}}
+|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=21|deaths=23|time=16}}
+|red4={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=20|deaths=21|time=31}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Team Kaliber|team1score=3|team2score=6
+|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=7:41
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=7|deaths=7|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=6|deaths=7|plants=0|defuses=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=6|deaths=7|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=4|deaths=6|plants=1|defuses=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=4|deaths=5|plants=0|defuses=0}}
+|red2={{Scoreboard/Player|name=Fero|link=Fero|kills=8|deaths=4|plants=0|defuses=0}}
+|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=3|deaths=8|plants=0|defuses=0}}
+|red4={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=12|deaths=6|plants=2|defuses=0}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Team Kaliber|team1score=2|team2score=1
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:11
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=17|deaths=17|caps=0|returns=0}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=23|deaths=17|caps=0|returns=2}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=15|deaths=18|caps=1|returns=0}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=23|deaths=16|caps=1|returns=1}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=24|deaths=19|caps=1|returns=0}}
+|red2={{Scoreboard/Player|name=Fero|link=Fero|kills=12|deaths=21|caps=0|returns=1}}
+|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=13|deaths=18|caps=0|returns=1}}
+|red4={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=19|deaths=20|caps=0|returns=1}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Team Kaliber|team1score=153|team2score=250
+|gamename=Game 4|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=8:7
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=18|deaths=16|time=51}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=15|deaths=19|time=52}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=19|deaths=19|time=44}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=15|deaths=17|time=51}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=15|deaths=16|time=137}}
+|red2={{Scoreboard/Player|name=Fero|link=Fero|kills=17|deaths=20|time=54}}
+|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=19|deaths=17|time=46}}
+|red4={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=20|deaths=14|time=81}}
+}}
+{{Scoreboard|team1=Echo Fox|team2=Team Kaliber|team1score=6|team2score=2
+|gamename=Game 5|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=8:34
+|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=10|deaths=3|plants=0|defuses=1}}
+|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=4|deaths=6|plants=4|defuses=0}}
+|blue3={{Scoreboard/Player|name=Saints|link=Saints|kills=4|deaths=6|plants=0|defuses=0}}
+|blue4={{Scoreboard/Player|name=Temp|link=Temp|kills=8|deaths=5|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=6|deaths=7|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Fero|link=Fero|kills=6|deaths=7|plants=0|defuses=1}}
+|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=1|deaths=7|plants=1|defuses=0}}
+|red4={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=7|deaths=5|plants=0|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{Scoreboard/Header|Ghost Gaming|Rise Nation|title=World War II|date=2018-04-22|time=1327|timezone=PST|dst=Yes}}
+{{Scoreboard|team1=Ghost Gaming|team2=Rise Nation|team1score=113|team2score=250
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=9:30
+|blue1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=24|deaths=24|time=14}}
+|blue2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=12|deaths=29|time=32}}
+|blue3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=25|deaths=27|time=43}}
+|blue4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=21|deaths=30|time=53}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=35|deaths=22|time=43}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=16|deaths=20|time=74}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=31|deaths=17|time=121}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=28|deaths=23|time=63}}
+}}
+{{Scoreboard|team1=Ghost Gaming|team2=Rise Nation|team1score=4|team2score=6
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=9:19
+|blue1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=8|deaths=9|plants=0|defuses=0}}
+|blue2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=2|deaths=10|plants=1|defuses=1}}
+|blue3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=14|deaths=6|plants=0|defuses=2}}
+|blue4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=3|deaths=10|plants=0|defuses=0}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=6|deaths=9|plants=1|defuses=0}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=7|deaths=6|plants=1|defuses=0}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=11|deaths=4|plants=1|defuses=1}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=11|deaths=8|plants=1|defuses=0}}
+}}
+{{Scoreboard|team1=Ghost Gaming|team2=Rise Nation|team1score=1|team2score=2
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=9:59
+|blue1={{Scoreboard/Player|name=GodRx|link=GodRx|kills=16|deaths=19|caps=0|returns=1}}
+|blue2={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=13|deaths=19|caps=0|returns=0}}
+|blue3={{Scoreboard/Player|name=Pandur|link=Pandur|kills=14|deaths=15|caps=0|returns=2}}
+|blue4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=20|deaths=18|caps=1|returns=0}}
+|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=19|deaths=17|caps=0|returns=0}}
+|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=16|deaths=17|caps=1|returns=0}}
+|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=15|deaths=11|caps=1|returns=0}}
+|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=21|deaths=18|caps=0|returns=0}}
+}}
+{{Box|end}}
