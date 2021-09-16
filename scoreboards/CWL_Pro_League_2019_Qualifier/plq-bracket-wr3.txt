@@ -1,20 +1,20 @@
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Excelerate Gaming|Team Sween|title=Black Ops 4|date=2019-01-20|time=1359|timezone=PST|dst=No}}
 {{Scoreboard|team1=Excelerate Gaming|team2=Team Sween|team1score=250|team2score=205
-|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:3
-|blue1={{Scoreboard/Player|name=Beehzy|link=Beehzy|kills=20|deaths=11|time=110}}
-|blue2={{Scoreboard/Player|name=Believe|link=Believe|kills=18|deaths=18|time=48}}
-|blue3={{Scoreboard/Player|name=FA5TBALLA|link=FA5TBALLA|kills=24|deaths=25|time=40}}
-|blue4={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=18|deaths=14|time=69}}
-|blue5={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=22|deaths=19|time=76}}
-|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=12|deaths=21|time=69}}
-|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=21|deaths=19|time=71}}
-|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=19|deaths=22|time=34}}
-|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=22|deaths=20|time=66}}
-|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=13|deaths=20|time=39}}
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:03
+|blue1={{Scoreboard/Player|name=Beehzy|link=Beehzy|kills=20|deaths=11|time=110|defends=6}}
+|blue2={{Scoreboard/Player|name=Believe|link=Believe|kills=18|deaths=18|time=48|defends=7}}
+|blue3={{Scoreboard/Player|name=FA5TBALLA|link=FA5TBALLA|kills=24|deaths=25|time=40|defends=7}}
+|blue4={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=18|deaths=14|time=69|defends=3}}
+|blue5={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=22|deaths=19|time=76|defends=9}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=12|deaths=21|time=69|defends=4}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=21|deaths=19|time=71|defends=2}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=19|deaths=22|time=34|defends=1}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=22|deaths=20|time=66|defends=6}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=13|deaths=20|time=39|defends=2}}
 }}
 {{Scoreboard|team1=Excelerate Gaming|team2=Team Sween|team1score=6|team2score=3
-|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=14:7
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=14:07
 |blue1={{Scoreboard/Player|name=Beehzy|link=Beehzy|kills=10|deaths=4|plants=0|defuses=0}}
 |blue2={{Scoreboard/Player|name=Believe|link=Believe|kills=5|deaths=6|plants=1|defuses=1}}
 |blue3={{Scoreboard/Player|name=FA5TBALLA|link=FA5TBALLA|kills=8|deaths=7|plants=0|defuses=0}}
@@ -44,16 +44,16 @@
 {{Scoreboard/Header|Mindfreak|Team Space|title=Black Ops 4|date=2019-01-20|time=1536|timezone=PST|dst=No}}
 {{Scoreboard|team1=Mindfreak|team2=Team Space|team1score=177|team2score=250
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:23
-|blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=19|deaths=20|time=62}}
-|blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=22|deaths=26|time=41}}
-|blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=20|deaths=29|time=44}}
-|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=34|deaths=20|time=52}}
-|blue5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=20|deaths=28|time=60}}
-|red1={{Scoreboard/Player|name=Havok|link=Havok|kills=20|deaths=23|time=55}}
-|red2={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=24|deaths=25|time=54}}
-|red3={{Scoreboard/Player|name=Maux|link=Maux|kills=31|deaths=16|time=105}}
-|red4={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=25|deaths=27|time=51}}
-|red5={{Scoreboard/Player|name=Spacely|link=Spacely|kills=22|deaths=24|time=102}}
+|blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=19|deaths=20|time=62|defends=6}}
+|blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=22|deaths=26|time=41|defends=4}}
+|blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=20|deaths=29|time=44|defends=5}}
+|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=34|deaths=20|time=52|defends=7}}
+|blue5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=20|deaths=28|time=60|defends=4}}
+|red1={{Scoreboard/Player|name=Havok|link=Havok|kills=20|deaths=23|time=55|defends=7}}
+|red2={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=24|deaths=25|time=54|defends=12}}
+|red3={{Scoreboard/Player|name=Maux|link=Maux|kills=31|deaths=16|time=105|defends=10}}
+|red4={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=25|deaths=27|time=51|defends=4}}
+|red5={{Scoreboard/Player|name=Spacely|link=Spacely|kills=22|deaths=24|time=102|defends=5}}
 }}
 {{Scoreboard|team1=Mindfreak|team2=Team Space|team1score=4|team2score=6
 |gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=13:17

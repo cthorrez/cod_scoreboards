@@ -28,16 +28,16 @@
 }}
 {{Scoreboard|team1=The Imperial|team2=UYU|team1score=250|team2score=217
 |gamename=Game 3|map=Arsenal|gamemode=Hardpoint|maptime=10:13
-|blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=23|deaths=24|time=98}}
-|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=25|deaths=20|time=58}}
-|blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=16|deaths=19|time=74}}
-|blue4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=31|deaths=18|time=69}}
-|blue5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=20|deaths=21|time=57}}
-|red1={{Scoreboard/Player|name=Knight|link=Knight|kills=16|deaths=24|time=34}}
-|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=19|deaths=21|time=67}}
-|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=26|deaths=25|time=35}}
-|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=21|deaths=22|time=120}}
-|red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=20|deaths=23|time=14}}
+|blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=23|deaths=24|time=98|defends=4}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=25|deaths=20|time=58|defends=6}}
+|blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=16|deaths=19|time=74|defends=2}}
+|blue4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=31|deaths=18|time=69|defends=8}}
+|blue5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=20|deaths=21|time=57|defends=1}}
+|red1={{Scoreboard/Player|name=Knight|link=Knight|kills=16|deaths=24|time=34|defends=7}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=19|deaths=21|time=67|defends=4}}
+|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=26|deaths=25|time=35|defends=8}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=21|deaths=22|time=120|defends=2}}
+|red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=20|deaths=23|time=14|defends=9}}
 }}
 {{Scoreboard|team1=The Imperial|team2=UYU|team1score=6|team2score=0
 |gamename=Game 4|map=Arsenal|gamemode=Search and Destroy|maptime=8:28
@@ -70,16 +70,16 @@
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=Mindfreak|team1score=250|team2score=53
 |gamename=Game 2|map=Frequency|gamemode=Hardpoint|maptime=6:54
-|blue1={{Scoreboard/Player|name=Faccento|link=Faccento|kills=19|deaths=15|time=22}}
-|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=19|deaths=17|time=69}}
-|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=18|deaths=15|time=51}}
-|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=30|deaths=10|time=66}}
-|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=25|deaths=11|time=125}}
-|red1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=12|deaths=23|time=18}}
-|red2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=9|deaths=25|time=13}}
-|red3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=15|deaths=21|time=16}}
-|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=15|deaths=21|time=6}}
-|red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=17|deaths=21|time=20}}
+|blue1={{Scoreboard/Player|name=Faccento|link=Faccento|kills=19|deaths=15|time=22|defends=3}}
+|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=19|deaths=17|time=69|defends=5}}
+|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=18|deaths=15|time=51|defends=3}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=30|deaths=10|time=66|defends=1}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=25|deaths=11|time=125|defends=6}}
+|red1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=12|deaths=23|time=18|defends=3}}
+|red2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=9|deaths=25|time=13|defends=3}}
+|red3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=15|deaths=21|time=16|defends=7}}
+|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=15|deaths=21|time=6|defends=8}}
+|red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=17|deaths=21|time=20|defends=8}}
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=Mindfreak|team1score=3|team2score=6
 |gamename=Game 3|map=Gridlock|gamemode=Search and Destroy|maptime=12:14
@@ -99,16 +99,16 @@
 {{Scoreboard/Header|Mindfreak|Nation of Power|title=Black Ops 4|date=2019-01-16|time=1324|timezone=PST|dst=No}}
 {{Scoreboard|team1=Mindfreak|team2=Nation of Power|team1score=131|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:33
-|blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=10|deaths=19|time=26}}
-|blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=17|deaths=21|time=34}}
-|blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=18|deaths=24|time=64}}
-|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=14|deaths=19|time=17}}
-|blue5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=18|deaths=22|time=13}}
-|red1={{Scoreboard/Player|name=Mizuno|link=Mizuno|kills=25|deaths=15|time=119}}
-|red2={{Scoreboard/Player|name=Reign|link=Reign6|kills=16|deaths=19|time=39}}
-|red3={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=20|deaths=11|time=93}}
-|red4={{Scoreboard/Player|name=Slater|link=Slater|kills=18|deaths=14|time=93}}
-|red5={{Scoreboard/Player|name=Zinx|link=Zinx|kills=25|deaths=18|time=64}}
+|blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=10|deaths=19|time=26|defends=2}}
+|blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=17|deaths=21|time=34|defends=7}}
+|blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=18|deaths=24|time=64|defends=9}}
+|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=14|deaths=19|time=17|defends=6}}
+|blue5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=18|deaths=22|time=13|defends=7}}
+|red1={{Scoreboard/Player|name=Mizuno|link=Mizuno|kills=25|deaths=15|time=119|defends=2}}
+|red2={{Scoreboard/Player|name=Reign|link=Reign6|kills=16|deaths=19|time=39|defends=4}}
+|red3={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=20|deaths=11|time=93|defends=2}}
+|red4={{Scoreboard/Player|name=Slater|link=Slater|kills=18|deaths=14|time=93|defends=4}}
+|red5={{Scoreboard/Player|name=Zinx|link=Zinx|kills=25|deaths=18|time=64|defends=1}}
 }}
 {{Scoreboard|team1=Mindfreak|team2=Nation of Power|team1score=6|team2score=5
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=15:20
@@ -138,32 +138,32 @@
 }}
 {{Scoreboard|team1=Mindfreak|team2=Nation of Power|team1score=250|team2score=60
 |gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=6:49
-|blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=13|deaths=15|time=18}}
-|blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=22|deaths=8|time=144}}
-|blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=20|deaths=13|time=68}}
-|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=17|deaths=12|time=49}}
-|blue5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=24|deaths=13|time=81}}
-|red1={{Scoreboard/Player|name=Mizuno|link=Mizuno|kills=15|deaths=18|time=28}}
-|red2={{Scoreboard/Player|name=Reign|link=Reign6|kills=4|deaths=21|time=4}}
-|red3={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=16|deaths=19|time=20}}
-|red4={{Scoreboard/Player|name=Slater|link=Slater|kills=12|deaths=21|time=9}}
-|red5={{Scoreboard/Player|name=Zinx|link=Zinx|kills=14|deaths=17|time=37}}
+|blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=13|deaths=15|time=18|defends=1}}
+|blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=22|deaths=8|time=144|defends=2}}
+|blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=20|deaths=13|time=68|defends=3}}
+|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=17|deaths=12|time=49|defends=3}}
+|blue5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=24|deaths=13|time=81|defends=3}}
+|red1={{Scoreboard/Player|name=Mizuno|link=Mizuno|kills=15|deaths=18|time=28|defends=3}}
+|red2={{Scoreboard/Player|name=Reign|link=Reign6|kills=4|deaths=21|time=4|defends=2}}
+|red3={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=16|deaths=19|time=20|defends=2}}
+|red4={{Scoreboard/Player|name=Slater|link=Slater|kills=12|deaths=21|time=9|defends=7}}
+|red5={{Scoreboard/Player|name=Zinx|link=Zinx|kills=14|deaths=17|time=37|defends=7}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|The Imperial|Movistar Riders	|title=Black Ops 4|date=2019-01-16|time=1350|timezone=PST|dst=No}}
 {{Scoreboard|team1=The Imperial|team2=Movistar Riders	|team1score=180|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:56
-|blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=19|deaths=30|time=23}}
-|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=16|deaths=21|time=44}}
-|blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=24|deaths=22|time=20}}
-|blue4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=19|deaths=21|time=88}}
-|blue5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=28|deaths=21|time=44}}
-|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=23|deaths=25|time=88}}
-|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=28|deaths=18|time=102}}
-|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=19|deaths=24|time=22}}
-|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=26|deaths=15|time=77}}
-|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=19|deaths=24|time=35}}
+|blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=19|deaths=30|time=23|defends=6}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=16|deaths=21|time=44|defends=7}}
+|blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=24|deaths=22|time=20|defends=5}}
+|blue4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=19|deaths=21|time=88|defends=5}}
+|blue5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=28|deaths=21|time=44|defends=5}}
+|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=23|deaths=25|time=88|defends=7}}
+|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=28|deaths=18|time=102|defends=9}}
+|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=19|deaths=24|time=22|defends=4}}
+|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=26|deaths=15|time=77|defends=5}}
+|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=19|deaths=24|time=35|defends=2}}
 }}
 {{Scoreboard|team1=The Imperial|team2=Movistar Riders	|team1score=6|team2score=3
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=13:12
@@ -193,19 +193,19 @@
 }}
 {{Scoreboard|team1=The Imperial|team2=Movistar Riders	|team1score=250|team2score=36
 |gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=6:46
-|blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=15|deaths=10|time=68}}
-|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=22|deaths=8|time=57}}
-|blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=16|deaths=8|time=33}}
-|blue4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=22|deaths=6|time=164}}
-|blue5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=17|deaths=15|time=15}}
-|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=8|deaths=19|time=2}}
-|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=9|deaths=16|time=5}}
-|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=9|deaths=19|time=15}}
-|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=8|deaths=18|time=16}}
-|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=13|deaths=20|time=9}}
+|blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=15|deaths=10|time=68|defends=1}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=22|deaths=8|time=57|defends=6}}
+|blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=16|deaths=8|time=33|defends=1}}
+|blue4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=22|deaths=6|time=164|defends=5}}
+|blue5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=17|deaths=15|time=15|defends=1}}
+|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=8|deaths=19|time=2|defends=5}}
+|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=9|deaths=16|time=5|defends=4}}
+|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=9|deaths=19|time=15|defends=3}}
+|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=8|deaths=18|time=16|defends=5}}
+|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=13|deaths=20|time=9|defends=4}}
 }}
 {{Scoreboard|team1=The Imperial|team2=Movistar Riders	|team1score=1|team2score=6
-|gamename=Game 5|map=Hacienda|gamemode=Search and Destroy|maptime=8:1
+|gamename=Game 5|map=Hacienda|gamemode=Search and Destroy|maptime=8:01
 |blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=2|deaths=7|plants=0|defuses=0}}
 |blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=6|deaths=7|plants=0|defuses=0}}
 |blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=3|deaths=6|plants=0|defuses=0}}
@@ -222,19 +222,19 @@
 {{Scoreboard/Header|Nation of Power|Movistar Riders	|title=Black Ops 4|date=2019-01-16|time=1626|timezone=PST|dst=No}}
 {{Scoreboard|team1=Nation of Power|team2=Movistar Riders	|team1score=250|team2score=206
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:39
-|blue1={{Scoreboard/Player|name=Mizuno|link=Mizuno|kills=24|deaths=25|time=93}}
-|blue2={{Scoreboard/Player|name=Reign|link=Reign6|kills=28|deaths=21|time=63}}
-|blue3={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=24|deaths=19|time=92}}
-|blue4={{Scoreboard/Player|name=Slater|link=Slater|kills=22|deaths=24|time=61}}
-|blue5={{Scoreboard/Player|name=Zinx|link=Zinx|kills=29|deaths=23|time=100}}
-|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=17|deaths=29|time=65}}
-|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=28|deaths=20|time=53}}
-|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=24|deaths=28|time=35}}
-|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=19|deaths=21|time=99}}
-|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=24|deaths=29|time=38}}
+|blue1={{Scoreboard/Player|name=Mizuno|link=Mizuno|kills=24|deaths=25|time=93|defends=4}}
+|blue2={{Scoreboard/Player|name=Reign|link=Reign6|kills=28|deaths=21|time=63|defends=6}}
+|blue3={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=24|deaths=19|time=92|defends=8}}
+|blue4={{Scoreboard/Player|name=Slater|link=Slater|kills=22|deaths=24|time=61|defends=2}}
+|blue5={{Scoreboard/Player|name=Zinx|link=Zinx|kills=29|deaths=23|time=100|defends=4}}
+|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=17|deaths=29|time=65|defends=7}}
+|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=28|deaths=20|time=53|defends=13}}
+|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=24|deaths=28|time=35|defends=8}}
+|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=19|deaths=21|time=99|defends=9}}
+|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=24|deaths=29|time=38|defends=13}}
 }}
 {{Scoreboard|team1=Nation of Power|team2=Movistar Riders	|team1score=6|team2score=2
-|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=10:6
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=10:06
 |blue1={{Scoreboard/Player|name=Mizuno|link=Mizuno|kills=3|deaths=6|plants=1|defuses=0}}
 |blue2={{Scoreboard/Player|name=Reign|link=Reign6|kills=9|deaths=5|plants=1|defuses=0}}
 |blue3={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=6|deaths=6|plants=0|defuses=0}}
@@ -260,17 +260,17 @@
 |red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=18|deaths=13|caps=3}}
 }}
 {{Scoreboard|team1=Nation of Power|team2=Movistar Riders	|team1score=87|team2score=250
-|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=8:4
-|blue1={{Scoreboard/Player|name=Mizuno|link=Mizuno|kills=20|deaths=23|time=27}}
-|blue2={{Scoreboard/Player|name=Reign|link=Reign6|kills=17|deaths=21|time=20}}
-|blue3={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=25|deaths=17|time=41}}
-|blue4={{Scoreboard/Player|name=Slater|link=Slater|kills=16|deaths=18|time=53}}
-|blue5={{Scoreboard/Player|name=Zinx|link=Zinx|kills=10|deaths=22|time=14}}
-|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=22|deaths=20|time=66}}
-|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=24|deaths=13|time=126}}
-|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=18|deaths=17|time=40}}
-|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=17|deaths=17|time=68}}
-|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=20|deaths=21|time=62}}
+|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=8:04
+|blue1={{Scoreboard/Player|name=Mizuno|link=Mizuno|kills=20|deaths=23|time=27|defends=8}}
+|blue2={{Scoreboard/Player|name=Reign|link=Reign6|kills=17|deaths=21|time=20|defends=2}}
+|blue3={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=25|deaths=17|time=41|defends=9}}
+|blue4={{Scoreboard/Player|name=Slater|link=Slater|kills=16|deaths=18|time=53|defends=5}}
+|blue5={{Scoreboard/Player|name=Zinx|link=Zinx|kills=10|deaths=22|time=14|defends=7}}
+|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=22|deaths=20|time=66|defends=4}}
+|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=24|deaths=13|time=126|defends=3}}
+|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=18|deaths=17|time=40|defends=3}}
+|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=17|deaths=17|time=68|defends=6}}
+|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=20|deaths=21|time=62|defends=3}}
 }}
 {{Scoreboard|team1=Nation of Power|team2=Movistar Riders	|team1score=1|team2score=6
 |gamename=Game 5|map=Hacienda|gamemode=Search and Destroy|maptime=9:29
@@ -290,16 +290,16 @@
 {{Scoreboard/Header|Red Reserve|UYU|title=Black Ops 4|date=2019-01-16|time=1636|timezone=PST|dst=No}}
 {{Scoreboard|team1=Red Reserve|team2=UYU|team1score=167|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:40
-|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=16|deaths=24|time=49}}
-|blue2={{Scoreboard/Player|name=Joee|link=Joee|kills=13|deaths=29|time=27}}
-|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=25|deaths=22|time=77}}
-|blue4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=23|deaths=28|time=55}}
-|blue5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=31|deaths=24|time=52}}
-|red1={{Scoreboard/Player|name=Knight|link=Knight|kills=36|deaths=20|time=56}}
-|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=21|deaths=20|time=48}}
-|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=24|deaths=28|time=53}}
-|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=23|deaths=20|time=111}}
-|red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=23|deaths=20|time=45}}
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=16|deaths=24|time=49|defends=10}}
+|blue2={{Scoreboard/Player|name=Joee|link=Joee|kills=13|deaths=29|time=27|defends=7}}
+|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=25|deaths=22|time=77|defends=11}}
+|blue4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=23|deaths=28|time=55|defends=14}}
+|blue5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=31|deaths=24|time=52|defends=12}}
+|red1={{Scoreboard/Player|name=Knight|link=Knight|kills=36|deaths=20|time=56|defends=13}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=21|deaths=20|time=48|defends=4}}
+|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=24|deaths=28|time=53|defends=8}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=23|deaths=20|time=111|defends=10}}
+|red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=23|deaths=20|time=45|defends=6}}
 }}
 {{Scoreboard|team1=Red Reserve|team2=UYU|team1score=5|team2score=6
 |gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=15:38
@@ -329,32 +329,32 @@
 }}
 {{Scoreboard|team1=Red Reserve|team2=UYU|team1score=247|team2score=250
 |gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=12:15
-|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=19|deaths=26|time=60}}
-|blue2={{Scoreboard/Player|name=Joee|link=Joee|kills=24|deaths=33|time=87}}
-|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=24|deaths=29|time=86}}
-|blue4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=34|deaths=26|time=119}}
-|blue5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=36|deaths=34|time=43}}
-|red1={{Scoreboard/Player|name=Knight|link=Knight|kills=26|deaths=29|time=48}}
-|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=32|deaths=28|time=81}}
-|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=35|deaths=29|time=71}}
-|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=26|deaths=22|time=163}}
-|red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=29|deaths=30|time=52}}
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=19|deaths=26|time=60|defends=9}}
+|blue2={{Scoreboard/Player|name=Joee|link=Joee|kills=24|deaths=33|time=87|defends=6}}
+|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=24|deaths=29|time=86|defends=7}}
+|blue4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=34|deaths=26|time=119|defends=13}}
+|blue5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=36|deaths=34|time=43|defends=11}}
+|red1={{Scoreboard/Player|name=Knight|link=Knight|kills=26|deaths=29|time=48|defends=11}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=32|deaths=28|time=81|defends=7}}
+|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=35|deaths=29|time=71|defends=14}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=26|deaths=22|time=163|defends=10}}
+|red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=29|deaths=30|time=52|defends=9}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|The Imperial|Mindfreak|title=Black Ops 4|date=2019-01-17|time=0901|timezone=PST|dst=No}}
 {{Scoreboard|team1=The Imperial|team2=Mindfreak|team1score=182|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=10:12
-|blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=18|deaths=28|time=96}}
-|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=33|deaths=22|time=52}}
-|blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=15|deaths=24|time=58}}
-|blue4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=15|deaths=23|time=51}}
-|blue5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=25|deaths=26|time=73}}
-|red1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=30|deaths=19|time=69}}
-|red2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=22|deaths=26|time=76}}
-|red3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=20|deaths=23|time=56}}
-|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=17|deaths=20|time=75}}
-|red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=34|deaths=19|time=76}}
+|blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=18|deaths=28|time=96|defends=4}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=33|deaths=22|time=52|defends=7}}
+|blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=15|deaths=24|time=58|defends=1}}
+|blue4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=15|deaths=23|time=51|defends=2}}
+|blue5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=25|deaths=26|time=73|defends=2}}
+|red1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=30|deaths=19|time=69|defends=12}}
+|red2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=22|deaths=26|time=76|defends=8}}
+|red3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=20|deaths=23|time=56|defends=14}}
+|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=17|deaths=20|time=75|defends=12}}
+|red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=34|deaths=19|time=76|defends=9}}
 }}
 {{Scoreboard|team1=The Imperial|team2=Mindfreak|team1score=6|team2score=0
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=8:25
@@ -370,7 +370,7 @@
 |red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=4|deaths=6|plants=1|defuses=0}}
 }}
 {{Scoreboard|team1=The Imperial|team2=Mindfreak|team1score=0|team2score=3
-|gamename=Game 3|map=Frequency|gamemode=Control|maptime=10:5
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=10:05
 |blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=15|deaths=17|caps=1}}
 |blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=13|deaths=17|caps=1}}
 |blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=15|deaths=17|caps=1}}
@@ -384,32 +384,32 @@
 }}
 {{Scoreboard|team1=The Imperial|team2=Mindfreak|team1score=191|team2score=250
 |gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=10:51
-|blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=25|deaths=31|time=43}}
-|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=29|deaths=28|time=27}}
-|blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=32|deaths=22|time=60}}
-|blue4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=16|deaths=31|time=73}}
-|blue5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=24|deaths=29|time=58}}
-|red1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=28|deaths=27|time=51}}
-|red2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=30|deaths=27|time=121}}
-|red3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=33|deaths=24|time=98}}
-|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=23|deaths=25|time=37}}
-|red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=27|deaths=23|time=68}}
+|blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=25|deaths=31|time=43|defends=9}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=29|deaths=28|time=27|defends=10}}
+|blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=32|deaths=22|time=60|defends=14}}
+|blue4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=16|deaths=31|time=73|defends=7}}
+|blue5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=24|deaths=29|time=58|defends=12}}
+|red1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=28|deaths=27|time=51|defends=4}}
+|red2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=30|deaths=27|time=121|defends=7}}
+|red3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=33|deaths=24|time=98|defends=11}}
+|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=23|deaths=25|time=37|defends=6}}
+|red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=27|deaths=23|time=68|defends=3}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Nation of Power|UYU|title=Black Ops 4|date=2019-01-17|time=0908|timezone=PST|dst=No}}
 {{Scoreboard|team1=Nation of Power|team2=UYU|team1score=171|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:42
-|blue1={{Scoreboard/Player|name=Mizuno|link=Mizuno|kills=16|deaths=30|time=28}}
-|blue2={{Scoreboard/Player|name=Reign|link=Reign6|kills=21|deaths=27|time=55}}
-|blue3={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=25|deaths=26|time=23}}
-|blue4={{Scoreboard/Player|name=Slater|link=Slater|kills=24|deaths=26|time=55}}
-|blue5={{Scoreboard/Player|name=Zinx|link=Zinx|kills=20|deaths=23|time=52}}
-|red1={{Scoreboard/Player|name=Knight|link=Knight|kills=35|deaths=20|time=139}}
-|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=30|deaths=21|time=67}}
-|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=21|deaths=25|time=55}}
-|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=23|deaths=18|time=108}}
-|red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=23|deaths=22|time=39}}
+|blue1={{Scoreboard/Player|name=Mizuno|link=Mizuno|kills=16|deaths=30|time=28|defends=11}}
+|blue2={{Scoreboard/Player|name=Reign|link=Reign6|kills=21|deaths=27|time=55|defends=7}}
+|blue3={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=25|deaths=26|time=23|defends=8}}
+|blue4={{Scoreboard/Player|name=Slater|link=Slater|kills=24|deaths=26|time=55|defends=10}}
+|blue5={{Scoreboard/Player|name=Zinx|link=Zinx|kills=20|deaths=23|time=52|defends=12}}
+|red1={{Scoreboard/Player|name=Knight|link=Knight|kills=35|deaths=20|time=139|defends=6}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=30|deaths=21|time=67|defends=6}}
+|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=21|deaths=25|time=55|defends=4}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=23|deaths=18|time=108|defends=10}}
+|red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=23|deaths=22|time=39|defends=3}}
 }}
 {{Scoreboard|team1=Nation of Power|team2=UYU|team1score=1|team2score=6
 |gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=8:38
@@ -442,16 +442,16 @@
 {{Scoreboard/Header|Evil Geniuses|Movistar Riders	|title=Black Ops 4|date=2019-01-17|time=1200|timezone=PST|dst=No}}
 {{Scoreboard|team1=Evil Geniuses|team2=Movistar Riders	|team1score=250|team2score=249
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=11:43
-|blue1={{Scoreboard/Player|name=Faccento|link=Faccento|kills=20|deaths=29|time=42}}
-|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=17|deaths=32|time=31}}
-|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=19|deaths=28|time=55}}
-|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=45|deaths=24|time=115}}
-|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=32|deaths=27|time=93}}
-|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=29|deaths=30|time=113}}
-|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=24|deaths=27|time=43}}
-|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=32|deaths=24|time=62}}
-|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=24|deaths=26|time=61}}
-|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=31|deaths=26|time=88}}
+|blue1={{Scoreboard/Player|name=Faccento|link=Faccento|kills=20|deaths=29|time=42|defends=3}}
+|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=17|deaths=32|time=31|defends=3}}
+|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=19|deaths=28|time=55|defends=4}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=45|deaths=24|time=115|defends=9}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=32|deaths=27|time=93|defends=8}}
+|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=29|deaths=30|time=113|defends=12}}
+|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=24|deaths=27|time=43|defends=7}}
+|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=32|deaths=24|time=62|defends=9}}
+|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=24|deaths=26|time=61|defends=7}}
+|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=31|deaths=26|time=88|defends=5}}
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=Movistar Riders	|team1score=6|team2score=2
 |gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=9:55
@@ -484,16 +484,16 @@
 {{Scoreboard/Header|The Imperial|Red Reserve|title=Black Ops 4|date=2019-01-17|time=1215|timezone=PST|dst=No}}
 {{Scoreboard|team1=The Imperial|team2=Red Reserve|team1score=250|team2score=240
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:45
-|blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=27|deaths=25|time=80}}
-|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=25|deaths=19|time=58}}
-|blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=23|deaths=18|time=69}}
-|blue4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=15|deaths=18|time=104}}
-|blue5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=21|deaths=23|time=47}}
-|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=20|deaths=29|time=26}}
-|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=12|deaths=22|time=20}}
-|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=15|deaths=19|time=109}}
-|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=36|deaths=17|time=71}}
-|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=20|deaths=24|time=134}}
+|blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=27|deaths=25|time=80|defends=8}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=25|deaths=19|time=58|defends=8}}
+|blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=23|deaths=18|time=69|defends=5}}
+|blue4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=15|deaths=18|time=104|defends=5}}
+|blue5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=21|deaths=23|time=47|defends=6}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=20|deaths=29|time=26|defends=6}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=12|deaths=22|time=20|defends=7}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=15|deaths=19|time=109|defends=9}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=36|deaths=17|time=71|defends=12}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=20|deaths=24|time=134|defends=6}}
 }}
 {{Scoreboard|team1=The Imperial|team2=Red Reserve|team1score=1|team2score=6
 |gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=9:25
@@ -513,16 +513,16 @@
 {{Scoreboard/Header|Mindfreak|Movistar Riders	|title=Black Ops 4|date=2019-01-17|time=1515|timezone=PST|dst=No}}
 {{Scoreboard|team1=Mindfreak|team2=Movistar Riders	|team1score=250|team2score=214
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:36
-|blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=26|deaths=23|time=40}}
-|blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=26|deaths=21|time=133}}
-|blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=21|deaths=21|time=96}}
-|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=22|deaths=25|time=65}}
-|blue5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=21|deaths=19|time=92}}
-|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=19|deaths=26|time=39}}
-|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=12|deaths=22|time=66}}
-|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=21|deaths=21|time=72}}
-|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=27|deaths=21|time=82}}
-|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=30|deaths=26|time=57}}
+|blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=26|deaths=23|time=40|defends=5}}
+|blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=26|deaths=21|time=133|defends=8}}
+|blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=21|deaths=21|time=96|defends=8}}
+|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=22|deaths=25|time=65|defends=3}}
+|blue5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=21|deaths=19|time=92|defends=4}}
+|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=19|deaths=26|time=39|defends=5}}
+|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=12|deaths=22|time=66|defends=4}}
+|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=21|deaths=21|time=72|defends=7}}
+|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=27|deaths=21|time=82|defends=9}}
+|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=30|deaths=26|time=57|defends=5}}
 }}
 {{Scoreboard|team1=Mindfreak|team2=Movistar Riders	|team1score=6|team2score=3
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=13:42
@@ -555,16 +555,16 @@
 {{Scoreboard/Header|Evil Geniuses|Red Reserve|title=Black Ops 4|date=2019-01-17|time=1524|timezone=PST|dst=No}}
 {{Scoreboard|team1=Evil Geniuses|team2=Red Reserve|team1score=250|team2score=144
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:40
-|blue1={{Scoreboard/Player|name=Faccento|link=Faccento|kills=14|deaths=16|time=42}}
-|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=19|deaths=15|time=76}}
-|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=17|deaths=12|time=86}}
-|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=19|deaths=13|time=67}}
-|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=19|deaths=15|time=90}}
-|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=9|deaths=17|time=24}}
-|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=18|deaths=18|time=25}}
-|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=11|deaths=17|time=70}}
-|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=15|deaths=19|time=29}}
-|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=17|deaths=17|time=50}}
+|blue1={{Scoreboard/Player|name=Faccento|link=Faccento|kills=14|deaths=16|time=42|defends=3}}
+|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=19|deaths=15|time=76|defends=2}}
+|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=17|deaths=12|time=86|defends=2}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=19|deaths=13|time=67|defends=2}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=19|deaths=15|time=90|defends=2}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=9|deaths=17|time=24|defends=4}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=18|deaths=18|time=25|defends=5}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=11|deaths=17|time=70|defends=4}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=15|deaths=19|time=29|defends=3}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=17|deaths=17|time=50|defends=6}}
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=Red Reserve|team1score=6|team2score=3
 |gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=11:44
@@ -594,19 +594,19 @@
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=Red Reserve|team1score=138|team2score=250
 |gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=9:26
-|blue1={{Scoreboard/Player|name=Faccento|link=Faccento|kills=17|deaths=24|time=35}}
-|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=22|deaths=23|time=36}}
-|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=11|deaths=25|time=20}}
-|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=16|deaths=17|time=77}}
-|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=23|deaths=23|time=13}}
-|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=22|deaths=11|time=127}}
-|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=23|deaths=19|time=80}}
-|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=25|deaths=19|time=75}}
-|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=28|deaths=19|time=60}}
-|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=14|deaths=21|time=35}}
+|blue1={{Scoreboard/Player|name=Faccento|link=Faccento|kills=17|deaths=24|time=35|defends=8}}
+|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=22|deaths=23|time=36|defends=10}}
+|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=11|deaths=25|time=20|defends=8}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=16|deaths=17|time=77|defends=12}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=23|deaths=23|time=13|defends=5}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=22|deaths=11|time=127|defends=5}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=23|deaths=19|time=80|defends=5}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=25|deaths=19|time=75|defends=4}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=28|deaths=19|time=60|defends=8}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=14|deaths=21|time=35|defends=3}}
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=Red Reserve|team1score=6|team2score=3
-|gamename=Game 5|map=Frequency|gamemode=Search and Destroy|maptime=12:0
+|gamename=Game 5|map=Frequency|gamemode=Search and Destroy|maptime=12:00
 |blue1={{Scoreboard/Player|name=Faccento|link=Faccento|kills=3|deaths=6|plants=1|defuses=0}}
 |blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=6|deaths=6|plants=1|defuses=0}}
 |blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=12|deaths=4|plants=0|defuses=0}}
@@ -622,17 +622,17 @@
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Movistar Riders	|UYU|title=Black Ops 4|date=2019-01-18|time=1021|timezone=PST|dst=No}}
 {{Scoreboard|team1=Movistar Riders	|team2=UYU|team1score=194|team2score=250
-|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=11:1
-|blue1={{Scoreboard/Player|name=Katru|link=Katru|kills=29|deaths=26|time=49}}
-|blue2={{Scoreboard/Player|name=Oney|link=Oney|kills=27|deaths=22|time=83}}
-|blue3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=19|deaths=23|time=43}}
-|blue4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=22|deaths=23|time=60}}
-|blue5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=18|deaths=27|time=68}}
-|red1={{Scoreboard/Player|name=Knight|link=Knight|kills=17|deaths=23|time=105}}
-|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=26|deaths=25|time=44}}
-|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=29|deaths=22|time=72}}
-|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=26|deaths=21|time=91}}
-|red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=23|deaths=24|time=43}}
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=11:01
+|blue1={{Scoreboard/Player|name=Katru|link=Katru|kills=29|deaths=26|time=49|defends=10}}
+|blue2={{Scoreboard/Player|name=Oney|link=Oney|kills=27|deaths=22|time=83|defends=9}}
+|blue3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=19|deaths=23|time=43|defends=4}}
+|blue4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=22|deaths=23|time=60|defends=5}}
+|blue5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=18|deaths=27|time=68|defends=8}}
+|red1={{Scoreboard/Player|name=Knight|link=Knight|kills=17|deaths=23|time=105|defends=5}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=26|deaths=25|time=44|defends=3}}
+|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=29|deaths=22|time=72|defends=11}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=26|deaths=21|time=91|defends=6}}
+|red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=23|deaths=24|time=43|defends=3}}
 }}
 {{Scoreboard|team1=Movistar Riders	|team2=UYU|team1score=5|team2score=6
 |gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=13:37
@@ -665,16 +665,16 @@
 {{Scoreboard/Header|Mindfreak|Red Reserve|title=Black Ops 4|date=2019-01-18|time=1305|timezone=PST|dst=No}}
 {{Scoreboard|team1=Mindfreak|team2=Red Reserve|team1score=125|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=7:58
-|blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=14|deaths=17|time=45}}
-|blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=21|deaths=18|time=39}}
-|blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=14|deaths=21|time=54}}
-|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=15|deaths=17|time=48}}
-|blue5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=13|deaths=21|time=34}}
-|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=14|deaths=15|time=105}}
-|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=19|deaths=15|time=85}}
-|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=12|deaths=18|time=57}}
-|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=32|deaths=14|time=107}}
-|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=17|deaths=15|time=35}}
+|blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=14|deaths=17|time=45|defends=3}}
+|blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=21|deaths=18|time=39|defends=6}}
+|blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=14|deaths=21|time=54|defends=7}}
+|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=15|deaths=17|time=48|defends=10}}
+|blue5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=13|deaths=21|time=34|defends=4}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=14|deaths=15|time=105|defends=3}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=19|deaths=15|time=85|defends=7}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=12|deaths=18|time=57|defends=3}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=32|deaths=14|time=107|defends=11}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=17|deaths=15|time=35|defends=5}}
 }}
 {{Scoreboard|team1=Mindfreak|team2=Red Reserve|team1score=6|team2score=3
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=13:34
@@ -704,32 +704,32 @@
 }}
 {{Scoreboard|team1=Mindfreak|team2=Red Reserve|team1score=90|team2score=250
 |gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=7:49
-|blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=11|deaths=24|time=8}}
-|blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=16|deaths=21|time=35}}
-|blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=19|deaths=24|time=23}}
-|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=12|deaths=22|time=20}}
-|blue5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=16|deaths=22|time=41}}
-|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=12|deaths=14|time=104}}
-|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=22|deaths=13|time=61}}
-|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=18|deaths=14|time=48}}
-|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=34|deaths=15|time=74}}
-|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=27|deaths=18|time=66}}
+|blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=11|deaths=24|time=8|defends=6}}
+|blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=16|deaths=21|time=35|defends=6}}
+|blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=19|deaths=24|time=23|defends=4}}
+|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=12|deaths=22|time=20|defends=8}}
+|blue5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=16|deaths=22|time=41|defends=3}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=12|deaths=14|time=104|defends=5}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=22|deaths=13|time=61|defends=6}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=18|deaths=14|time=48|defends=2}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=34|deaths=15|time=74|defends=7}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=27|deaths=18|time=66|defends=6}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|The Imperial|Nation of Power|title=Black Ops 4|date=2019-01-18|time=1308|timezone=PST|dst=No}}
 {{Scoreboard|team1=The Imperial|team2=Nation of Power|team1score=165|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:29
-|blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=28|deaths=25|time=32}}
-|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=11|deaths=27|time=12}}
-|blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=15|deaths=23|time=43}}
-|blue4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=16|deaths=21|time=67}}
-|blue5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=20|deaths=20|time=53}}
-|red1={{Scoreboard/Player|name=Mizuno|link=Mizuno|kills=15|deaths=18|time=150}}
-|red2={{Scoreboard/Player|name=Reign|link=Reign6|kills=14|deaths=22|time=63}}
-|red3={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=28|deaths=16|time=63}}
-|red4={{Scoreboard/Player|name=Slater|link=Slater|kills=26|deaths=19|time=47}}
-|red5={{Scoreboard/Player|name=Zinx|link=Zinx|kills=33|deaths=15|time=104}}
+|blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=28|deaths=25|time=32|defends=5}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=11|deaths=27|time=12|defends=6}}
+|blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=15|deaths=23|time=43|defends=9}}
+|blue4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=16|deaths=21|time=67|defends=5}}
+|blue5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=20|deaths=20|time=53|defends=8}}
+|red1={{Scoreboard/Player|name=Mizuno|link=Mizuno|kills=15|deaths=18|time=150|defends=5}}
+|red2={{Scoreboard/Player|name=Reign|link=Reign6|kills=14|deaths=22|time=63|defends=3}}
+|red3={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=28|deaths=16|time=63|defends=0}}
+|red4={{Scoreboard/Player|name=Slater|link=Slater|kills=26|deaths=19|time=47|defends=4}}
+|red5={{Scoreboard/Player|name=Zinx|link=Zinx|kills=33|deaths=15|time=104|defends=6}}
 }}
 {{Scoreboard|team1=The Imperial|team2=Nation of Power|team1score=6|team2score=5
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=17:47
@@ -759,19 +759,19 @@
 }}
 {{Scoreboard|team1=The Imperial|team2=Nation of Power|team1score=250|team2score=223
 |gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=11:33
-|blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=25|deaths=28|time=70}}
-|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=19|deaths=19|time=111}}
-|blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=21|deaths=25|time=49}}
-|blue4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=22|deaths=28|time=71}}
-|blue5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=27|deaths=26|time=51}}
-|red1={{Scoreboard/Player|name=Mizuno|link=Mizuno|kills=15|deaths=23|time=70}}
-|red2={{Scoreboard/Player|name=Reign|link=Reign6|kills=27|deaths=24|time=79}}
-|red3={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=39|deaths=18|time=107}}
-|red4={{Scoreboard/Player|name=Slater|link=Slater|kills=20|deaths=24|time=55}}
-|red5={{Scoreboard/Player|name=Zinx|link=Zinx|kills=25|deaths=25|time=61}}
+|blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=25|deaths=28|time=70|defends=9}}
+|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=19|deaths=19|time=111|defends=8}}
+|blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=21|deaths=25|time=49|defends=6}}
+|blue4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=22|deaths=28|time=71|defends=6}}
+|blue5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=27|deaths=26|time=51|defends=11}}
+|red1={{Scoreboard/Player|name=Mizuno|link=Mizuno|kills=15|deaths=23|time=70|defends=5}}
+|red2={{Scoreboard/Player|name=Reign|link=Reign6|kills=27|deaths=24|time=79|defends=5}}
+|red3={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=39|deaths=18|time=107|defends=13}}
+|red4={{Scoreboard/Player|name=Slater|link=Slater|kills=20|deaths=24|time=55|defends=9}}
+|red5={{Scoreboard/Player|name=Zinx|link=Zinx|kills=25|deaths=25|time=61|defends=10}}
 }}
 {{Scoreboard|team1=The Imperial|team2=Nation of Power|team1score=6|team2score=1
-|gamename=Game 5|map=Gridlock|gamemode=Search and Destroy|maptime=9:5
+|gamename=Game 5|map=Gridlock|gamemode=Search and Destroy|maptime=9:05
 |blue1={{Scoreboard/Player|name=Denza|link=Denza|kills=3|deaths=6|plants=1|defuses=0}}
 |blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=9|deaths=4|plants=0|defuses=0}}
 |blue3={{Scoreboard/Player|name=Moose|link=Moose|kills=3|deaths=4|plants=0|defuses=0}}
@@ -788,19 +788,19 @@
 {{Scoreboard/Header|Mindfreak|UYU|title=Black Ops 4|date=2019-01-19|time=0922|timezone=PST|dst=No}}
 {{Scoreboard|team1=Mindfreak|team2=UYU|team1score=250|team2score=162
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:29
-|blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=25|deaths=26|time=34}}
-|blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=22|deaths=28|time=48}}
-|blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=34|deaths=22|time=124}}
-|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=29|deaths=26|time=44}}
-|blue5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=26|deaths=24|time=94}}
-|red1={{Scoreboard/Player|name=Knight|link=Knight|kills=25|deaths=30|time=49}}
-|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=33|deaths=25|time=51}}
-|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=22|deaths=27|time=30}}
-|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=23|deaths=30|time=30}}
-|red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=23|deaths=24|time=51}}
+|blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=25|deaths=26|time=34|defends=8}}
+|blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=22|deaths=28|time=48|defends=10}}
+|blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=34|deaths=22|time=124|defends=5}}
+|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=29|deaths=26|time=44|defends=12}}
+|blue5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=26|deaths=24|time=94|defends=6}}
+|red1={{Scoreboard/Player|name=Knight|link=Knight|kills=25|deaths=30|time=49|defends=13}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=33|deaths=25|time=51|defends=12}}
+|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=22|deaths=27|time=30|defends=13}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=23|deaths=30|time=30|defends=7}}
+|red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=23|deaths=24|time=51|defends=1}}
 }}
 {{Scoreboard|team1=Mindfreak|team2=UYU|team1score=5|team2score=7
-|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=16:1
+|gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=16:01
 |blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=7|deaths=6|plants=0|defuses=0}}
 |blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=13|deaths=6|plants=3|defuses=0}}
 |blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=4|deaths=7|plants=0|defuses=0}}
@@ -827,16 +827,16 @@
 }}
 {{Scoreboard|team1=Mindfreak|team2=UYU|team1score=200|team2score=250
 |gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=10:20
-|blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=24|deaths=21|time=71}}
-|blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=16|deaths=23|time=65}}
-|blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=22|deaths=23|time=69}}
-|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=25|deaths=17|time=53}}
-|blue5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=16|deaths=23|time=40}}
-|red1={{Scoreboard/Player|name=Knight|link=Knight|kills=17|deaths=20|time=88}}
-|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=26|deaths=24|time=59}}
-|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=23|deaths=22|time=42}}
-|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=24|deaths=16|time=152}}
-|red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=17|deaths=21|time=53}}
+|blue1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=24|deaths=21|time=71|defends=14}}
+|blue2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=16|deaths=23|time=65|defends=9}}
+|blue3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=22|deaths=23|time=69|defends=19}}
+|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=25|deaths=17|time=53|defends=13}}
+|blue5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=16|deaths=23|time=40|defends=15}}
+|red1={{Scoreboard/Player|name=Knight|link=Knight|kills=17|deaths=20|time=88|defends=3}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=26|deaths=24|time=59|defends=6}}
+|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=23|deaths=22|time=42|defends=6}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=24|deaths=16|time=152|defends=5}}
+|red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=17|deaths=21|time=53|defends=2}}
 }}
 {{Scoreboard|team1=Mindfreak|team2=UYU|team1score=3|team2score=6
 |gamename=Game 5|map=Frequency|gamemode=Search and Destroy|maptime=10:36
@@ -855,17 +855,17 @@
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Red Reserve|Movistar Riders	|title=Black Ops 4|date=2019-01-19|time=1144|timezone=PST|dst=No}}
 {{Scoreboard|team1=Red Reserve|team2=Movistar Riders	|team1score=250|team2score=176
-|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:6
-|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=17|deaths=22|time=93}}
-|blue2={{Scoreboard/Player|name=Joee|link=Joee|kills=20|deaths=22|time=56}}
-|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=20|deaths=17|time=71}}
-|blue4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=36|deaths=19|time=88}}
-|blue5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=20|deaths=24|time=41}}
-|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=17|deaths=26|time=66}}
-|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=19|deaths=20|time=43}}
-|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=22|deaths=20|time=35}}
-|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=20|deaths=22|time=86}}
-|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=26|deaths=25|time=33}}
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:06
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=17|deaths=22|time=93|defends=5}}
+|blue2={{Scoreboard/Player|name=Joee|link=Joee|kills=20|deaths=22|time=56|defends=4}}
+|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=20|deaths=17|time=71|defends=6}}
+|blue4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=36|deaths=19|time=88|defends=11}}
+|blue5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=20|deaths=24|time=41|defends=8}}
+|red1={{Scoreboard/Player|name=Katru|link=Katru|kills=17|deaths=26|time=66|defends=7}}
+|red2={{Scoreboard/Player|name=Oney|link=Oney|kills=19|deaths=20|time=43|defends=8}}
+|red3={{Scoreboard/Player|name=PuNi|link=PuNi|kills=22|deaths=20|time=35|defends=12}}
+|red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=20|deaths=22|time=86|defends=9}}
+|red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=26|deaths=25|time=33|defends=11}}
 }}
 {{Scoreboard|team1=Red Reserve|team2=Movistar Riders	|team1score=6|team2score=3
 |gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=12:13
@@ -898,16 +898,16 @@
 {{Scoreboard/Header|Evil Geniuses|The Imperial|title=Black Ops 4|date=2019-01-19|time=1145|timezone=PST|dst=No}}
 {{Scoreboard|team1=Evil Geniuses|team2=The Imperial|team1score=220|team2score=250
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:59
-|blue1={{Scoreboard/Player|name=Faccento|link=Faccento|kills=22|deaths=23|time=60}}
-|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=20|deaths=26|time=65}}
-|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=23|deaths=24|time=53}}
-|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=25|deaths=25|time=61}}
-|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=21|deaths=20|time=67}}
-|red1={{Scoreboard/Player|name=Denza|link=Denza|kills=31|deaths=20|time=84}}
-|red2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=32|deaths=22|time=74}}
-|red3={{Scoreboard/Player|name=Moose|link=Moose|kills=22|deaths=19|time=99}}
-|red4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=14|deaths=25|time=71}}
-|red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=19|deaths=26|time=40}}
+|blue1={{Scoreboard/Player|name=Faccento|link=Faccento|kills=22|deaths=23|time=60|defends=8}}
+|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=20|deaths=26|time=65|defends=10}}
+|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=23|deaths=24|time=53|defends=13}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=25|deaths=25|time=61|defends=10}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=21|deaths=20|time=67|defends=7}}
+|red1={{Scoreboard/Player|name=Denza|link=Denza|kills=31|deaths=20|time=84|defends=8}}
+|red2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=32|deaths=22|time=74|defends=6}}
+|red3={{Scoreboard/Player|name=Moose|link=Moose|kills=22|deaths=19|time=99|defends=9}}
+|red4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=14|deaths=25|time=71|defends=5}}
+|red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=19|deaths=26|time=40|defends=5}}
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=The Imperial|team1score=6|team2score=2
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=11:27
@@ -923,7 +923,7 @@
 |red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=1|deaths=7|plants=0|defuses=0}}
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=The Imperial|team1score=3|team2score=1
-|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=13:4
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=13:04
 |blue1={{Scoreboard/Player|name=Faccento|link=Faccento|kills=25|deaths=13|caps=1}}
 |blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=13|deaths=15|caps=1}}
 |blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=8|deaths=22|caps=1}}
@@ -937,32 +937,32 @@
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=The Imperial|team1score=250|team2score=246
 |gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=11:39
-|blue1={{Scoreboard/Player|name=Faccento|link=Faccento|kills=28|deaths=19|time=42}}
-|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=33|deaths=28|time=51}}
-|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=23|deaths=24|time=120}}
-|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=28|deaths=25|time=70}}
-|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=21|deaths=26|time=74}}
-|red1={{Scoreboard/Player|name=Denza|link=Denza|kills=21|deaths=35|time=51}}
-|red2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=27|deaths=25|time=74}}
-|red3={{Scoreboard/Player|name=Moose|link=Moose|kills=20|deaths=22|time=66}}
-|red4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=27|deaths=24|time=125}}
-|red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=27|deaths=27|time=60}}
+|blue1={{Scoreboard/Player|name=Faccento|link=Faccento|kills=28|deaths=19|time=42|defends=9}}
+|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=33|deaths=28|time=51|defends=13}}
+|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=23|deaths=24|time=120|defends=6}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=28|deaths=25|time=70|defends=8}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=21|deaths=26|time=74|defends=6}}
+|red1={{Scoreboard/Player|name=Denza|link=Denza|kills=21|deaths=35|time=51|defends=9}}
+|red2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=27|deaths=25|time=74|defends=8}}
+|red3={{Scoreboard/Player|name=Moose|link=Moose|kills=20|deaths=22|time=66|defends=7}}
+|red4={{Scoreboard/Player|name=Reedy|link=Reedy|kills=27|deaths=24|time=125|defends=9}}
+|red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=27|deaths=27|time=60|defends=8}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|UYU|title=Black Ops 4|date=2019-01-19|time=1352|timezone=PST|dst=No}}
 {{Scoreboard|team1=Evil Geniuses|team2=UYU|team1score=250|team2score=166
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:26
-|blue1={{Scoreboard/Player|name=Faccento|link=Faccento|kills=31|deaths=20|time=106}}
-|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=22|deaths=26|time=52}}
-|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=20|deaths=26|time=22}}
-|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=37|deaths=18|time=92}}
-|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=24|deaths=23|time=84}}
-|red1={{Scoreboard/Player|name=Knight|link=Knight|kills=13|deaths=29|time=44}}
-|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=24|deaths=26|time=53}}
-|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=24|deaths=29|time=40}}
-|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=27|deaths=24|time=51}}
-|red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=25|deaths=26|time=7}}
+|blue1={{Scoreboard/Player|name=Faccento|link=Faccento|kills=31|deaths=20|time=106|defends=10}}
+|blue2={{Scoreboard/Player|name=FeLo|link=FeLo|kills=22|deaths=26|time=52|defends=6}}
+|blue3={{Scoreboard/Player|name=Goonjar|link=Goonjar|kills=20|deaths=26|time=22|defends=5}}
+|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=37|deaths=18|time=92|defends=7}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=24|deaths=23|time=84|defends=8}}
+|red1={{Scoreboard/Player|name=Knight|link=Knight|kills=13|deaths=29|time=44|defends=7}}
+|red2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=24|deaths=26|time=53|defends=3}}
+|red3={{Scoreboard/Player|name=Proto|link=Proto|kills=24|deaths=29|time=40|defends=6}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=27|deaths=24|time=51|defends=15}}
+|red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=25|deaths=26|time=7|defends=8}}
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=UYU|team1score=6|team2score=1
 |gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=9:10

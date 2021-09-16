@@ -2,16 +2,16 @@
 {{Scoreboard/Header|FaZe Clan|Gen.G|title=Black Ops 4|date=2019-07-21|time=1314|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=FaZe Clan|team2=Gen.G|team1score=115|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:45
-|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=16|deaths=25|time=30}}
-|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=12|deaths=19|time=43}}
-|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=20|deaths=22|time=22}}
-|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=14|deaths=20|time=31}}
-|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=15|deaths=23|time=41}}
-|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=30|deaths=16|time=73}}
-|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=24|deaths=18|time=44}}
-|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=15|deaths=15|time=79}}
-|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=21|deaths=10|time=141}}
-|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=19|deaths=18|time=40}}
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=16|deaths=25|time=30|defends=5}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=12|deaths=19|time=43|defends=3}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=20|deaths=22|time=22|defends=6}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=14|deaths=20|time=31|defends=6}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=15|deaths=23|time=41|defends=4}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=30|deaths=16|time=73|defends=8}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=24|deaths=18|time=44|defends=9}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=15|deaths=15|time=79|defends=5}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=21|deaths=10|time=141|defends=7}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=19|deaths=18|time=40|defends=3}}
 }}
 {{Scoreboard|team1=FaZe Clan|team2=Gen.G|team1score=5|team2score=6
 |gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=16:59

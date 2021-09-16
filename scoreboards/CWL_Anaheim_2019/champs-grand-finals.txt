@@ -2,16 +2,16 @@
 {{Scoreboard/Header|100 Thieves|Gen.G|title=Black Ops 4|date=2019-06-16|time=1728|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Gen.G|team1score=250|team2score=177
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=9:59
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=18|deaths=19|time=109}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=30|deaths=24|time=10}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=20|deaths=21|time=148}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=29|deaths=22|time=37}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=28|deaths=18|time=50}}
-|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=23|deaths=23|time=57}}
-|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=17|deaths=27|time=75}}
-|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=22|deaths=23|time=37}}
-|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=21|deaths=24|time=50}}
-|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=21|deaths=28|time=43}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=18|deaths=19|time=109|defends=7}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=30|deaths=24|time=10|defends=5}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=20|deaths=21|time=148|defends=4}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=29|deaths=22|time=37|defends=9}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=28|deaths=18|time=50|defends=10}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=23|deaths=23|time=57|defends=5}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=17|deaths=27|time=75|defends=3}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=22|deaths=23|time=37|defends=2}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=21|deaths=24|time=50|defends=5}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=21|deaths=28|time=43|defends=8}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=Gen.G|team1score=6|team2score=3
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=12:12
@@ -41,15 +41,15 @@
 }}
 {{Scoreboard|team1=100 Thieves|team2=Gen.G|team1score=250|team2score=201
 |gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=11:36
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=13|deaths=26|time=95}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=37|deaths=24|time=45}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=27|deaths=24|time=76}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=33|deaths=29|time=80}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=36|deaths=26|time=75}}
-|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=28|deaths=29|time=60}}
-|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=33|deaths=30|time=67}}
-|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=19|deaths=32|time=62}}
-|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=26|deaths=28|time=65}}
-|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=23|deaths=27|time=79}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=13|deaths=26|time=95|defends=6}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=37|deaths=24|time=45|defends=11}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=27|deaths=24|time=76|defends=10}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=33|deaths=29|time=80|defends=10}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=36|deaths=26|time=75|defends=6}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=28|deaths=29|time=60|defends=8}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=33|deaths=30|time=67|defends=12}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=19|deaths=32|time=62|defends=5}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=26|deaths=28|time=65|defends=8}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=23|deaths=27|time=79|defends=8}}
 }}
 {{Box|end}}

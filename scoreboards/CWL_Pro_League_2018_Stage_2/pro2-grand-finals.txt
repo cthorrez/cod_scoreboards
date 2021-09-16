@@ -1,105 +1,105 @@
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Rise Nation|Team Kaliber|title=World War II|date=2018-07-29|time=1536|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Rise Nation|team2=Team Kaliber|team1score=250|team2score=101
-|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=10:0
-|blue1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=39|deaths=20|time=0}}
-|blue2={{Scoreboard/Player|name=Loony|link=Loony|kills=27|deaths=23|time=0}}
-|blue3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=26|deaths=18|time=0}}
-|blue4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=26|deaths=22|time=0}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=24|deaths=27|time=0}}
-|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=19|deaths=33|time=0}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=19|deaths=30|time=0}}
-|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=21|deaths=28|time=0}}
+{{ScoreboardWWII/Header|Rise Nation|Team Kaliber|title=World War II|date=2018-07-29|time=1536|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Rise Nation|team2=Team Kaliber|team1score=250|team2score=101
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=10:00
+|blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=39|deaths=20|time=0:00|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=27|deaths=23|time=0:00|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=26|deaths=18|time=0:00|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=26|deaths=22|time=0:00|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=24|deaths=27|time=0:00|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=19|deaths=33|time=0:00|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=19|deaths=30|time=0:00|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=21|deaths=28|time=0:00|defends=0}}
 }}
-{{Scoreboard|team1=Rise Nation|team2=Team Kaliber|team1score=2|team2score=6
-|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=10:0
-|blue1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=5|deaths=7|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=Loony|link=Loony|kills=6|deaths=6|plants=0|defuses=0}}
-|blue3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=9|deaths=7|plants=1|defuses=0}}
-|blue4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=1|deaths=8|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=10|deaths=6|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=5|deaths=5|plants=3|defuses=0}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=9|deaths=3|plants=0|defuses=0}}
-|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=4|deaths=7|plants=0|defuses=0}}
+{{ScoreboardWWII|team1=Rise Nation|team2=Team Kaliber|team1score=2|team2score=6
+|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=10:00
+|blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=5|deaths=7|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=6|deaths=6|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=9|deaths=7|plants=1|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=1|deaths=8|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=10|deaths=6|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=5|deaths=5|plants=3|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=9|deaths=3|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=4|deaths=7|plants=0|defuses=0}}
 }}
-{{Scoreboard|team1=Rise Nation|team2=Team Kaliber|team1score=4|team2score=0
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:0
-|blue1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=17|deaths=12|caps=0|returns=0}}
-|blue2={{Scoreboard/Player|name=Loony|link=Loony|kills=16|deaths=16|caps=0|returns=0}}
-|blue3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=28|deaths=11|caps=0|returns=0}}
-|blue4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=19|deaths=16|caps=0|returns=0}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=14|deaths=19|caps=0|returns=0}}
-|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=17|deaths=19|caps=0|returns=0}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=15|deaths=20|caps=0|returns=0}}
-|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=9|deaths=22|caps=0|returns=0}}
+{{ScoreboardWWII|team1=Rise Nation|team2=Team Kaliber|team1score=4|team2score=0
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=17|deaths=12|caps=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=16|deaths=16|caps=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=28|deaths=11|caps=0|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=19|deaths=16|caps=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=14|deaths=19|caps=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=17|deaths=19|caps=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=15|deaths=20|caps=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=9|deaths=22|caps=0|returns=0}}
 }}
-{{Scoreboard|team1=Rise Nation|team2=Team Kaliber|team1score=197|team2score=202
-|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=10:0
-|blue1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=43|deaths=30|time=0}}
-|blue2={{Scoreboard/Player|name=Loony|link=Loony|kills=26|deaths=35|time=0}}
-|blue3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=32|deaths=28|time=0}}
-|blue4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=35|deaths=36|time=0}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=26|deaths=33|time=0}}
-|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=34|deaths=35|time=0}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=34|deaths=34|time=0}}
-|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=35|deaths=34|time=0}}
+{{ScoreboardWWII|team1=Rise Nation|team2=Team Kaliber|team1score=197|team2score=202
+|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=10:00
+|blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=43|deaths=30|time=0:00|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=26|deaths=35|time=0:00|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=32|deaths=28|time=0:00|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=35|deaths=36|time=0:00|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=26|deaths=33|time=0:00|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=34|deaths=35|time=0:00|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=34|deaths=34|time=0:00|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=35|deaths=34|time=0:00|defends=0}}
 }}
-{{Scoreboard|team1=Rise Nation|team2=Team Kaliber|team1score=6|team2score=5
-|gamename=Game 5|map=Valkyrie|gamemode=Search and Destroy|maptime=10:0
-|blue1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=6|deaths=7|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=Loony|link=Loony|kills=7|deaths=7|plants=1|defuses=1}}
-|blue3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=8|deaths=6|plants=1|defuses=0}}
-|blue4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=9|deaths=6|plants=1|defuses=0}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=11|deaths=6|plants=1|defuses=1}}
-|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=1|deaths=9|plants=2|defuses=0}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=8|deaths=7|plants=0|defuses=0}}
-|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=6|deaths=8|plants=0|defuses=0}}
+{{ScoreboardWWII|team1=Rise Nation|team2=Team Kaliber|team1score=6|team2score=5
+|gamename=Game 5|map=Valkyrie|gamemode=Search and Destroy|maptime=10:00
+|blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=6|deaths=7|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=7|deaths=7|plants=1|defuses=1}}
+|blue3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=8|deaths=6|plants=1|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=9|deaths=6|plants=1|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=11|deaths=6|plants=1|defuses=1}}
+|purple2={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=1|deaths=9|plants=2|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=8|deaths=7|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=6|deaths=8|plants=0|defuses=0}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Rise Nation|Team Kaliber|title=World War II|date=2018-07-29|time=1651|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Rise Nation|team2=Team Kaliber|team1score=131|team2score=250
-|gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=10:0
-|blue1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=18|deaths=29|time=0}}
-|blue2={{Scoreboard/Player|name=Loony|link=Loony|kills=21|deaths=31|time=0}}
-|blue3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=34|deaths=23|time=0}}
-|blue4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=17|deaths=34|time=0}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=27|deaths=19|time=0}}
-|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=30|deaths=25|time=0}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=32|deaths=20|time=0}}
-|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=28|deaths=26|time=0}}
+{{ScoreboardWWII/Header|Rise Nation|Team Kaliber|title=World War II|date=2018-07-29|time=1651|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Rise Nation|team2=Team Kaliber|team1score=131|team2score=250
+|gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=10:00
+|blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=18|deaths=29|time=0:00|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=21|deaths=31|time=0:00|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=34|deaths=23|time=0:00|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=17|deaths=34|time=0:00|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=27|deaths=19|time=0:00|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=30|deaths=25|time=0:00|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=32|deaths=20|time=0:00|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=28|deaths=26|time=0:00|defends=0}}
 }}
-{{Scoreboard|team1=Rise Nation|team2=Team Kaliber|team1score=6|team2score=1
-|gamename=Game 2|map=Valkyrie|gamemode=Search and Destroy|maptime=10:0
-|blue1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=7|deaths=4|plants=1|defuses=0}}
-|blue2={{Scoreboard/Player|name=Loony|link=Loony|kills=8|deaths=3|plants=1|defuses=1}}
-|blue3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=4|deaths=3|plants=0|defuses=0}}
-|blue4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=5|deaths=2|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=3|deaths=5|plants=1|defuses=1}}
-|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=1|deaths=6|plants=0|defuses=0}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=4|deaths=6|plants=0|defuses=0}}
-|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=4|deaths=7|plants=0|defuses=0}}
+{{ScoreboardWWII|team1=Rise Nation|team2=Team Kaliber|team1score=6|team2score=1
+|gamename=Game 2|map=Valkyrie|gamemode=Search and Destroy|maptime=10:00
+|blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=7|deaths=4|plants=1|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=8|deaths=3|plants=1|defuses=1}}
+|blue3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=4|deaths=3|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=5|deaths=2|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=3|deaths=5|plants=1|defuses=1}}
+|purple2={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=1|deaths=6|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=4|deaths=6|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=4|deaths=7|plants=0|defuses=0}}
 }}
-{{Scoreboard|team1=Rise Nation|team2=Team Kaliber|team1score=0|team2score=2
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:0
-|blue1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=16|deaths=13|caps=0|returns=0}}
-|blue2={{Scoreboard/Player|name=Loony|link=Loony|kills=10|deaths=16|caps=0|returns=0}}
-|blue3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=18|deaths=17|caps=0|returns=0}}
-|blue4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=13|deaths=19|caps=0|returns=0}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=16|deaths=15|caps=0|returns=0}}
-|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=17|deaths=11|caps=0|returns=0}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=19|deaths=15|caps=0|returns=0}}
-|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=13|deaths=16|caps=0|returns=0}}
+{{ScoreboardWWII|team1=Rise Nation|team2=Team Kaliber|team1score=0|team2score=2
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=16|deaths=13|caps=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=10|deaths=16|caps=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=18|deaths=17|caps=0|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=13|deaths=19|caps=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=16|deaths=15|caps=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=17|deaths=11|caps=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=19|deaths=15|caps=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=13|deaths=16|caps=0|returns=0}}
 }}
-{{Scoreboard|team1=Rise Nation|team2=Team Kaliber|team1score=190|team2score=250
-|gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=10:0
-|blue1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=29|deaths=30|time=0}}
-|blue2={{Scoreboard/Player|name=Loony|link=Loony|kills=27|deaths=38|time=0}}
-|blue3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=37|deaths=31|time=0}}
-|blue4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=41|deaths=40|time=0}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=30|deaths=31|time=0}}
-|red2={{Scoreboard/Player|name=Enable|link=Enable|kills=33|deaths=35|time=0}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=38|deaths=30|time=0}}
-|red4={{Scoreboard/Player|name=Kenny|link=Kenny|kills=38|deaths=38|time=0}}
+{{ScoreboardWWII|team1=Rise Nation|team2=Team Kaliber|team1score=190|team2score=250
+|gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=10:00
+|blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=29|deaths=30|time=0:00|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=27|deaths=38|time=0:00|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=37|deaths=31|time=0:00|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=41|deaths=40|time=0:00|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=30|deaths=31|time=0:00|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=33|deaths=35|time=0:00|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=38|deaths=30|time=0:00|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=38|deaths=38|time=0:00|defends=0}}
 }}
 {{Box|end}}

@@ -1,17 +1,17 @@
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Luminosity Gaming|Midnight Esports|title=Black Ops 4|date=2019-07-19|time=1405|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Luminosity Gaming|team2=Midnight Esports|team1score=250|team2score=188
-|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:6
-|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=26|deaths=17|time=112}}
-|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=23|deaths=22|time=79}}
-|blue3={{Scoreboard/Player|name=John|link=John|kills=32|deaths=21|time=40}}
-|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=17|deaths=23|time=70}}
-|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=16|deaths=23|time=67}}
-|red1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=22|deaths=21|time=55}}
-|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=21|deaths=21|time=72}}
-|red3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=16|deaths=24|time=67}}
-|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=32|deaths=24|time=41}}
-|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=15|deaths=24|time=63}}
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:06
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=26|deaths=17|time=112|defends=7}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=23|deaths=22|time=79|defends=6}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=32|deaths=21|time=40|defends=11}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=17|deaths=23|time=70|defends=8}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=16|deaths=23|time=67|defends=9}}
+|red1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=22|deaths=21|time=55|defends=6}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=21|deaths=21|time=72|defends=13}}
+|red3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=16|deaths=24|time=67|defends=6}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=32|deaths=24|time=41|defends=9}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=15|deaths=24|time=63|defends=4}}
 }}
 {{Scoreboard|team1=Luminosity Gaming|team2=Midnight Esports|team1score=6|team2score=5
 |gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=13:53
@@ -41,32 +41,32 @@
 }}
 {{Scoreboard|team1=Luminosity Gaming|team2=Midnight Esports|team1score=250|team2score=191
 |gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=11:19
-|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=16|deaths=22|time=89}}
-|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=28|deaths=29|time=67}}
-|blue3={{Scoreboard/Player|name=John|link=John|kills=23|deaths=30|time=36}}
-|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=25|deaths=26|time=65}}
-|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=30|deaths=25|time=123}}
-|red1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=27|deaths=25|time=47}}
-|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=33|deaths=19|time=67}}
-|red3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=20|deaths=20|time=78}}
-|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=35|deaths=30|time=65}}
-|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=17|deaths=29|time=63}}
+|blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=16|deaths=22|time=89|defends=7}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=28|deaths=29|time=67|defends=3}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=23|deaths=30|time=36|defends=7}}
+|blue4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=25|deaths=26|time=65|defends=10}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=30|deaths=25|time=123|defends=4}}
+|red1={{Scoreboard/Player|name=Frosty|link=Frosty|kills=27|deaths=25|time=47|defends=10}}
+|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=33|deaths=19|time=67|defends=17}}
+|red3={{Scoreboard/Player|name=Parasite|link=Parasite|kills=20|deaths=20|time=78|defends=7}}
+|red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=35|deaths=30|time=65|defends=20}}
+|red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=17|deaths=29|time=63|defends=12}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|UYU|title=Black Ops 4|date=2019-07-19|time=1406|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Evil Geniuses|team2=UYU|team1score=250|team2score=176
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:14
-|blue1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=16|deaths=19|time=179}}
-|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=23|deaths=26|time=23}}
-|blue3={{Scoreboard/Player|name=Attach|link=Attach|kills=23|deaths=22|time=23}}
-|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=19|deaths=22|time=46}}
-|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=24|deaths=28|time=40}}
-|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=29|deaths=19|time=39}}
-|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=27|deaths=27|time=28}}
-|red3={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=21|deaths=18|time=62}}
-|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=20|deaths=17|time=49}}
-|red5={{Scoreboard/Player|name=Saints|link=Saints|kills=20|deaths=24|time=89}}
+|blue1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=16|deaths=19|time=179|defends=6}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=23|deaths=26|time=23|defends=9}}
+|blue3={{Scoreboard/Player|name=Attach|link=Attach|kills=23|deaths=22|time=23|defends=4}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=19|deaths=22|time=46|defends=2}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=24|deaths=28|time=40|defends=3}}
+|red1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=29|deaths=19|time=39|defends=3}}
+|red2={{Scoreboard/Player|name=Classic|link=Classic|kills=27|deaths=27|time=28|defends=3}}
+|red3={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=21|deaths=18|time=62|defends=3}}
+|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=20|deaths=17|time=49|defends=2}}
+|red5={{Scoreboard/Player|name=Saints|link=Saints|kills=20|deaths=24|time=89|defends=7}}
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=UYU|team1score=6|team2score=0
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=8:24

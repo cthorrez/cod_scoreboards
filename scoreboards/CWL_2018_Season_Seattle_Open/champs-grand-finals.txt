@@ -1,83 +1,83 @@
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Evil Geniuses|Rise Nation|title=World War II|date=2018-04-22|time=1741|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Evil Geniuses|team2=Rise Nation|team1score=250|team2score=144
+{{ScoreboardWWII/Header|Evil Geniuses|Rise Nation|title=World War II|date=2018-04-22|time=1741|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Evil Geniuses|team2=Rise Nation|team1score=250|team2score=144
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=8:30
-|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=24|deaths=15|time=95}}
-|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=16|deaths=18|time=89}}
-|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=25|deaths=19|time=62}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=22|deaths=18|time=54}}
-|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=20|deaths=23|time=19}}
-|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=11|deaths=22|time=44}}
-|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=15|deaths=20|time=43}}
-|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=24|deaths=22|time=49}}
+|blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=24|deaths=15|time=1:35|defends=3}}
+|blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=16|deaths=18|time=1:29|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=25|deaths=19|time=1:02|defends=3}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=22|deaths=18|time=0:54|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=20|deaths=23|time=0:19|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=11|deaths=22|time=0:44|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=15|deaths=20|time=0:43|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=24|deaths=22|time=0:49|defends=0}}
 }}
-{{Scoreboard|team1=Evil Geniuses|team2=Rise Nation|team1score=5|team2score=6
-|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=15:1
-|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=9|deaths=8|plants=1|defuses=0}}
-|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=10|deaths=6|plants=1|defuses=0}}
-|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=10|deaths=9|plants=0|defuses=0}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=4|deaths=9|plants=3|defuses=0}}
-|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=8|deaths=9|plants=0|defuses=1}}
-|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=7|deaths=9|plants=2|defuses=0}}
-|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=9|deaths=6|plants=0|defuses=2}}
-|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=8|deaths=9|plants=0|defuses=1}}
+{{ScoreboardWWII|team1=Evil Geniuses|team2=Rise Nation|team1score=5|team2score=6
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=15:01
+|blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=9|deaths=8|plants=1|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=10|deaths=6|plants=1|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=10|deaths=9|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=4|deaths=9|plants=3|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=8|deaths=9|plants=0|defuses=1}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=7|deaths=9|plants=2|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=9|deaths=6|plants=0|defuses=2}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=8|deaths=9|plants=0|defuses=1}}
 }}
-{{Scoreboard|team1=Evil Geniuses|team2=Rise Nation|team1score=1|team2score=2
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=12:3
-|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=27|deaths=22|caps=0|returns=1}}
-|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=16|deaths=20|caps=1|returns=0}}
-|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=22|deaths=21|caps=0|returns=1}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=16|deaths=21|caps=0|returns=0}}
-|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=29|deaths=21|caps=1|returns=0}}
-|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=15|deaths=21|caps=1|returns=0}}
-|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=24|deaths=16|caps=0|returns=0}}
-|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=16|deaths=23|caps=0|returns=1}}
+{{ScoreboardWWII|team1=Evil Geniuses|team2=Rise Nation|team1score=1|team2score=2
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=12:03
+|blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=27|deaths=22|caps=0|returns=1}}
+|blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=16|deaths=20|caps=1|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=22|deaths=21|caps=0|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=16|deaths=21|caps=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=29|deaths=21|caps=1|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=15|deaths=21|caps=1|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=24|deaths=16|caps=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=16|deaths=23|caps=0|returns=1}}
 }}
-{{Scoreboard|team1=Evil Geniuses|team2=Rise Nation|team1score=176|team2score=250
-|gamename=Game 4|map=Valkyrie|gamemode=Hardpoint|maptime=9:8
-|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=27|deaths=25|time=69}}
-|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=18|deaths=26|time=63}}
-|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=20|deaths=23|time=42}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=17|deaths=30|time=61}}
-|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=28|deaths=24|time=61}}
-|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=20|deaths=16|time=154}}
-|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=29|deaths=20|time=55}}
-|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=27|deaths=22|time=55}}
+{{ScoreboardWWII|team1=Evil Geniuses|team2=Rise Nation|team1score=176|team2score=250
+|gamename=Game 4|map=Valkyrie|gamemode=Hardpoint|maptime=9:08
+|blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=27|deaths=25|time=1:09|defends=2}}
+|blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=18|deaths=26|time=1:03|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=20|deaths=23|time=0:42|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=17|deaths=30|time=1:01|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=28|deaths=24|time=1:01|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=20|deaths=16|time=2:34|defends=3}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=29|deaths=20|time=0:55|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=27|deaths=22|time=0:55|defends=2}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Evil Geniuses|Rise Nation|title=World War II|date=2018-04-22|time=1906|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Evil Geniuses|team2=Rise Nation|team1score=165|team2score=250
-|gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=10:6
-|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=22|deaths=31|time=42}}
-|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=25|deaths=24|time=18}}
-|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=27|deaths=24|time=85}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=16|deaths=29|time=41}}
-|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=27|deaths=20|time=38}}
-|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=22|deaths=25|time=77}}
-|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=32|deaths=17|time=112}}
-|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=27|deaths=28|time=59}}
+{{ScoreboardWWII/Header|Evil Geniuses|Rise Nation|title=World War II|date=2018-04-22|time=1906|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Evil Geniuses|team2=Rise Nation|team1score=165|team2score=250
+|gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=10:06
+|blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=22|deaths=31|time=0:42|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=25|deaths=24|time=0:18|defends=2}}
+|blue3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=27|deaths=24|time=1:25|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=16|deaths=29|time=0:41|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=27|deaths=20|time=0:38|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=22|deaths=25|time=1:17|defends=2}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=32|deaths=17|time=1:52|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=27|deaths=28|time=0:59|defends=0}}
 }}
-{{Scoreboard|team1=Evil Geniuses|team2=Rise Nation|team1score=1|team2score=6
+{{ScoreboardWWII|team1=Evil Geniuses|team2=Rise Nation|team1score=1|team2score=6
 |gamename=Game 2|map=Valkyrie|gamemode=Search and Destroy|maptime=7:23
-|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=1|deaths=7|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=6|deaths=6|plants=0|defuses=0}}
-|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=5|deaths=6|plants=0|defuses=0}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=2|deaths=6|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=3|deaths=3|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=3|deaths=6|plants=0|defuses=0}}
-|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=9|deaths=1|plants=1|defuses=0}}
-|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=10|deaths=4|plants=0|defuses=0}}
+|blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=1|deaths=7|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=6|deaths=6|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=5|deaths=6|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=2|deaths=6|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=3|deaths=3|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=3|deaths=6|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=9|deaths=1|plants=1|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=10|deaths=4|plants=0|defuses=0}}
 }}
-{{Scoreboard|team1=Evil Geniuses|team2=Rise Nation|team1score=0|team2score=7
+{{ScoreboardWWII|team1=Evil Geniuses|team2=Rise Nation|team1score=0|team2score=7
 |gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:29
-|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=21|deaths=23|caps=0|returns=0}}
-|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=11|deaths=26|caps=0|returns=1}}
-|blue3={{Scoreboard/Player|name=Assault|link=Assault|kills=16|deaths=24|caps=0|returns=0}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=19|deaths=26|caps=0|returns=0}}
-|red1={{Scoreboard/Player|name=Gunless|link=Gunless|kills=22|deaths=19|caps=2|returns=1}}
-|red2={{Scoreboard/Player|name=Loony|link=Loony|kills=23|deaths=16|caps=3|returns=1}}
-|red3={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=24|deaths=18|caps=0|returns=1}}
-|red4={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=30|deaths=14|caps=2|returns=1}}
+|blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=21|deaths=23|caps=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=11|deaths=26|caps=0|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=16|deaths=24|caps=0|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=19|deaths=26|caps=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=22|deaths=19|caps=2|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=23|deaths=16|caps=3|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=24|deaths=18|caps=0|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=30|deaths=14|caps=2|returns=1}}
 }}
 {{Box|end}}

@@ -2,16 +2,16 @@
 {{Scoreboard/Header|100 Thieves|Evil Geniuses|title=Black Ops 4|date=2019-08-17|time=1629|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Evil Geniuses|team1score=250|team2score=176
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=11:38
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=16|deaths=27|time=71}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=28|deaths=26|time=80}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=31|deaths=25|time=91}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=34|deaths=20|time=96}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=32|deaths=21|time=69}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=24|deaths=29|time=72}}
-|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=32|deaths=29|time=34}}
-|red3={{Scoreboard/Player|name=Attach|link=Attach|kills=21|deaths=30|time=16}}
-|red4={{Scoreboard/Player|name=JKap|link=JKap|kills=18|deaths=27|time=38}}
-|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=24|deaths=26|time=68}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=16|deaths=27|time=71|defends=1}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=28|deaths=26|time=80|defends=5}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=31|deaths=25|time=91|defends=4}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=34|deaths=20|time=96|defends=5}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=32|deaths=21|time=69|defends=9}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=24|deaths=29|time=72|defends=12}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=32|deaths=29|time=34|defends=8}}
+|red3={{Scoreboard/Player|name=Attach|link=Attach|kills=21|deaths=30|time=16|defends=12}}
+|red4={{Scoreboard/Player|name=JKap|link=JKap|kills=18|deaths=27|time=38|defends=4}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=24|deaths=26|time=68|defends=10}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=Evil Geniuses|team1score=6|team2score=2
 |gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=9:11
@@ -44,16 +44,16 @@
 {{Scoreboard/Header|Enigma6 Group|Luminosity Gaming|title=Black Ops 4|date=2019-08-17|time=1746|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=130|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:50
-|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=20|deaths=18|time=69}}
-|blue2={{Scoreboard/Player|name=General|link=General|kills=12|deaths=22|time=32}}
-|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=11|deaths=19|time=21}}
-|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=18|deaths=21|time=14}}
-|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=15|deaths=18|time=22}}
-|red1={{Scoreboard/Player|name=Brack|link=Brack|kills=19|deaths=17|time=74}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=31|deaths=16|time=73}}
-|red3={{Scoreboard/Player|name=John|link=John|kills=15|deaths=16|time=85}}
-|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=17|deaths=11|time=104}}
-|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=16|deaths=16|time=87}}
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=20|deaths=18|time=69|defends=9}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=12|deaths=22|time=32|defends=8}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=11|deaths=19|time=21|defends=10}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=18|deaths=21|time=14|defends=7}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=15|deaths=18|time=22|defends=9}}
+|red1={{Scoreboard/Player|name=Brack|link=Brack|kills=19|deaths=17|time=74|defends=6}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=31|deaths=16|time=73|defends=7}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=15|deaths=16|time=85|defends=5}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=17|deaths=11|time=104|defends=6}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=16|deaths=16|time=87|defends=3}}
 }}
 {{Scoreboard|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=6|team2score=5
 |gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=14:31
@@ -83,16 +83,16 @@
 }}
 {{Scoreboard|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=250|team2score=95
 |gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=7:49
-|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=26|deaths=16|time=24}}
-|blue2={{Scoreboard/Player|name=General|link=General|kills=24|deaths=11|time=46}}
-|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=16|deaths=14|time=56}}
-|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=12|deaths=15|time=88}}
-|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=10|deaths=13|time=89}}
-|red1={{Scoreboard/Player|name=Brack|link=Brack|kills=21|deaths=19|time=11}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=10|deaths=19|time=35}}
-|red3={{Scoreboard/Player|name=John|link=John|kills=10|deaths=17|time=8}}
-|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=12|deaths=15|time=39}}
-|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=16|deaths=18|time=51}}
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=26|deaths=16|time=24|defends=6}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=24|deaths=11|time=46|defends=8}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=16|deaths=14|time=56|defends=8}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=12|deaths=15|time=88|defends=2}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=10|deaths=13|time=89|defends=6}}
+|red1={{Scoreboard/Player|name=Brack|link=Brack|kills=21|deaths=19|time=11|defends=7}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=10|deaths=19|time=35|defends=4}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=10|deaths=17|time=8|defends=2}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=12|deaths=15|time=39|defends=3}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=16|deaths=18|time=51|defends=3}}
 }}
 {{Scoreboard|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=6|team2score=1
 |gamename=Game 5|map=Arsenal|gamemode=Search and Destroy|maptime=8:53

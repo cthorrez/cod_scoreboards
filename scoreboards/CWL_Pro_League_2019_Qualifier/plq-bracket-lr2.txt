@@ -2,16 +2,16 @@
 {{Scoreboard/Header|G2 Esports|Red Reserve|title=Black Ops 4|date=2019-01-20|time=1358|timezone=PST|dst=No}}
 {{Scoreboard|team1=G2 Esports|team2=Red Reserve|team1score=172|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:33
-|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=20|deaths=23|time=50}}
-|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=18|deaths=21|time=44}}
-|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=24|deaths=18|time=45}}
-|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=16|deaths=15|time=118}}
-|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=15|deaths=22|time=26}}
-|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=25|deaths=21|time=57}}
-|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=13|deaths=21|time=56}}
-|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=18|deaths=13|time=126}}
-|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=28|deaths=20|time=52}}
-|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=15|deaths=18|time=72}}
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=20|deaths=23|time=50|defends=10}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=18|deaths=21|time=44|defends=8}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=24|deaths=18|time=45|defends=5}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=16|deaths=15|time=118|defends=4}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=15|deaths=22|time=26|defends=3}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=25|deaths=21|time=57|defends=5}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=13|deaths=21|time=56|defends=7}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=18|deaths=13|time=126|defends=9}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=28|deaths=20|time=52|defends=6}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=15|deaths=18|time=72|defends=1}}
 }}
 {{Scoreboard|team1=G2 Esports|team2=Red Reserve|team1score=1|team2score=3
 |gamename=Game 2|map=Arsenal|gamemode=Control|maptime=11:58
@@ -28,16 +28,16 @@
 }}
 {{Scoreboard|team1=G2 Esports|team2=Red Reserve|team1score=250|team2score=154
 |gamename=Game 3|map=Gridlock|gamemode=Hardpoint|maptime=8:46
-|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=16|deaths=18|time=69}}
-|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=18|deaths=16|time=20}}
-|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=27|deaths=13|time=102}}
-|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=15|deaths=14|time=88}}
-|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=18|deaths=16|time=75}}
-|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=10|deaths=20|time=43}}
-|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=18|deaths=19|time=37}}
-|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=16|deaths=17|time=77}}
-|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=18|deaths=20|time=31}}
-|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=15|deaths=18|time=15}}
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=16|deaths=18|time=69|defends=3}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=18|deaths=16|time=20|defends=3}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=27|deaths=13|time=102|defends=5}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=15|deaths=14|time=88|defends=4}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=18|deaths=16|time=75|defends=6}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=10|deaths=20|time=43|defends=2}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=18|deaths=19|time=37|defends=4}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=16|deaths=17|time=77|defends=6}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=18|deaths=20|time=31|defends=6}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=15|deaths=18|time=15|defends=2}}
 }}
 {{Scoreboard|team1=G2 Esports|team2=Red Reserve|team1score=5|team2score=6
 |gamename=Game 4|map=Payload|gamemode=Search and Destroy|maptime=18:28
@@ -57,16 +57,16 @@
 {{Scoreboard/Header|FaZe Clan|Team Overtime	|title=Black Ops 4|date=2019-01-20|time=1408|timezone=PST|dst=No}}
 {{Scoreboard|team1=FaZe Clan|team2=Team Overtime	|team1score=250|team2score=199
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:51
-|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=17|deaths=23|time=70}}
-|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=27|deaths=24|time=88}}
-|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=24|deaths=22|time=74}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=22|deaths=27|time=58}}
-|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=25|deaths=25|time=63}}
-|red1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=32|deaths=24|time=62}}
-|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=20|deaths=25|time=57}}
-|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=21|deaths=23|time=76}}
-|red4={{Scoreboard/Player|name=Wailers|link=Wailers|kills=20|deaths=24|time=33}}
-|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=28|deaths=20|time=36}}
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=17|deaths=23|time=70|defends=3}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=27|deaths=24|time=88|defends=4}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=24|deaths=22|time=74|defends=2}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=22|deaths=27|time=58|defends=7}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=25|deaths=25|time=63|defends=8}}
+|red1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=32|deaths=24|time=62|defends=8}}
+|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=20|deaths=25|time=57|defends=4}}
+|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=21|deaths=23|time=76|defends=9}}
+|red4={{Scoreboard/Player|name=Wailers|link=Wailers|kills=20|deaths=24|time=33|defends=3}}
+|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=28|deaths=20|time=36|defends=6}}
 }}
 {{Scoreboard|team1=FaZe Clan|team2=Team Overtime	|team1score=3|team2score=6
 |gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=10:23
@@ -95,17 +95,17 @@
 |red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=13|deaths=21|caps=0}}
 }}
 {{Scoreboard|team1=FaZe Clan|team2=Team Overtime	|team1score=250|team2score=112
-|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=8:6
-|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=13|deaths=12|time=20}}
-|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=25|deaths=10|time=71}}
-|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=15|deaths=13|time=100}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=16|deaths=17|time=18}}
-|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=21|deaths=14|time=107}}
-|red1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=10|deaths=21|time=34}}
-|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=8|deaths=18|time=47}}
-|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=18|deaths=18|time=9}}
-|red4={{Scoreboard/Player|name=Wailers|link=Wailers|kills=17|deaths=16|time=9}}
-|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=13|deaths=17|time=48}}
+|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=8:06
+|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=13|deaths=12|time=20|defends=2}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=25|deaths=10|time=71|defends=5}}
+|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=15|deaths=13|time=100|defends=3}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=16|deaths=17|time=18|defends=2}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=21|deaths=14|time=107|defends=6}}
+|red1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=10|deaths=21|time=34|defends=2}}
+|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=8|deaths=18|time=47|defends=4}}
+|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=18|deaths=18|time=9|defends=3}}
+|red4={{Scoreboard/Player|name=Wailers|link=Wailers|kills=17|deaths=16|time=9|defends=5}}
+|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=13|deaths=17|time=48|defends=5}}
 }}
 {{Scoreboard|team1=FaZe Clan|team2=Team Overtime	|team1score=2|team2score=6
 |gamename=Game 5|map=Arsenal|gamemode=Search and Destroy|maptime=10:25

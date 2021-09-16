@@ -2,16 +2,16 @@
 {{Scoreboard/Header|FaZe Clan|OpTic Gaming|title=Black Ops 4|date=2019-06-16|time=1242|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=250|team2score=152
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:50
-|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=18|deaths=22|time=98}}
-|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=26|deaths=22|time=135}}
-|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=36|deaths=19|time=77}}
-|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=30|deaths=18|time=69}}
-|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=25|deaths=21|time=67}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=19|deaths=20|time=44}}
-|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=25|deaths=23|time=81}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=20|deaths=32|time=25}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=19|deaths=29|time=43}}
-|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=19|deaths=31|time=26}}
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=18|deaths=22|time=98|defends=7}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=26|deaths=22|time=135|defends=5}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=36|deaths=19|time=77|defends=8}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=30|deaths=18|time=69|defends=14}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=25|deaths=21|time=67|defends=11}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=19|deaths=20|time=44|defends=9}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=25|deaths=23|time=81|defends=11}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=20|deaths=32|time=25|defends=11}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=19|deaths=29|time=43|defends=11}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=19|deaths=31|time=26|defends=6}}
 }}
 {{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=4|team2score=6
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=16:59
@@ -40,17 +40,17 @@
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=15|deaths=21|caps=2}}
 }}
 {{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=250|team2score=223
-|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=10:4
-|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=21|deaths=16|time=145}}
-|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=18|deaths=22|time=55}}
-|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=29|deaths=15|time=87}}
-|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=13|deaths=20|time=32}}
-|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=20|deaths=23|time=51}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=20|deaths=15|time=82}}
-|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=22|deaths=16|time=72}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=14|deaths=24|time=44}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=19|deaths=24|time=33}}
-|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=21|deaths=22|time=79}}
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=10:04
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=21|deaths=16|time=145|defends=4}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=18|deaths=22|time=55|defends=4}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=29|deaths=15|time=87|defends=3}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=13|deaths=20|time=32|defends=4}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=20|deaths=23|time=51|defends=6}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=20|deaths=15|time=82|defends=4}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=22|deaths=16|time=72|defends=10}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=14|deaths=24|time=44|defends=4}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=19|deaths=24|time=33|defends=6}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=21|deaths=22|time=79|defends=4}}
 }}
 {{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=2|team2score=6
 |gamename=Game 5|map=Frequency|gamemode=Search and Destroy|maptime=10:25

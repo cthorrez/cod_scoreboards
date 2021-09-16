@@ -1,17 +1,17 @@
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|Team Envy|title=Black Ops 4|date=2019-05-03|time=0914|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Evil Geniuses|team2=Team Envy|team1score=250|team2score=174
-|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:2
-|blue1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=21|deaths=21|time=39}}
-|blue2={{Scoreboard/Player|name=Attach|link=Attach|kills=15|deaths=16|time=111}}
-|blue3={{Scoreboard/Player|name=JKap|link=JKap|kills=27|deaths=17|time=96}}
-|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=25|deaths=18|time=98}}
-|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=23|deaths=19|time=37}}
-|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=20|deaths=22|time=62}}
-|red2={{Scoreboard/Player|name=Decemate|link=Decemate|kills=15|deaths=21|time=67}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=20|deaths=21|time=73}}
-|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=17|deaths=24|time=43}}
-|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=19|deaths=23|time=78}}
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:02
+|blue1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=21|deaths=21|time=39|defends=1}}
+|blue2={{Scoreboard/Player|name=Attach|link=Attach|kills=15|deaths=16|time=111|defends=7}}
+|blue3={{Scoreboard/Player|name=JKap|link=JKap|kills=27|deaths=17|time=96|defends=7}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=25|deaths=18|time=98|defends=8}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=23|deaths=19|time=37|defends=4}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=20|deaths=22|time=62|defends=6}}
+|red2={{Scoreboard/Player|name=Decemate|link=Decemate|kills=15|deaths=21|time=67|defends=9}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=20|deaths=21|time=73|defends=9}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=17|deaths=24|time=43|defends=6}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=19|deaths=23|time=78|defends=11}}
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=Team Envy|team1score=6|team2score=3
 |gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=11:33
@@ -41,16 +41,16 @@
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=Team Envy|team1score=250|team2score=238
 |gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=12:11
-|blue1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=30|deaths=27|time=107}}
-|blue2={{Scoreboard/Player|name=Attach|link=Attach|kills=26|deaths=25|time=43}}
-|blue3={{Scoreboard/Player|name=JKap|link=JKap|kills=26|deaths=29|time=53}}
-|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=34|deaths=23|time=99}}
-|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=29|deaths=29|time=59}}
-|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=22|deaths=29|time=80}}
-|red2={{Scoreboard/Player|name=Decemate|link=Decemate|kills=22|deaths=29|time=40}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=29|deaths=28|time=77}}
-|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=31|deaths=31|time=63}}
-|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=29|deaths=29|time=77}}
+|blue1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=30|deaths=27|time=107|defends=12}}
+|blue2={{Scoreboard/Player|name=Attach|link=Attach|kills=26|deaths=25|time=43|defends=11}}
+|blue3={{Scoreboard/Player|name=JKap|link=JKap|kills=26|deaths=29|time=53|defends=4}}
+|blue4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=34|deaths=23|time=99|defends=8}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=29|deaths=29|time=59|defends=4}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=22|deaths=29|time=80|defends=3}}
+|red2={{Scoreboard/Player|name=Decemate|link=Decemate|kills=22|deaths=29|time=40|defends=9}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=29|deaths=28|time=77|defends=6}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=31|deaths=31|time=63|defends=7}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=29|deaths=29|time=77|defends=7}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
@@ -73,16 +73,16 @@
 {{Scoreboard/Header|FaZe Clan|Team Envy|title=Black Ops 4|date=2019-05-03|time=1216|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=FaZe Clan|team2=Team Envy|team1score=230|team2score=250
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:58
-|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=18|deaths=24|time=83}}
-|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=20|deaths=21|time=58}}
-|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=22|deaths=26|time=70}}
-|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=20|deaths=20|time=57}}
-|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=26|deaths=26|time=45}}
-|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=26|deaths=22|time=94}}
-|red2={{Scoreboard/Player|name=Decemate|link=Decemate|kills=26|deaths=20|time=54}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=14|deaths=22|time=90}}
-|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=31|deaths=16|time=148}}
-|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=20|deaths=26|time=50}}
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=18|deaths=24|time=83|defends=5}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=20|deaths=21|time=58|defends=7}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=22|deaths=26|time=70|defends=5}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=20|deaths=20|time=57|defends=7}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=26|deaths=26|time=45|defends=4}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=26|deaths=22|time=94|defends=4}}
+|red2={{Scoreboard/Player|name=Decemate|link=Decemate|kills=26|deaths=20|time=54|defends=6}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=14|deaths=22|time=90|defends=4}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=31|deaths=16|time=148|defends=9}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=20|deaths=26|time=50|defends=7}}
 }}
 {{Scoreboard|team1=FaZe Clan|team2=Team Envy|team1score=6|team2score=3
 |gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=12:20
@@ -112,32 +112,32 @@
 }}
 {{Scoreboard|team1=FaZe Clan|team2=Team Envy|team1score=250|team2score=175
 |gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=11:42
-|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=33|deaths=29|time=74}}
-|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=32|deaths=25|time=115}}
-|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=40|deaths=25|time=64}}
-|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=26|deaths=28|time=50}}
-|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=27|deaths=28|time=109}}
-|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=17|deaths=33|time=66}}
-|red2={{Scoreboard/Player|name=Decemate|link=Decemate|kills=18|deaths=30|time=36}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=35|deaths=32|time=86}}
-|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=31|deaths=32|time=71}}
-|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=34|deaths=32|time=54}}
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=33|deaths=29|time=74|defends=12}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=32|deaths=25|time=115|defends=6}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=40|deaths=25|time=64|defends=11}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=26|deaths=28|time=50|defends=6}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=27|deaths=28|time=109|defends=12}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=17|deaths=33|time=66|defends=10}}
+|red2={{Scoreboard/Player|name=Decemate|link=Decemate|kills=18|deaths=30|time=36|defends=9}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=35|deaths=32|time=86|defends=10}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=31|deaths=32|time=71|defends=8}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=34|deaths=32|time=54|defends=14}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|eUnited|Evil Geniuses|title=Black Ops 4|date=2019-05-03|time=1321|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=Evil Geniuses|team1score=227|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:36
-|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=16|deaths=25|time=34}}
-|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=20|deaths=16|time=73}}
-|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=21|deaths=22|time=80}}
-|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=15|deaths=26|time=35}}
-|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=25|deaths=21|time=71}}
-|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=21|deaths=21|time=79}}
-|red2={{Scoreboard/Player|name=Attach|link=Attach|kills=31|deaths=14|time=114}}
-|red3={{Scoreboard/Player|name=JKap|link=JKap|kills=17|deaths=21|time=59}}
-|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=20|deaths=20|time=98}}
-|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=21|deaths=21|time=50}}
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=16|deaths=25|time=34|defends=8}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=20|deaths=16|time=73|defends=8}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=21|deaths=22|time=80|defends=4}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=15|deaths=26|time=35|defends=9}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=25|deaths=21|time=71|defends=5}}
+|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=21|deaths=21|time=79|defends=9}}
+|red2={{Scoreboard/Player|name=Attach|link=Attach|kills=31|deaths=14|time=114|defends=11}}
+|red3={{Scoreboard/Player|name=JKap|link=JKap|kills=17|deaths=21|time=59|defends=9}}
+|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=20|deaths=20|time=98|defends=6}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=21|deaths=21|time=50|defends=7}}
 }}
 {{Scoreboard|team1=eUnited|team2=Evil Geniuses|team1score=6|team2score=0
 |gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=5:52
@@ -153,7 +153,7 @@
 |red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=2|deaths=6|plants=0|defuses=0}}
 }}
 {{Scoreboard|team1=eUnited|team2=Evil Geniuses|team1score=3|team2score=0
-|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=8:5
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=8:05
 |blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=22|deaths=10|caps=4}}
 |blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=13|deaths=8|caps=3}}
 |blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=12|deaths=11|caps=4}}
@@ -167,15 +167,15 @@
 }}
 {{Scoreboard|team1=eUnited|team2=Evil Geniuses|team1score=250|team2score=165
 |gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=10:42
-|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=28|deaths=23|time=79}}
-|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=28|deaths=16|time=60}}
-|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=28|deaths=20|time=105}}
-|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=24|deaths=27|time=63}}
-|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=27|deaths=21|time=83}}
-|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=24|deaths=28|time=53}}
-|red2={{Scoreboard/Player|name=Attach|link=Attach|kills=25|deaths=27|time=32}}
-|red3={{Scoreboard/Player|name=JKap|link=JKap|kills=21|deaths=29|time=41}}
-|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=15|deaths=22|time=68}}
-|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=22|deaths=29|time=64}}
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=28|deaths=23|time=79|defends=6}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=28|deaths=16|time=60|defends=7}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=28|deaths=20|time=105|defends=4}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=24|deaths=27|time=63|defends=6}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=27|deaths=21|time=83|defends=3}}
+|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=24|deaths=28|time=53|defends=13}}
+|red2={{Scoreboard/Player|name=Attach|link=Attach|kills=25|deaths=27|time=32|defends=14}}
+|red3={{Scoreboard/Player|name=JKap|link=JKap|kills=21|deaths=29|time=41|defends=13}}
+|red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=15|deaths=22|time=68|defends=9}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=22|deaths=29|time=64|defends=11}}
 }}
 {{Box|end}}

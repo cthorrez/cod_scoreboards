@@ -2,16 +2,16 @@
 {{Scoreboard/Header|100 Thieves|Enigma6 Group|title=Black Ops 4|date=2019-08-18|time=1126|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Enigma6 Group|team1score=250|team2score=217
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=12:20
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=26|deaths=25|time=79}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=31|deaths=23|time=71}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=30|deaths=21|time=82}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=39|deaths=31|time=82}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=23|deaths=32|time=67}}
-|red1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=24|deaths=32|time=44}}
-|red2={{Scoreboard/Player|name=General|link=General|kills=32|deaths=25|time=67}}
-|red3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=26|deaths=27|time=66}}
-|red4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=25|deaths=36|time=41}}
-|red5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=25|deaths=29|time=69}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=26|deaths=25|time=79|defends=9}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=31|deaths=23|time=71|defends=11}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=30|deaths=21|time=82|defends=10}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=39|deaths=31|time=82|defends=13}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=23|deaths=32|time=67|defends=9}}
+|red1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=24|deaths=32|time=44|defends=8}}
+|red2={{Scoreboard/Player|name=General|link=General|kills=32|deaths=25|time=67|defends=6}}
+|red3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=26|deaths=27|time=66|defends=6}}
+|red4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=25|deaths=36|time=41|defends=7}}
+|red5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=25|deaths=29|time=69|defends=10}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=Enigma6 Group|team1score=6|team2score=4
 |gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=14:48

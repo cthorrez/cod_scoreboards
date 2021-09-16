@@ -2,16 +2,16 @@
 {{Scoreboard/Header|100 Thieves|eUnited|title=Black Ops 4|date=2019-05-05|time=0922|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=eUnited|team1score=250|team2score=176
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=11:17
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=35|deaths=25|time=69}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=31|deaths=27|time=50}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=26|deaths=22|time=98}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=23|deaths=29|time=36}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=33|deaths=20|time=153}}
-|red1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=27|deaths=30|time=71}}
-|red2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=27|deaths=26|time=36}}
-|red3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=18|deaths=36|time=21}}
-|red4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=21|deaths=31|time=63}}
-|red5={{Scoreboard/Player|name=Simp|link=Simp|kills=30|deaths=25|time=66}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=35|deaths=25|time=69|defends=5}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=31|deaths=27|time=50|defends=13}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=26|deaths=22|time=98|defends=8}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=23|deaths=29|time=36|defends=10}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=33|deaths=20|time=153|defends=7}}
+|red1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=27|deaths=30|time=71|defends=5}}
+|red2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=27|deaths=26|time=36|defends=12}}
+|red3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=18|deaths=36|time=21|defends=8}}
+|red4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=21|deaths=31|time=63|defends=9}}
+|red5={{Scoreboard/Player|name=Simp|link=Simp|kills=30|deaths=25|time=66|defends=13}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=eUnited|team1score=1|team2score=6
 |gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=7:12
@@ -41,15 +41,15 @@
 }}
 {{Scoreboard|team1=100 Thieves|team2=eUnited|team1score=250|team2score=238
 |gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=11:21
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=15|deaths=29|time=51}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=20|deaths=25|time=46}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=22|deaths=23|time=82}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=36|deaths=20|time=74}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=28|deaths=23|time=105}}
-|red1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=24|deaths=28|time=46}}
-|red2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=19|deaths=16|time=118}}
-|red3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=21|deaths=30|time=31}}
-|red4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=30|deaths=25|time=87}}
-|red5={{Scoreboard/Player|name=Simp|link=Simp|kills=25|deaths=22|time=32}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=15|deaths=29|time=51|defends=3}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=20|deaths=25|time=46|defends=2}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=22|deaths=23|time=82|defends=6}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=36|deaths=20|time=74|defends=4}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=28|deaths=23|time=105|defends=4}}
+|red1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=24|deaths=28|time=46|defends=5}}
+|red2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=19|deaths=16|time=118|defends=8}}
+|red3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=21|deaths=30|time=31|defends=9}}
+|red4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=30|deaths=25|time=87|defends=9}}
+|red5={{Scoreboard/Player|name=Simp|link=Simp|kills=25|deaths=22|time=32|defends=7}}
 }}
 {{Box|end}}

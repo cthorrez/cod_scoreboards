@@ -2,16 +2,16 @@
 {{Scoreboard/Header|Team Heretics|Luminosity Gaming|title=Black Ops 4|date=2019-07-19|time=1537|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Heretics|team2=Luminosity Gaming|team1score=250|team2score=150
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=9:46
-|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=21|deaths=22|time=31}}
-|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=21|deaths=16|time=91}}
-|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=18|deaths=17|time=86}}
-|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=28|deaths=18|time=95}}
-|blue5={{Scoreboard/Player|name=Wartex|link=Wartex|kills=23|deaths=18|time=104}}
-|red1={{Scoreboard/Player|name=Brack|link=Brack|kills=19|deaths=22|time=40}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=28|deaths=17|time=31}}
-|red3={{Scoreboard/Player|name=John|link=John|kills=14|deaths=25|time=9}}
-|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=8|deaths=25|time=31}}
-|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=22|deaths=22|time=79}}
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=21|deaths=22|time=31|defends=3}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=21|deaths=16|time=91|defends=3}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=18|deaths=17|time=86|defends=2}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=28|deaths=18|time=95|defends=4}}
+|blue5={{Scoreboard/Player|name=Wartex|link=Wartex|kills=23|deaths=18|time=104|defends=5}}
+|red1={{Scoreboard/Player|name=Brack|link=Brack|kills=19|deaths=22|time=40|defends=7}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=28|deaths=17|time=31|defends=8}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=14|deaths=25|time=9|defends=4}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=8|deaths=25|time=31|defends=3}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=22|deaths=22|time=79|defends=7}}
 }}
 {{Scoreboard|team1=Team Heretics|team2=Luminosity Gaming|team1score=5|team2score=6
 |gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=13:50
@@ -27,7 +27,7 @@
 |red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=8|deaths=7|plants=2|defuses=1}}
 }}
 {{Scoreboard|team1=Team Heretics|team2=Luminosity Gaming|team1score=3|team2score=2
-|gamename=Game 3|map=Frequency|gamemode=Control|maptime=14:7
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=14:07
 |blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=30|deaths=19|caps=2}}
 |blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=22|deaths=22|caps=2}}
 |blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=29|deaths=20|caps=2}}
@@ -41,19 +41,19 @@
 }}
 {{Scoreboard|team1=Team Heretics|team2=Luminosity Gaming|team1score=198|team2score=250
 |gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=10:27
-|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=34|deaths=21|time=70}}
-|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=23|deaths=20|time=50}}
-|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=18|deaths=25|time=59}}
-|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=19|deaths=25|time=54}}
-|blue5={{Scoreboard/Player|name=Wartex|link=Wartex|kills=18|deaths=25|time=79}}
-|red1={{Scoreboard/Player|name=Brack|link=Brack|kills=21|deaths=21|time=30}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=21|deaths=22|time=131}}
-|red3={{Scoreboard/Player|name=John|link=John|kills=19|deaths=24|time=65}}
-|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=21|deaths=24|time=78}}
-|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=33|deaths=21|time=115}}
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=34|deaths=21|time=70|defends=9}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=23|deaths=20|time=50|defends=5}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=18|deaths=25|time=59|defends=2}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=19|deaths=25|time=54|defends=6}}
+|blue5={{Scoreboard/Player|name=Wartex|link=Wartex|kills=18|deaths=25|time=79|defends=3}}
+|red1={{Scoreboard/Player|name=Brack|link=Brack|kills=21|deaths=21|time=30|defends=4}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=21|deaths=22|time=131|defends=9}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=19|deaths=24|time=65|defends=9}}
+|red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=21|deaths=24|time=78|defends=9}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=33|deaths=21|time=115|defends=17}}
 }}
 {{Scoreboard|team1=Team Heretics|team2=Luminosity Gaming|team1score=4|team2score=6
-|gamename=Game 5|map=Arsenal|gamemode=Search and Destroy|maptime=15:8
+|gamename=Game 5|map=Arsenal|gamemode=Search and Destroy|maptime=15:08
 |blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=3|deaths=8|plants=0|defuses=0}}
 |blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=5|deaths=7|plants=0|defuses=0}}
 |blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=7|deaths=8|plants=0|defuses=0}}
@@ -70,16 +70,16 @@
 {{Scoreboard/Header|Evil Geniuses|Team Reciprocity|title=Black Ops 4|date=2019-07-19|time=1542|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Evil Geniuses|team2=Team Reciprocity|team1score=203|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:18
-|blue1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=25|deaths=25|time=115}}
-|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=21|deaths=33|time=36}}
-|blue3={{Scoreboard/Player|name=Attach|link=Attach|kills=27|deaths=31|time=13}}
-|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=23|deaths=30|time=71}}
-|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=21|deaths=31|time=75}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=34|deaths=26|time=57}}
-|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=24|deaths=17|time=150}}
-|red3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=42|deaths=22|time=49}}
-|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=21|deaths=26|time=56}}
-|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=27|deaths=26|time=67}}
+|blue1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=25|deaths=25|time=115|defends=13}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=21|deaths=33|time=36|defends=8}}
+|blue3={{Scoreboard/Player|name=Attach|link=Attach|kills=27|deaths=31|time=13|defends=16}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=23|deaths=30|time=71|defends=7}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=21|deaths=31|time=75|defends=9}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=34|deaths=26|time=57|defends=10}}
+|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=24|deaths=17|time=150|defends=3}}
+|red3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=42|deaths=22|time=49|defends=8}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=21|deaths=26|time=56|defends=2}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=27|deaths=26|time=67|defends=6}}
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=Team Reciprocity|team1score=5|team2score=6
 |gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=13:33

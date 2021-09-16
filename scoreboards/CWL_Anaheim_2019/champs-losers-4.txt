@@ -2,16 +2,16 @@
 {{Scoreboard/Header|eUnited|Team Heretics|title=Black Ops 4|date=2019-06-15|time=1910|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=Team Heretics|team1score=250|team2score=234
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:45
-|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=27|deaths=22|time=84}}
-|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=17|deaths=22|time=95}}
-|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=19|deaths=25|time=41}}
-|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=19|deaths=27|time=20}}
-|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=25|deaths=17|time=113}}
-|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=21|deaths=21|time=70}}
-|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=21|deaths=18|time=112}}
-|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=19|deaths=21|time=34}}
-|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=30|deaths=26|time=41}}
-|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=22|deaths=21|time=88}}
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=27|deaths=22|time=84|defends=5}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=17|deaths=22|time=95|defends=11}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=19|deaths=25|time=41|defends=5}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=19|deaths=27|time=20|defends=4}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=25|deaths=17|time=113|defends=9}}
+|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=21|deaths=21|time=70|defends=3}}
+|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=21|deaths=18|time=112|defends=5}}
+|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=19|deaths=21|time=34|defends=3}}
+|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=30|deaths=26|time=41|defends=8}}
+|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=22|deaths=21|time=88|defends=1}}
 }}
 {{Scoreboard|team1=eUnited|team2=Team Heretics|team1score=6|team2score=5
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=14:43
@@ -41,32 +41,32 @@
 }}
 {{Scoreboard|team1=eUnited|team2=Team Heretics|team1score=250|team2score=186
 |gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=9:46
-|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=26|deaths=25|time=65}}
-|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=23|deaths=14|time=111}}
-|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=25|deaths=22|time=71}}
-|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=28|deaths=23|time=73}}
-|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=20|deaths=25|time=77}}
-|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=31|deaths=27|time=61}}
-|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=14|deaths=22|time=86}}
-|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=27|deaths=22|time=57}}
-|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=18|deaths=27|time=68}}
-|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=18|deaths=24|time=66}}
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=26|deaths=25|time=65|defends=12}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=23|deaths=14|time=111|defends=7}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=25|deaths=22|time=71|defends=5}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=28|deaths=23|time=73|defends=9}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=20|deaths=25|time=77|defends=6}}
+|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=31|deaths=27|time=61|defends=9}}
+|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=14|deaths=22|time=86|defends=11}}
+|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=27|deaths=22|time=57|defends=8}}
+|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=18|deaths=27|time=68|defends=12}}
+|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=18|deaths=24|time=66|defends=8}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|FaZe Clan|Splyce|title=Black Ops 4|date=2019-06-15|time=2033|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=FaZe Clan|team2=Splyce|team1score=250|team2score=171
-|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:1
-|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=22|deaths=26|time=76}}
-|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=30|deaths=20|time=46}}
-|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=42|deaths=18|time=141}}
-|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=17|deaths=23|time=55}}
-|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=19|deaths=27|time=50}}
-|red1={{Scoreboard/Player|name=AquA|link=AquA|kills=22|deaths=24|time=73}}
-|red2={{Scoreboard/Player|name=Jurd|link=Jurd|kills=23|deaths=24|time=39}}
-|red3={{Scoreboard/Player|name=Loony|link=Loony|kills=20|deaths=31|time=51}}
-|red4={{Scoreboard/Player|name=Nolson|link=Nolson|kills=18|deaths=31|time=47}}
-|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=31|deaths=20|time=75}}
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:01
+|blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=22|deaths=26|time=76|defends=9}}
+|blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=30|deaths=20|time=46|defends=9}}
+|blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=42|deaths=18|time=141|defends=8}}
+|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=17|deaths=23|time=55|defends=10}}
+|blue5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=19|deaths=27|time=50|defends=4}}
+|red1={{Scoreboard/Player|name=AquA|link=AquA|kills=22|deaths=24|time=73|defends=5}}
+|red2={{Scoreboard/Player|name=Jurd|link=Jurd|kills=23|deaths=24|time=39|defends=7}}
+|red3={{Scoreboard/Player|name=Loony|link=Loony|kills=20|deaths=31|time=51|defends=7}}
+|red4={{Scoreboard/Player|name=Nolson|link=Nolson|kills=18|deaths=31|time=47|defends=3}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=31|deaths=20|time=75|defends=8}}
 }}
 {{Scoreboard|team1=FaZe Clan|team2=Splyce|team1score=6|team2score=1
 |gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=9:44

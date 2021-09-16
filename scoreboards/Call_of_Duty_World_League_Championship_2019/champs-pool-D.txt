@@ -1,20 +1,20 @@
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|LGND Status|Team Reciprocity|title=Black Ops 4|date=2019-08-14|time=1136|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=LGND Status|team2=Team Reciprocity|team1score=82|team2score=250
-|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=8:9
-|blue1={{Scoreboard/Player|name=EFatal|link=EFatal|kills=15|deaths=18|time=34}}
-|blue2={{Scoreboard/Player|name=Foncho|link=Foncho|kills=13|deaths=19|time=24}}
-|blue3={{Scoreboard/Player|name=Phenom|link=Phenom|kills=17|deaths=24|time=22}}
-|blue4={{Scoreboard/Player|name=Pure|link=Pure|kills=14|deaths=23|time=21}}
-|blue5={{Scoreboard/Player|name=Ryza|link=Ryza|kills=19|deaths=23|time=23}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=24|deaths=19|time=44}}
-|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=18|deaths=6|time=125}}
-|red3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=16|deaths=22|time=56}}
-|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=23|deaths=13|time=85}}
-|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=26|deaths=18|time=73}}
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=8:09
+|blue1={{Scoreboard/Player|name=EFatal|link=EFatal|kills=15|deaths=18|time=34|defends=4}}
+|blue2={{Scoreboard/Player|name=Foncho|link=Foncho|kills=13|deaths=19|time=24|defends=5}}
+|blue3={{Scoreboard/Player|name=Phenom|link=Phenom|kills=17|deaths=24|time=22|defends=5}}
+|blue4={{Scoreboard/Player|name=Pure|link=Pure|kills=14|deaths=23|time=21|defends=4}}
+|blue5={{Scoreboard/Player|name=Ryza|link=Ryza|kills=19|deaths=23|time=23|defends=5}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=24|deaths=19|time=44|defends=9}}
+|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=18|deaths=6|time=125|defends=4}}
+|red3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=16|deaths=22|time=56|defends=10}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=23|deaths=13|time=85|defends=8}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=26|deaths=18|time=73|defends=8}}
 }}
 {{Scoreboard|team1=LGND Status|team2=Team Reciprocity|team1score=2|team2score=6
-|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=10:6
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=10:06
 |blue1={{Scoreboard/Player|name=EFatal|link=EFatal|kills=4|deaths=8|plants=1|defuses=0}}
 |blue2={{Scoreboard/Player|name=Foncho|link=Foncho|kills=6|deaths=5|plants=3|defuses=0}}
 |blue3={{Scoreboard/Player|name=Phenom|link=Phenom|kills=3|deaths=7|plants=0|defuses=0}}
@@ -44,16 +44,16 @@
 {{Scoreboard/Header|Sage eSports|Team Envy|title=Black Ops 4|date=2019-08-14|time=1142|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Sage eSports|team2=Team Envy|team1score=218|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:50
-|blue1={{Scoreboard/Player|name=Mock|link=Mock|kills=24|deaths=24|time=118}}
-|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=21|deaths=23|time=54}}
-|blue3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=24|deaths=24|time=50}}
-|blue4={{Scoreboard/Player|name=Vivid|link=Vivid|kills=27|deaths=32|time=50}}
-|blue5={{Scoreboard/Player|name=Wrecks|link=Wrecks|kills=21|deaths=28|time=57}}
-|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=16|deaths=22|time=118}}
-|red2={{Scoreboard/Player|name=Assault|link=Assault|kills=29|deaths=20|time=120}}
-|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=25|deaths=25|time=23}}
-|red4={{Scoreboard/Player|name=Gunless|link=Gunless|kills=26|deaths=27|time=64}}
-|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=35|deaths=23|time=43}}
+|blue1={{Scoreboard/Player|name=Mock|link=Mock|kills=24|deaths=24|time=118|defends=12}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=21|deaths=23|time=54|defends=8}}
+|blue3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=24|deaths=24|time=50|defends=14}}
+|blue4={{Scoreboard/Player|name=Vivid|link=Vivid|kills=27|deaths=32|time=50|defends=7}}
+|blue5={{Scoreboard/Player|name=Wrecks|link=Wrecks|kills=21|deaths=28|time=57|defends=8}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=16|deaths=22|time=118|defends=5}}
+|red2={{Scoreboard/Player|name=Assault|link=Assault|kills=29|deaths=20|time=120|defends=1}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=25|deaths=25|time=23|defends=7}}
+|red4={{Scoreboard/Player|name=Gunless|link=Gunless|kills=26|deaths=27|time=64|defends=6}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=35|deaths=23|time=43|defends=7}}
 }}
 {{Scoreboard|team1=Sage eSports|team2=Team Envy|team1score=6|team2score=5
 |gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=13:43
@@ -69,7 +69,7 @@
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=7|deaths=8|plants=1|defuses=0}}
 }}
 {{Scoreboard|team1=Sage eSports|team2=Team Envy|team1score=2|team2score=3
-|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=14:7
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=14:07
 |blue1={{Scoreboard/Player|name=Mock|link=Mock|kills=21|deaths=17|caps=3}}
 |blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=13|deaths=20|caps=3}}
 |blue3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=30|deaths=18|caps=1}}
@@ -82,17 +82,17 @@
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=23|deaths=19|caps=2}}
 }}
 {{Scoreboard|team1=Sage eSports|team2=Team Envy|team1score=250|team2score=180
-|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=10:5
-|blue1={{Scoreboard/Player|name=Mock|link=Mock|kills=24|deaths=20|time=113}}
-|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=28|deaths=18|time=80}}
-|blue3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=19|deaths=27|time=30}}
-|blue4={{Scoreboard/Player|name=Vivid|link=Vivid|kills=35|deaths=28|time=45}}
-|blue5={{Scoreboard/Player|name=Wrecks|link=Wrecks|kills=21|deaths=17|time=85}}
-|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=28|deaths=25|time=36}}
-|red2={{Scoreboard/Player|name=Assault|link=Assault|kills=27|deaths=25|time=48}}
-|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=23|deaths=25|time=29}}
-|red4={{Scoreboard/Player|name=Gunless|link=Gunless|kills=16|deaths=26|time=54}}
-|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=16|deaths=26|time=77}}
+|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=10:05
+|blue1={{Scoreboard/Player|name=Mock|link=Mock|kills=24|deaths=20|time=113|defends=5}}
+|blue2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=28|deaths=18|time=80|defends=9}}
+|blue3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=19|deaths=27|time=30|defends=7}}
+|blue4={{Scoreboard/Player|name=Vivid|link=Vivid|kills=35|deaths=28|time=45|defends=10}}
+|blue5={{Scoreboard/Player|name=Wrecks|link=Wrecks|kills=21|deaths=17|time=85|defends=5}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=28|deaths=25|time=36|defends=6}}
+|red2={{Scoreboard/Player|name=Assault|link=Assault|kills=27|deaths=25|time=48|defends=14}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=23|deaths=25|time=29|defends=3}}
+|red4={{Scoreboard/Player|name=Gunless|link=Gunless|kills=16|deaths=26|time=54|defends=4}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=16|deaths=26|time=77|defends=4}}
 }}
 {{Scoreboard|team1=Sage eSports|team2=Team Envy|team1score=3|team2score=6
 |gamename=Game 5|map=Hacienda|gamemode=Search and Destroy|maptime=10:48
@@ -112,19 +112,19 @@
 {{Scoreboard/Header|Team Reciprocity|Team Envy|title=Black Ops 4|date=2019-08-14|time=1700|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Reciprocity|team2=Team Envy|team1score=250|team2score=127
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=9:32
-|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=36|deaths=15|time=65}}
-|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=26|deaths=19|time=51}}
-|blue3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=33|deaths=21|time=91}}
-|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=25|deaths=21|time=60}}
-|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=22|deaths=18|time=102}}
-|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=10|deaths=26|time=30}}
-|red2={{Scoreboard/Player|name=Assault|link=Assault|kills=23|deaths=25|time=71}}
-|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=20|deaths=31|time=13}}
-|red4={{Scoreboard/Player|name=Gunless|link=Gunless|kills=20|deaths=28|time=41}}
-|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=21|deaths=32|time=25}}
+|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=36|deaths=15|time=65|defends=6}}
+|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=26|deaths=19|time=51|defends=3}}
+|blue3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=33|deaths=21|time=91|defends=7}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=25|deaths=21|time=60|defends=12}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=22|deaths=18|time=102|defends=11}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=10|deaths=26|time=30|defends=9}}
+|red2={{Scoreboard/Player|name=Assault|link=Assault|kills=23|deaths=25|time=71|defends=8}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=20|deaths=31|time=13|defends=6}}
+|red4={{Scoreboard/Player|name=Gunless|link=Gunless|kills=20|deaths=28|time=41|defends=10}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=21|deaths=32|time=25|defends=12}}
 }}
 {{Scoreboard|team1=Team Reciprocity|team2=Team Envy|team1score=5|team2score=6
-|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=15:7
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=15:07
 |blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=4|deaths=10|plants=2|defuses=0}}
 |blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=11|deaths=6|plants=0|defuses=0}}
 |blue3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=6|deaths=9|plants=0|defuses=0}}
@@ -151,16 +151,16 @@
 }}
 {{Scoreboard|team1=Team Reciprocity|team2=Team Envy|team1score=246|team2score=250
 |gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=11:48
-|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=29|deaths=26|time=59}}
-|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=19|deaths=26|time=64}}
-|blue3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=39|deaths=29|time=89}}
-|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=24|deaths=28|time=77}}
-|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=25|deaths=29|time=65}}
-|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=20|deaths=30|time=55}}
-|red2={{Scoreboard/Player|name=Assault|link=Assault|kills=23|deaths=25|time=59}}
-|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=37|deaths=24|time=95}}
-|red4={{Scoreboard/Player|name=Gunless|link=Gunless|kills=31|deaths=27|time=80}}
-|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=27|deaths=30|time=58}}
+|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=29|deaths=26|time=59|defends=6}}
+|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=19|deaths=26|time=64|defends=3}}
+|blue3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=39|deaths=29|time=89|defends=15}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=24|deaths=28|time=77|defends=5}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=25|deaths=29|time=65|defends=6}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=20|deaths=30|time=55|defends=7}}
+|red2={{Scoreboard/Player|name=Assault|link=Assault|kills=23|deaths=25|time=59|defends=4}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=37|deaths=24|time=95|defends=8}}
+|red4={{Scoreboard/Player|name=Gunless|link=Gunless|kills=31|deaths=27|time=80|defends=8}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=27|deaths=30|time=58|defends=8}}
 }}
 {{Scoreboard|team1=Team Reciprocity|team2=Team Envy|team1score=1|team2score=6
 |gamename=Game 5|map=Gridlock|gamemode=Search and Destroy|maptime=9:19
@@ -180,16 +180,16 @@
 {{Scoreboard/Header|LGND Status|Sage eSports|title=Black Ops 4|date=2019-08-14|time=1731|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=LGND Status|team2=Sage eSports|team1score=164|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:38
-|blue1={{Scoreboard/Player|name=EFatal|link=EFatal|kills=15|deaths=20|time=57}}
-|blue2={{Scoreboard/Player|name=Foncho|link=Foncho|kills=17|deaths=20|time=44}}
-|blue3={{Scoreboard/Player|name=Phenom|link=Phenom|kills=22|deaths=20|time=64}}
-|blue4={{Scoreboard/Player|name=Pure|link=Pure|kills=16|deaths=20|time=40}}
-|blue5={{Scoreboard/Player|name=Ryza|link=Ryza|kills=21|deaths=20|time=44}}
-|red1={{Scoreboard/Player|name=Mock|link=Mock|kills=12|deaths=17|time=75}}
-|red2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=28|deaths=13|time=72}}
-|red3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=16|deaths=17|time=95}}
-|red4={{Scoreboard/Player|name=Vivid|link=Vivid|kills=22|deaths=28|time=32}}
-|red5={{Scoreboard/Player|name=Wrecks|link=Wrecks|kills=22|deaths=16|time=77}}
+|blue1={{Scoreboard/Player|name=EFatal|link=EFatal|kills=15|deaths=20|time=57|defends=4}}
+|blue2={{Scoreboard/Player|name=Foncho|link=Foncho|kills=17|deaths=20|time=44|defends=5}}
+|blue3={{Scoreboard/Player|name=Phenom|link=Phenom|kills=22|deaths=20|time=64|defends=8}}
+|blue4={{Scoreboard/Player|name=Pure|link=Pure|kills=16|deaths=20|time=40|defends=7}}
+|blue5={{Scoreboard/Player|name=Ryza|link=Ryza|kills=21|deaths=20|time=44|defends=8}}
+|red1={{Scoreboard/Player|name=Mock|link=Mock|kills=12|deaths=17|time=75|defends=4}}
+|red2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=28|deaths=13|time=72|defends=11}}
+|red3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=16|deaths=17|time=95|defends=6}}
+|red4={{Scoreboard/Player|name=Vivid|link=Vivid|kills=22|deaths=28|time=32|defends=5}}
+|red5={{Scoreboard/Player|name=Wrecks|link=Wrecks|kills=22|deaths=16|time=77|defends=5}}
 }}
 {{Scoreboard|team1=LGND Status|team2=Sage eSports|team1score=1|team2score=6
 |gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=8:26
@@ -222,16 +222,16 @@
 {{Scoreboard/Header|LGND Status|Team Envy|title=Black Ops 4|date=2019-08-15|time=1417|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=LGND Status|team2=Team Envy|team1score=156|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:47
-|blue1={{Scoreboard/Player|name=EFatal|link=EFatal|kills=17|deaths=20|time=28}}
-|blue2={{Scoreboard/Player|name=Foncho|link=Foncho|kills=11|deaths=21|time=52}}
-|blue3={{Scoreboard/Player|name=Phenom|link=Phenom|kills=12|deaths=21|time=67}}
-|blue4={{Scoreboard/Player|name=Pure|link=Pure|kills=18|deaths=21|time=55}}
-|blue5={{Scoreboard/Player|name=Ryza|link=Ryza|kills=21|deaths=20|time=27}}
-|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=20|deaths=18|time=53}}
-|red2={{Scoreboard/Player|name=Assault|link=Assault|kills=14|deaths=14|time=94}}
-|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=23|deaths=17|time=47}}
-|red4={{Scoreboard/Player|name=Gunless|link=Gunless|kills=23|deaths=18|time=43}}
-|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=23|deaths=12|time=109}}
+|blue1={{Scoreboard/Player|name=EFatal|link=EFatal|kills=17|deaths=20|time=28|defends=3}}
+|blue2={{Scoreboard/Player|name=Foncho|link=Foncho|kills=11|deaths=21|time=52|defends=3}}
+|blue3={{Scoreboard/Player|name=Phenom|link=Phenom|kills=12|deaths=21|time=67|defends=2}}
+|blue4={{Scoreboard/Player|name=Pure|link=Pure|kills=18|deaths=21|time=55|defends=4}}
+|blue5={{Scoreboard/Player|name=Ryza|link=Ryza|kills=21|deaths=20|time=27|defends=6}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=20|deaths=18|time=53|defends=6}}
+|red2={{Scoreboard/Player|name=Assault|link=Assault|kills=14|deaths=14|time=94|defends=9}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=23|deaths=17|time=47|defends=2}}
+|red4={{Scoreboard/Player|name=Gunless|link=Gunless|kills=23|deaths=18|time=43|defends=6}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=23|deaths=12|time=109|defends=8}}
 }}
 {{Scoreboard|team1=LGND Status|team2=Team Envy|team1score=6|team2score=3
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=11:16
@@ -261,16 +261,16 @@
 }}
 {{Scoreboard|team1=LGND Status|team2=Team Envy|team1score=250|team2score=181
 |gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=10:11
-|blue1={{Scoreboard/Player|name=EFatal|link=EFatal|kills=24|deaths=17|time=115}}
-|blue2={{Scoreboard/Player|name=Foncho|link=Foncho|kills=25|deaths=19|time=112}}
-|blue3={{Scoreboard/Player|name=Phenom|link=Phenom|kills=21|deaths=23|time=78}}
-|blue4={{Scoreboard/Player|name=Pure|link=Pure|kills=20|deaths=21|time=40}}
-|blue5={{Scoreboard/Player|name=Ryza|link=Ryza|kills=31|deaths=24|time=63}}
-|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=20|deaths=27|time=35}}
-|red2={{Scoreboard/Player|name=Assault|link=Assault|kills=11|deaths=22|time=83}}
-|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=26|deaths=27|time=21}}
-|red4={{Scoreboard/Player|name=Gunless|link=Gunless|kills=28|deaths=20|time=85}}
-|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=19|deaths=25|time=27}}
+|blue1={{Scoreboard/Player|name=EFatal|link=EFatal|kills=24|deaths=17|time=115|defends=3}}
+|blue2={{Scoreboard/Player|name=Foncho|link=Foncho|kills=25|deaths=19|time=112|defends=2}}
+|blue3={{Scoreboard/Player|name=Phenom|link=Phenom|kills=21|deaths=23|time=78|defends=5}}
+|blue4={{Scoreboard/Player|name=Pure|link=Pure|kills=20|deaths=21|time=40|defends=0}}
+|blue5={{Scoreboard/Player|name=Ryza|link=Ryza|kills=31|deaths=24|time=63|defends=8}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=20|deaths=27|time=35|defends=7}}
+|red2={{Scoreboard/Player|name=Assault|link=Assault|kills=11|deaths=22|time=83|defends=5}}
+|red3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=26|deaths=27|time=21|defends=8}}
+|red4={{Scoreboard/Player|name=Gunless|link=Gunless|kills=28|deaths=20|time=85|defends=7}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=19|deaths=25|time=27|defends=6}}
 }}
 {{Scoreboard|team1=LGND Status|team2=Team Envy|team1score=1|team2score=6
 |gamename=Game 5|map=Gridlock|gamemode=Search and Destroy|maptime=8:20
@@ -290,16 +290,16 @@
 {{Scoreboard/Header|Team Reciprocity|Sage eSports|title=Black Ops 4|date=2019-08-15|time=1435|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Reciprocity|team2=Sage eSports|team1score=250|team2score=186
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:12
-|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=28|deaths=23|time=82}}
-|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=19|deaths=20|time=56}}
-|blue3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=32|deaths=19|time=90}}
-|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=23|deaths=19|time=66}}
-|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=24|deaths=19|time=108}}
-|red1={{Scoreboard/Player|name=Mock|link=Mock|kills=19|deaths=23|time=98}}
-|red2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=21|deaths=23|time=37}}
-|red3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=20|deaths=25|time=55}}
-|red4={{Scoreboard/Player|name=Vivid|link=Vivid|kills=19|deaths=32|time=28}}
-|red5={{Scoreboard/Player|name=Wrecks|link=Wrecks|kills=21|deaths=23|time=58}}
+|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=28|deaths=23|time=82|defends=12}}
+|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=19|deaths=20|time=56|defends=5}}
+|blue3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=32|deaths=19|time=90|defends=8}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=23|deaths=19|time=66|defends=6}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=24|deaths=19|time=108|defends=9}}
+|red1={{Scoreboard/Player|name=Mock|link=Mock|kills=19|deaths=23|time=98|defends=11}}
+|red2={{Scoreboard/Player|name=GRVTY|link=GRVTY|kills=21|deaths=23|time=37|defends=9}}
+|red3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=20|deaths=25|time=55|defends=11}}
+|red4={{Scoreboard/Player|name=Vivid|link=Vivid|kills=19|deaths=32|time=28|defends=10}}
+|red5={{Scoreboard/Player|name=Wrecks|link=Wrecks|kills=21|deaths=23|time=58|defends=11}}
 }}
 {{Scoreboard|team1=Team Reciprocity|team2=Sage eSports|team1score=6|team2score=3
 |gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=11:19

@@ -2,16 +2,16 @@
 {{Scoreboard/Header|Fuego Gaming|Gen.G|title=Black Ops 4|date=2019-08-14|time=1007|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Fuego Gaming|team2=Gen.G|team1score=250|team2score=223
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:21
-|blue1={{Scoreboard/Player|name=BBConor|link=BBConor|kills=19|deaths=20|time=88}}
-|blue2={{Scoreboard/Player|name=Chaaxter|link=Chaaxter|kills=23|deaths=25|time=78}}
-|blue3={{Scoreboard/Player|name=Harry|link=Harry|kills=30|deaths=22|time=99}}
-|blue4={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=19|deaths=22|time=64}}
-|blue5={{Scoreboard/Player|name=MadCat|link=MadCat|kills=19|deaths=17|time=61}}
-|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=27|deaths=26|time=52}}
-|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=20|deaths=23|time=63}}
-|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=22|deaths=21|time=78}}
-|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=19|deaths=18|time=65}}
-|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=18|deaths=22|time=69}}
+|blue1={{Scoreboard/Player|name=BBConor|link=BBConor|kills=19|deaths=20|time=88|defends=7}}
+|blue2={{Scoreboard/Player|name=Chaaxter|link=Chaaxter|kills=23|deaths=25|time=78|defends=10}}
+|blue3={{Scoreboard/Player|name=Harry|link=Harry|kills=30|deaths=22|time=99|defends=10}}
+|blue4={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=19|deaths=22|time=64|defends=8}}
+|blue5={{Scoreboard/Player|name=MadCat|link=MadCat|kills=19|deaths=17|time=61|defends=9}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=27|deaths=26|time=52|defends=16}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=20|deaths=23|time=63|defends=8}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=22|deaths=21|time=78|defends=7}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=19|deaths=18|time=65|defends=7}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=18|deaths=22|time=69|defends=6}}
 }}
 {{Scoreboard|team1=Fuego Gaming|team2=Gen.G|team1score=4|team2score=6
 |gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=12:32
@@ -41,16 +41,16 @@
 }}
 {{Scoreboard|team1=Fuego Gaming|team2=Gen.G|team1score=250|team2score=212
 |gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=11:11
-|blue1={{Scoreboard/Player|name=Chaaxter|link=Chaaxter|kills=25|deaths=27|time=92}}
-|blue2={{Scoreboard/Player|name=BBConor|link=BBConor|kills=25|deaths=22|time=101}}
-|blue3={{Scoreboard/Player|name=Harry|link=Harry|kills=32|deaths=26|time=49}}
-|blue4={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=28|deaths=18|time=52}}
-|blue5={{Scoreboard/Player|name=MadCat|link=MadCat|kills=29|deaths=22|time=74}}
-|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=24|deaths=32|time=54}}
-|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=22|deaths=28|time=68}}
-|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=16|deaths=28|time=55}}
-|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=21|deaths=23|time=42}}
-|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=31|deaths=28|time=61}}
+|blue1={{Scoreboard/Player|name=Chaaxter|link=Chaaxter|kills=25|deaths=27|time=92|defends=6}}
+|blue2={{Scoreboard/Player|name=BBConor|link=BBConor|kills=25|deaths=22|time=101|defends=3}}
+|blue3={{Scoreboard/Player|name=Harry|link=Harry|kills=32|deaths=26|time=49|defends=11}}
+|blue4={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=28|deaths=18|time=52|defends=3}}
+|blue5={{Scoreboard/Player|name=MadCat|link=MadCat|kills=29|deaths=22|time=74|defends=9}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=24|deaths=32|time=54|defends=13}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=22|deaths=28|time=68|defends=8}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=16|deaths=28|time=55|defends=6}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=21|deaths=23|time=42|defends=10}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=31|deaths=28|time=61|defends=13}}
 }}
 {{Scoreboard|team1=Fuego Gaming|team2=Gen.G|team1score=6|team2score=3
 |gamename=Game 5|map=Gridlock|gamemode=Search and Destroy|maptime=10:41
@@ -70,16 +70,16 @@
 {{Scoreboard/Header|Enigma6 Group|Team WaR|title=Black Ops 4|date=2019-08-14|time=1015|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=Team WaR|team1score=250|team2score=156
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:46
-|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=29|deaths=20|time=53}}
-|blue2={{Scoreboard/Player|name=General|link=General|kills=27|deaths=15|time=87}}
-|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=20|deaths=20|time=68}}
-|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=23|deaths=21|time=77}}
-|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=18|deaths=21|time=58}}
-|red1={{Scoreboard/Player|name=Defrag|link=Defrag|kills=18|deaths=27|time=10}}
-|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=22|deaths=18|time=82}}
-|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=12|deaths=28|time=25}}
-|red4={{Scoreboard/Player|name=Peatie|link=Peatie|kills=22|deaths=22|time=76}}
-|red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=23|deaths=22|time=56}}
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=29|deaths=20|time=53|defends=6}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=27|deaths=15|time=87|defends=12}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=20|deaths=20|time=68|defends=6}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=23|deaths=21|time=77|defends=6}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=18|deaths=21|time=58|defends=5}}
+|red1={{Scoreboard/Player|name=Defrag|link=Defrag|kills=18|deaths=27|time=10|defends=10}}
+|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=22|deaths=18|time=82|defends=9}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=12|deaths=28|time=25|defends=4}}
+|red4={{Scoreboard/Player|name=Peatie|link=Peatie|kills=22|deaths=22|time=76|defends=4}}
+|red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=23|deaths=22|time=56|defends=8}}
 }}
 {{Scoreboard|team1=Enigma6 Group|team2=Team WaR|team1score=6|team2score=2
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=11:39
@@ -112,16 +112,16 @@
 {{Scoreboard/Header|Enigma6 Group|Fuego Gaming|title=Black Ops 4|date=2019-08-14|time=1501|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=Fuego Gaming|team1score=182|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:44
-|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=21|deaths=20|time=48}}
-|blue2={{Scoreboard/Player|name=General|link=General|kills=24|deaths=19|time=65}}
-|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=21|deaths=20|time=74}}
-|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=14|deaths=27|time=32}}
-|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=14|deaths=25|time=40}}
-|red1={{Scoreboard/Player|name=Chaaxter|link=Chaaxter|kills=26|deaths=17|time=115}}
-|red2={{Scoreboard/Player|name=BBConor|link=BBConor|kills=17|deaths=21|time=57}}
-|red3={{Scoreboard/Player|name=Harry|link=Harry|kills=27|deaths=21|time=102}}
-|red4={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=24|deaths=18|time=81}}
-|red5={{Scoreboard/Player|name=MadCat|link=MadCat|kills=17|deaths=17|time=84}}
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=21|deaths=20|time=48|defends=9}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=24|deaths=19|time=65|defends=11}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=21|deaths=20|time=74|defends=7}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=14|deaths=27|time=32|defends=8}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=14|deaths=25|time=40|defends=6}}
+|red1={{Scoreboard/Player|name=Chaaxter|link=Chaaxter|kills=26|deaths=17|time=115|defends=6}}
+|red2={{Scoreboard/Player|name=BBConor|link=BBConor|kills=17|deaths=21|time=57|defends=6}}
+|red3={{Scoreboard/Player|name=Harry|link=Harry|kills=27|deaths=21|time=102|defends=6}}
+|red4={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=24|deaths=18|time=81|defends=3}}
+|red5={{Scoreboard/Player|name=MadCat|link=MadCat|kills=17|deaths=17|time=84|defends=3}}
 }}
 {{Scoreboard|team1=Enigma6 Group|team2=Fuego Gaming|team1score=6|team2score=2
 |gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=9:25
@@ -151,32 +151,32 @@
 }}
 {{Scoreboard|team1=Enigma6 Group|team2=Fuego Gaming|team1score=250|team2score=103
 |gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=7:59
-|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=12|deaths=9|time=86}}
-|blue2={{Scoreboard/Player|name=General|link=General|kills=15|deaths=14|time=79}}
-|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=31|deaths=9|time=98}}
-|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=20|deaths=13|time=43}}
-|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=19|deaths=11|time=42}}
-|red1={{Scoreboard/Player|name=Chaaxter|link=Chaaxter|kills=6|deaths=20|time=62}}
-|red2={{Scoreboard/Player|name=BBConor|link=BBConor|kills=11|deaths=20|time=17}}
-|red3={{Scoreboard/Player|name=Harry|link=Harry|kills=10|deaths=20|time=38}}
-|red4={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=12|deaths=20|time=25}}
-|red5={{Scoreboard/Player|name=MadCat|link=MadCat|kills=17|deaths=17|time=6}}
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=12|deaths=9|time=86|defends=3}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=15|deaths=14|time=79|defends=3}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=31|deaths=9|time=98|defends=8}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=20|deaths=13|time=43|defends=2}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=19|deaths=11|time=42|defends=4}}
+|red1={{Scoreboard/Player|name=Chaaxter|link=Chaaxter|kills=6|deaths=20|time=62|defends=3}}
+|red2={{Scoreboard/Player|name=BBConor|link=BBConor|kills=11|deaths=20|time=17|defends=9}}
+|red3={{Scoreboard/Player|name=Harry|link=Harry|kills=10|deaths=20|time=38|defends=2}}
+|red4={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=12|deaths=20|time=25|defends=3}}
+|red5={{Scoreboard/Player|name=MadCat|link=MadCat|kills=17|deaths=17|time=6|defends=3}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Gen.G|Team WaR|title=Black Ops 4|date=2019-08-14|time=1548|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Gen.G|team2=Team WaR|team1score=92|team2score=250
-|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=8:8
-|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=14|deaths=19|time=23}}
-|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=12|deaths=18|time=37}}
-|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=14|deaths=16|time=25}}
-|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=12|deaths=14|time=17}}
-|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=14|deaths=23|time=9}}
-|red1={{Scoreboard/Player|name=Defrag|link=Defrag|kills=21|deaths=16|time=59}}
-|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=16|deaths=11|time=41}}
-|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=20|deaths=9|time=103}}
-|red4={{Scoreboard/Player|name=Peatie|link=Peatie|kills=11|deaths=16|time=50}}
-|red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=22|deaths=14|time=109}}
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=8:08
+|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=14|deaths=19|time=23|defends=7}}
+|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=12|deaths=18|time=37|defends=8}}
+|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=14|deaths=16|time=25|defends=3}}
+|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=12|deaths=14|time=17|defends=5}}
+|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=14|deaths=23|time=9|defends=5}}
+|red1={{Scoreboard/Player|name=Defrag|link=Defrag|kills=21|deaths=16|time=59|defends=1}}
+|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=16|deaths=11|time=41|defends=1}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=20|deaths=9|time=103|defends=4}}
+|red4={{Scoreboard/Player|name=Peatie|link=Peatie|kills=11|deaths=16|time=50|defends=5}}
+|red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=22|deaths=14|time=109|defends=2}}
 }}
 {{Scoreboard|team1=Gen.G|team2=Team WaR|team1score=4|team2score=6
 |gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=13:44
@@ -208,17 +208,17 @@
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|Gen.G|title=Black Ops 4|date=2019-08-15|time=1300|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=Gen.G|team1score=250|team2score=232
-|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=11:1
-|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=34|deaths=18|time=95}}
-|blue2={{Scoreboard/Player|name=General|link=General|kills=27|deaths=23|time=98}}
-|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=28|deaths=23|time=59}}
-|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=28|deaths=27|time=54}}
-|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=21|deaths=20|time=56}}
-|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=30|deaths=25|time=78}}
-|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=30|deaths=27|time=48}}
-|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=21|deaths=31|time=24}}
-|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=11|deaths=28|time=38}}
-|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=19|deaths=27|time=136}}
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=11:01
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=34|deaths=18|time=95|defends=6}}
+|blue2={{Scoreboard/Player|name=General|link=General|kills=27|deaths=23|time=98|defends=4}}
+|blue3={{Scoreboard/Player|name=GodRx|link=GodRx|kills=28|deaths=23|time=59|defends=3}}
+|blue4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=28|deaths=27|time=54|defends=7}}
+|blue5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=21|deaths=20|time=56|defends=3}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=30|deaths=25|time=78|defends=10}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=30|deaths=27|time=48|defends=9}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=21|deaths=31|time=24|defends=5}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=11|deaths=28|time=38|defends=3}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=19|deaths=27|time=136|defends=3}}
 }}
 {{Scoreboard|team1=Enigma6 Group|team2=Gen.G|team1score=6|team2score=5
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=13:48
@@ -238,16 +238,16 @@
 {{Scoreboard/Header|Fuego Gaming|Team WaR|title=Black Ops 4|date=2019-08-15|time=1333|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Fuego Gaming|team2=Team WaR|team1score=154|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:33
-|blue1={{Scoreboard/Player|name=Chaaxter|link=Chaaxter|kills=26|deaths=26|time=69}}
-|blue2={{Scoreboard/Player|name=BBConor|link=BBConor|kills=19|deaths=25|time=45}}
-|blue3={{Scoreboard/Player|name=Harry|link=Harry|kills=21|deaths=23|time=63}}
-|blue4={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=18|deaths=23|time=54}}
-|blue5={{Scoreboard/Player|name=MadCat|link=MadCat|kills=12|deaths=17|time=31}}
-|red1={{Scoreboard/Player|name=Defrag|link=Defrag|kills=24|deaths=19|time=97}}
-|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=23|deaths=15|time=50}}
-|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=23|deaths=21|time=115}}
-|red4={{Scoreboard/Player|name=Peatie|link=Peatie|kills=24|deaths=18|time=84}}
-|red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=20|deaths=23|time=68}}
+|blue1={{Scoreboard/Player|name=Chaaxter|link=Chaaxter|kills=26|deaths=26|time=69|defends=4}}
+|blue2={{Scoreboard/Player|name=BBConor|link=BBConor|kills=19|deaths=25|time=45|defends=3}}
+|blue3={{Scoreboard/Player|name=Harry|link=Harry|kills=21|deaths=23|time=63|defends=6}}
+|blue4={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=18|deaths=23|time=54|defends=4}}
+|blue5={{Scoreboard/Player|name=MadCat|link=MadCat|kills=12|deaths=17|time=31|defends=1}}
+|red1={{Scoreboard/Player|name=Defrag|link=Defrag|kills=24|deaths=19|time=97|defends=3}}
+|red2={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=23|deaths=15|time=50|defends=6}}
+|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=23|deaths=21|time=115|defends=9}}
+|red4={{Scoreboard/Player|name=Peatie|link=Peatie|kills=24|deaths=18|time=84|defends=5}}
+|red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=20|deaths=23|time=68|defends=5}}
 }}
 {{Scoreboard|team1=Fuego Gaming|team2=Team WaR|team1score=4|team2score=6
 |gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=12:58

@@ -2,16 +2,16 @@
 {{Scoreboard/Header|eUnited|Gen.G|title=Black Ops 4|date=2019-07-21|time=1455|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=Gen.G|team1score=123|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:25
-|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=12|deaths=19|time=10}}
-|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=13|deaths=16|time=54}}
-|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=15|deaths=19|time=51}}
-|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=9|deaths=19|time=21}}
-|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=15|deaths=16|time=61}}
-|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=28|deaths=12|time=68}}
-|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=18|deaths=16|time=67}}
-|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=17|deaths=12|time=54}}
-|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=14|deaths=13|time=78}}
-|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=12|deaths=11|time=135}}
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=12|deaths=19|time=10|defends=2}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=13|deaths=16|time=54|defends=8}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=15|deaths=19|time=51|defends=4}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=9|deaths=19|time=21|defends=4}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=15|deaths=16|time=61|defends=5}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=28|deaths=12|time=68|defends=5}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=18|deaths=16|time=67|defends=3}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=17|deaths=12|time=54|defends=5}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=14|deaths=13|time=78|defends=1}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=12|deaths=11|time=135|defends=4}}
 }}
 {{Scoreboard|team1=eUnited|team2=Gen.G|team1score=3|team2score=6
 |gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=12:35
@@ -44,16 +44,16 @@
 {{Scoreboard/Header|eUnited|Gen.G|title=Black Ops 4|date=2019-07-21|time=1553|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=Gen.G|team1score=250|team2score=119
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:35
-|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=18|deaths=15|time=126}}
-|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=17|deaths=18|time=76}}
-|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=21|deaths=16|time=38}}
-|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=22|deaths=19|time=56}}
-|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=18|deaths=15|time=118}}
-|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=19|deaths=22|time=23}}
-|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=18|deaths=21|time=25}}
-|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=10|deaths=19|time=35}}
-|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=16|deaths=13|time=72}}
-|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=20|deaths=21|time=35}}
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=18|deaths=15|time=126|defends=3}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=17|deaths=18|time=76|defends=6}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=21|deaths=16|time=38|defends=3}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=22|deaths=19|time=56|defends=3}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=18|deaths=15|time=118|defends=3}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=19|deaths=22|time=23|defends=18}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=18|deaths=21|time=25|defends=8}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=10|deaths=19|time=35|defends=9}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=16|deaths=13|time=72|defends=9}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=20|deaths=21|time=35|defends=10}}
 }}
 {{Scoreboard|team1=eUnited|team2=Gen.G|team1score=6|team2score=5
 |gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=14:39

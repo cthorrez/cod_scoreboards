@@ -2,16 +2,16 @@
 {{Scoreboard/Header|100 Thieves|eUnited|title=Black Ops 4|date=2019-08-18|time=1410|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=eUnited|team1score=126|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:36
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=15|deaths=22|time=35}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=15|deaths=22|time=20}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=25|deaths=17|time=55}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=11|deaths=24|time=43}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=22|deaths=21|time=43}}
-|red1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=20|deaths=19|time=37}}
-|red2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=21|deaths=14|time=92}}
-|red3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=19|deaths=19|time=65}}
-|red4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=22|deaths=18|time=104}}
-|red5={{Scoreboard/Player|name=Simp|link=Simp|kills=24|deaths=19|time=93}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=15|deaths=22|time=35|defends=4}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=15|deaths=22|time=20|defends=8}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=25|deaths=17|time=55|defends=15}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=11|deaths=24|time=43|defends=4}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=22|deaths=21|time=43|defends=5}}
+|red1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=20|deaths=19|time=37|defends=2}}
+|red2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=21|deaths=14|time=92|defends=6}}
+|red3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=19|deaths=19|time=65|defends=7}}
+|red4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=22|deaths=18|time=104|defends=5}}
+|red5={{Scoreboard/Player|name=Simp|link=Simp|kills=24|deaths=19|time=93|defends=3}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=eUnited|team1score=6|team2score=3
 |gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=12:47
@@ -41,16 +41,16 @@
 }}
 {{Scoreboard|team1=100 Thieves|team2=eUnited|team1score=219|team2score=250
 |gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=10:45
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=21|deaths=26|time=26}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=17|deaths=21|time=82}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=24|deaths=19|time=99}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=19|deaths=21|time=79}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=21|deaths=23|time=23}}
-|red1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=27|deaths=18|time=58}}
-|red2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=23|deaths=17|time=177}}
-|red3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=25|deaths=24|time=28}}
-|red4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=18|deaths=23|time=51}}
-|red5={{Scoreboard/Player|name=Simp|link=Simp|kills=17|deaths=20|time=81}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=21|deaths=26|time=26|defends=3}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=17|deaths=21|time=82|defends=8}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=24|deaths=19|time=99|defends=7}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=19|deaths=21|time=79|defends=9}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=21|deaths=23|time=23|defends=8}}
+|red1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=27|deaths=18|time=58|defends=8}}
+|red2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=23|deaths=17|time=177|defends=7}}
+|red3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=25|deaths=24|time=28|defends=8}}
+|red4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=18|deaths=23|time=51|defends=4}}
+|red5={{Scoreboard/Player|name=Simp|link=Simp|kills=17|deaths=20|time=81|defends=9}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=eUnited|team1score=4|team2score=6
 |gamename=Game 5|map=Arsenal|gamemode=Search and Destroy|maptime=12:56

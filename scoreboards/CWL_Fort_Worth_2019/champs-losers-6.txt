@@ -2,19 +2,19 @@
 {{Scoreboard/Header|100 Thieves|Team Reciprocity|title=Black Ops 4|date=2019-03-17|time=1011|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Team Reciprocity|team1score=234|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:52
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=17|deaths=26|time=43}}
-|blue2={{Scoreboard/Player|name=Fero|link=Fero|kills=24|deaths=27|time=72}}
-|blue3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=16|deaths=25|time=25}}
-|blue4={{Scoreboard/Player|name=Octane|link=Octane|kills=36|deaths=21|time=137}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=29|deaths=27|time=60}}
-|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=25|deaths=26|time=40}}
-|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=25|deaths=18|time=78}}
-|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=30|deaths=28|time=45}}
-|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=21|deaths=25|time=94}}
-|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=25|deaths=25|time=83}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=17|deaths=26|time=43|defends=6}}
+|blue2={{Scoreboard/Player|name=Fero|link=Fero|kills=24|deaths=27|time=72|defends=4}}
+|blue3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=16|deaths=25|time=25|defends=5}}
+|blue4={{Scoreboard/Player|name=Octane|link=Octane|kills=36|deaths=21|time=137|defends=12}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=29|deaths=27|time=60|defends=9}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=25|deaths=26|time=40|defends=5}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=25|deaths=18|time=78|defends=5}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=30|deaths=28|time=45|defends=10}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=21|deaths=25|time=94|defends=4}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=25|deaths=25|time=83|defends=6}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=Team Reciprocity|team1score=2|team2score=6
-|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=11:1
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=11:01
 |blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=2|deaths=7|plants=2|defuses=0}}
 |blue2={{Scoreboard/Player|name=Fero|link=Fero|kills=4|deaths=7|plants=0|defuses=0}}
 |blue3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=6|deaths=7|plants=0|defuses=1}}
@@ -41,15 +41,15 @@
 }}
 {{Scoreboard|team1=100 Thieves|team2=Team Reciprocity|team1score=217|team2score=250
 |gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=9:30
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=18|deaths=22|time=51}}
-|blue2={{Scoreboard/Player|name=Fero|link=Fero|kills=23|deaths=24|time=76}}
-|blue3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=14|deaths=22|time=59}}
-|blue4={{Scoreboard/Player|name=Octane|link=Octane|kills=12|deaths=20|time=94}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=26|deaths=19|time=50}}
-|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=20|deaths=21|time=61}}
-|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=12|deaths=20|time=71}}
-|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=27|deaths=18|time=60}}
-|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=15|deaths=17|time=50}}
-|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=32|deaths=17|time=110}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=18|deaths=22|time=51|defends=5}}
+|blue2={{Scoreboard/Player|name=Fero|link=Fero|kills=23|deaths=24|time=76|defends=4}}
+|blue3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=14|deaths=22|time=59|defends=6}}
+|blue4={{Scoreboard/Player|name=Octane|link=Octane|kills=12|deaths=20|time=94|defends=2}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=26|deaths=19|time=50|defends=7}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=20|deaths=21|time=61|defends=5}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=12|deaths=20|time=71|defends=9}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=27|deaths=18|time=60|defends=8}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=15|deaths=17|time=50|defends=5}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=32|deaths=17|time=110|defends=9}}
 }}
 {{Box|end}}

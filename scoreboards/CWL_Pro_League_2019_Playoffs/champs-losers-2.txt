@@ -2,16 +2,16 @@
 {{Scoreboard/Header|Team Reciprocity|Splyce|title=Black Ops 4|date=2019-07-20|time=1421|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Reciprocity|team2=Splyce|team1score=250|team2score=190
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:38
-|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=20|deaths=21|time=53}}
-|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=20|deaths=21|time=47}}
-|blue3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=36|deaths=22|time=48}}
-|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=17|deaths=20|time=36}}
-|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=25|deaths=21|time=161}}
-|red1={{Scoreboard/Player|name=AquA|link=AquA|kills=24|deaths=19|time=75}}
-|red2={{Scoreboard/Player|name=Huke|link=Huke|kills=25|deaths=27|time=55}}
-|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=11|deaths=25|time=57}}
-|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=17|deaths=27|time=59}}
-|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=27|deaths=20|time=53}}
+|blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=20|deaths=21|time=53|defends=6}}
+|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=20|deaths=21|time=47|defends=6}}
+|blue3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=36|deaths=22|time=48|defends=9}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=17|deaths=20|time=36|defends=8}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=25|deaths=21|time=161|defends=9}}
+|red1={{Scoreboard/Player|name=AquA|link=AquA|kills=24|deaths=19|time=75|defends=8}}
+|red2={{Scoreboard/Player|name=Huke|link=Huke|kills=25|deaths=27|time=55|defends=5}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=11|deaths=25|time=57|defends=4}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=17|deaths=27|time=59|defends=6}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=27|deaths=20|time=53|defends=12}}
 }}
 {{Scoreboard|team1=Team Reciprocity|team2=Splyce|team1score=6|team2score=2
 |gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=11:32
@@ -44,19 +44,19 @@
 {{Scoreboard/Header|100 Thieves|OpTic Gaming|title=Black Ops 4|date=2019-07-20|time=1530|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=OpTic Gaming|team1score=250|team2score=166
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=8:57
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=21|deaths=13|time=120}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=22|deaths=19|time=10}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=17|deaths=12|time=112}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=23|deaths=20|time=48}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=21|deaths=21|time=34}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=14|deaths=22|time=57}}
-|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=16|deaths=21|time=28}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=14|deaths=18|time=50}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=17|deaths=20|time=60}}
-|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=24|deaths=23|time=41}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=21|deaths=13|time=120|defends=4}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=22|deaths=19|time=10|defends=4}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=17|deaths=12|time=112|defends=7}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=23|deaths=20|time=48|defends=5}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=21|deaths=21|time=34|defends=5}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=14|deaths=22|time=57|defends=4}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=16|deaths=21|time=28|defends=6}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=14|deaths=18|time=50|defends=6}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=17|deaths=20|time=60|defends=3}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=24|deaths=23|time=41|defends=7}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=OpTic Gaming|team1score=6|team2score=4
-|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=13:5
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=13:05
 |blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=6|deaths=5|plants=3|defuses=0}}
 |blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=5|deaths=7|plants=0|defuses=0}}
 |blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=8|deaths=4|plants=0|defuses=1}}

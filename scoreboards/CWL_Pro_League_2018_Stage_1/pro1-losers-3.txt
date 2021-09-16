@@ -1,36 +1,36 @@
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|FaZe Clan|Team Kaliber|title=World War II|date=2018-04-08|time=1022|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=FaZe Clan|team2=Team Kaliber|team1score=250|team2score=160
+{{ScoreboardWWII/Header|FaZe Clan|Team Kaliber|title=World War II|date=2018-04-08|time=1022|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=FaZe Clan|team2=Team Kaliber|team1score=250|team2score=160
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:34
-|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=35|deaths=33|time=61}}
-|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=34|deaths=25|time=137}}
-|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=37|deaths=29|time=37}}
-|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=38|deaths=32|time=42}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=29|deaths=33|time=46}}
-|red2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=35|deaths=35|time=54}}
-|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=30|deaths=34|time=27}}
-|red4={{Scoreboard/Player|name=Theory|link=Theory|kills=25|deaths=42|time=52}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=35|deaths=33|time=1:01|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=34|deaths=25|time=2:17|defends=2}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=37|deaths=29|time=0:37|defends=3}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=38|deaths=32|time=0:42|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=29|deaths=33|time=0:46|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=35|deaths=35|time=0:54|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=30|deaths=34|time=0:27|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=25|deaths=42|time=0:52|defends=0}}
 }}
-{{Scoreboard|team1=FaZe Clan|team2=Team Kaliber|team1score=6|team2score=5
+{{ScoreboardWWII|team1=FaZe Clan|team2=Team Kaliber|team1score=6|team2score=5
 |gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=7:20
-|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=11|deaths=6|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=6|deaths=7|plants=1|defuses=0}}
-|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=4|deaths=5|plants=0|defuses=0}}
-|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=9|deaths=7|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=5|deaths=7|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=8|deaths=7|plants=0|defuses=0}}
-|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=8|deaths=7|plants=1|defuses=0}}
-|red4={{Scoreboard/Player|name=Theory|link=Theory|kills=4|deaths=9|plants=0|defuses=0}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=11|deaths=6|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=6|deaths=7|plants=1|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=4|deaths=5|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=9|deaths=7|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=5|deaths=7|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=8|deaths=7|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=8|deaths=7|plants=1|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=4|deaths=9|plants=0|defuses=0}}
 }}
-{{Scoreboard|team1=FaZe Clan|team2=Team Kaliber|team1score=4|team2score=3
+{{ScoreboardWWII|team1=FaZe Clan|team2=Team Kaliber|team1score=4|team2score=3
 |gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=11:19
-|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=25|deaths=22|caps=0|returns=0}}
-|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=15|deaths=22|caps=1|returns=2}}
-|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=15|deaths=25|caps=2|returns=3}}
-|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=17|deaths=26|caps=0|returns=0}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=22|deaths=22|caps=0|returns=0}}
-|red2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=29|deaths=15|caps=1|returns=0}}
-|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=23|deaths=14|caps=0|returns=0}}
-|red4={{Scoreboard/Player|name=Theory|link=Theory|kills=21|deaths=21|caps=2|returns=1}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=25|deaths=22|caps=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=15|deaths=22|caps=1|returns=2}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=15|deaths=25|caps=2|returns=3}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=17|deaths=26|caps=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=22|deaths=22|caps=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=29|deaths=15|caps=1|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=23|deaths=14|caps=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=21|deaths=21|caps=2|returns=1}}
 }}
 {{Box|end}}

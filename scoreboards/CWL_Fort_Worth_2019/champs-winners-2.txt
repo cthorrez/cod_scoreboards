@@ -2,19 +2,19 @@
 {{Scoreboard/Header|Enigma6 Group|Luminosity Gaming|title=Black Ops 4|date=2019-03-16|time=1721|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=149|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:41
-|blue1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=21|deaths=28|time=73}}
-|blue2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=18|deaths=29|time=41}}
-|blue3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=21|deaths=26|time=27}}
-|blue4={{Scoreboard/Player|name=General|link=General|kills=23|deaths=28|time=48}}
-|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=20|deaths=33|time=30}}
-|red1={{Scoreboard/Player|name=Classic|link=Classic|kills=32|deaths=22|time=51}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=22|deaths=24|time=27}}
-|red3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=43|deaths=19|time=112}}
-|red4={{Scoreboard/Player|name=John|link=John|kills=19|deaths=21|time=61}}
-|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=28|deaths=17|time=131}}
+|blue1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=21|deaths=28|time=73|defends=7}}
+|blue2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=18|deaths=29|time=41|defends=7}}
+|blue3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=21|deaths=26|time=27|defends=6}}
+|blue4={{Scoreboard/Player|name=General|link=General|kills=23|deaths=28|time=48|defends=8}}
+|blue5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=20|deaths=33|time=30|defends=10}}
+|red1={{Scoreboard/Player|name=Classic|link=Classic|kills=32|deaths=22|time=51|defends=7}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=22|deaths=24|time=27|defends=9}}
+|red3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=43|deaths=19|time=112|defends=19}}
+|red4={{Scoreboard/Player|name=John|link=John|kills=19|deaths=21|time=61|defends=9}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=28|deaths=17|time=131|defends=6}}
 }}
 {{Scoreboard|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=1|team2score=6
-|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=9:6
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=9:06
 |blue1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=4|deaths=6|plants=0|defuses=0}}
 |blue2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=3|deaths=6|plants=0|defuses=0}}
 |blue3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=6|deaths=6|plants=0|defuses=0}}
@@ -44,16 +44,16 @@
 {{Scoreboard/Header|Red Reserve|Splyce|title=Black Ops 4|date=2019-03-16|time=1839|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Red Reserve|team2=Splyce|team1score=218|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:30
-|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=22|deaths=18|time=130}}
-|blue2={{Scoreboard/Player|name=Joee|link=Joee|kills=15|deaths=25|time=37}}
-|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=16|deaths=20|time=36}}
-|blue4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=22|deaths=22|time=44}}
-|blue5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=26|deaths=22|time=88}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=23|deaths=18|time=107}}
-|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=17|deaths=18|time=94}}
-|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=21|deaths=22|time=32}}
-|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=25|deaths=22|time=38}}
-|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=21|deaths=21|time=55}}
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=22|deaths=18|time=130|defends=4}}
+|blue2={{Scoreboard/Player|name=Joee|link=Joee|kills=15|deaths=25|time=37|defends=6}}
+|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=16|deaths=20|time=36|defends=6}}
+|blue4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=22|deaths=22|time=44|defends=5}}
+|blue5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=26|deaths=22|time=88|defends=5}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=23|deaths=18|time=107|defends=7}}
+|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=17|deaths=18|time=94|defends=6}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=21|deaths=22|time=32|defends=6}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=25|deaths=22|time=38|defends=9}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=21|deaths=21|time=55|defends=6}}
 }}
 {{Scoreboard|team1=Red Reserve|team2=Splyce|team1score=2|team2score=6
 |gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=11:26

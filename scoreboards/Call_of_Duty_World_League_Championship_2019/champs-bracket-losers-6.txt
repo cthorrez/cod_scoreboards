@@ -2,16 +2,16 @@
 {{Scoreboard/Header|100 Thieves|OpTic Gaming|title=Black Ops 4|date=2019-08-18|time=1249|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=OpTic Gaming|team1score=250|team2score=210
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:22
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=19|deaths=24|time=63}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=24|deaths=19|time=65}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=21|deaths=19|time=137}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=26|deaths=20|time=35}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=33|deaths=22|time=65}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=19|deaths=24|time=71}}
-|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=22|deaths=26|time=28}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=19|deaths=24|time=83}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=26|deaths=22|time=79}}
-|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=18|deaths=27|time=41}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=19|deaths=24|time=63|defends=4}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=24|deaths=19|time=65|defends=3}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=21|deaths=19|time=137|defends=5}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=26|deaths=20|time=35|defends=2}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=33|deaths=22|time=65|defends=1}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=19|deaths=24|time=71|defends=9}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=22|deaths=26|time=28|defends=9}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=19|deaths=24|time=83|defends=10}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=26|deaths=22|time=79|defends=11}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=18|deaths=27|time=41|defends=6}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=OpTic Gaming|team1score=6|team2score=4
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=14:16
@@ -27,7 +27,7 @@
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=4|deaths=10|plants=0|defuses=0}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=OpTic Gaming|team1score=3|team2score=0
-|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=11:7
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=11:07
 |blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=19|deaths=16|caps=1}}
 |blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=18|deaths=17|caps=1}}
 |blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=13|deaths=16|caps=0}}

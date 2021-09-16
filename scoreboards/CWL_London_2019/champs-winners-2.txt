@@ -1,17 +1,17 @@
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Gen.G|title=Black Ops 4|date=2019-05-04|time=1126|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Gen.G|team1score=172|team2score=250
-|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:8
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=26|deaths=25|time=42}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=26|deaths=31|time=32}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=24|deaths=25|time=92}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=22|deaths=31|time=66}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=27|deaths=31|time=34}}
-|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=26|deaths=26|time=75}}
-|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=25|deaths=27|time=114}}
-|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=32|deaths=26|time=79}}
-|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=31|deaths=24|time=65}}
-|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=29|deaths=24|time=90}}
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:08
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=26|deaths=25|time=42|defends=15}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=26|deaths=31|time=32|defends=12}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=24|deaths=25|time=92|defends=17}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=22|deaths=31|time=66|defends=12}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=27|deaths=31|time=34|defends=11}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=26|deaths=26|time=75|defends=4}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=25|deaths=27|time=114|defends=8}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=32|deaths=26|time=79|defends=10}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=31|deaths=24|time=65|defends=8}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=29|deaths=24|time=90|defends=11}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=Gen.G|team1score=3|team2score=6
 |gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=13:51
@@ -41,16 +41,16 @@
 }}
 {{Scoreboard|team1=100 Thieves|team2=Gen.G|team1score=250|team2score=94
 |gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=7:27
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=15|deaths=9|time=109}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=22|deaths=10|time=70}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=23|deaths=10|time=75}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=13|deaths=15|time=63}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=18|deaths=15|time=88}}
-|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=12|deaths=18|time=10}}
-|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=11|deaths=15|time=13}}
-|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=7|deaths=21|time=8}}
-|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=9|deaths=17|time=50}}
-|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=20|deaths=20|time=25}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=15|deaths=9|time=109|defends=4}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=22|deaths=10|time=70|defends=3}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=23|deaths=10|time=75|defends=1}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=13|deaths=15|time=63|defends=2}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=18|deaths=15|time=88|defends=1}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=12|deaths=18|time=10|defends=5}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=11|deaths=15|time=13|defends=4}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=7|deaths=21|time=8|defends=3}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=9|deaths=17|time=50|defends=4}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=20|deaths=20|time=25|defends=10}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=Gen.G|team1score=6|team2score=4
 |gamename=Game 5|map=Arsenal|gamemode=Search and Destroy|maptime=13:16
@@ -70,16 +70,16 @@
 {{Scoreboard/Header|Team Heretics|OpTic Gaming|title=Black Ops 4|date=2019-05-04|time=1318|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Heretics|team2=OpTic Gaming|team1score=201|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:38
-|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=12|deaths=21|time=53}}
-|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=24|deaths=21|time=60}}
-|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=19|deaths=26|time=15}}
-|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=18|deaths=20|time=52}}
-|blue5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=21|deaths=19|time=121}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=10|deaths=16|time=120}}
-|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=21|deaths=18|time=63}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=19|deaths=21|time=67}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=26|deaths=19|time=37}}
-|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=31|deaths=20|time=70}}
+|blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=12|deaths=21|time=53|defends=6}}
+|blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=24|deaths=21|time=60|defends=6}}
+|blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=19|deaths=26|time=15|defends=3}}
+|blue4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=18|deaths=20|time=52|defends=4}}
+|blue5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=21|deaths=19|time=121|defends=8}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=10|deaths=16|time=120|defends=2}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=21|deaths=18|time=63|defends=7}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=19|deaths=21|time=67|defends=8}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=26|deaths=19|time=37|defends=7}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=31|deaths=20|time=70|defends=9}}
 }}
 {{Scoreboard|team1=Team Heretics|team2=OpTic Gaming|team1score=5|team2score=6
 |gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=15:22
@@ -95,7 +95,7 @@
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=13|deaths=8|plants=1|defuses=1}}
 }}
 {{Scoreboard|team1=Team Heretics|team2=OpTic Gaming|team1score=1|team2score=3
-|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=9:3
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=9:03
 |blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=12|deaths=15|caps=0}}
 |blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=8|deaths=14|caps=0}}
 |blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=13|deaths=18|caps=0}}

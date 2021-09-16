@@ -1,17 +1,17 @@
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|100 Thieves|OpTic Gaming|title=Black Ops 4|date=2019-05-05|time=0626|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=OpTic Gaming|team1score=250|team2score=180
-|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:8
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=20|deaths=20|time=41}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=22|deaths=20|time=56}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=22|deaths=11|time=129}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=21|deaths=17|time=34}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=19|deaths=18|time=80}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=25|deaths=14|time=101}}
-|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=16|deaths=22|time=35}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=14|deaths=25|time=27}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=11|deaths=22|time=24}}
-|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=20|deaths=21|time=61}}
+|gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:08
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=20|deaths=20|time=41|defends=4}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=22|deaths=20|time=56|defends=6}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=22|deaths=11|time=129|defends=4}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=21|deaths=17|time=34|defends=2}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=19|deaths=18|time=80|defends=4}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=25|deaths=14|time=101|defends=7}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=16|deaths=22|time=35|defends=3}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=14|deaths=25|time=27|defends=2}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=11|deaths=22|time=24|defends=2}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=20|deaths=21|time=61|defends=5}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=OpTic Gaming|team1score=1|team2score=6
 |gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=9:54
@@ -41,15 +41,15 @@
 }}
 {{Scoreboard|team1=100 Thieves|team2=OpTic Gaming|team1score=250|team2score=183
 |gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=10:40
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=22|deaths=26|time=48}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=28|deaths=29|time=34}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=30|deaths=18|time=169}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=26|deaths=32|time=51}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=35|deaths=23|time=59}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=18|deaths=25|time=90}}
-|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=34|deaths=27|time=33}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=22|deaths=31|time=41}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=28|deaths=29|time=34}}
-|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=26|deaths=29|time=73}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=22|deaths=26|time=48|defends=9}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=28|deaths=29|time=34|defends=4}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=30|deaths=18|time=169|defends=11}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=26|deaths=32|time=51|defends=8}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=35|deaths=23|time=59|defends=7}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=18|deaths=25|time=90|defends=5}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=34|deaths=27|time=33|defends=11}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=22|deaths=31|time=41|defends=6}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=28|deaths=29|time=34|defends=3}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=26|deaths=29|time=73|defends=4}}
 }}
 {{Box|end}}

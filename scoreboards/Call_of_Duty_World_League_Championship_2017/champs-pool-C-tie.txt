@@ -1,42 +1,42 @@
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Lethal Gaming|Team infused|title=Infinite Warfare|date=2017-08-10|time=1451|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Lethal Gaming|team2=Team infused|team1score=1|team2score=6
+{{ScoreboardIW/Header|Lethal Gaming|Team infused|title=Infinite Warfare|date=2017-08-10|time=1451|timezone=PST|dst=Yes}}
+{{ScoreboardIW|team1=Lethal Gaming|team2=Team infused|team1score=1|team2score=6
 |gamename=Game 1|map=Retaliation|gamemode=Search and Destroy|maptime=10:14
-|blue1={{Scoreboard/Player|name=Hate|link=Hate|kills=6|deaths=6|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=4|deaths=6|plants=0|defuses=0}}
-|blue3={{Scoreboard/Player|name=JuJu|link=JuJu|kills=2|deaths=7|plants=2|defuses=0}}
-|blue4={{Scoreboard/Player|name=KlinK|link=KlinK|kills=3|deaths=6|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=3|deaths=4|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=11|deaths=3|plants=2|defuses=1}}
-|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=5|deaths=5|plants=0|defuses=1}}
-|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=6|deaths=3|plants=0|defuses=0}}
+|blue1={{ScoreboardIW/Player|name=Hate|link=Hate|kills=6|deaths=6|plants=0|defuses=0|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=HumanJesus|link=HumanJesus|kills=4|deaths=6|plants=0|defuses=0|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=JuJu|link=JuJu|kills=2|deaths=7|plants=2|defuses=0|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=KlinK|link=KlinK|kills=3|deaths=6|plants=0|defuses=0|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=Alexx|link=Alexx|kills=3|deaths=4|plants=0|defuses=0|icon=Reactive Armor}}
+|purple2={{ScoreboardIW/Player|name=Niall|link=Niall|kills=11|deaths=3|plants=2|defuses=1|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Nolson|link=Nolson|kills=5|deaths=5|plants=0|defuses=1|icon=Centurion}}
+|purple4={{ScoreboardIW/Player|name=Deleo|link=Deleo|kills=6|deaths=3|plants=0|defuses=0|icon=FTL Jump}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Mindfreak|Team infused|title=Infinite Warfare|date=2017-08-10|time=1520|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Mindfreak|team2=Team infused|team1score=4|team2score=6
+{{ScoreboardIW/Header|Mindfreak|Team infused|title=Infinite Warfare|date=2017-08-10|time=1520|timezone=PST|dst=Yes}}
+{{ScoreboardIW|team1=Mindfreak|team2=Team infused|team1score=4|team2score=6
 |gamename=Game 1|map=Retaliation|gamemode=Search and Destroy|maptime=14:23
-|blue1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=8|deaths=7|plants=2|defuses=1}}
-|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=6|deaths=9|plants=0|defuses=0}}
-|blue3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=4|deaths=7|plants=0|defuses=0}}
-|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=4|deaths=9|plants=2|defuses=0}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=6|deaths=6|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=5|deaths=7|plants=2|defuses=0}}
-|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=10|deaths=5|plants=0|defuses=2}}
-|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=11|deaths=4|plants=0|defuses=1}}
+|blue1={{ScoreboardIW/Player|name=BuZZO|link=BuZZO|kills=8|deaths=7|plants=2|defuses=1|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=Denz|link=Denz|kills=6|deaths=9|plants=0|defuses=0|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=Fighta|link=Fighta|kills=4|deaths=7|plants=0|defuses=0|icon=Reactive Armor}}
+|blue4={{ScoreboardIW/Player|name=Shockz|link=Shockz|kills=4|deaths=9|plants=2|defuses=0|icon=Active Camo}}
+|purple1={{ScoreboardIW/Player|name=Alexx|link=Alexx|kills=6|deaths=6|plants=0|defuses=0|icon=Reactive Armor}}
+|purple2={{ScoreboardIW/Player|name=Niall|link=Niall|kills=5|deaths=7|plants=2|defuses=0|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Nolson|link=Nolson|kills=10|deaths=5|plants=0|defuses=2|icon=Centurion}}
+|purple4={{ScoreboardIW/Player|name=Deleo|link=Deleo|kills=11|deaths=4|plants=0|defuses=1|icon=FTL Jump}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Lethal Gaming|Mindfreak|title=Infinite Warfare|date=2017-08-10|time=1549|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Lethal Gaming|team2=Mindfreak|team1score=2|team2score=6
+{{ScoreboardIW/Header|Lethal Gaming|Mindfreak|title=Infinite Warfare|date=2017-08-10|time=1549|timezone=PST|dst=Yes}}
+{{ScoreboardIW|team1=Lethal Gaming|team2=Mindfreak|team1score=2|team2score=6
 |gamename=Game 1|map=Retaliation|gamemode=Search and Destroy|maptime=9:28
-|blue1={{Scoreboard/Player|name=Hate|link=Hate|kills=5|deaths=7|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=6|deaths=6|plants=0|defuses=1}}
-|blue3={{Scoreboard/Player|name=JuJu|link=JuJu|kills=3|deaths=6|plants=3|defuses=0}}
-|blue4={{Scoreboard/Player|name=KlinK|link=KlinK|kills=3|deaths=7|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=2|deaths=5|plants=1|defuses=0}}
-|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=6|deaths=3|plants=0|defuses=1}}
-|red3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=7|deaths=3|plants=0|defuses=1}}
-|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=11|deaths=6|plants=3|defuses=0}}
+|blue1={{ScoreboardIW/Player|name=Hate|link=Hate|kills=5|deaths=7|plants=0|defuses=0|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=HumanJesus|link=HumanJesus|kills=6|deaths=6|plants=0|defuses=1|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=JuJu|link=JuJu|kills=3|deaths=6|plants=3|defuses=0|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=KlinK|link=KlinK|kills=3|deaths=7|plants=0|defuses=0|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=BuZZO|link=BuZZO|kills=2|deaths=5|plants=1|defuses=0|icon=Centurion}}
+|purple2={{ScoreboardIW/Player|name=Denz|link=Denz|kills=6|deaths=3|plants=0|defuses=1|icon=FTL Jump}}
+|purple3={{ScoreboardIW/Player|name=Fighta|link=Fighta|kills=7|deaths=3|plants=0|defuses=1|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Shockz|link=Shockz|kills=11|deaths=6|plants=3|defuses=0|icon=Active Camo}}
 }}
 {{Box|end}}

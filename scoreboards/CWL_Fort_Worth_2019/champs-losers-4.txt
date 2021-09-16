@@ -2,16 +2,16 @@
 {{Scoreboard/Header|100 Thieves|Team Heretics|title=Black Ops 4|date=2019-03-16|time=1735|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Team Heretics|team1score=250|team2score=121
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:15
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=7|deaths=14|time=87}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=25|deaths=12|time=33}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=28|deaths=8|time=152}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=21|deaths=18|time=32}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=20|deaths=14|time=26}}
-|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=12|deaths=19|time=41}}
-|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=12|deaths=20|time=59}}
-|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=10|deaths=21|time=12}}
-|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=20|deaths=19|time=23}}
-|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=12|deaths=22|time=23}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=7|deaths=14|time=87|defends=3}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=25|deaths=12|time=33|defends=1}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=28|deaths=8|time=152|defends=6}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=21|deaths=18|time=32|defends=2}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=20|deaths=14|time=26|defends=4}}
+|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=12|deaths=19|time=41|defends=6}}
+|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=12|deaths=20|time=59|defends=3}}
+|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=10|deaths=21|time=12|defends=5}}
+|red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=20|deaths=19|time=23|defends=6}}
+|red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=12|deaths=22|time=23|defends=5}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=Team Heretics|team1score=6|team2score=4
 |gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=13:34
@@ -27,7 +27,7 @@
 |red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=5|deaths=8|plants=1|defuses=0}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=Team Heretics|team1score=3|team2score=0
-|gamename=Game 3|map=Frequency|gamemode=Control|maptime=9:1
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=9:01
 |blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=14|deaths=13|caps=1}}
 |blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=21|deaths=10|caps=1}}
 |blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=15|deaths=9|caps=2}}
@@ -44,16 +44,16 @@
 {{Scoreboard/Header|Gen.G|Team Reciprocity|title=Black Ops 4|date=2019-03-16|time=1843|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Gen.G|team2=Team Reciprocity|team1score=250|team2score=163
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:48
-|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=33|deaths=14|time=80}}
-|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=25|deaths=14|time=27}}
-|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=14|deaths=18|time=72}}
-|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=16|deaths=9|time=103}}
-|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=19|deaths=16|time=77}}
-|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=15|deaths=17|time=52}}
-|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=19|deaths=22|time=44}}
-|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=10|deaths=23|time=28}}
-|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=12|deaths=24|time=47}}
-|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=15|deaths=21|time=45}}
+|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=33|deaths=14|time=80|defends=4}}
+|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=25|deaths=14|time=27|defends=8}}
+|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=14|deaths=18|time=72|defends=1}}
+|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=16|deaths=9|time=103|defends=2}}
+|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=19|deaths=16|time=77|defends=8}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=15|deaths=17|time=52|defends=4}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=19|deaths=22|time=44|defends=3}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=10|deaths=23|time=28|defends=1}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=12|deaths=24|time=47|defends=2}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=15|deaths=21|time=45|defends=2}}
 }}
 {{Scoreboard|team1=Gen.G|team2=Team Reciprocity|team1score=4|team2score=6
 |gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=14:31
@@ -83,19 +83,19 @@
 }}
 {{Scoreboard|team1=Gen.G|team2=Team Reciprocity|team1score=250|team2score=194
 |gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=9:42
-|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=17|deaths=18|time=63}}
-|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=28|deaths=24|time=67}}
-|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=21|deaths=19|time=46}}
-|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=22|deaths=16|time=79}}
-|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=19|deaths=19|time=65}}
-|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=26|deaths=22|time=34}}
-|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=19|deaths=20|time=36}}
-|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=14|deaths=22|time=61}}
-|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=18|deaths=25|time=81}}
-|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=19|deaths=18|time=29}}
+|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=17|deaths=18|time=63|defends=4}}
+|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=28|deaths=24|time=67|defends=8}}
+|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=21|deaths=19|time=46|defends=6}}
+|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=22|deaths=16|time=79|defends=10}}
+|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=19|deaths=19|time=65|defends=6}}
+|red1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=26|deaths=22|time=34|defends=4}}
+|red2={{Scoreboard/Player|name=Seany|link=Seany|kills=19|deaths=20|time=36|defends=6}}
+|red3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=14|deaths=22|time=61|defends=4}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=18|deaths=25|time=81|defends=4}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=19|deaths=18|time=29|defends=3}}
 }}
 {{Scoreboard|team1=Gen.G|team2=Team Reciprocity|team1score=5|team2score=6
-|gamename=Game 5|map=Frequency|gamemode=Search and Destroy|maptime=17:1
+|gamename=Game 5|map=Frequency|gamemode=Search and Destroy|maptime=17:01
 |blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=9|deaths=6|plants=0|defuses=1}}
 |blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=12|deaths=8|plants=0|defuses=0}}
 |blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=6|deaths=8|plants=0|defuses=1}}

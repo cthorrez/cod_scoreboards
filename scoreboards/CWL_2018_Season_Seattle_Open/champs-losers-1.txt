@@ -1,177 +1,177 @@
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Cyclone EU|EZG.Blue|title=World War II|date=2018-04-21|time=1949|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Cyclone EU|team2=EZG.Blue|team1score=229|team2score=250
+{{ScoreboardWWII/Header|Cyclone EU|EZG.Blue|title=World War II|date=2018-04-21|time=1949|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Cyclone EU|team2=EZG.Blue|team1score=229|team2score=250
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=9:55
-|blue1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=27|deaths=19|time=68}}
-|blue2={{Scoreboard/Player|name=Peatie|link=Peatie|kills=28|deaths=28|time=97}}
-|blue3={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=24|deaths=24|time=80}}
-|blue4={{Scoreboard/Player|name=Zed|link=Zed|kills=16|deaths=24|time=53}}
-|red1={{Scoreboard/Player|name=Evasion|link=Evasion|kills=21|deaths=21|time=101}}
-|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=26|deaths=24|time=38}}
-|red3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=21|deaths=27|time=75}}
-|red4={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=27|deaths=23|time=130}}
+|blue1={{ScoreboardWWII/Player|name=Braaain|link=Braaain|kills=27|deaths=19|time=1:08|defends=2}}
+|blue2={{ScoreboardWWII/Player|name=Peatie|link=Peatie|kills=28|deaths=28|time=1:37|defends=2}}
+|blue3={{ScoreboardWWII/Player|name=QwiKeR|link=QwiKeR|kills=24|deaths=24|time=1:20|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=16|deaths=24|time=0:53|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Evasion|link=Evasion|kills=21|deaths=21|time=1:41|defends=2}}
+|purple2={{ScoreboardWWII/Player|name=LlamaGod|link=LlamaGod|kills=26|deaths=24|time=0:38|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Hollow|link=Hollow|kills=21|deaths=27|time=1:15|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Parzelion|link=Parzelion|kills=27|deaths=23|time=2:10|defends=2}}
 }}
-{{Scoreboard|team1=Cyclone EU|team2=EZG.Blue|team1score=5|team2score=6
+{{ScoreboardWWII|team1=Cyclone EU|team2=EZG.Blue|team1score=5|team2score=6
 |gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=9:40
-|blue1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=5|deaths=8|plants=3|defuses=0}}
-|blue2={{Scoreboard/Player|name=Peatie|link=Peatie|kills=6|deaths=9|plants=0|defuses=1}}
-|blue3={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=10|deaths=7|plants=0|defuses=0}}
-|blue4={{Scoreboard/Player|name=Zed|link=Zed|kills=9|deaths=8|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=Evasion|link=Evasion|kills=10|deaths=7|plants=0|defuses=2}}
-|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=11|deaths=7|plants=1|defuses=0}}
-|red3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=5|deaths=8|plants=0|defuses=0}}
-|red4={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=6|deaths=8|plants=2|defuses=0}}
+|blue1={{ScoreboardWWII/Player|name=Braaain|link=Braaain|kills=5|deaths=8|plants=3|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Peatie|link=Peatie|kills=6|deaths=9|plants=0|defuses=1}}
+|blue3={{ScoreboardWWII/Player|name=QwiKeR|link=QwiKeR|kills=10|deaths=7|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=9|deaths=8|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Evasion|link=Evasion|kills=10|deaths=7|plants=0|defuses=2}}
+|purple2={{ScoreboardWWII/Player|name=LlamaGod|link=LlamaGod|kills=11|deaths=7|plants=1|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Hollow|link=Hollow|kills=5|deaths=8|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Parzelion|link=Parzelion|kills=6|deaths=8|plants=2|defuses=0}}
 }}
-{{Scoreboard|team1=Cyclone EU|team2=EZG.Blue|team1score=1|team2score=0
+{{ScoreboardWWII|team1=Cyclone EU|team2=EZG.Blue|team1score=1|team2score=0
 |gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=9:59
-|blue1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=18|deaths=13|caps=0|returns=0}}
-|blue2={{Scoreboard/Player|name=Peatie|link=Peatie|kills=14|deaths=16|caps=1|returns=0}}
-|blue3={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=17|deaths=17|caps=0|returns=1}}
-|blue4={{Scoreboard/Player|name=Zed|link=Zed|kills=18|deaths=17|caps=0|returns=0}}
-|red1={{Scoreboard/Player|name=Evasion|link=Evasion|kills=13|deaths=17|caps=0|returns=0}}
-|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=18|deaths=14|caps=0|returns=2}}
-|red3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=13|deaths=18|caps=0|returns=0}}
-|red4={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=19|deaths=18|caps=0|returns=1}}
+|blue1={{ScoreboardWWII/Player|name=Braaain|link=Braaain|kills=18|deaths=13|caps=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Peatie|link=Peatie|kills=14|deaths=16|caps=1|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=QwiKeR|link=QwiKeR|kills=17|deaths=17|caps=0|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=18|deaths=17|caps=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Evasion|link=Evasion|kills=13|deaths=17|caps=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=LlamaGod|link=LlamaGod|kills=18|deaths=14|caps=0|returns=2}}
+|purple3={{ScoreboardWWII/Player|name=Hollow|link=Hollow|kills=13|deaths=18|caps=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Parzelion|link=Parzelion|kills=19|deaths=18|caps=0|returns=1}}
 }}
-{{Scoreboard|team1=Cyclone EU|team2=EZG.Blue|team1score=250|team2score=189
+{{ScoreboardWWII|team1=Cyclone EU|team2=EZG.Blue|team1score=250|team2score=189
 |gamename=Game 4|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=9:33
-|blue1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=19|deaths=16|time=49}}
-|blue2={{Scoreboard/Player|name=Peatie|link=Peatie|kills=27|deaths=26|time=138}}
-|blue3={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=22|deaths=28|time=70}}
-|blue4={{Scoreboard/Player|name=Zed|link=Zed|kills=29|deaths=26|time=68}}
-|red1={{Scoreboard/Player|name=Evasion|link=Evasion|kills=19|deaths=28|time=41}}
-|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=32|deaths=19|time=24}}
-|red3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=19|deaths=26|time=66}}
-|red4={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=26|deaths=24|time=88}}
+|blue1={{ScoreboardWWII/Player|name=Braaain|link=Braaain|kills=19|deaths=16|time=0:49|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Peatie|link=Peatie|kills=27|deaths=26|time=2:18|defends=3}}
+|blue3={{ScoreboardWWII/Player|name=QwiKeR|link=QwiKeR|kills=22|deaths=28|time=1:10|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=29|deaths=26|time=1:08|defends=2}}
+|purple1={{ScoreboardWWII/Player|name=Evasion|link=Evasion|kills=19|deaths=28|time=0:41|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=LlamaGod|link=LlamaGod|kills=32|deaths=19|time=0:24|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Hollow|link=Hollow|kills=19|deaths=26|time=1:06|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Parzelion|link=Parzelion|kills=26|deaths=24|time=1:28|defends=3}}
 }}
-{{Scoreboard|team1=Cyclone EU|team2=EZG.Blue|team1score=6|team2score=4
+{{ScoreboardWWII|team1=Cyclone EU|team2=EZG.Blue|team1score=6|team2score=4
 |gamename=Game 5|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=9:30
-|blue1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=8|deaths=5|plants=0|defuses=1}}
-|blue2={{Scoreboard/Player|name=Peatie|link=Peatie|kills=9|deaths=6|plants=0|defuses=1}}
-|blue3={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=5|deaths=7|plants=0|defuses=0}}
-|blue4={{Scoreboard/Player|name=Zed|link=Zed|kills=8|deaths=5|plants=3|defuses=0}}
-|red1={{Scoreboard/Player|name=Evasion|link=Evasion|kills=9|deaths=7|plants=1|defuses=0}}
-|red2={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=5|deaths=9|plants=2|defuses=0}}
-|red3={{Scoreboard/Player|name=Hollow|link=Hollow|kills=6|deaths=7|plants=0|defuses=1}}
-|red4={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=3|deaths=7|plants=0|defuses=0}}
+|blue1={{ScoreboardWWII/Player|name=Braaain|link=Braaain|kills=8|deaths=5|plants=0|defuses=1}}
+|blue2={{ScoreboardWWII/Player|name=Peatie|link=Peatie|kills=9|deaths=6|plants=0|defuses=1}}
+|blue3={{ScoreboardWWII/Player|name=QwiKeR|link=QwiKeR|kills=5|deaths=7|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=8|deaths=5|plants=3|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Evasion|link=Evasion|kills=9|deaths=7|plants=1|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=LlamaGod|link=LlamaGod|kills=5|deaths=9|plants=2|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Hollow|link=Hollow|kills=6|deaths=7|plants=0|defuses=1}}
+|purple4={{ScoreboardWWII/Player|name=Parzelion|link=Parzelion|kills=3|deaths=7|plants=0|defuses=0}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Nordic|Tainted Minds|title=World War II|date=2018-04-21|time=1953|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Nordic|team2=Tainted Minds|team1score=250|team2score=46
+{{ScoreboardWWII/Header|Nordic|Tainted Minds|title=World War II|date=2018-04-21|time=1953|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Nordic|team2=Tainted Minds|team1score=250|team2score=46
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=6:44
-|blue1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=24|deaths=15|time=51}}
-|blue2={{Scoreboard/Player|name=Cammy|link=Cammy|kills=25|deaths=14|time=71}}
-|blue3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=15|deaths=15|time=69}}
-|blue4={{Scoreboard/Player|name=Nevo|link=Nevo|kills=13|deaths=10|time=90}}
-|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=16|deaths=14|time=13}}
-|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=14|deaths=23|time=1}}
-|red3={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=10|deaths=22|time=5}}
-|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=14|deaths=18|time=27}}
+|blue1={{ScoreboardWWII/Player|name=Bidz|link=Bidz|kills=24|deaths=15|time=0:51|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Cammy|link=Cammy|kills=25|deaths=14|time=1:11|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=EndurAAA|link=EndurAAA|kills=15|deaths=15|time=1:09|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Nevo|link=Nevo|kills=13|deaths=10|time=1:30|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Damage|link=Damage|kills=16|deaths=14|time=0:13|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Nimble|link=Nimble|kills=14|deaths=23|time=0:01|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=10|deaths=22|time=0:05|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=14|deaths=18|time=0:27|defends=0}}
 }}
-{{Scoreboard|team1=Nordic|team2=Tainted Minds|team1score=6|team2score=3
-|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=9:2
-|blue1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=11|deaths=6|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=Cammy|link=Cammy|kills=4|deaths=7|plants=2|defuses=1}}
-|blue3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=4|deaths=6|plants=1|defuses=0}}
-|blue4={{Scoreboard/Player|name=Nevo|link=Nevo|kills=9|deaths=5|plants=1|defuses=0}}
-|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=3|deaths=7|plants=1|defuses=0}}
-|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=11|deaths=5|plants=2|defuses=1}}
-|red3={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=6|deaths=7|plants=0|defuses=0}}
-|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=4|deaths=9|plants=0|defuses=0}}
+{{ScoreboardWWII|team1=Nordic|team2=Tainted Minds|team1score=6|team2score=3
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=9:02
+|blue1={{ScoreboardWWII/Player|name=Bidz|link=Bidz|kills=11|deaths=6|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Cammy|link=Cammy|kills=4|deaths=7|plants=2|defuses=1}}
+|blue3={{ScoreboardWWII/Player|name=EndurAAA|link=EndurAAA|kills=4|deaths=6|plants=1|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Nevo|link=Nevo|kills=9|deaths=5|plants=1|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Damage|link=Damage|kills=3|deaths=7|plants=1|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Nimble|link=Nimble|kills=11|deaths=5|plants=2|defuses=1}}
+|purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=6|deaths=7|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=4|deaths=9|plants=0|defuses=0}}
 }}
-{{Scoreboard|team1=Nordic|team2=Tainted Minds|team1score=2|team2score=1
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:0
-|blue1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=17|deaths=14|caps=0|returns=1}}
-|blue2={{Scoreboard/Player|name=Cammy|link=Cammy|kills=23|deaths=13|caps=1|returns=1}}
-|blue3={{Scoreboard/Player|name=EndurAAA|link=EndurAAA|kills=8|deaths=12|caps=0|returns=0}}
-|blue4={{Scoreboard/Player|name=Nevo|link=Nevo|kills=15|deaths=11|caps=1|returns=1}}
-|red1={{Scoreboard/Player|name=Damage|link=Damage|kills=11|deaths=11|caps=0|returns=0}}
-|red2={{Scoreboard/Player|name=Nimble|link=Nimble|kills=12|deaths=18|caps=1|returns=1}}
-|red3={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=16|deaths=16|caps=0|returns=0}}
-|red4={{Scoreboard/Player|name=Swifty|link=Swifty|kills=11|deaths=18|caps=0|returns=0}}
+{{ScoreboardWWII|team1=Nordic|team2=Tainted Minds|team1score=2|team2score=1
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|blue1={{ScoreboardWWII/Player|name=Bidz|link=Bidz|kills=17|deaths=14|caps=0|returns=1}}
+|blue2={{ScoreboardWWII/Player|name=Cammy|link=Cammy|kills=23|deaths=13|caps=1|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=EndurAAA|link=EndurAAA|kills=8|deaths=12|caps=0|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Nevo|link=Nevo|kills=15|deaths=11|caps=1|returns=1}}
+|purple1={{ScoreboardWWII/Player|name=Damage|link=Damage|kills=11|deaths=11|caps=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Nimble|link=Nimble|kills=12|deaths=18|caps=1|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=16|deaths=16|caps=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=11|deaths=18|caps=0|returns=0}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|GGEA Orange|Luminosity Gaming|title=World War II|date=2018-04-21|time=2005|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=GGEA Orange|team2=Luminosity Gaming|team1score=123|team2score=250
+{{ScoreboardWWII/Header|GGEA Orange|Luminosity Gaming|title=World War II|date=2018-04-21|time=2005|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=GGEA Orange|team2=Luminosity Gaming|team1score=123|team2score=250
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=10:23
-|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=24|deaths=28|time=44}}
-|blue2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=16|deaths=26|time=39}}
-|blue3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=16|deaths=27|time=6}}
-|blue4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=26|deaths=24|time=35}}
-|red1={{Scoreboard/Player|name=JKap|link=JKap|kills=36|deaths=15|time=91}}
-|red2={{Scoreboard/Player|name=John|link=John|kills=24|deaths=25|time=51}}
-|red3={{Scoreboard/Player|name=Octane|link=Octane|kills=27|deaths=19|time=96}}
-|red4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=18|deaths=23|time=33}}
+|blue1={{ScoreboardWWII/Player|name=Believe|link=Believe|kills=24|deaths=28|time=0:44|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Mayhem|link=Mayhem|kills=16|deaths=26|time=0:39|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Nova|link=Nova (Dakota Williams)|kills=16|deaths=27|time=0:06|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Spoof|link=Spoof|kills=26|deaths=24|time=0:35|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=36|deaths=15|time=1:31|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=John|link=John|kills=24|deaths=25|time=0:51|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=27|deaths=19|time=1:36|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=18|deaths=23|time=0:33|defends=1}}
 }}
-{{Scoreboard|team1=GGEA Orange|team2=Luminosity Gaming|team1score=3|team2score=6
+{{ScoreboardWWII|team1=GGEA Orange|team2=Luminosity Gaming|team1score=3|team2score=6
 |gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=6:56
-|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=8|deaths=7|plants=0|defuses=1}}
-|blue2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=7|deaths=6|plants=0|defuses=0}}
-|blue3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=4|deaths=8|plants=1|defuses=0}}
-|blue4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=2|deaths=8|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=JKap|link=JKap|kills=5|deaths=6|plants=1|defuses=0}}
-|red2={{Scoreboard/Player|name=John|link=John|kills=11|deaths=7|plants=0|defuses=0}}
-|red3={{Scoreboard/Player|name=Octane|link=Octane|kills=5|deaths=4|plants=0|defuses=0}}
-|red4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=8|deaths=4|plants=0|defuses=1}}
+|blue1={{ScoreboardWWII/Player|name=Believe|link=Believe|kills=8|deaths=7|plants=0|defuses=1}}
+|blue2={{ScoreboardWWII/Player|name=Mayhem|link=Mayhem|kills=7|deaths=6|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Nova|link=Nova (Dakota Williams)|kills=4|deaths=8|plants=1|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Spoof|link=Spoof|kills=2|deaths=8|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=5|deaths=6|plants=1|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=John|link=John|kills=11|deaths=7|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=5|deaths=4|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=8|deaths=4|plants=0|defuses=1}}
 }}
-{{Scoreboard|team1=GGEA Orange|team2=Luminosity Gaming|team1score=2|team2score=5
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:8
-|blue1={{Scoreboard/Player|name=Believe|link=Believe|kills=14|deaths=16|caps=0|returns=1}}
-|blue2={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=13|deaths=16|caps=1|returns=1}}
-|blue3={{Scoreboard/Player|name=Nova|link=Nova (Dakota Williams)|kills=11|deaths=19|caps=1|returns=0}}
-|blue4={{Scoreboard/Player|name=Spoof|link=Spoof|kills=13|deaths=20|caps=0|returns=0}}
-|red1={{Scoreboard/Player|name=JKap|link=JKap|kills=16|deaths=10|caps=0|returns=0}}
-|red2={{Scoreboard/Player|name=John|link=John|kills=20|deaths=11|caps=4|returns=0}}
-|red3={{Scoreboard/Player|name=Octane|link=Octane|kills=16|deaths=14|caps=0|returns=0}}
-|red4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=19|deaths=16|caps=1|returns=2}}
+{{ScoreboardWWII|team1=GGEA Orange|team2=Luminosity Gaming|team1score=2|team2score=5
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:08
+|blue1={{ScoreboardWWII/Player|name=Believe|link=Believe|kills=14|deaths=16|caps=0|returns=1}}
+|blue2={{ScoreboardWWII/Player|name=Mayhem|link=Mayhem|kills=13|deaths=16|caps=1|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=Nova|link=Nova (Dakota Williams)|kills=11|deaths=19|caps=1|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Spoof|link=Spoof|kills=13|deaths=20|caps=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=16|deaths=10|caps=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=John|link=John|kills=20|deaths=11|caps=4|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=16|deaths=14|caps=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=19|deaths=16|caps=1|returns=2}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Epsilon Esports EU|Team Heretics|title=World War II|date=2018-04-21|time=2014|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Epsilon Esports EU|team2=Team Heretics|team1score=192|team2score=250
+{{ScoreboardWWII/Header|Epsilon Esports EU|Team Heretics|title=World War II|date=2018-04-21|time=2014|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Epsilon Esports EU|team2=Team Heretics|team1score=192|team2score=250
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=11:22
-|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=29|deaths=24|time=41}}
-|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=22|deaths=26|time=8}}
-|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=23|deaths=25|time=64}}
-|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=22|deaths=31|time=85}}
-|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=28|deaths=24|time=39}}
-|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=24|deaths=20|time=128}}
-|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=30|deaths=26|time=122}}
-|red4={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=24|deaths=26|time=30}}
+|blue1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=29|deaths=24|time=0:41|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=22|deaths=26|time=0:08|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=23|deaths=25|time=1:04|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=22|deaths=31|time=1:25|defends=3}}
+|purple1={{ScoreboardWWII/Player|name=JurNii|link=JurNii|kills=28|deaths=24|time=0:39|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=24|deaths=20|time=2:08|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=30|deaths=26|time=2:02|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=24|deaths=26|time=0:30|defends=1}}
 }}
-{{Scoreboard|team1=Epsilon Esports EU|team2=Team Heretics|team1score=6|team2score=5
+{{ScoreboardWWII|team1=Epsilon Esports EU|team2=Team Heretics|team1score=6|team2score=5
 |gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=12:22
-|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=9|deaths=7|plants=0|defuses=1}}
-|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=5|deaths=6|plants=0|defuses=0}}
-|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=6|deaths=8|plants=1|defuses=0}}
-|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=7|deaths=7|plants=3|defuses=0}}
-|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=6|deaths=7|plants=1|defuses=0}}
-|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=7|deaths=7|plants=1|defuses=0}}
-|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=10|deaths=7|plants=2|defuses=0}}
-|red4={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=5|deaths=6|plants=0|defuses=0}}
+|blue1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=9|deaths=7|plants=0|defuses=1}}
+|blue2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=5|deaths=6|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=6|deaths=8|plants=1|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=7|deaths=7|plants=3|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=JurNii|link=JurNii|kills=6|deaths=7|plants=1|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=7|deaths=7|plants=1|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=10|deaths=7|plants=2|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=5|deaths=6|plants=0|defuses=0}}
 }}
-{{Scoreboard|team1=Epsilon Esports EU|team2=Team Heretics|team1score=2|team2score=3
+{{ScoreboardWWII|team1=Epsilon Esports EU|team2=Team Heretics|team1score=2|team2score=3
 |gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=11:49
-|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=20|deaths=19|caps=1|returns=0}}
-|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=21|deaths=19|caps=0|returns=0}}
-|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=14|deaths=20|caps=1|returns=0}}
-|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=18|deaths=24|caps=0|returns=1}}
-|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=24|deaths=20|caps=1|returns=1}}
-|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=19|deaths=14|caps=0|returns=1}}
-|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=21|deaths=19|caps=0|returns=1}}
-|red4={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=18|deaths=20|caps=2|returns=1}}
+|blue1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=20|deaths=19|caps=1|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=21|deaths=19|caps=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=14|deaths=20|caps=1|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=18|deaths=24|caps=0|returns=1}}
+|purple1={{ScoreboardWWII/Player|name=JurNii|link=JurNii|kills=24|deaths=20|caps=1|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=19|deaths=14|caps=0|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=21|deaths=19|caps=0|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=18|deaths=20|caps=2|returns=1}}
 }}
-{{Scoreboard|team1=Epsilon Esports EU|team2=Team Heretics|team1score=187|team2score=250
+{{ScoreboardWWII|team1=Epsilon Esports EU|team2=Team Heretics|team1score=187|team2score=250
 |gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=8:59
-|blue1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=19|deaths=22|time=56}}
-|blue2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=17|deaths=28|time=7}}
-|blue3={{Scoreboard/Player|name=Reedy|link=Reedy|kills=28|deaths=14|time=91}}
-|blue4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=19|deaths=26|time=69}}
-|red1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=25|deaths=23|time=116}}
-|red2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=19|deaths=21|time=60}}
-|red3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=25|deaths=18|time=37}}
-|red4={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=21|deaths=21|time=114}}
+|blue1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=19|deaths=22|time=0:56|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=17|deaths=28|time=0:07|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=28|deaths=14|time=1:31|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=19|deaths=26|time=1:09|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=JurNii|link=JurNii|kills=25|deaths=23|time=1:56|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=19|deaths=21|time=1:00|defends=2}}
+|purple3={{ScoreboardWWII/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=25|deaths=18|time=0:37|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=21|deaths=21|time=1:54|defends=1}}
 }}
 {{Box|end}}

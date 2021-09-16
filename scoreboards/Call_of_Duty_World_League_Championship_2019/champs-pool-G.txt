@@ -2,16 +2,16 @@
 {{Scoreboard/Header|OpTic Gaming|TrainHard Esport|title=Black Ops 4|date=2019-08-14|time=1424|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=OpTic Gaming|team2=TrainHard Esport|team1score=250|team2score=152
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:15
-|blue1={{Scoreboard/Player|name=C6|link=C6|kills=21|deaths=21|time=45}}
-|blue2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=24|deaths=18|time=68}}
-|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=28|deaths=21|time=67}}
-|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=19|deaths=19|time=61}}
-|blue5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=35|deaths=18|time=83}}
-|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=11|deaths=25|time=45}}
-|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=13|deaths=25|time=56}}
-|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=23|deaths=26|time=39}}
-|red4={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=24|deaths=27|time=74}}
-|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=26|deaths=24|time=53}}
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=21|deaths=21|time=45|defends=7}}
+|blue2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=24|deaths=18|time=68|defends=6}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=28|deaths=21|time=67|defends=13}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=19|deaths=19|time=61|defends=8}}
+|blue5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=35|deaths=18|time=83|defends=10}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=11|deaths=25|time=45|defends=3}}
+|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=13|deaths=25|time=56|defends=3}}
+|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=23|deaths=26|time=39|defends=4}}
+|red4={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=24|deaths=27|time=74|defends=7}}
+|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=26|deaths=24|time=53|defends=3}}
 }}
 {{Scoreboard|team1=OpTic Gaming|team2=TrainHard Esport|team1score=4|team2score=6
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=13:44
@@ -41,32 +41,32 @@
 }}
 {{Scoreboard|team1=OpTic Gaming|team2=TrainHard Esport|team1score=250|team2score=194
 |gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=10:53
-|blue1={{Scoreboard/Player|name=C6|link=C6|kills=30|deaths=13|time=62}}
-|blue2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=29|deaths=21|time=75}}
-|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=30|deaths=21|time=127}}
-|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=26|deaths=28|time=38}}
-|blue5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=26|deaths=27|time=42}}
-|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=20|deaths=30|time=77}}
-|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=20|deaths=27|time=78}}
-|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=22|deaths=25|time=60}}
-|red4={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=25|deaths=34|time=29}}
-|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=23|deaths=26|time=59}}
+|blue1={{Scoreboard/Player|name=C6|link=C6|kills=30|deaths=13|time=62|defends=8}}
+|blue2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=29|deaths=21|time=75|defends=3}}
+|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=30|deaths=21|time=127|defends=7}}
+|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=26|deaths=28|time=38|defends=3}}
+|blue5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=26|deaths=27|time=42|defends=6}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=20|deaths=30|time=77|defends=5}}
+|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=20|deaths=27|time=78|defends=9}}
+|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=22|deaths=25|time=60|defends=6}}
+|red4={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=25|deaths=34|time=29|defends=3}}
+|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=23|deaths=26|time=59|defends=6}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Carnage Gaming|Evil Geniuses|title=Black Ops 4|date=2019-08-14|time=1448|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Carnage Gaming|team2=Evil Geniuses|team1score=101|team2score=250
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=8:38
-|blue1={{Scoreboard/Player|name=Charullz|link=Charullz|kills=19|deaths=23|time=19}}
-|blue2={{Scoreboard/Player|name=Destiny|link=Destiny|kills=11|deaths=18|time=25}}
-|blue3={{Scoreboard/Player|name=Newbz|link=Newbz|kills=12|deaths=23|time=34}}
-|blue4={{Scoreboard/Player|name=Pentagrxm|link=Pentagrxm|kills=15|deaths=23|time=17}}
-|blue5={{Scoreboard/Player|name=Vicious|link=Vicious|kills=11|deaths=25|time=41}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=18|deaths=11|time=104}}
-|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=33|deaths=14|time=84}}
-|red3={{Scoreboard/Player|name=Attach|link=Attach|kills=21|deaths=14|time=78}}
-|red4={{Scoreboard/Player|name=JKap|link=JKap|kills=21|deaths=16|time=45}}
-|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=18|deaths=13|time=76}}
+|blue1={{Scoreboard/Player|name=Charullz|link=Charullz|kills=19|deaths=23|time=19|defends=3}}
+|blue2={{Scoreboard/Player|name=Destiny|link=Destiny|kills=11|deaths=18|time=25|defends=0}}
+|blue3={{Scoreboard/Player|name=Newbz|link=Newbz|kills=12|deaths=23|time=34|defends=2}}
+|blue4={{Scoreboard/Player|name=Pentagrxm|link=Pentagrxm|kills=15|deaths=23|time=17|defends=4}}
+|blue5={{Scoreboard/Player|name=Vicious|link=Vicious|kills=11|deaths=25|time=41|defends=4}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=18|deaths=11|time=104|defends=2}}
+|red2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=33|deaths=14|time=84|defends=6}}
+|red3={{Scoreboard/Player|name=Attach|link=Attach|kills=21|deaths=14|time=78|defends=3}}
+|red4={{Scoreboard/Player|name=JKap|link=JKap|kills=21|deaths=16|time=45|defends=3}}
+|red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=18|deaths=13|time=76|defends=3}}
 }}
 {{Scoreboard|team1=Carnage Gaming|team2=Evil Geniuses|team1score=4|team2score=6
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=13:53
@@ -82,7 +82,7 @@
 |red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=11|deaths=6|plants=3|defuses=0}}
 }}
 {{Scoreboard|team1=Carnage Gaming|team2=Evil Geniuses|team1score=1|team2score=3
-|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=13:4
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=13:04
 |blue1={{Scoreboard/Player|name=Charullz|link=Charullz|kills=14|deaths=17|caps=2}}
 |blue2={{Scoreboard/Player|name=Destiny|link=Destiny|kills=8|deaths=16|caps=2}}
 |blue3={{Scoreboard/Player|name=Newbz|link=Newbz|kills=12|deaths=15|caps=2}}
@@ -99,16 +99,16 @@
 {{Scoreboard/Header|Evil Geniuses|TrainHard Esport|title=Black Ops 4|date=2019-08-15|time=1108|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Evil Geniuses|team2=TrainHard Esport|team1score=250|team2score=134
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:34
-|blue1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=16|deaths=16|time=91}}
-|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=21|deaths=16|time=46}}
-|blue3={{Scoreboard/Player|name=Attach|link=Attach|kills=20|deaths=13|time=69}}
-|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=25|deaths=10|time=57}}
-|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=20|deaths=16|time=79}}
-|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=9|deaths=17|time=65}}
-|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=14|deaths=22|time=39}}
-|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=19|deaths=20|time=4}}
-|red4={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=20|deaths=26|time=30}}
-|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=9|deaths=17|time=46}}
+|blue1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=16|deaths=16|time=91|defends=4}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=21|deaths=16|time=46|defends=8}}
+|blue3={{Scoreboard/Player|name=Attach|link=Attach|kills=20|deaths=13|time=69|defends=6}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=25|deaths=10|time=57|defends=6}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=20|deaths=16|time=79|defends=5}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=9|deaths=17|time=65|defends=3}}
+|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=14|deaths=22|time=39|defends=2}}
+|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=19|deaths=20|time=4|defends=4}}
+|red4={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=20|deaths=26|time=30|defends=7}}
+|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=9|deaths=17|time=46|defends=3}}
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=TrainHard Esport|team1score=3|team2score=6
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=13:16
@@ -138,32 +138,32 @@
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=TrainHard Esport|team1score=250|team2score=138
 |gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=8:47
-|blue1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=16|deaths=13|time=158}}
-|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=20|deaths=15|time=34}}
-|blue3={{Scoreboard/Player|name=Attach|link=Attach|kills=33|deaths=12|time=74}}
-|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=21|deaths=18|time=63}}
-|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=21|deaths=16|time=41}}
-|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=16|deaths=22|time=33}}
-|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=9|deaths=25|time=40}}
-|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=14|deaths=23|time=38}}
-|red4={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=18|deaths=21|time=52}}
-|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=17|deaths=20|time=40}}
+|blue1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=16|deaths=13|time=158|defends=3}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=20|deaths=15|time=34|defends=7}}
+|blue3={{Scoreboard/Player|name=Attach|link=Attach|kills=33|deaths=12|time=74|defends=9}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=21|deaths=18|time=63|defends=5}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=21|deaths=16|time=41|defends=5}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=16|deaths=22|time=33|defends=4}}
+|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=9|deaths=25|time=40|defends=4}}
+|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=14|deaths=23|time=38|defends=5}}
+|red4={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=18|deaths=21|time=52|defends=5}}
+|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=17|deaths=20|time=40|defends=9}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Carnage Gaming|OpTic Gaming|title=Black Ops 4|date=2019-08-15|time=1145|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Carnage Gaming|team2=OpTic Gaming|team1score=250|team2score=231
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:52
-|blue1={{Scoreboard/Player|name=Charullz|link=Charullz|kills=32|deaths=23|time=57}}
-|blue2={{Scoreboard/Player|name=Destiny|link=Destiny|kills=23|deaths=27|time=48}}
-|blue3={{Scoreboard/Player|name=Newbz|link=Newbz|kills=24|deaths=29|time=93}}
-|blue4={{Scoreboard/Player|name=Pentagrxm|link=Pentagrxm|kills=29|deaths=24|time=106}}
-|blue5={{Scoreboard/Player|name=Vicious|link=Vicious|kills=37|deaths=26|time=105}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=27|deaths=26|time=59}}
-|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=33|deaths=24|time=101}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=20|deaths=34|time=68}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=30|deaths=29|time=54}}
-|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=19|deaths=32|time=41}}
+|blue1={{Scoreboard/Player|name=Charullz|link=Charullz|kills=32|deaths=23|time=57|defends=12}}
+|blue2={{Scoreboard/Player|name=Destiny|link=Destiny|kills=23|deaths=27|time=48|defends=14}}
+|blue3={{Scoreboard/Player|name=Newbz|link=Newbz|kills=24|deaths=29|time=93|defends=7}}
+|blue4={{Scoreboard/Player|name=Pentagrxm|link=Pentagrxm|kills=29|deaths=24|time=106|defends=8}}
+|blue5={{Scoreboard/Player|name=Vicious|link=Vicious|kills=37|deaths=26|time=105|defends=21}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=27|deaths=26|time=59|defends=10}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=33|deaths=24|time=101|defends=12}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=20|deaths=34|time=68|defends=4}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=30|deaths=29|time=54|defends=7}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=19|deaths=32|time=41|defends=8}}
 }}
 {{Scoreboard|team1=Carnage Gaming|team2=OpTic Gaming|team1score=2|team2score=6
 |gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=10:27
@@ -193,32 +193,32 @@
 }}
 {{Scoreboard|team1=Carnage Gaming|team2=OpTic Gaming|team1score=117|team2score=250
 |gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=8:56
-|blue1={{Scoreboard/Player|name=Charullz|link=Charullz|kills=18|deaths=20|time=69}}
-|blue2={{Scoreboard/Player|name=Destiny|link=Destiny|kills=12|deaths=20|time=16}}
-|blue3={{Scoreboard/Player|name=Newbz|link=Newbz|kills=15|deaths=24|time=22}}
-|blue4={{Scoreboard/Player|name=Pentagrxm|link=Pentagrxm|kills=12|deaths=21|time=50}}
-|blue5={{Scoreboard/Player|name=Vicious|link=Vicious|kills=25|deaths=25|time=40}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=22|deaths=13|time=65}}
-|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=30|deaths=16|time=51}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=23|deaths=19|time=130}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=18|deaths=17|time=47}}
-|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=17|deaths=17|time=83}}
+|blue1={{Scoreboard/Player|name=Charullz|link=Charullz|kills=18|deaths=20|time=69|defends=7}}
+|blue2={{Scoreboard/Player|name=Destiny|link=Destiny|kills=12|deaths=20|time=16|defends=6}}
+|blue3={{Scoreboard/Player|name=Newbz|link=Newbz|kills=15|deaths=24|time=22|defends=6}}
+|blue4={{Scoreboard/Player|name=Pentagrxm|link=Pentagrxm|kills=12|deaths=21|time=50|defends=9}}
+|blue5={{Scoreboard/Player|name=Vicious|link=Vicious|kills=25|deaths=25|time=40|defends=8}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=22|deaths=13|time=65|defends=11}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=30|deaths=16|time=51|defends=13}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=23|deaths=19|time=130|defends=5}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=18|deaths=17|time=47|defends=6}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=17|deaths=17|time=83|defends=7}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Carnage Gaming|TrainHard Esport|title=Black Ops 4|date=2019-08-15|time=1700|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Carnage Gaming|team2=TrainHard Esport|team1score=193|team2score=250
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:34
-|blue1={{Scoreboard/Player|name=Charullz|link=Charullz|kills=24|deaths=23|time=42}}
-|blue2={{Scoreboard/Player|name=Destiny|link=Destiny|kills=10|deaths=19|time=75}}
-|blue3={{Scoreboard/Player|name=Newbz|link=Newbz|kills=20|deaths=28|time=32}}
-|blue4={{Scoreboard/Player|name=Pentagrxm|link=Pentagrxm|kills=19|deaths=22|time=75}}
-|blue5={{Scoreboard/Player|name=Vicious|link=Vicious|kills=23|deaths=20|time=86}}
-|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=19|deaths=20|time=72}}
-|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=21|deaths=19|time=133}}
-|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=28|deaths=18|time=52}}
-|red4={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=35|deaths=23|time=36}}
-|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=9|deaths=16|time=23}}
+|blue1={{Scoreboard/Player|name=Charullz|link=Charullz|kills=24|deaths=23|time=42|defends=1}}
+|blue2={{Scoreboard/Player|name=Destiny|link=Destiny|kills=10|deaths=19|time=75|defends=4}}
+|blue3={{Scoreboard/Player|name=Newbz|link=Newbz|kills=20|deaths=28|time=32|defends=6}}
+|blue4={{Scoreboard/Player|name=Pentagrxm|link=Pentagrxm|kills=19|deaths=22|time=75|defends=5}}
+|blue5={{Scoreboard/Player|name=Vicious|link=Vicious|kills=23|deaths=20|time=86|defends=4}}
+|red1={{Scoreboard/Player|name=Creza|link=Creza|kills=19|deaths=20|time=72|defends=4}}
+|red2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=21|deaths=19|time=133|defends=7}}
+|red3={{Scoreboard/Player|name=RizK|link=RizK|kills=28|deaths=18|time=52|defends=6}}
+|red4={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=35|deaths=23|time=36|defends=3}}
+|red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=9|deaths=16|time=23|defends=2}}
 }}
 {{Scoreboard|team1=Carnage Gaming|team2=TrainHard Esport|team1score=3|team2score=6
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=12:30
@@ -251,16 +251,16 @@
 {{Scoreboard/Header|Evil Geniuses|OpTic Gaming|title=Black Ops 4|date=2019-08-15|time=1721|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Evil Geniuses|team2=OpTic Gaming|team1score=246|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=11:11
-|blue1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=30|deaths=22|time=64}}
-|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=25|deaths=23|time=87}}
-|blue3={{Scoreboard/Player|name=Attach|link=Attach|kills=20|deaths=26|time=60}}
-|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=22|deaths=24|time=79}}
-|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=17|deaths=26|time=68}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=21|deaths=21|time=107}}
-|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=30|deaths=21|time=60}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=21|deaths=23|time=79}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=30|deaths=23|time=64}}
-|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=19|deaths=26|time=51}}
+|blue1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=30|deaths=22|time=64|defends=3}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=25|deaths=23|time=87|defends=11}}
+|blue3={{Scoreboard/Player|name=Attach|link=Attach|kills=20|deaths=26|time=60|defends=11}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=22|deaths=24|time=79|defends=7}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=17|deaths=26|time=68|defends=5}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=21|deaths=21|time=107|defends=14}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=30|deaths=21|time=60|defends=10}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=21|deaths=23|time=79|defends=11}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=30|deaths=23|time=64|defends=9}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=19|deaths=26|time=51|defends=6}}
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=OpTic Gaming|team1score=1|team2score=6
 |gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=8:39
@@ -290,15 +290,15 @@
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=OpTic Gaming|team1score=184|team2score=250
 |gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=10:10
-|blue1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=17|deaths=21|time=89}}
-|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=15|deaths=28|time=51}}
-|blue3={{Scoreboard/Player|name=Attach|link=Attach|kills=19|deaths=21|time=34}}
-|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=21|deaths=23|time=38}}
-|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=18|deaths=25|time=31}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=29|deaths=15|time=115}}
-|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=24|deaths=15|time=99}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=15|deaths=22|time=77}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=29|deaths=19|time=74}}
-|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=21|deaths=19|time=81}}
+|blue1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=17|deaths=21|time=89|defends=3}}
+|blue2={{Scoreboard/Player|name=Apathy|link=Apathy|kills=15|deaths=28|time=51|defends=2}}
+|blue3={{Scoreboard/Player|name=Attach|link=Attach|kills=19|deaths=21|time=34|defends=7}}
+|blue4={{Scoreboard/Player|name=JKap|link=JKap|kills=21|deaths=23|time=38|defends=3}}
+|blue5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=18|deaths=25|time=31|defends=8}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=29|deaths=15|time=115|defends=5}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=24|deaths=15|time=99|defends=3}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=15|deaths=22|time=77|defends=9}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=29|deaths=19|time=74|defends=5}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=21|deaths=19|time=81|defends=3}}
 }}
 {{Box|end}}

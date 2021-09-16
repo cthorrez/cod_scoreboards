@@ -1,155 +1,155 @@
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Enigma6 Group|Mindfreak.Black|title=Infinite Warfare|date=2017-08-11|time=1233|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Enigma6 Group|team2=Mindfreak.Black|team1score=250|team2score=205
+{{ScoreboardIW/Header|Enigma6 Group|Mindfreak.Black|title=Infinite Warfare|date=2017-08-11|time=1233|timezone=PST|dst=Yes}}
+{{ScoreboardIW|team1=Enigma6 Group|team2=Mindfreak.Black|team1score=250|team2score=205
 |gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=10:33
-|blue1={{Scoreboard/Player|name=General|link=General|kills=30|deaths=18|time=113}}
-|blue2={{Scoreboard/Player|name=Kade|link=Kade|kills=24|deaths=21|time=116}}
-|blue3={{Scoreboard/Player|name=Proto|link=Proto|kills=29|deaths=25|time=55}}
-|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=22|deaths=23|time=27}}
-|red1={{Scoreboard/Player|name=Hopey|link=Hopey|kills=13|deaths=29|time=70}}
-|red2={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=28|deaths=23|time=58}}
-|red3={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=22|deaths=25|time=108}}
-|red4={{Scoreboard/Player|name=Zepa|link=Zepa|kills=24|deaths=28|time=51}}
+|blue1={{ScoreboardIW/Player|name=General|link=General|kills=30|deaths=18|time=1:53|defends=9|icon=FTL Jump}}
+|blue2={{ScoreboardIW/Player|name=Kade|link=Kade|kills=24|deaths=21|time=1:56|defends=6|icon=Centurion}}
+|blue3={{ScoreboardIW/Player|name=Proto|link=Proto|kills=29|deaths=25|time=0:55|defends=4|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=Royalty|link=Royalty|kills=22|deaths=23|time=0:27|defends=2|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=Hopey|link=Hopey|kills=13|deaths=29|time=1:10|defends=2|icon=Centurion}}
+|purple2={{ScoreboardIW/Player|name=Setzyy|link=Setzyy|kills=28|deaths=23|time=0:58|defends=6|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Swiftazor|link=Swiftazor|kills=22|deaths=25|time=1:48|defends=3|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Zepa|link=Zepa|kills=24|deaths=28|time=0:51|defends=2|icon=FTL Jump}}
 }}
-{{Scoreboard|team1=Enigma6 Group|team2=Mindfreak.Black|team1score=6|team2score=0
+{{ScoreboardIW|team1=Enigma6 Group|team2=Mindfreak.Black|team1score=6|team2score=0
 |gamename=Game 2|map=Retaliation|gamemode=Search and Destroy|maptime=8:16
-|blue1={{Scoreboard/Player|name=General|link=General|kills=4|deaths=4|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=Kade|link=Kade|kills=4|deaths=5|plants=2|defuses=0}}
-|blue3={{Scoreboard/Player|name=Proto|link=Proto|kills=3|deaths=1|plants=0|defuses=0}}
-|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=11|deaths=3|plants=1|defuses=1}}
-|red1={{Scoreboard/Player|name=Hopey|link=Hopey|kills=4|deaths=6|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=4|deaths=5|plants=1|defuses=0}}
-|red3={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=1|deaths=6|plants=0|defuses=0}}
-|red4={{Scoreboard/Player|name=Zepa|link=Zepa|kills=4|deaths=5|plants=0|defuses=0}}
+|blue1={{ScoreboardIW/Player|name=General|link=General|kills=4|deaths=4|plants=0|defuses=0|icon=FTL Jump}}
+|blue2={{ScoreboardIW/Player|name=Kade|link=Kade|kills=4|deaths=5|plants=2|defuses=0|icon=Centurion}}
+|blue3={{ScoreboardIW/Player|name=Proto|link=Proto|kills=3|deaths=1|plants=0|defuses=0|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=Royalty|link=Royalty|kills=11|deaths=3|plants=1|defuses=1|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=Hopey|link=Hopey|kills=4|deaths=6|plants=0|defuses=0|icon=Overdrive}}
+|purple2={{ScoreboardIW/Player|name=Setzyy|link=Setzyy|kills=4|deaths=5|plants=1|defuses=0|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Swiftazor|link=Swiftazor|kills=1|deaths=6|plants=0|defuses=0|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Zepa|link=Zepa|kills=4|deaths=5|plants=0|defuses=0|icon=FTL Jump}}
 }}
-{{Scoreboard|team1=Enigma6 Group|team2=Mindfreak.Black|team1score=9|team2score=7
+{{ScoreboardIW|team1=Enigma6 Group|team2=Mindfreak.Black|team1score=9|team2score=7
 |gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=12:40
-|blue1={{Scoreboard/Player|name=General|link=General|kills=22|deaths=26|carries=1|throws=0|score=2}}
-|blue2={{Scoreboard/Player|name=Kade|link=Kade|kills=34|deaths=26|carries=1|throws=0|score=2}}
-|blue3={{Scoreboard/Player|name=Proto|link=Proto|kills=25|deaths=26|carries=2|throws=1|score=5}}
-|blue4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=30|deaths=25|carries=0|throws=0|score=0}}
-|red1={{Scoreboard/Player|name=Hopey|link=Hopey|kills=30|deaths=29|carries=0|throws=0|score=0}}
-|red2={{Scoreboard/Player|name=Setzyy|link=Setzyy|kills=22|deaths=22|carries=3|throws=0|score=6}}
-|red3={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=21|deaths=30|carries=0|throws=0|score=0}}
-|red4={{Scoreboard/Player|name=Zepa|link=Zepa|kills=30|deaths=30|carries=0|throws=1|score=1}}
+|blue1={{ScoreboardIW/Player|name=General|link=General|kills=22|deaths=26|carries=1|throws=0|score=2|icon=FTL Jump}}
+|blue2={{ScoreboardIW/Player|name=Kade|link=Kade|kills=34|deaths=26|carries=1|throws=0|score=2|icon=Overdrive}}
+|blue3={{ScoreboardIW/Player|name=Proto|link=Proto|kills=25|deaths=26|carries=2|throws=1|score=5|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=Royalty|link=Royalty|kills=30|deaths=25|carries=0|throws=0|score=0|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=Hopey|link=Hopey|kills=30|deaths=29|carries=0|throws=0|score=0|icon=Overdrive}}
+|purple2={{ScoreboardIW/Player|name=Setzyy|link=Setzyy|kills=22|deaths=22|carries=3|throws=0|score=6|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Swiftazor|link=Swiftazor|kills=21|deaths=30|carries=0|throws=0|score=0|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Zepa|link=Zepa|kills=30|deaths=30|carries=0|throws=1|score=1|icon=FTL Jump}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Rise Nation|Str8 Rippin|title=Infinite Warfare|date=2017-08-11|time=1255|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Rise Nation|team2=Str8 Rippin|team1score=250|team2score=237
+{{ScoreboardIW/Header|Rise Nation|Str8 Rippin|title=Infinite Warfare|date=2017-08-11|time=1255|timezone=PST|dst=Yes}}
+{{ScoreboardIW|team1=Rise Nation|team2=Str8 Rippin|team1score=250|team2score=237
 |gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=10:33
-|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=27|deaths=22|time=36}}
-|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=22|deaths=22|time=105}}
-|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=28|deaths=27|time=67}}
-|blue4={{Scoreboard/Player|name=Loony|link=Loony|kills=21|deaths=15|time=137}}
-|red1={{Scoreboard/Player|name=Dashy|link=Dashy|kills=21|deaths=27|time=44}}
-|red2={{Scoreboard/Player|name=Ricky|link=Ricky|kills=17|deaths=27|time=88}}
-|red3={{Scoreboard/Player|name=StuDyy|link=StuDyy|kills=22|deaths=22|time=47}}
-|red4={{Scoreboard/Player|name=Temp|link=Temp|kills=26|deaths=22|time=124}}
+|blue1={{ScoreboardIW/Player|name=AquA|link=AquA|kills=27|deaths=22|time=0:36|defends=3|icon=FTL Jump}}
+|blue2={{ScoreboardIW/Player|name=Faccento|link=Faccento|kills=22|deaths=22|time=1:45|defends=6|icon=Active Camo}}
+|blue3={{ScoreboardIW/Player|name=FeLo|link=FeLo|kills=28|deaths=27|time=1:07|defends=7|icon=Centurion}}
+|blue4={{ScoreboardIW/Player|name=Loony|link=Loony|kills=21|deaths=15|time=2:17|defends=4|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=Dashy|link=Dashy|kills=21|deaths=27|time=0:44|defends=4|icon=FTL Jump}}
+|purple2={{ScoreboardIW/Player|name=Ricky|link=Ricky|kills=17|deaths=27|time=1:28|defends=6|icon=Centurion}}
+|purple3={{ScoreboardIW/Player|name=StuDyy|link=StuDyy|kills=22|deaths=22|time=0:47|defends=2|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Temp|link=Temp|kills=26|deaths=22|time=2:04|defends=8|icon=Active Camo}}
 }}
-{{Scoreboard|team1=Rise Nation|team2=Str8 Rippin|team1score=6|team2score=5
+{{ScoreboardIW|team1=Rise Nation|team2=Str8 Rippin|team1score=6|team2score=5
 |gamename=Game 2|map=Retaliation|gamemode=Search and Destroy|maptime=14:30
-|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=13|deaths=6|plants=0|defuses=1}}
-|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=10|deaths=8|plants=2|defuses=0}}
-|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=6|deaths=9|plants=0|defuses=0}}
-|blue4={{Scoreboard/Player|name=Loony|link=Loony|kills=4|deaths=8|plants=1|defuses=1}}
-|red1={{Scoreboard/Player|name=Dashy|link=Dashy|kills=6|deaths=8|plants=0|defuses=1}}
-|red2={{Scoreboard/Player|name=Ricky|link=Ricky|kills=10|deaths=9|plants=1|defuses=1}}
-|red3={{Scoreboard/Player|name=StuDyy|link=StuDyy|kills=8|deaths=7|plants=0|defuses=1}}
-|red4={{Scoreboard/Player|name=Temp|link=Temp|kills=7|deaths=9|plants=1|defuses=0}}
+|blue1={{ScoreboardIW/Player|name=AquA|link=AquA|kills=13|deaths=6|plants=0|defuses=1|icon=FTL Jump}}
+|blue2={{ScoreboardIW/Player|name=Faccento|link=Faccento|kills=10|deaths=8|plants=2|defuses=0|icon=Active Camo}}
+|blue3={{ScoreboardIW/Player|name=FeLo|link=FeLo|kills=6|deaths=9|plants=0|defuses=0|icon=Centurion}}
+|blue4={{ScoreboardIW/Player|name=Loony|link=Loony|kills=4|deaths=8|plants=1|defuses=1|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=Dashy|link=Dashy|kills=6|deaths=8|plants=0|defuses=1|icon=FTL Jump}}
+|purple2={{ScoreboardIW/Player|name=Ricky|link=Ricky|kills=10|deaths=9|plants=1|defuses=1|icon=Centurion}}
+|purple3={{ScoreboardIW/Player|name=StuDyy|link=StuDyy|kills=8|deaths=7|plants=0|defuses=1|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Temp|link=Temp|kills=7|deaths=9|plants=1|defuses=0|icon=Active Camo}}
 }}
-{{Scoreboard|team1=Rise Nation|team2=Str8 Rippin|team1score=8|team2score=9
+{{ScoreboardIW|team1=Rise Nation|team2=Str8 Rippin|team1score=8|team2score=9
 |gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=10:25
-|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=22|deaths=21|carries=1|throws=0|score=2}}
-|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=21|deaths=23|carries=0|throws=1|score=1}}
-|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=32|deaths=25|carries=2|throws=1|score=5}}
-|blue4={{Scoreboard/Player|name=Loony|link=Loony|kills=22|deaths=26|carries=0|throws=0|score=0}}
-|red1={{Scoreboard/Player|name=Dashy|link=Dashy|kills=22|deaths=26|carries=0|throws=2|score=2}}
-|red2={{Scoreboard/Player|name=Ricky|link=Ricky|kills=27|deaths=23|carries=0|throws=2|score=2}}
-|red3={{Scoreboard/Player|name=StuDyy|link=StuDyy|kills=20|deaths=24|carries=1|throws=0|score=2}}
-|red4={{Scoreboard/Player|name=Temp|link=Temp|kills=26|deaths=24|carries=1|throws=1|score=3}}
+|blue1={{ScoreboardIW/Player|name=AquA|link=AquA|kills=22|deaths=21|carries=1|throws=0|score=2|icon=FTL Jump}}
+|blue2={{ScoreboardIW/Player|name=Faccento|link=Faccento|kills=21|deaths=23|carries=0|throws=1|score=1|icon=Active Camo}}
+|blue3={{ScoreboardIW/Player|name=FeLo|link=FeLo|kills=32|deaths=25|carries=2|throws=1|score=5|icon=Overdrive}}
+|blue4={{ScoreboardIW/Player|name=Loony|link=Loony|kills=22|deaths=26|carries=0|throws=0|score=0|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=Dashy|link=Dashy|kills=22|deaths=26|carries=0|throws=2|score=2|icon=FTL Jump}}
+|purple2={{ScoreboardIW/Player|name=Ricky|link=Ricky|kills=27|deaths=23|carries=0|throws=2|score=2|icon=Overdrive}}
+|purple3={{ScoreboardIW/Player|name=StuDyy|link=StuDyy|kills=20|deaths=24|carries=1|throws=0|score=2|icon=Centurion}}
+|purple4={{ScoreboardIW/Player|name=Temp|link=Temp|kills=26|deaths=24|carries=1|throws=1|score=3|icon=Active Camo}}
 }}
-{{Scoreboard|team1=Rise Nation|team2=Str8 Rippin|team1score=250|team2score=131
+{{ScoreboardIW|team1=Rise Nation|team2=Str8 Rippin|team1score=250|team2score=131
 |gamename=Game 4|map=Breakout|gamemode=Hardpoint|maptime=8:15
-|blue1={{Scoreboard/Player|name=AquA|link=AquA|kills=15|deaths=13|time=120}}
-|blue2={{Scoreboard/Player|name=Faccento|link=Faccento|kills=16|deaths=14|time=76}}
-|blue3={{Scoreboard/Player|name=FeLo|link=FeLo|kills=26|deaths=15|time=70}}
-|blue4={{Scoreboard/Player|name=Loony|link=Loony|kills=19|deaths=13|time=27}}
-|red1={{Scoreboard/Player|name=Dashy|link=Dashy|kills=20|deaths=21|time=59}}
-|red2={{Scoreboard/Player|name=Ricky|link=Ricky|kills=11|deaths=18|time=45}}
-|red3={{Scoreboard/Player|name=StuDyy|link=StuDyy|kills=11|deaths=20|time=14}}
-|red4={{Scoreboard/Player|name=Temp|link=Temp|kills=12|deaths=17|time=48}}
+|blue1={{ScoreboardIW/Player|name=AquA|link=AquA|kills=15|deaths=13|time=2:00|defends=4|icon=FTL Jump}}
+|blue2={{ScoreboardIW/Player|name=Faccento|link=Faccento|kills=16|deaths=14|time=1:16|defends=2|icon=Active Camo}}
+|blue3={{ScoreboardIW/Player|name=FeLo|link=FeLo|kills=26|deaths=15|time=1:10|defends=5|icon=Centurion}}
+|blue4={{ScoreboardIW/Player|name=Loony|link=Loony|kills=19|deaths=13|time=0:27|defends=3|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=Dashy|link=Dashy|kills=20|deaths=21|time=0:59|defends=4|icon=FTL Jump}}
+|purple2={{ScoreboardIW/Player|name=Ricky|link=Ricky|kills=11|deaths=18|time=0:45|defends=1|icon=Centurion}}
+|purple3={{ScoreboardIW/Player|name=StuDyy|link=StuDyy|kills=11|deaths=20|time=0:14|defends=1|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Temp|link=Temp|kills=12|deaths=17|time=0:48|defends=0|icon=Active Camo}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Fnatic|Luminosity Gaming|title=Infinite Warfare|date=2017-08-11|time=1333|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Fnatic|team2=Luminosity Gaming|team1score=131|team2score=250
+{{ScoreboardIW/Header|Fnatic|Luminosity Gaming|title=Infinite Warfare|date=2017-08-11|time=1333|timezone=PST|dst=Yes}}
+{{ScoreboardIW|team1=Fnatic|team2=Luminosity Gaming|team1score=131|team2score=250
 |gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=7:54
-|blue1={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=11|deaths=21|time=40}}
-|blue2={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=13|deaths=20|time=43}}
-|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=10|deaths=19|time=81}}
-|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=17|deaths=19|time=8}}
-|red1={{Scoreboard/Player|name=Classic|link=Classic|kills=25|deaths=17|time=48}}
-|red2={{Scoreboard/Player|name=Octane|link=Octane|kills=12|deaths=12|time=129}}
-|red3={{Scoreboard/Player|name=Saints|link=Saints|kills=20|deaths=13|time=31}}
-|red4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=22|deaths=9|time=105}}
+|blue1={{ScoreboardIW/Player|name=Skrapz|link=Skrapz|kills=11|deaths=21|time=0:40|defends=2|icon=Active Camo}}
+|blue2={{ScoreboardIW/Player|name=SunnyB|link=SunnyB|kills=13|deaths=20|time=0:43|defends=4|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=Tommey|link=Tommey|kills=10|deaths=19|time=1:21|defends=3|icon=Reactive Armor}}
+|blue4={{ScoreboardIW/Player|name=Wuskin|link=Wuskin|kills=17|deaths=19|time=0:08|defends=0|icon=Centurion}}
+|purple1={{ScoreboardIW/Player|name=Classic|link=Classic|kills=25|deaths=17|time=0:48|defends=3|icon=Active Camo}}
+|purple2={{ScoreboardIW/Player|name=Octane|link=Octane|kills=12|deaths=12|time=2:09|defends=3|icon=FTL Jump}}
+|purple3={{ScoreboardIW/Player|name=Saints|link=Saints|kills=20|deaths=13|time=0:31|defends=3|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Slacked|link=Slacked|kills=22|deaths=9|time=1:45|defends=4|icon=Centurion}}
 }}
-{{Scoreboard|team1=Fnatic|team2=Luminosity Gaming|team1score=4|team2score=6
+{{ScoreboardIW|team1=Fnatic|team2=Luminosity Gaming|team1score=4|team2score=6
 |gamename=Game 2|map=Retaliation|gamemode=Search and Destroy|maptime=13:12
-|blue1={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=4|deaths=7|plants=0|defuses=1}}
-|blue2={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=5|deaths=8|plants=2|defuses=0}}
-|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=8|deaths=8|plants=0|defuses=0}}
-|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=8|deaths=8|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=Classic|link=Classic|kills=9|deaths=6|plants=4|defuses=0}}
-|red2={{Scoreboard/Player|name=Octane|link=Octane|kills=13|deaths=5|plants=0|defuses=0}}
-|red3={{Scoreboard/Player|name=Saints|link=Saints|kills=5|deaths=8|plants=0|defuses=0}}
-|red4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=4|deaths=6|plants=0|defuses=1}}
+|blue1={{ScoreboardIW/Player|name=Skrapz|link=Skrapz|kills=4|deaths=7|plants=0|defuses=1|icon=Active Camo}}
+|blue2={{ScoreboardIW/Player|name=SunnyB|link=SunnyB|kills=5|deaths=8|plants=2|defuses=0|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=Tommey|link=Tommey|kills=8|deaths=8|plants=0|defuses=0|icon=Reactive Armor}}
+|blue4={{ScoreboardIW/Player|name=Wuskin|link=Wuskin|kills=8|deaths=8|plants=0|defuses=0|icon=Centurion}}
+|purple1={{ScoreboardIW/Player|name=Classic|link=Classic|kills=9|deaths=6|plants=4|defuses=0|icon=Centurion}}
+|purple2={{ScoreboardIW/Player|name=Octane|link=Octane|kills=13|deaths=5|plants=0|defuses=0|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Saints|link=Saints|kills=5|deaths=8|plants=0|defuses=0|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Slacked|link=Slacked|kills=4|deaths=6|plants=0|defuses=1|icon=FTL Jump}}
 }}
-{{Scoreboard|team1=Fnatic|team2=Luminosity Gaming|team1score=0|team2score=7
+{{ScoreboardIW|team1=Fnatic|team2=Luminosity Gaming|team1score=0|team2score=7
 |gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=10:26
-|blue1={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=23|deaths=21|carries=0|throws=0|score=0}}
-|blue2={{Scoreboard/Player|name=SunnyB|link=SunnyB|kills=16|deaths=27|carries=0|throws=0|score=0}}
-|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=29|deaths=27|carries=0|throws=0|score=0}}
-|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=26|deaths=24|carries=0|throws=0|score=0}}
-|red1={{Scoreboard/Player|name=Classic|link=Classic|kills=25|deaths=25|carries=0|throws=0|score=0}}
-|red2={{Scoreboard/Player|name=Octane|link=Octane|kills=28|deaths=24|carries=0|throws=0|score=0}}
-|red3={{Scoreboard/Player|name=Saints|link=Saints|kills=30|deaths=22|carries=0|throws=1|score=1}}
-|red4={{Scoreboard/Player|name=Slacked|link=Slacked|kills=16|deaths=23|carries=1|throws=4|score=6}}
+|blue1={{ScoreboardIW/Player|name=Skrapz|link=Skrapz|kills=23|deaths=21|carries=0|throws=0|score=0|icon=Active Camo}}
+|blue2={{ScoreboardIW/Player|name=SunnyB|link=SunnyB|kills=16|deaths=27|carries=0|throws=0|score=0|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=Tommey|link=Tommey|kills=29|deaths=27|carries=0|throws=0|score=0|icon=Overdrive}}
+|blue4={{ScoreboardIW/Player|name=Wuskin|link=Wuskin|kills=26|deaths=24|carries=0|throws=0|score=0|icon=Centurion}}
+|purple1={{ScoreboardIW/Player|name=Classic|link=Classic|kills=25|deaths=25|carries=0|throws=0|score=0|icon=Active Camo}}
+|purple2={{ScoreboardIW/Player|name=Octane|link=Octane|kills=28|deaths=24|carries=0|throws=0|score=0|icon=Overdrive}}
+|purple3={{ScoreboardIW/Player|name=Saints|link=Saints|kills=30|deaths=22|carries=0|throws=1|score=1|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Slacked|link=Slacked|kills=16|deaths=23|carries=1|throws=4|score=6|icon=FTL Jump}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Cloud9|Epsilon Esports EU|title=Infinite Warfare|date=2017-08-11|time=1425|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Cloud9|team2=Epsilon Esports EU|team1score=177|team2score=250
+{{ScoreboardIW/Header|Cloud9|Epsilon Esports EU|title=Infinite Warfare|date=2017-08-11|time=1425|timezone=PST|dst=Yes}}
+{{ScoreboardIW|team1=Cloud9|team2=Epsilon Esports EU|team1score=177|team2score=250
 |gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=9:52
-|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=19|deaths=23|time=53}}
-|blue2={{Scoreboard/Player|name=Assault|link=Assault|kills=26|deaths=17|time=77}}
-|blue3={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=19|deaths=25|time=62}}
-|blue4={{Scoreboard/Player|name=Xotic|link=Xotic|kills=17|deaths=21|time=81}}
-|red1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=31|deaths=19|time=69}}
-|red2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=16|deaths=22|time=76}}
-|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=21|deaths=22|time=67}}
-|red4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=18|deaths=18|time=129}}
+|blue1={{ScoreboardIW/Player|name=ACHES|link=ACHES|kills=19|deaths=23|time=0:53|defends=1|icon=FTL Jump}}
+|blue2={{ScoreboardIW/Player|name=Assault|link=Assault|kills=26|deaths=17|time=1:17|defends=6|icon=Active Camo}}
+|blue3={{ScoreboardIW/Player|name=Priestahh|link=Priestahh|kills=19|deaths=25|time=1:02|defends=2|icon=Reactive Armor}}
+|blue4={{ScoreboardIW/Player|name=Xotic|link=Xotic|kills=17|deaths=21|time=1:21|defends=2|icon=Centurion}}
+|purple1={{ScoreboardIW/Player|name=Dqvee|link=Dqvee|kills=31|deaths=19|time=1:09|defends=9|icon=Active Camo}}
+|purple2={{ScoreboardIW/Player|name=Hawqeh|link=Hawqeh|kills=16|deaths=22|time=1:16|defends=2|icon=Centurion}}
+|purple3={{ScoreboardIW/Player|name=Joshh|link=Joshh|kills=21|deaths=22|time=1:07|defends=1|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=18|deaths=18|time=2:09|defends=3|icon=FTL Jump}}
 }}
-{{Scoreboard|team1=Cloud9|team2=Epsilon Esports EU|team1score=3|team2score=6
+{{ScoreboardIW|team1=Cloud9|team2=Epsilon Esports EU|team1score=3|team2score=6
 |gamename=Game 2|map=Retaliation|gamemode=Search and Destroy|maptime=11:15
-|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=6|deaths=6|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=Assault|link=Assault|kills=3|deaths=6|plants=0|defuses=0}}
-|blue3={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=12|deaths=7|plants=0|defuses=0}}
-|blue4={{Scoreboard/Player|name=Xotic|link=Xotic|kills=2|deaths=6|plants=3|defuses=0}}
-|red1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=9|deaths=5|plants=1|defuses=1}}
-|red2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=7|deaths=6|plants=0|defuses=1}}
-|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=5|deaths=6|plants=0|defuses=0}}
-|red4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=4|deaths=7|plants=1|defuses=0}}
+|blue1={{ScoreboardIW/Player|name=ACHES|link=ACHES|kills=6|deaths=6|plants=0|defuses=0|icon=FTL Jump}}
+|blue2={{ScoreboardIW/Player|name=Assault|link=Assault|kills=3|deaths=6|plants=0|defuses=0|icon=Active Camo}}
+|blue3={{ScoreboardIW/Player|name=Priestahh|link=Priestahh|kills=12|deaths=7|plants=0|defuses=0|icon=Reactive Armor}}
+|blue4={{ScoreboardIW/Player|name=Xotic|link=Xotic|kills=2|deaths=6|plants=3|defuses=0|icon=Centurion}}
+|purple1={{ScoreboardIW/Player|name=Dqvee|link=Dqvee|kills=9|deaths=5|plants=1|defuses=1|icon=Active Camo}}
+|purple2={{ScoreboardIW/Player|name=Hawqeh|link=Hawqeh|kills=7|deaths=6|plants=0|defuses=1|icon=Overdrive}}
+|purple3={{ScoreboardIW/Player|name=Joshh|link=Joshh|kills=5|deaths=6|plants=0|defuses=0|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=4|deaths=7|plants=1|defuses=0|icon=FTL Jump}}
 }}
-{{Scoreboard|team1=Cloud9|team2=Epsilon Esports EU|team1score=8|team2score=9
+{{ScoreboardIW|team1=Cloud9|team2=Epsilon Esports EU|team1score=8|team2score=9
 |gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=10:26
-|blue1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=26|deaths=23|carries=0|throws=1|score=1}}
-|blue2={{Scoreboard/Player|name=Assault|link=Assault|kills=27|deaths=23|carries=1|throws=0|score=2}}
-|blue3={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=28|deaths=24|carries=0|throws=2|score=2}}
-|blue4={{Scoreboard/Player|name=Xotic|link=Xotic|kills=25|deaths=27|carries=1|throws=1|score=3}}
-|red1={{Scoreboard/Player|name=Dqvee|link=Dqvee|kills=27|deaths=26|carries=1|throws=1|score=3}}
-|red2={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=26|deaths=24|carries=1|throws=2|score=4}}
-|red3={{Scoreboard/Player|name=Joshh|link=Joshh|kills=19|deaths=26|carries=0|throws=0|score=0}}
-|red4={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=25|deaths=30|carries=1|throws=0|score=2}}
+|blue1={{ScoreboardIW/Player|name=ACHES|link=ACHES|kills=26|deaths=23|carries=0|throws=1|score=1|icon=FTL Jump}}
+|blue2={{ScoreboardIW/Player|name=Assault|link=Assault|kills=27|deaths=23|carries=1|throws=0|score=2|icon=Active Camo}}
+|blue3={{ScoreboardIW/Player|name=Priestahh|link=Priestahh|kills=28|deaths=24|carries=0|throws=2|score=2|icon=Overdrive}}
+|blue4={{ScoreboardIW/Player|name=Xotic|link=Xotic|kills=25|deaths=27|carries=1|throws=1|score=3|icon=Centurion}}
+|purple1={{ScoreboardIW/Player|name=Dqvee|link=Dqvee|kills=27|deaths=26|carries=1|throws=1|score=3|icon=Active Camo}}
+|purple2={{ScoreboardIW/Player|name=Hawqeh|link=Hawqeh|kills=26|deaths=24|carries=1|throws=2|score=4|icon=Overdrive}}
+|purple3={{ScoreboardIW/Player|name=Joshh|link=Joshh|kills=19|deaths=26|carries=0|throws=0|score=0|icon=Centurion}}
+|purple4={{ScoreboardIW/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=25|deaths=30|carries=1|throws=0|score=2|icon=FTL Jump}}
 }}
 {{Box|end}}

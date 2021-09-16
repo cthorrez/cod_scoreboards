@@ -2,16 +2,16 @@
 {{Scoreboard/Header|eUnited|Team Envy|title=Black Ops 4|date=2019-05-05|time=0513|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=Team Envy|team1score=250|team2score=165
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:52
-|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=20|deaths=25|time=44}}
-|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=20|deaths=14|time=116}}
-|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=25|deaths=18|time=75}}
-|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=16|deaths=26|time=23}}
-|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=34|deaths=21|time=53}}
-|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=14|deaths=24|time=68}}
-|red2={{Scoreboard/Player|name=Decemate|link=Decemate|kills=20|deaths=20|time=82}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=27|deaths=22|time=20}}
-|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=17|deaths=25|time=57}}
-|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=26|deaths=24|time=61}}
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=20|deaths=25|time=44|defends=4}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=20|deaths=14|time=116|defends=7}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=25|deaths=18|time=75|defends=8}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=16|deaths=26|time=23|defends=5}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=34|deaths=21|time=53|defends=11}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=14|deaths=24|time=68|defends=6}}
+|red2={{Scoreboard/Player|name=Decemate|link=Decemate|kills=20|deaths=20|time=82|defends=4}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=27|deaths=22|time=20|defends=6}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=17|deaths=25|time=57|defends=3}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=26|deaths=24|time=61|defends=4}}
 }}
 {{Scoreboard|team1=eUnited|team2=Team Envy|team1score=6|team2score=2
 |gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=9:12

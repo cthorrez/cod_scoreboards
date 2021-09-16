@@ -1,116 +1,116 @@
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|FaZe Clan|OpTic Gaming|title=World War II|date=2018-04-08|time=1442|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=250|team2score=242
+{{ScoreboardWWII/Header|FaZe Clan|OpTic Gaming|title=World War II|date=2018-04-08|time=1442|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=FaZe Clan|team2=OpTic Gaming|team1score=250|team2score=242
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=13:44
-|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=38|deaths=39|time=108}}
-|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=34|deaths=35|time=112}}
-|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=35|deaths=37|time=45}}
-|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=39|deaths=42|time=67}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=36|deaths=36|time=80}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=31|deaths=34|time=99}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=39|deaths=36|time=67}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=47|deaths=40|time=40}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=38|deaths=39|time=1:48|defends=3}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=34|deaths=35|time=1:52|defends=5}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=35|deaths=37|time=0:45|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=39|deaths=42|time=1:07|defends=2}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=36|deaths=36|time=1:20|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=31|deaths=34|time=1:39|defends=2}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=39|deaths=36|time=1:07|defends=2}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=47|deaths=40|time=0:40|defends=0}}
 }}
-{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=6|team2score=5
-|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=11:7
-|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=8|deaths=8|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=7|deaths=9|plants=2|defuses=0}}
-|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=9|deaths=6|plants=1|defuses=1}}
-|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=10|deaths=9|plants=0|defuses=1}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=9|deaths=8|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=7|deaths=8|plants=0|defuses=0}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=8|deaths=9|plants=2|defuses=0}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=8|deaths=9|plants=0|defuses=0}}
+{{ScoreboardWWII|team1=FaZe Clan|team2=OpTic Gaming|team1score=6|team2score=5
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=11:07
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=8|deaths=8|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=7|deaths=9|plants=2|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=9|deaths=6|plants=1|defuses=1}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=10|deaths=9|plants=0|defuses=1}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=9|deaths=8|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=7|deaths=8|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=8|deaths=9|plants=2|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=8|deaths=9|plants=0|defuses=0}}
 }}
-{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=1|team2score=5
+{{ScoreboardWWII|team1=FaZe Clan|team2=OpTic Gaming|team1score=1|team2score=5
 |gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=9:59
-|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=22|deaths=22|caps=0|returns=1}}
-|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=13|deaths=20|caps=1|returns=0}}
-|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=6|deaths=20|caps=0|returns=1}}
-|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=14|deaths=24|caps=0|returns=1}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=27|deaths=13|caps=3|returns=0}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=24|deaths=10|caps=1|returns=0}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=21|deaths=14|caps=0|returns=2}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=14|deaths=18|caps=1|returns=1}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=22|deaths=22|caps=0|returns=1}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=13|deaths=20|caps=1|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=6|deaths=20|caps=0|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=14|deaths=24|caps=0|returns=1}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=27|deaths=13|caps=3|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=24|deaths=10|caps=1|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=21|deaths=14|caps=0|returns=2}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=14|deaths=18|caps=1|returns=1}}
 }}
-{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=116|team2score=250
+{{ScoreboardWWII|team1=FaZe Clan|team2=OpTic Gaming|team1score=116|team2score=250
 |gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=9:30
-|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=22|deaths=32|time=21}}
-|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=24|deaths=28|time=22}}
-|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=18|deaths=23|time=74}}
-|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=28|deaths=34|time=6}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=27|deaths=29|time=41}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=27|deaths=16|time=101}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=33|deaths=19|time=72}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=30|deaths=28|time=55}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=22|deaths=32|time=0:21|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=24|deaths=28|time=0:22|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=18|deaths=23|time=1:14|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=28|deaths=34|time=0:06|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=27|deaths=29|time=0:41|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=27|deaths=16|time=1:41|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=33|deaths=19|time=1:12|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=30|deaths=28|time=0:55|defends=0}}
 }}
-{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=6|team2score=3
+{{ScoreboardWWII|team1=FaZe Clan|team2=OpTic Gaming|team1score=6|team2score=3
 |gamename=Game 5|map=Ardennes Forest|gamemode=Search and Destroy|maptime=6:20
-|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=4|deaths=5|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=2|deaths=4|plants=2|defuses=0}}
-|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=7|deaths=3|plants=0|defuses=0}}
-|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=14|deaths=6|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=3|deaths=7|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=5|deaths=6|plants=1|defuses=0}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=7|deaths=7|plants=1|defuses=0}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=3|deaths=7|plants=0|defuses=0}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=4|deaths=5|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=2|deaths=4|plants=2|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=7|deaths=3|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=14|deaths=6|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=3|deaths=7|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=5|deaths=6|plants=1|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=7|deaths=7|plants=1|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=3|deaths=7|plants=0|defuses=0}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|FaZe Clan|OpTic Gaming|title=World War II|date=2018-04-08|time=1618|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=250|team2score=155
+{{ScoreboardWWII/Header|FaZe Clan|OpTic Gaming|title=World War II|date=2018-04-08|time=1618|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=FaZe Clan|team2=OpTic Gaming|team1score=250|team2score=155
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=10:42
-|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=27|deaths=31|time=53}}
-|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=33|deaths=22|time=121}}
-|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=19|deaths=23|time=107}}
-|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=35|deaths=28|time=55}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=24|deaths=36|time=24}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=28|deaths=22|time=61}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=25|deaths=29|time=29}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=27|deaths=27|time=56}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=27|deaths=31|time=0:53|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=33|deaths=22|time=2:01|defends=2}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=19|deaths=23|time=1:47|defends=2}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=35|deaths=28|time=0:55|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=24|deaths=36|time=0:24|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=28|deaths=22|time=1:01|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=25|deaths=29|time=0:29|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=27|deaths=27|time=0:56|defends=1}}
 }}
-{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=5|team2score=6
+{{ScoreboardWWII|team1=FaZe Clan|team2=OpTic Gaming|team1score=5|team2score=6
 |gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=10:14
-|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=6|deaths=10|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=9|deaths=7|plants=2|defuses=0}}
-|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=9|deaths=6|plants=1|defuses=0}}
-|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=9|deaths=9|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=13|deaths=7|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=7|deaths=9|plants=0|defuses=0}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=8|deaths=9|plants=2|defuses=0}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=4|deaths=8|plants=0|defuses=0}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=6|deaths=10|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=9|deaths=7|plants=2|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=9|deaths=6|plants=1|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=9|deaths=9|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=13|deaths=7|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=7|deaths=9|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=8|deaths=9|plants=2|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=4|deaths=8|plants=0|defuses=0}}
 }}
-{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=1|team2score=4
+{{ScoreboardWWII|team1=FaZe Clan|team2=OpTic Gaming|team1score=1|team2score=4
 |gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:24
-|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=21|deaths=25|caps=0|returns=2}}
-|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=14|deaths=23|caps=1|returns=1}}
-|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=10|deaths=23|caps=0|returns=0}}
-|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=18|deaths=23|caps=0|returns=0}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=20|deaths=15|caps=1|returns=0}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=24|deaths=18|caps=0|returns=2}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=24|deaths=14|caps=2|returns=1}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=26|deaths=16|caps=1|returns=0}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=21|deaths=25|caps=0|returns=2}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=14|deaths=23|caps=1|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=10|deaths=23|caps=0|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=18|deaths=23|caps=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=20|deaths=15|caps=1|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=24|deaths=18|caps=0|returns=2}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=24|deaths=14|caps=2|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=26|deaths=16|caps=1|returns=0}}
 }}
-{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=250|team2score=219
+{{ScoreboardWWII|team1=FaZe Clan|team2=OpTic Gaming|team1score=250|team2score=219
 |gamename=Game 4|map=Valkyrie|gamemode=Hardpoint|maptime=10:13
-|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=29|deaths=25|time=57}}
-|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=25|deaths=22|time=119}}
-|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=30|deaths=21|time=77}}
-|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=26|deaths=32|time=36}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=26|deaths=33|time=59}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=31|deaths=21|time=70}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=19|deaths=26|time=53}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=24|deaths=30|time=78}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=29|deaths=25|time=0:57|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=25|deaths=22|time=1:59|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=30|deaths=21|time=1:17|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=26|deaths=32|time=0:36|defends=2}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=26|deaths=33|time=0:59|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=31|deaths=21|time=1:10|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=19|deaths=26|time=0:53|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=24|deaths=30|time=1:18|defends=2}}
 }}
-{{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=6|team2score=3
-|gamename=Game 5|map=Ardennes Forest|gamemode=Search and Destroy|maptime=8:2
-|blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=5|deaths=4|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=9|deaths=6|plants=1|defuses=0}}
-|blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=6|deaths=4|plants=1|defuses=0}}
-|blue4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=8|deaths=6|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=6|deaths=9|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=7|deaths=6|plants=0|defuses=0}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=2|deaths=6|plants=0|defuses=0}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=5|deaths=7|plants=0|defuses=1}}
+{{ScoreboardWWII|team1=FaZe Clan|team2=OpTic Gaming|team1score=6|team2score=3
+|gamename=Game 5|map=Ardennes Forest|gamemode=Search and Destroy|maptime=8:02
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=5|deaths=4|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=9|deaths=6|plants=1|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=6|deaths=4|plants=1|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=8|deaths=6|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=6|deaths=9|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=7|deaths=6|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=2|deaths=6|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=5|deaths=7|plants=0|defuses=1}}
 }}
 {{Box|end}}

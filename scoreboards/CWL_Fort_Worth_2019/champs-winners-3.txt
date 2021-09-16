@@ -2,19 +2,19 @@
 {{Scoreboard/Header|Luminosity Gaming|Splyce|title=Black Ops 4|date=2019-03-17|time=1137|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Luminosity Gaming|team2=Splyce|team1score=250|team2score=149
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:12
-|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=22|deaths=19|time=64}}
-|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=22|deaths=16|time=143}}
-|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=29|deaths=21|time=32}}
-|blue4={{Scoreboard/Player|name=John|link=John|kills=23|deaths=18|time=19}}
-|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=20|deaths=18|time=80}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=14|deaths=25|time=40}}
-|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=25|deaths=23|time=78}}
-|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=18|deaths=23|time=45}}
-|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=18|deaths=22|time=31}}
-|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=17|deaths=23|time=60}}
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=22|deaths=19|time=64|defends=7}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=22|deaths=16|time=143|defends=7}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=29|deaths=21|time=32|defends=13}}
+|blue4={{Scoreboard/Player|name=John|link=John|kills=23|deaths=18|time=19|defends=7}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=20|deaths=18|time=80|defends=8}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=14|deaths=25|time=40|defends=3}}
+|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=25|deaths=23|time=78|defends=8}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=18|deaths=23|time=45|defends=6}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=18|deaths=22|time=31|defends=8}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=17|deaths=23|time=60|defends=10}}
 }}
 {{Scoreboard|team1=Luminosity Gaming|team2=Splyce|team1score=3|team2score=6
-|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=11:2
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=11:02
 |blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=4|deaths=7|plants=2|defuses=0}}
 |blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=5|deaths=6|plants=0|defuses=0}}
 |blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=7|deaths=6|plants=0|defuses=1}}
@@ -41,15 +41,15 @@
 }}
 {{Scoreboard|team1=Luminosity Gaming|team2=Splyce|team1score=250|team2score=170
 |gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=9:53
-|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=18|deaths=15|time=88}}
-|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=17|deaths=16|time=67}}
-|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=29|deaths=15|time=81}}
-|blue4={{Scoreboard/Player|name=John|link=John|kills=19|deaths=19|time=56}}
-|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=19|deaths=21|time=64}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=22|deaths=18|time=64}}
-|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=17|deaths=18|time=79}}
-|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=19|deaths=24|time=34}}
-|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=14|deaths=19|time=33}}
-|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=14|deaths=23|time=33}}
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=18|deaths=15|time=88|defends=7}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=17|deaths=16|time=67|defends=6}}
+|blue3={{Scoreboard/Player|name=Gunless|link=Gunless|kills=29|deaths=15|time=81|defends=3}}
+|blue4={{Scoreboard/Player|name=John|link=John|kills=19|deaths=19|time=56|defends=7}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=19|deaths=21|time=64|defends=3}}
+|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=22|deaths=18|time=64|defends=7}}
+|red2={{Scoreboard/Player|name=AquA|link=AquA|kills=17|deaths=18|time=79|defends=5}}
+|red3={{Scoreboard/Player|name=Jurd|link=Jurd|kills=19|deaths=24|time=34|defends=5}}
+|red4={{Scoreboard/Player|name=Loony|link=Loony|kills=14|deaths=19|time=33|defends=3}}
+|red5={{Scoreboard/Player|name=Temp|link=Temp|kills=14|deaths=23|time=33|defends=5}}
 }}
 {{Box|end}}

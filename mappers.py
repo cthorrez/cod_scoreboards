@@ -49,6 +49,18 @@ event_to_game_title_mapper = {
     'CWL Pro League 2019 Playoffs' : 'Black Ops 4',
     'Call of Duty World League Championship 2019' : 'Black Ops 4'
 }
+
+game_title_to_scoreboard_suffix_mapper = {
+    'Infinite Warfare' : 'IW',
+    'World War II' : 'WWII',
+    'Black Ops 4' : ''
+}
+
+game_title_to_team2_color_mapper = {
+    'Infinite Warfare' : 'purple',
+    'World War II' : 'purple',
+    'Black Ops 4' : 'red'
+}
     
 team_name_mapper = MapperWrapper({
     'Epsilon' : 'Epsilon Esports EU',

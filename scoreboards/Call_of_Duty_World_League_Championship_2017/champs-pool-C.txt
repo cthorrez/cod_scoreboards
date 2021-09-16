@@ -1,249 +1,249 @@
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|eUnited|Mindfreak|title=Infinite Warfare|date=2017-08-09|time=0808|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=eUnited|team2=Mindfreak|team1score=250|team2score=126
+{{ScoreboardIW/Header|eUnited|Mindfreak|title=Infinite Warfare|date=2017-08-09|time=0808|timezone=PST|dst=Yes}}
+{{ScoreboardIW|team1=eUnited|team2=Mindfreak|team1score=250|team2score=126
 |gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=8:44
-|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=20|deaths=15|time=103}}
-|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=21|deaths=16|time=46}}
-|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=24|deaths=20|time=59}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=15|deaths=13|time=125}}
-|red1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=15|deaths=18|time=32}}
-|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=14|deaths=20|time=29}}
-|red3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=16|deaths=25|time=43}}
-|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=19|deaths=17|time=50}}
+|blue1={{ScoreboardIW/Player|name=Arcitys|link=Arcitys|kills=20|deaths=15|time=1:43|defends=6|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=Clayster|link=Clayster|kills=21|deaths=16|time=0:46|defends=1|icon=Reactive Armor}}
+|blue3={{ScoreboardIW/Player|name=Prestinni|link=Prestinni|kills=24|deaths=20|time=0:59|defends=4|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=SiLLY|link=SiLLY|kills=15|deaths=13|time=2:05|defends=5|icon=FTL Jump}}
+|purple1={{ScoreboardIW/Player|name=BuZZO|link=BuZZO|kills=15|deaths=18|time=0:32|defends=1|icon=Centurion}}
+|purple2={{ScoreboardIW/Player|name=Denz|link=Denz|kills=14|deaths=20|time=0:29|defends=0|icon=FTL Jump}}
+|purple3={{ScoreboardIW/Player|name=Fighta|link=Fighta|kills=16|deaths=25|time=0:43|defends=2|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Shockz|link=Shockz|kills=19|deaths=17|time=0:50|defends=1|icon=Active Camo}}
 }}
-{{Scoreboard|team1=eUnited|team2=Mindfreak|team1score=6|team2score=2
+{{ScoreboardIW|team1=eUnited|team2=Mindfreak|team1score=6|team2score=2
 |gamename=Game 2|map=Crusher|gamemode=Search and Destroy|maptime=9:30
-|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=11|deaths=4|plants=3|defuses=1}}
-|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=4|deaths=6|plants=0|defuses=0}}
-|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=11|deaths=3|plants=0|defuses=1}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=3|deaths=5|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=4|deaths=8|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=6|deaths=7|plants=0|defuses=0}}
-|red3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=3|deaths=6|plants=0|defuses=0}}
-|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=3|deaths=8|plants=4|defuses=0}}
+|blue1={{ScoreboardIW/Player|name=Arcitys|link=Arcitys|kills=11|deaths=4|plants=3|defuses=1|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=Clayster|link=Clayster|kills=4|deaths=6|plants=0|defuses=0|icon=Reactive Armor}}
+|blue3={{ScoreboardIW/Player|name=Prestinni|link=Prestinni|kills=11|deaths=3|plants=0|defuses=1|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=SiLLY|link=SiLLY|kills=3|deaths=5|plants=0|defuses=0|icon=FTL Jump}}
+|purple1={{ScoreboardIW/Player|name=BuZZO|link=BuZZO|kills=4|deaths=8|plants=0|defuses=0|icon=Centurion}}
+|purple2={{ScoreboardIW/Player|name=Denz|link=Denz|kills=6|deaths=7|plants=0|defuses=0|icon=FTL Jump}}
+|purple3={{ScoreboardIW/Player|name=Fighta|link=Fighta|kills=3|deaths=6|plants=0|defuses=0|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Shockz|link=Shockz|kills=3|deaths=8|plants=4|defuses=0|icon=Active Camo}}
 }}
-{{Scoreboard|team1=eUnited|team2=Mindfreak|team1score=8|team2score=5
+{{ScoreboardIW|team1=eUnited|team2=Mindfreak|team1score=8|team2score=5
 |gamename=Game 3|map=Precinct|gamemode=Uplink|maptime=10:25
-|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=20|deaths=22|carries=0|throws=1|score=1}}
-|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=26|deaths=23|carries=0|throws=0|score=0}}
-|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=27|deaths=21|carries=3|throws=1|score=7}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=24|deaths=26|carries=0|throws=0|score=0}}
-|red1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=18|deaths=22|carries=0|throws=0|score=0}}
-|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=25|deaths=26|carries=0|throws=0|score=0}}
-|red3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=19|deaths=26|carries=1|throws=0|score=2}}
-|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=30|deaths=23|carries=1|throws=1|score=3}}
+|blue1={{ScoreboardIW/Player|name=Arcitys|link=Arcitys|kills=20|deaths=22|carries=0|throws=1|score=1|icon=Overdrive}}
+|blue2={{ScoreboardIW/Player|name=Clayster|link=Clayster|kills=26|deaths=23|carries=0|throws=0|score=0|icon=Reactive Armor}}
+|blue3={{ScoreboardIW/Player|name=Prestinni|link=Prestinni|kills=27|deaths=21|carries=3|throws=1|score=7|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=SiLLY|link=SiLLY|kills=24|deaths=26|carries=0|throws=0|score=0|icon=FTL Jump}}
+|purple1={{ScoreboardIW/Player|name=BuZZO|link=BuZZO|kills=18|deaths=22|carries=0|throws=0|score=0|icon=Centurion}}
+|purple2={{ScoreboardIW/Player|name=Denz|link=Denz|kills=25|deaths=26|carries=0|throws=0|score=0|icon=FTL Jump}}
+|purple3={{ScoreboardIW/Player|name=Fighta|link=Fighta|kills=19|deaths=26|carries=1|throws=0|score=2|icon=Overdrive}}
+|purple4={{ScoreboardIW/Player|name=Shockz|link=Shockz|kills=30|deaths=23|carries=1|throws=1|score=3|icon=Active Camo}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Lethal Gaming|Team infused|title=Infinite Warfare|date=2017-08-09|time=0819|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Lethal Gaming|team2=Team infused|team1score=250|team2score=201
-|gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=10:4
-|blue1={{Scoreboard/Player|name=Hate|link=Hate|kills=21|deaths=22|time=76}}
-|blue2={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=24|deaths=14|time=94}}
-|blue3={{Scoreboard/Player|name=JuJu|link=JuJu|kills=20|deaths=20|time=95}}
-|blue4={{Scoreboard/Player|name=KlinK|link=KlinK|kills=21|deaths=19|time=82}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=27|deaths=20|time=25}}
-|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=16|deaths=24|time=59}}
-|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=11|deaths=19|time=107}}
-|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=20|deaths=23|time=74}}
+{{ScoreboardIW/Header|Lethal Gaming|Team infused|title=Infinite Warfare|date=2017-08-09|time=0819|timezone=PST|dst=Yes}}
+{{ScoreboardIW|team1=Lethal Gaming|team2=Team infused|team1score=250|team2score=201
+|gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=10:04
+|blue1={{ScoreboardIW/Player|name=Hate|link=Hate|kills=21|deaths=22|time=1:16|defends=4|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=HumanJesus|link=HumanJesus|kills=24|deaths=14|time=1:34|defends=1|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=JuJu|link=JuJu|kills=20|deaths=20|time=1:35|defends=5|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=KlinK|link=KlinK|kills=21|deaths=19|time=1:22|defends=4|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=Alexx|link=Alexx|kills=27|deaths=20|time=0:25|defends=2|icon=Reactive Armor}}
+|purple2={{ScoreboardIW/Player|name=Niall|link=Niall|kills=16|deaths=24|time=0:59|defends=1|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Nolson|link=Nolson|kills=11|deaths=19|time=1:47|defends=2|icon=Centurion}}
+|purple4={{ScoreboardIW/Player|name=Deleo|link=Deleo|kills=20|deaths=23|time=1:14|defends=3|icon=FTL Jump}}
 }}
-{{Scoreboard|team1=Lethal Gaming|team2=Team infused|team1score=2|team2score=6
+{{ScoreboardIW|team1=Lethal Gaming|team2=Team infused|team1score=2|team2score=6
 |gamename=Game 2|map=Crusher|gamemode=Search and Destroy|maptime=9:14
-|blue1={{Scoreboard/Player|name=Hate|link=Hate|kills=1|deaths=7|plants=1|defuses=0}}
-|blue2={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=7|deaths=6|plants=0|defuses=0}}
-|blue3={{Scoreboard/Player|name=JuJu|link=JuJu|kills=5|deaths=7|plants=1|defuses=0}}
-|blue4={{Scoreboard/Player|name=KlinK|link=KlinK|kills=9|deaths=6|plants=1|defuses=0}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=8|deaths=5|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=7|deaths=7|plants=2|defuses=0}}
-|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=5|deaths=4|plants=0|defuses=0}}
-|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=6|deaths=6|plants=0|defuses=1}}
+|blue1={{ScoreboardIW/Player|name=Hate|link=Hate|kills=1|deaths=7|plants=1|defuses=0|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=HumanJesus|link=HumanJesus|kills=7|deaths=6|plants=0|defuses=0|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=JuJu|link=JuJu|kills=5|deaths=7|plants=1|defuses=0|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=KlinK|link=KlinK|kills=9|deaths=6|plants=1|defuses=0|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=Alexx|link=Alexx|kills=8|deaths=5|plants=0|defuses=0|icon=Reactive Armor}}
+|purple2={{ScoreboardIW/Player|name=Niall|link=Niall|kills=7|deaths=7|plants=2|defuses=0|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Nolson|link=Nolson|kills=5|deaths=4|plants=0|defuses=0|icon=Centurion}}
+|purple4={{ScoreboardIW/Player|name=Deleo|link=Deleo|kills=6|deaths=6|plants=0|defuses=1|icon=FTL Jump}}
 }}
-{{Scoreboard|team1=Lethal Gaming|team2=Team infused|team1score=4|team2score=14
+{{ScoreboardIW|team1=Lethal Gaming|team2=Team infused|team1score=4|team2score=14
 |gamename=Game 3|map=Precinct|gamemode=Uplink|maptime=10:25
-|blue1={{Scoreboard/Player|name=Hate|link=Hate|kills=23|deaths=25|carries=1|throws=0|score=2}}
-|blue2={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=16|deaths=29|carries=0|throws=0|score=0}}
-|blue3={{Scoreboard/Player|name=JuJu|link=JuJu|kills=20|deaths=28|carries=1|throws=0|score=2}}
-|blue4={{Scoreboard/Player|name=KlinK|link=KlinK|kills=21|deaths=28|carries=0|throws=0|score=0}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=30|deaths=19|carries=0|throws=1|score=1}}
-|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=24|deaths=23|carries=1|throws=4|score=6}}
-|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=25|deaths=17|carries=2|throws=0|score=4}}
-|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=31|deaths=21|carries=1|throws=1|score=3}}
+|blue1={{ScoreboardIW/Player|name=Hate|link=Hate|kills=23|deaths=25|carries=1|throws=0|score=2|icon=Overdrive}}
+|blue2={{ScoreboardIW/Player|name=HumanJesus|link=HumanJesus|kills=16|deaths=29|carries=0|throws=0|score=0|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=JuJu|link=JuJu|kills=20|deaths=28|carries=1|throws=0|score=2|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=KlinK|link=KlinK|kills=21|deaths=28|carries=0|throws=0|score=0|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=Alexx|link=Alexx|kills=30|deaths=19|carries=0|throws=1|score=1|icon=Reactive Armor}}
+|purple2={{ScoreboardIW/Player|name=Niall|link=Niall|kills=24|deaths=23|carries=1|throws=4|score=6|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Nolson|link=Nolson|kills=25|deaths=17|carries=2|throws=0|score=4|icon=Overdrive}}
+|purple4={{ScoreboardIW/Player|name=Deleo|link=Deleo|kills=31|deaths=21|carries=1|throws=1|score=3|icon=FTL Jump}}
 }}
-{{Scoreboard|team1=Lethal Gaming|team2=Team infused|team1score=210|team2score=250
+{{ScoreboardIW|team1=Lethal Gaming|team2=Team infused|team1score=210|team2score=250
 |gamename=Game 4|map=Throwback|gamemode=Hardpoint|maptime=11:26
-|blue1={{Scoreboard/Player|name=Hate|link=Hate|kills=27|deaths=27|time=106}}
-|blue2={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=27|deaths=30|time=41}}
-|blue3={{Scoreboard/Player|name=JuJu|link=JuJu|kills=27|deaths=27|time=51}}
-|blue4={{Scoreboard/Player|name=KlinK|link=KlinK|kills=20|deaths=32|time=38}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=30|deaths=25|time=47}}
-|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=30|deaths=27|time=81}}
-|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=34|deaths=23|time=37}}
-|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=22|deaths=26|time=120}}
+|blue1={{ScoreboardIW/Player|name=Hate|link=Hate|kills=27|deaths=27|time=1:46|defends=4|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=HumanJesus|link=HumanJesus|kills=27|deaths=30|time=0:41|defends=2|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=JuJu|link=JuJu|kills=27|deaths=27|time=0:51|defends=2|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=KlinK|link=KlinK|kills=20|deaths=32|time=0:38|defends=0|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=Alexx|link=Alexx|kills=30|deaths=25|time=0:47|defends=5|icon=Reactive Armor}}
+|purple2={{ScoreboardIW/Player|name=Niall|link=Niall|kills=30|deaths=27|time=1:21|defends=1|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Nolson|link=Nolson|kills=34|deaths=23|time=0:37|defends=1|icon=Centurion}}
+|purple4={{ScoreboardIW/Player|name=Deleo|link=Deleo|kills=22|deaths=26|time=2:00|defends=4|icon=FTL Jump}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|eUnited|Lethal Gaming|title=Infinite Warfare|date=2017-08-09|time=1242|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=eUnited|team2=Lethal Gaming|team1score=250|team2score=97
+{{ScoreboardIW/Header|eUnited|Lethal Gaming|title=Infinite Warfare|date=2017-08-09|time=1242|timezone=PST|dst=Yes}}
+{{ScoreboardIW|team1=eUnited|team2=Lethal Gaming|team1score=250|team2score=97
 |gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=7:50
-|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=15|deaths=19|time=67}}
-|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=24|deaths=13|time=40}}
-|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=27|deaths=13|time=104}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=16|deaths=11|time=79}}
-|red1={{Scoreboard/Player|name=Hate|link=Hate|kills=15|deaths=21|time=18}}
-|red2={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=7|deaths=21|time=10}}
-|red3={{Scoreboard/Player|name=JuJu|link=JuJu|kills=14|deaths=21|time=39}}
-|red4={{Scoreboard/Player|name=KlinK|link=KlinK|kills=20|deaths=19|time=41}}
+|blue1={{ScoreboardIW/Player|name=Arcitys|link=Arcitys|kills=15|deaths=19|time=1:07|defends=3|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=Clayster|link=Clayster|kills=24|deaths=13|time=0:40|defends=3|icon=Reactive Armor}}
+|blue3={{ScoreboardIW/Player|name=Prestinni|link=Prestinni|kills=27|deaths=13|time=1:44|defends=5|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=SiLLY|link=SiLLY|kills=16|deaths=11|time=1:19|defends=3|icon=FTL Jump}}
+|purple1={{ScoreboardIW/Player|name=Hate|link=Hate|kills=15|deaths=21|time=0:18|defends=1|icon=Centurion}}
+|purple2={{ScoreboardIW/Player|name=HumanJesus|link=HumanJesus|kills=7|deaths=21|time=0:10|defends=1|icon=FTL Jump}}
+|purple3={{ScoreboardIW/Player|name=JuJu|link=JuJu|kills=14|deaths=21|time=0:39|defends=1|icon=Active Camo}}
+|purple4={{ScoreboardIW/Player|name=KlinK|link=KlinK|kills=20|deaths=19|time=0:41|defends=1|icon=Reactive Armor}}
 }}
-{{Scoreboard|team1=eUnited|team2=Lethal Gaming|team1score=6|team2score=5
+{{ScoreboardIW|team1=eUnited|team2=Lethal Gaming|team1score=6|team2score=5
 |gamename=Game 2|map=Throwback|gamemode=Search and Destroy|maptime=13:53
-|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=6|deaths=6|plants=3|defuses=0}}
-|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=9|deaths=7|plants=0|defuses=1}}
-|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=7|deaths=8|plants=0|defuses=0}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=8|deaths=9|plants=1|defuses=0}}
-|red1={{Scoreboard/Player|name=Hate|link=Hate|kills=8|deaths=8|plants=1|defuses=0}}
-|red2={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=8|deaths=8|plants=1|defuses=1}}
-|red3={{Scoreboard/Player|name=JuJu|link=JuJu|kills=7|deaths=7|plants=2|defuses=0}}
-|red4={{Scoreboard/Player|name=KlinK|link=KlinK|kills=7|deaths=8|plants=0|defuses=0}}
+|blue1={{ScoreboardIW/Player|name=Arcitys|link=Arcitys|kills=6|deaths=6|plants=3|defuses=0|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=Clayster|link=Clayster|kills=9|deaths=7|plants=0|defuses=1|icon=Reactive Armor}}
+|blue3={{ScoreboardIW/Player|name=Prestinni|link=Prestinni|kills=7|deaths=8|plants=0|defuses=0|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=SiLLY|link=SiLLY|kills=8|deaths=9|plants=1|defuses=0|icon=FTL Jump}}
+|purple1={{ScoreboardIW/Player|name=Hate|link=Hate|kills=8|deaths=8|plants=1|defuses=0|icon=Centurion}}
+|purple2={{ScoreboardIW/Player|name=HumanJesus|link=HumanJesus|kills=8|deaths=8|plants=1|defuses=1|icon=FTL Jump}}
+|purple3={{ScoreboardIW/Player|name=JuJu|link=JuJu|kills=7|deaths=7|plants=2|defuses=0|icon=Active Camo}}
+|purple4={{ScoreboardIW/Player|name=KlinK|link=KlinK|kills=7|deaths=8|plants=0|defuses=0|icon=Reactive Armor}}
 }}
-{{Scoreboard|team1=eUnited|team2=Lethal Gaming|team1score=13|team2score=6
+{{ScoreboardIW|team1=eUnited|team2=Lethal Gaming|team1score=13|team2score=6
 |gamename=Game 3|map=Frost|gamemode=Uplink|maptime=10:26
-|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=32|deaths=21|carries=2|throws=0|score=4}}
-|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=20|deaths=21|carries=1|throws=0|score=2}}
-|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=28|deaths=20|carries=3|throws=1|score=7}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=26|deaths=24|carries=0|throws=0|score=0}}
-|red1={{Scoreboard/Player|name=Hate|link=Hate|kills=25|deaths=26|carries=1|throws=0|score=2}}
-|red2={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=17|deaths=28|carries=1|throws=0|score=2}}
-|red3={{Scoreboard/Player|name=JuJu|link=JuJu|kills=20|deaths=27|carries=0|throws=1|score=1}}
-|red4={{Scoreboard/Player|name=KlinK|link=KlinK|kills=24|deaths=27|carries=0|throws=1|score=1}}
+|blue1={{ScoreboardIW/Player|name=Arcitys|link=Arcitys|kills=32|deaths=21|carries=2|throws=0|score=4|icon=Overdrive}}
+|blue2={{ScoreboardIW/Player|name=Clayster|link=Clayster|kills=20|deaths=21|carries=1|throws=0|score=2|icon=Reactive Armor}}
+|blue3={{ScoreboardIW/Player|name=Prestinni|link=Prestinni|kills=28|deaths=20|carries=3|throws=1|score=7|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=SiLLY|link=SiLLY|kills=26|deaths=24|carries=0|throws=0|score=0|icon=FTL Jump}}
+|purple1={{ScoreboardIW/Player|name=Hate|link=Hate|kills=25|deaths=26|carries=1|throws=0|score=2|icon=Overdrive}}
+|purple2={{ScoreboardIW/Player|name=HumanJesus|link=HumanJesus|kills=17|deaths=28|carries=1|throws=0|score=2|icon=FTL Jump}}
+|purple3={{ScoreboardIW/Player|name=JuJu|link=JuJu|kills=20|deaths=27|carries=0|throws=1|score=1|icon=Active Camo}}
+|purple4={{ScoreboardIW/Player|name=KlinK|link=KlinK|kills=24|deaths=27|carries=0|throws=1|score=1|icon=Reactive Armor}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Mindfreak|Team infused|title=Infinite Warfare|date=2017-08-09|time=1411|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Mindfreak|team2=Team infused|team1score=250|team2score=212
+{{ScoreboardIW/Header|Mindfreak|Team infused|title=Infinite Warfare|date=2017-08-09|time=1411|timezone=PST|dst=Yes}}
+{{ScoreboardIW|team1=Mindfreak|team2=Team infused|team1score=250|team2score=212
 |gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=10:14
-|blue1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=14|deaths=21|time=37}}
-|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=25|deaths=15|time=76}}
-|blue3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=22|deaths=18|time=70}}
-|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=18|deaths=21|time=97}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=17|deaths=18|time=67}}
-|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=23|deaths=21|time=44}}
-|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=16|deaths=22|time=52}}
-|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=19|deaths=18|time=62}}
+|blue1={{ScoreboardIW/Player|name=BuZZO|link=BuZZO|kills=14|deaths=21|time=0:37|defends=2|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=Denz|link=Denz|kills=25|deaths=15|time=1:16|defends=1|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=Fighta|link=Fighta|kills=22|deaths=18|time=1:10|defends=3|icon=Reactive Armor}}
+|blue4={{ScoreboardIW/Player|name=Shockz|link=Shockz|kills=18|deaths=21|time=1:37|defends=3|icon=Active Camo}}
+|purple1={{ScoreboardIW/Player|name=Alexx|link=Alexx|kills=17|deaths=18|time=1:07|defends=1|icon=Reactive Armor}}
+|purple2={{ScoreboardIW/Player|name=Niall|link=Niall|kills=23|deaths=21|time=0:44|defends=1|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Nolson|link=Nolson|kills=16|deaths=22|time=0:52|defends=2|icon=Centurion}}
+|purple4={{ScoreboardIW/Player|name=Deleo|link=Deleo|kills=19|deaths=18|time=1:02|defends=1|icon=FTL Jump}}
 }}
-{{Scoreboard|team1=Mindfreak|team2=Team infused|team1score=5|team2score=6
+{{ScoreboardIW|team1=Mindfreak|team2=Team infused|team1score=5|team2score=6
 |gamename=Game 2|map=Throwback|gamemode=Search and Destroy|maptime=12:42
-|blue1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=6|deaths=8|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=5|deaths=9|plants=0|defuses=0}}
-|blue3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=8|deaths=10|plants=2|defuses=0}}
-|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=12|deaths=7|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=4|deaths=7|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=6|deaths=10|plants=1|defuses=0}}
-|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=12|deaths=6|plants=0|defuses=0}}
-|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=12|deaths=8|plants=0|defuses=1}}
+|blue1={{ScoreboardIW/Player|name=BuZZO|link=BuZZO|kills=6|deaths=8|plants=0|defuses=0|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=Denz|link=Denz|kills=5|deaths=9|plants=0|defuses=0|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=Fighta|link=Fighta|kills=8|deaths=10|plants=2|defuses=0|icon=Overdrive}}
+|blue4={{ScoreboardIW/Player|name=Shockz|link=Shockz|kills=12|deaths=7|plants=0|defuses=0|icon=Active Camo}}
+|purple1={{ScoreboardIW/Player|name=Alexx|link=Alexx|kills=4|deaths=7|plants=0|defuses=0|icon=Reactive Armor}}
+|purple2={{ScoreboardIW/Player|name=Niall|link=Niall|kills=6|deaths=10|plants=1|defuses=0|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Nolson|link=Nolson|kills=12|deaths=6|plants=0|defuses=0|icon=Centurion}}
+|purple4={{ScoreboardIW/Player|name=Deleo|link=Deleo|kills=12|deaths=8|plants=0|defuses=1|icon=FTL Jump}}
 }}
-{{Scoreboard|team1=Mindfreak|team2=Team infused|team1score=4|team2score=2
+{{ScoreboardIW|team1=Mindfreak|team2=Team infused|team1score=4|team2score=2
 |gamename=Game 3|map=Frost|gamemode=Uplink|maptime=13:49
-|blue1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=31|deaths=29|carries=0|throws=0|score=0}}
-|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=32|deaths=26|carries=0|throws=2|score=2}}
-|blue3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=29|deaths=28|carries=0|throws=0|score=0}}
-|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=34|deaths=30|carries=1|throws=0|score=2}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=25|deaths=35|carries=0|throws=0|score=0}}
-|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=33|deaths=30|carries=1|throws=0|score=2}}
-|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=29|deaths=31|carries=0|throws=0|score=0}}
-|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=26|deaths=30|carries=0|throws=0|score=0}}
+|blue1={{ScoreboardIW/Player|name=BuZZO|link=BuZZO|kills=31|deaths=29|carries=0|throws=0|score=0|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=Denz|link=Denz|kills=32|deaths=26|carries=0|throws=2|score=2|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=Fighta|link=Fighta|kills=29|deaths=28|carries=0|throws=0|score=0|icon=Overdrive}}
+|blue4={{ScoreboardIW/Player|name=Shockz|link=Shockz|kills=34|deaths=30|carries=1|throws=0|score=2|icon=Active Camo}}
+|purple1={{ScoreboardIW/Player|name=Alexx|link=Alexx|kills=25|deaths=35|carries=0|throws=0|score=0|icon=Centurion}}
+|purple2={{ScoreboardIW/Player|name=Niall|link=Niall|kills=33|deaths=30|carries=1|throws=0|score=2|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Nolson|link=Nolson|kills=29|deaths=31|carries=0|throws=0|score=0|icon=Overdrive}}
+|purple4={{ScoreboardIW/Player|name=Deleo|link=Deleo|kills=26|deaths=30|carries=0|throws=0|score=0|icon=FTL Jump}}
 }}
-{{Scoreboard|team1=Mindfreak|team2=Team infused|team1score=250|team2score=119
+{{ScoreboardIW|team1=Mindfreak|team2=Team infused|team1score=250|team2score=119
 |gamename=Game 4|map=Breakout|gamemode=Hardpoint|maptime=8:28
-|blue1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=18|deaths=18|time=66}}
-|blue2={{Scoreboard/Player|name=Denz|link=Denz|kills=15|deaths=15|time=78}}
-|blue3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=25|deaths=18|time=69}}
-|blue4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=19|deaths=13|time=109}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=19|deaths=18|time=48}}
-|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=17|deaths=18|time=34}}
-|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=12|deaths=24|time=14}}
-|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=16|deaths=17|time=59}}
+|blue1={{ScoreboardIW/Player|name=BuZZO|link=BuZZO|kills=18|deaths=18|time=1:06|defends=4|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=Denz|link=Denz|kills=15|deaths=15|time=1:18|defends=2|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=Fighta|link=Fighta|kills=25|deaths=18|time=1:09|defends=4|icon=Reactive Armor}}
+|blue4={{ScoreboardIW/Player|name=Shockz|link=Shockz|kills=19|deaths=13|time=1:49|defends=1|icon=Active Camo}}
+|purple1={{ScoreboardIW/Player|name=Alexx|link=Alexx|kills=19|deaths=18|time=0:48|defends=1|icon=Reactive Armor}}
+|purple2={{ScoreboardIW/Player|name=Niall|link=Niall|kills=17|deaths=18|time=0:34|defends=1|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Nolson|link=Nolson|kills=12|deaths=24|time=0:14|defends=1|icon=Centurion}}
+|purple4={{ScoreboardIW/Player|name=Deleo|link=Deleo|kills=16|deaths=17|time=0:59|defends=0|icon=FTL Jump}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Lethal Gaming|Mindfreak|title=Infinite Warfare|date=2017-08-10|time=1030|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Lethal Gaming|team2=Mindfreak|team1score=250|team2score=202
+{{ScoreboardIW/Header|Lethal Gaming|Mindfreak|title=Infinite Warfare|date=2017-08-10|time=1030|timezone=PST|dst=Yes}}
+{{ScoreboardIW|team1=Lethal Gaming|team2=Mindfreak|team1score=250|team2score=202
 |gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=10:20
-|blue1={{Scoreboard/Player|name=Hate|link=Hate|kills=26|deaths=17|time=157}}
-|blue2={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=21|deaths=30|time=57}}
-|blue3={{Scoreboard/Player|name=JuJu|link=JuJu|kills=25|deaths=20|time=100}}
-|blue4={{Scoreboard/Player|name=KlinK|link=KlinK|kills=20|deaths=25|time=44}}
-|red1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=24|deaths=22|time=88}}
-|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=24|deaths=22|time=42}}
-|red3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=26|deaths=25|time=74}}
-|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=18|deaths=23|time=83}}
+|blue1={{ScoreboardIW/Player|name=Hate|link=Hate|kills=26|deaths=17|time=2:37|defends=8|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=HumanJesus|link=HumanJesus|kills=21|deaths=30|time=0:57|defends=2|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=JuJu|link=JuJu|kills=25|deaths=20|time=1:40|defends=5|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=KlinK|link=KlinK|kills=20|deaths=25|time=0:44|defends=2|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=BuZZO|link=BuZZO|kills=24|deaths=22|time=1:28|defends=5|icon=Centurion}}
+|purple2={{ScoreboardIW/Player|name=Denz|link=Denz|kills=24|deaths=22|time=0:42|defends=0|icon=FTL Jump}}
+|purple3={{ScoreboardIW/Player|name=Fighta|link=Fighta|kills=26|deaths=25|time=1:14|defends=3|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Shockz|link=Shockz|kills=18|deaths=23|time=1:23|defends=5|icon=Active Camo}}
 }}
-{{Scoreboard|team1=Lethal Gaming|team2=Mindfreak|team1score=6|team2score=2
+{{ScoreboardIW|team1=Lethal Gaming|team2=Mindfreak|team1score=6|team2score=2
 |gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=11:34
-|blue1={{Scoreboard/Player|name=Hate|link=Hate|kills=8|deaths=6|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=2|deaths=4|plants=2|defuses=0}}
-|blue3={{Scoreboard/Player|name=JuJu|link=JuJu|kills=9|deaths=3|plants=1|defuses=1}}
-|blue4={{Scoreboard/Player|name=KlinK|link=KlinK|kills=7|deaths=5|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=5|deaths=7|plants=1|defuses=0}}
-|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=3|deaths=7|plants=0|defuses=0}}
-|red3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=3|deaths=6|plants=1|defuses=0}}
-|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=6|deaths=7|plants=1|defuses=0}}
+|blue1={{ScoreboardIW/Player|name=Hate|link=Hate|kills=8|deaths=6|plants=0|defuses=0|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=HumanJesus|link=HumanJesus|kills=2|deaths=4|plants=2|defuses=0|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=JuJu|link=JuJu|kills=9|deaths=3|plants=1|defuses=1|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=KlinK|link=KlinK|kills=7|deaths=5|plants=0|defuses=0|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=BuZZO|link=BuZZO|kills=5|deaths=7|plants=1|defuses=0|icon=Centurion}}
+|purple2={{ScoreboardIW/Player|name=Denz|link=Denz|kills=3|deaths=7|plants=0|defuses=0|icon=FTL Jump}}
+|purple3={{ScoreboardIW/Player|name=Fighta|link=Fighta|kills=3|deaths=6|plants=1|defuses=0|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Shockz|link=Shockz|kills=6|deaths=7|plants=1|defuses=0|icon=Active Camo}}
 }}
-{{Scoreboard|team1=Lethal Gaming|team2=Mindfreak|team1score=4|team2score=10
+{{ScoreboardIW|team1=Lethal Gaming|team2=Mindfreak|team1score=4|team2score=10
 |gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=10:25
-|blue1={{Scoreboard/Player|name=Hate|link=Hate|kills=15|deaths=29|carries=1|throws=1|score=3}}
-|blue2={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=25|deaths=29|carries=0|throws=0|score=0}}
-|blue3={{Scoreboard/Player|name=JuJu|link=JuJu|kills=20|deaths=27|carries=0|throws=0|score=0}}
-|blue4={{Scoreboard/Player|name=KlinK|link=KlinK|kills=26|deaths=27|carries=0|throws=1|score=1}}
-|red1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=20|deaths=22|carries=1|throws=2|score=4}}
-|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=35|deaths=17|carries=1|throws=1|score=3}}
-|red3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=25|deaths=25|carries=0|throws=0|score=0}}
-|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=32|deaths=22|carries=1|throws=1|score=3}}
+|blue1={{ScoreboardIW/Player|name=Hate|link=Hate|kills=15|deaths=29|carries=1|throws=1|score=3|icon=Overdrive}}
+|blue2={{ScoreboardIW/Player|name=HumanJesus|link=HumanJesus|kills=25|deaths=29|carries=0|throws=0|score=0|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=JuJu|link=JuJu|kills=20|deaths=27|carries=0|throws=0|score=0|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=KlinK|link=KlinK|kills=26|deaths=27|carries=0|throws=1|score=1|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=BuZZO|link=BuZZO|kills=20|deaths=22|carries=1|throws=2|score=4|icon=Centurion}}
+|purple2={{ScoreboardIW/Player|name=Denz|link=Denz|kills=35|deaths=17|carries=1|throws=1|score=3|icon=FTL Jump}}
+|purple3={{ScoreboardIW/Player|name=Fighta|link=Fighta|kills=25|deaths=25|carries=0|throws=0|score=0|icon=Overdrive}}
+|purple4={{ScoreboardIW/Player|name=Shockz|link=Shockz|kills=32|deaths=22|carries=1|throws=1|score=3|icon=Active Camo}}
 }}
-{{Scoreboard|team1=Lethal Gaming|team2=Mindfreak|team1score=250|team2score=239
-|gamename=Game 4|map=Retaliation|gamemode=Hardpoint|maptime=11:7
-|blue1={{Scoreboard/Player|name=Hate|link=Hate|kills=22|deaths=22|time=94}}
-|blue2={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=24|deaths=15|time=24}}
-|blue3={{Scoreboard/Player|name=JuJu|link=JuJu|kills=22|deaths=24|time=93}}
-|blue4={{Scoreboard/Player|name=KlinK|link=KlinK|kills=24|deaths=22|time=103}}
-|red1={{Scoreboard/Player|name=BuZZO|link=BuZZO|kills=14|deaths=24|time=48}}
-|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=22|deaths=22|time=47}}
-|red3={{Scoreboard/Player|name=Fighta|link=Fighta|kills=20|deaths=23|time=69}}
-|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=27|deaths=23|time=98}}
+{{ScoreboardIW|team1=Lethal Gaming|team2=Mindfreak|team1score=250|team2score=239
+|gamename=Game 4|map=Retaliation|gamemode=Hardpoint|maptime=11:07
+|blue1={{ScoreboardIW/Player|name=Hate|link=Hate|kills=22|deaths=22|time=1:34|defends=5|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=HumanJesus|link=HumanJesus|kills=24|deaths=15|time=0:24|defends=0|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=JuJu|link=JuJu|kills=22|deaths=24|time=1:33|defends=4|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=KlinK|link=KlinK|kills=24|deaths=22|time=1:43|defends=5|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=BuZZO|link=BuZZO|kills=14|deaths=24|time=0:48|defends=2|icon=Centurion}}
+|purple2={{ScoreboardIW/Player|name=Denz|link=Denz|kills=22|deaths=22|time=0:47|defends=4|icon=FTL Jump}}
+|purple3={{ScoreboardIW/Player|name=Fighta|link=Fighta|kills=20|deaths=23|time=1:09|defends=3|icon=Reactive Armor}}
+|purple4={{ScoreboardIW/Player|name=Shockz|link=Shockz|kills=27|deaths=23|time=1:38|defends=7|icon=Active Camo}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|eUnited|Team infused|title=Infinite Warfare|date=2017-08-10|time=1108|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=eUnited|team2=Team infused|team1score=250|team2score=181
+{{ScoreboardIW/Header|eUnited|Team infused|title=Infinite Warfare|date=2017-08-10|time=1108|timezone=PST|dst=Yes}}
+{{ScoreboardIW|team1=eUnited|team2=Team infused|team1score=250|team2score=181
 |gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=9:29
-|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=24|deaths=17|time=95}}
-|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=23|deaths=21|time=57}}
-|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=22|deaths=21|time=77}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=23|deaths=13|time=92}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=13|deaths=21|time=37}}
-|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=15|deaths=22|time=106}}
-|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=19|deaths=24|time=46}}
-|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=24|deaths=25|time=32}}
+|blue1={{ScoreboardIW/Player|name=Arcitys|link=Arcitys|kills=24|deaths=17|time=1:35|defends=3|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=Clayster|link=Clayster|kills=23|deaths=21|time=0:57|defends=4|icon=Reactive Armor}}
+|blue3={{ScoreboardIW/Player|name=Prestinni|link=Prestinni|kills=22|deaths=21|time=1:17|defends=1|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=SiLLY|link=SiLLY|kills=23|deaths=13|time=1:32|defends=3|icon=FTL Jump}}
+|purple1={{ScoreboardIW/Player|name=Alexx|link=Alexx|kills=13|deaths=21|time=0:37|defends=1|icon=Reactive Armor}}
+|purple2={{ScoreboardIW/Player|name=Niall|link=Niall|kills=15|deaths=22|time=1:46|defends=3|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Nolson|link=Nolson|kills=19|deaths=24|time=0:46|defends=4|icon=Centurion}}
+|purple4={{ScoreboardIW/Player|name=Deleo|link=Deleo|kills=24|deaths=25|time=0:32|defends=3|icon=FTL Jump}}
 }}
-{{Scoreboard|team1=eUnited|team2=Team infused|team1score=6|team2score=4
-|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=12:0
-|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=4|deaths=9|plants=4|defuses=0}}
-|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=5|deaths=7|plants=0|defuses=0}}
-|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=8|deaths=8|plants=0|defuses=0}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=15|deaths=4|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=10|deaths=9|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=6|deaths=9|plants=1|defuses=0}}
-|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=7|deaths=8|plants=0|defuses=1}}
-|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=5|deaths=6|plants=0|defuses=2}}
+{{ScoreboardIW|team1=eUnited|team2=Team infused|team1score=6|team2score=4
+|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=12:00
+|blue1={{ScoreboardIW/Player|name=Arcitys|link=Arcitys|kills=4|deaths=9|plants=4|defuses=0|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=Clayster|link=Clayster|kills=5|deaths=7|plants=0|defuses=0|icon=Reactive Armor}}
+|blue3={{ScoreboardIW/Player|name=Prestinni|link=Prestinni|kills=8|deaths=8|plants=0|defuses=0|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=SiLLY|link=SiLLY|kills=15|deaths=4|plants=0|defuses=0|icon=FTL Jump}}
+|purple1={{ScoreboardIW/Player|name=Alexx|link=Alexx|kills=10|deaths=9|plants=0|defuses=0|icon=Reactive Armor}}
+|purple2={{ScoreboardIW/Player|name=Niall|link=Niall|kills=6|deaths=9|plants=1|defuses=0|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Nolson|link=Nolson|kills=7|deaths=8|plants=0|defuses=1|icon=Centurion}}
+|purple4={{ScoreboardIW/Player|name=Deleo|link=Deleo|kills=5|deaths=6|plants=0|defuses=2|icon=FTL Jump}}
 }}
-{{Scoreboard|team1=eUnited|team2=Team infused|team1score=6|team2score=4
+{{ScoreboardIW|team1=eUnited|team2=Team infused|team1score=6|team2score=4
 |gamename=Game 3|map=Throwback|gamemode=Uplink|maptime=10:25
-|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=14|deaths=24|carries=1|throws=0|score=2}}
-|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=26|deaths=20|carries=1|throws=1|score=3}}
-|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=21|deaths=24|carries=0|throws=0|score=0}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=33|deaths=22|carries=0|throws=1|score=1}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=24|deaths=24|carries=0|throws=1|score=1}}
-|red2={{Scoreboard/Player|name=Niall|link=Niall|kills=22|deaths=27|carries=0|throws=0|score=0}}
-|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=20|deaths=22|carries=1|throws=0|score=2}}
-|red4={{Scoreboard/Player|name=Deleo|link=Deleo|kills=24|deaths=21|carries=0|throws=1|score=1}}
+|blue1={{ScoreboardIW/Player|name=Arcitys|link=Arcitys|kills=14|deaths=24|carries=1|throws=0|score=2|icon=Overdrive}}
+|blue2={{ScoreboardIW/Player|name=Clayster|link=Clayster|kills=26|deaths=20|carries=1|throws=1|score=3|icon=Reactive Armor}}
+|blue3={{ScoreboardIW/Player|name=Prestinni|link=Prestinni|kills=21|deaths=24|carries=0|throws=0|score=0|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=SiLLY|link=SiLLY|kills=33|deaths=22|carries=0|throws=1|score=1|icon=FTL Jump}}
+|purple1={{ScoreboardIW/Player|name=Alexx|link=Alexx|kills=24|deaths=24|carries=0|throws=1|score=1|icon=Centurion}}
+|purple2={{ScoreboardIW/Player|name=Niall|link=Niall|kills=22|deaths=27|carries=0|throws=0|score=0|icon=Active Camo}}
+|purple3={{ScoreboardIW/Player|name=Nolson|link=Nolson|kills=20|deaths=22|carries=1|throws=0|score=2|icon=Overdrive}}
+|purple4={{ScoreboardIW/Player|name=Deleo|link=Deleo|kills=24|deaths=21|carries=0|throws=1|score=1|icon=FTL Jump}}
 }}
 {{Box|end}}

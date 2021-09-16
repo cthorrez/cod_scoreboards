@@ -2,16 +2,16 @@
 {{Scoreboard/Header|Gen.G|OpTic Gaming|title=Black Ops 4|date=2019-06-16|time=1539|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Gen.G|team2=OpTic Gaming|team1score=130|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:46
-|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=26|deaths=24|time=45}}
-|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=24|deaths=24|time=21}}
-|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=20|deaths=24|time=38}}
-|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=20|deaths=23|time=50}}
-|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=19|deaths=26|time=58}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=20|deaths=18|time=71}}
-|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=35|deaths=18|time=114}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=27|deaths=24|time=68}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=14|deaths=25|time=52}}
-|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=25|deaths=24|time=84}}
+|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=26|deaths=24|time=45|defends=9}}
+|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=24|deaths=24|time=21|defends=6}}
+|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=20|deaths=24|time=38|defends=11}}
+|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=20|deaths=23|time=50|defends=11}}
+|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=19|deaths=26|time=58|defends=6}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=20|deaths=18|time=71|defends=8}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=35|deaths=18|time=114|defends=15}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=27|deaths=24|time=68|defends=7}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=14|deaths=25|time=52|defends=9}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=25|deaths=24|time=84|defends=4}}
 }}
 {{Scoreboard|team1=Gen.G|team2=OpTic Gaming|team1score=6|team2score=5
 |gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=14:12
@@ -41,16 +41,16 @@
 }}
 {{Scoreboard|team1=Gen.G|team2=OpTic Gaming|team1score=243|team2score=250
 |gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=11:10
-|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=31|deaths=26|time=71}}
-|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=16|deaths=21|time=65}}
-|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=12|deaths=23|time=51}}
-|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=19|deaths=19|time=66}}
-|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=22|deaths=24|time=72}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=20|deaths=15|time=94}}
-|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=30|deaths=15|time=76}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=20|deaths=23|time=54}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=23|deaths=23|time=67}}
-|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=20|deaths=24|time=42}}
+|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=31|deaths=26|time=71|defends=5}}
+|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=16|deaths=21|time=65|defends=7}}
+|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=12|deaths=23|time=51|defends=2}}
+|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=19|deaths=19|time=66|defends=7}}
+|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=22|deaths=24|time=72|defends=5}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=20|deaths=15|time=94|defends=5}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=30|deaths=15|time=76|defends=6}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=20|deaths=23|time=54|defends=3}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=23|deaths=23|time=67|defends=9}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=20|deaths=24|time=42|defends=8}}
 }}
 {{Scoreboard|team1=Gen.G|team2=OpTic Gaming|team1score=6|team2score=4
 |gamename=Game 5|map=Frequency|gamemode=Search and Destroy|maptime=16:26

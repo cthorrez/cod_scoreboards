@@ -2,16 +2,16 @@
 {{Scoreboard/Header|Gen.G|Team Reciprocity|title=Black Ops 4|date=2019-07-21|time=1027|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Gen.G|team2=Team Reciprocity|team1score=250|team2score=201
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:38
-|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=26|deaths=24|time=66}}
-|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=35|deaths=25|time=92}}
-|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=18|deaths=25|time=75}}
-|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=18|deaths=16|time=107}}
-|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=17|deaths=28|time=55}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=26|deaths=23|time=40}}
-|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=18|deaths=21|time=57}}
-|red3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=27|deaths=25|time=43}}
-|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=21|deaths=25|time=54}}
-|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=26|deaths=21|time=92}}
+|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=26|deaths=24|time=66|defends=7}}
+|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=35|deaths=25|time=92|defends=11}}
+|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=18|deaths=25|time=75|defends=9}}
+|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=18|deaths=16|time=107|defends=6}}
+|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=17|deaths=28|time=55|defends=9}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=26|deaths=23|time=40|defends=8}}
+|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=18|deaths=21|time=57|defends=6}}
+|red3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=27|deaths=25|time=43|defends=8}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=21|deaths=25|time=54|defends=6}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=26|deaths=21|time=92|defends=5}}
 }}
 {{Scoreboard|team1=Gen.G|team2=Team Reciprocity|team1score=6|team2score=3
 |gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=12:23
@@ -40,16 +40,16 @@
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=15|deaths=13|caps=2}}
 }}
 {{Scoreboard|team1=Gen.G|team2=Team Reciprocity|team1score=250|team2score=157
-|gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=10:1
-|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=23|deaths=20|time=138}}
-|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=26|deaths=23|time=54}}
-|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=20|deaths=17|time=29}}
-|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=19|deaths=17|time=102}}
-|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=29|deaths=21|time=26}}
-|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=26|deaths=18|time=52}}
-|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=18|deaths=21|time=66}}
-|red3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=19|deaths=30|time=29}}
-|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=18|deaths=23|time=28}}
-|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=17|deaths=25|time=39}}
+|gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=10:01
+|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=23|deaths=20|time=138|defends=7}}
+|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=26|deaths=23|time=54|defends=11}}
+|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=20|deaths=17|time=29|defends=6}}
+|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=19|deaths=17|time=102|defends=5}}
+|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=29|deaths=21|time=26|defends=5}}
+|red1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=26|deaths=18|time=52|defends=4}}
+|red2={{Scoreboard/Player|name=Denz|link=Denz|kills=18|deaths=21|time=66|defends=6}}
+|red3={{Scoreboard/Player|name=Dylan|link=Dylan|kills=19|deaths=30|time=29|defends=8}}
+|red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=18|deaths=23|time=28|defends=5}}
+|red5={{Scoreboard/Player|name=Zed|link=Zed|kills=17|deaths=25|time=39|defends=4}}
 }}
 {{Box|end}}

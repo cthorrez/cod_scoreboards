@@ -2,19 +2,19 @@
 {{Scoreboard/Header|eUnited|OpTic Gaming|title=Black Ops 4|date=2019-05-05|time=0751|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=OpTic Gaming|team1score=250|team2score=197
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:40
-|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=20|deaths=18|time=52}}
-|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=22|deaths=16|time=103}}
-|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=26|deaths=21|time=68}}
-|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=15|deaths=26|time=64}}
-|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=31|deaths=18|time=60}}
-|red1={{Scoreboard/Player|name=C6|link=C6|kills=22|deaths=21|time=62}}
-|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=21|deaths=20|time=57}}
-|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=21|deaths=24|time=43}}
-|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=15|deaths=22|time=39}}
-|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=20|deaths=28|time=38}}
+|blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=20|deaths=18|time=52|defends=7}}
+|blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=22|deaths=16|time=103|defends=6}}
+|blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=26|deaths=21|time=68|defends=4}}
+|blue4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=15|deaths=26|time=64|defends=6}}
+|blue5={{Scoreboard/Player|name=Simp|link=Simp|kills=31|deaths=18|time=60|defends=7}}
+|red1={{Scoreboard/Player|name=C6|link=C6|kills=22|deaths=21|time=62|defends=5}}
+|red2={{Scoreboard/Player|name=Dashy|link=Dashy|kills=21|deaths=20|time=57|defends=5}}
+|red3={{Scoreboard/Player|name=Karma|link=Karma|kills=21|deaths=24|time=43|defends=6}}
+|red4={{Scoreboard/Player|name=Scump|link=Scump|kills=15|deaths=22|time=39|defends=4}}
+|red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=20|deaths=28|time=38|defends=4}}
 }}
 {{Scoreboard|team1=eUnited|team2=OpTic Gaming|team1score=6|team2score=4
-|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=14:7
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=14:07
 |blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=9|deaths=7|plants=1|defuses=0}}
 |blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=6|deaths=7|plants=0|defuses=0}}
 |blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=9|deaths=9|plants=0|defuses=0}}

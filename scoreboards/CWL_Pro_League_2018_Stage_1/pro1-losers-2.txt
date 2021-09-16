@@ -1,94 +1,94 @@
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|eUnited|FaZe Clan|title=World War II|date=2018-04-07|time=1601|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=eUnited|team2=FaZe Clan|team1score=145|team2score=250
+{{ScoreboardWWII/Header|eUnited|FaZe Clan|title=World War II|date=2018-04-07|time=1601|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=eUnited|team2=FaZe Clan|team1score=145|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=9:43
-|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=22|deaths=26|time=79}}
-|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=29|deaths=31|time=37}}
-|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=25|deaths=34|time=73}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=16|deaths=31|time=31}}
-|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=38|deaths=19|time=48}}
-|red2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=26|deaths=26|time=103}}
-|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=26|deaths=23|time=64}}
-|red4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=32|deaths=24|time=92}}
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=22|deaths=26|time=1:19|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=29|deaths=31|time=0:37|defends=2}}
+|blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=25|deaths=34|time=1:13|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=16|deaths=31|time=0:31|defends=2}}
+|purple1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=38|deaths=19|time=0:48|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=26|deaths=26|time=1:43|defends=3}}
+|purple3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=26|deaths=23|time=1:04|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=32|deaths=24|time=1:32|defends=0}}
 }}
-{{Scoreboard|team1=eUnited|team2=FaZe Clan|team1score=6|team2score=4
+{{ScoreboardWWII|team1=eUnited|team2=FaZe Clan|team1score=6|team2score=4
 |gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=9:10
-|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=8|deaths=7|plants=1|defuses=0}}
-|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=9|deaths=7|plants=0|defuses=0}}
-|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=7|deaths=8|plants=0|defuses=0}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=5|deaths=7|plants=2|defuses=0}}
-|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=8|deaths=7|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=3|deaths=8|plants=1|defuses=0}}
-|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=7|deaths=6|plants=0|defuses=0}}
-|red4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=11|deaths=8|plants=0|defuses=0}}
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=8|deaths=7|plants=1|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=9|deaths=7|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=7|deaths=8|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=5|deaths=7|plants=2|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=8|deaths=7|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=3|deaths=8|plants=1|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=7|deaths=6|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=11|deaths=8|plants=0|defuses=0}}
 }}
-{{Scoreboard|team1=eUnited|team2=FaZe Clan|team1score=3|team2score=2
+{{ScoreboardWWII|team1=eUnited|team2=FaZe Clan|team1score=3|team2score=2
 |gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=9:59
-|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=15|deaths=16|caps=1|returns=0}}
-|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=24|deaths=15|caps=0|returns=0}}
-|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=20|deaths=18|caps=1|returns=3}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=15|deaths=18|caps=1|returns=0}}
-|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=19|deaths=18|caps=0|returns=1}}
-|red2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=13|deaths=17|caps=1|returns=0}}
-|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=16|deaths=18|caps=0|returns=1}}
-|red4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=19|deaths=21|caps=1|returns=0}}
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=15|deaths=16|caps=1|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=24|deaths=15|caps=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=20|deaths=18|caps=1|returns=3}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=15|deaths=18|caps=1|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=19|deaths=18|caps=0|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=13|deaths=17|caps=1|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=16|deaths=18|caps=0|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=19|deaths=21|caps=1|returns=0}}
 }}
-{{Scoreboard|team1=eUnited|team2=FaZe Clan|team1score=105|team2score=250
+{{ScoreboardWWII|team1=eUnited|team2=FaZe Clan|team1score=105|team2score=250
 |gamename=Game 4|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=8:22
-|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=15|deaths=21|time=31}}
-|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=18|deaths=19|time=62}}
-|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=24|deaths=25|time=14}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=16|deaths=24|time=12}}
-|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=26|deaths=16|time=85}}
-|red2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=24|deaths=18|time=70}}
-|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=16|deaths=16|time=98}}
-|red4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=23|deaths=23|time=13}}
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=15|deaths=21|time=0:31|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=18|deaths=19|time=1:02|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=24|deaths=25|time=0:14|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=16|deaths=24|time=0:12|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=26|deaths=16|time=1:25|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=24|deaths=18|time=1:10|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=16|deaths=16|time=1:38|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=23|deaths=23|time=0:13|defends=0}}
 }}
-{{Scoreboard|team1=eUnited|team2=FaZe Clan|team1score=4|team2score=6
+{{ScoreboardWWII|team1=eUnited|team2=FaZe Clan|team1score=4|team2score=6
 |gamename=Game 5|map=London Docks|gamemode=Search and Destroy|maptime=10:28
-|blue1={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=4|deaths=8|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=Clayster|link=Clayster|kills=9|deaths=5|plants=0|defuses=0}}
-|blue3={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=3|deaths=9|plants=1|defuses=0}}
-|blue4={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=11|deaths=6|plants=2|defuses=0}}
-|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=7|deaths=7|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=7|deaths=6|plants=2|defuses=0}}
-|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=4|deaths=6|plants=1|defuses=0}}
-|red4={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=10|deaths=8|plants=0|defuses=1}}
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=4|deaths=8|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=9|deaths=5|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=3|deaths=9|plants=1|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=11|deaths=6|plants=2|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=7|deaths=7|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=7|deaths=6|plants=2|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=4|deaths=6|plants=1|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=10|deaths=8|plants=0|defuses=1}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|Red Reserve|Team Kaliber|title=World War II|date=2018-04-07|time=1738|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=Red Reserve|team2=Team Kaliber|team1score=108|team2score=250
+{{ScoreboardWWII/Header|Red Reserve|Team Kaliber|title=World War II|date=2018-04-07|time=1738|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Red Reserve|team2=Team Kaliber|team1score=108|team2score=250
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=8:34
-|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=11|deaths=30|time=22}}
-|blue2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=25|deaths=25|time=25}}
-|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=13|deaths=23|time=39}}
-|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=12|deaths=26|time=31}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=19|deaths=12|time=142}}
-|red2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=36|deaths=12|time=29}}
-|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=24|deaths=18|time=2}}
-|red4={{Scoreboard/Player|name=Theory|link=Theory|kills=25|deaths=19|time=82}}
+|blue1={{ScoreboardWWII/Player|name=Joee|link=Joee|kills=11|deaths=30|time=0:22|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Joshh|link=Joshh|kills=25|deaths=25|time=0:25|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=13|deaths=23|time=0:39|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=12|deaths=26|time=0:31|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=19|deaths=12|time=2:22|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=36|deaths=12|time=0:29|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=24|deaths=18|time=0:02|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=25|deaths=19|time=1:22|defends=0}}
 }}
-{{Scoreboard|team1=Red Reserve|team2=Team Kaliber|team1score=2|team2score=6
+{{ScoreboardWWII|team1=Red Reserve|team2=Team Kaliber|team1score=2|team2score=6
 |gamename=Game 2|map=USS Texas|gamemode=Search and Destroy|maptime=7:13
-|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=2|deaths=5|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=3|deaths=6|plants=0|defuses=0}}
-|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=6|deaths=7|plants=2|defuses=0}}
-|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=3|deaths=8|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=7|deaths=4|plants=3|defuses=0}}
-|red2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=4|deaths=3|plants=0|defuses=0}}
-|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=5|deaths=4|plants=0|defuses=0}}
-|red4={{Scoreboard/Player|name=Theory|link=Theory|kills=10|deaths=3|plants=0|defuses=0}}
+|blue1={{ScoreboardWWII/Player|name=Joee|link=Joee|kills=2|deaths=5|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Joshh|link=Joshh|kills=3|deaths=6|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=6|deaths=7|plants=2|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=3|deaths=8|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=7|deaths=4|plants=3|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=4|deaths=3|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=5|deaths=4|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=10|deaths=3|plants=0|defuses=0}}
 }}
-{{Scoreboard|team1=Red Reserve|team2=Team Kaliber|team1score=1|team2score=7
+{{ScoreboardWWII|team1=Red Reserve|team2=Team Kaliber|team1score=1|team2score=7
 |gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:26
-|blue1={{Scoreboard/Player|name=Joee|link=Joee|kills=15|deaths=21|caps=0|returns=0}}
-|blue2={{Scoreboard/Player|name=Joshh|link=Joshh|kills=11|deaths=23|caps=1|returns=0}}
-|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=12|deaths=20|caps=0|returns=1}}
-|blue4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=12|deaths=19|caps=0|returns=0}}
-|red1={{Scoreboard/Player|name=Accuracy|link=Accuracy|kills=15|deaths=14|caps=3|returns=0}}
-|red2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=21|deaths=11|caps=2|returns=1}}
-|red3={{Scoreboard/Player|name=Kenny|link=Kenny|kills=25|deaths=12|caps=0|returns=0}}
-|red4={{Scoreboard/Player|name=Theory|link=Theory|kills=22|deaths=13|caps=2|returns=0}}
+|blue1={{ScoreboardWWII/Player|name=Joee|link=Joee|kills=15|deaths=21|caps=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Joshh|link=Joshh|kills=11|deaths=23|caps=1|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=12|deaths=20|caps=0|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=12|deaths=19|caps=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=15|deaths=14|caps=3|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=21|deaths=11|caps=2|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=25|deaths=12|caps=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=22|deaths=13|caps=2|returns=0}}
 }}
 {{Box|end}}

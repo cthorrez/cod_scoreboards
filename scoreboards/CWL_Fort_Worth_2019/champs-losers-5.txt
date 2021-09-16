@@ -2,16 +2,16 @@
 {{Scoreboard/Header|Team Reciprocity|Red Reserve|title=Black Ops 4|date=2019-03-17|time=0806|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Reciprocity|team2=Red Reserve|team1score=250|team2score=166
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:10
-|blue1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=28|deaths=18|time=63}}
-|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=17|deaths=15|time=23}}
-|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=21|deaths=19|time=64}}
-|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=21|deaths=18|time=68}}
-|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=18|deaths=15|time=124}}
-|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=16|deaths=20|time=101}}
-|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=12|deaths=23|time=32}}
-|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=15|deaths=19|time=47}}
-|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=29|deaths=20|time=52}}
-|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=12|deaths=23|time=19}}
+|blue1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=28|deaths=18|time=63|defends=7}}
+|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=17|deaths=15|time=23|defends=1}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=21|deaths=19|time=64|defends=8}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=21|deaths=18|time=68|defends=2}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=18|deaths=15|time=124|defends=3}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=16|deaths=20|time=101|defends=5}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=12|deaths=23|time=32|defends=5}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=15|deaths=19|time=47|defends=5}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=29|deaths=20|time=52|defends=10}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=12|deaths=23|time=19|defends=4}}
 }}
 {{Scoreboard|team1=Team Reciprocity|team2=Red Reserve|team1score=1|team2score=6
 |gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=10:19
@@ -41,16 +41,16 @@
 }}
 {{Scoreboard|team1=Team Reciprocity|team2=Red Reserve|team1score=228|team2score=250
 |gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=11:14
-|blue1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=27|deaths=28|time=81}}
-|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=24|deaths=26|time=41}}
-|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=21|deaths=31|time=56}}
-|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=27|deaths=21|time=101}}
-|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=21|deaths=26|time=78}}
-|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=25|deaths=20|time=72}}
-|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=22|deaths=30|time=60}}
-|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=25|deaths=21|time=114}}
-|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=27|deaths=24|time=47}}
-|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=32|deaths=25|time=46}}
+|blue1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=27|deaths=28|time=81|defends=8}}
+|blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=24|deaths=26|time=41|defends=9}}
+|blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=21|deaths=31|time=56|defends=7}}
+|blue4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=27|deaths=21|time=101|defends=5}}
+|blue5={{Scoreboard/Player|name=Zed|link=Zed|kills=21|deaths=26|time=78|defends=7}}
+|red1={{Scoreboard/Player|name=Bance|link=Bance|kills=25|deaths=20|time=72|defends=14}}
+|red2={{Scoreboard/Player|name=Joee|link=Joee|kills=22|deaths=30|time=60|defends=6}}
+|red3={{Scoreboard/Player|name=Rated|link=Rated|kills=25|deaths=21|time=114|defends=7}}
+|red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=27|deaths=24|time=47|defends=13}}
+|red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=32|deaths=25|time=46|defends=13}}
 }}
 {{Scoreboard|team1=Team Reciprocity|team2=Red Reserve|team1score=6|team2score=2
 |gamename=Game 5|map=Payload|gamemode=Search and Destroy|maptime=12:50
@@ -69,16 +69,16 @@
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Enigma6 Group|title=Black Ops 4|date=2019-03-17|time=0803|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Enigma6 Group|team1score=250|team2score=221
-|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=12:1
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=19|deaths=29|time=60}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=32|deaths=32|time=34}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=32|deaths=28|time=41}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=41|deaths=29|time=96}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=26|deaths=30|time=108}}
-|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=27|deaths=30|time=121}}
-|red2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=27|deaths=29|time=45}}
-|red3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=29|deaths=27|time=76}}
-|red4={{Scoreboard/Player|name=General|link=General|kills=32|deaths=31|time=47}}
-|red5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=33|deaths=33|time=25}}
+|gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=12:01
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=19|deaths=29|time=60|defends=15}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=32|deaths=32|time=34|defends=16}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=32|deaths=28|time=41|defends=13}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=41|deaths=29|time=96|defends=10}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=26|deaths=30|time=108|defends=12}}
+|red1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=27|deaths=30|time=121|defends=11}}
+|red2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=27|deaths=29|time=45|defends=10}}
+|red3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=29|deaths=27|time=76|defends=4}}
+|red4={{Scoreboard/Player|name=General|link=General|kills=32|deaths=31|time=47|defends=11}}
+|red5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=33|deaths=33|time=25|defends=13}}
 }}
 {{Box|end}}

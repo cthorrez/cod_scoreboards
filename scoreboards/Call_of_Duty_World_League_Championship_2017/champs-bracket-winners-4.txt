@@ -1,47 +1,47 @@
 {{Box|start|padding=2em}}
-{{Scoreboard/Header|OpTic Gaming|Team Envy|title=Infinite Warfare|date=2017-08-13|time=0837|timezone=PST|dst=Yes}}
-{{Scoreboard|team1=OpTic Gaming|team2=Team Envy|team1score=250|team2score=195
+{{ScoreboardIW/Header|OpTic Gaming|Team Envy|title=Infinite Warfare|date=2017-08-13|time=0837|timezone=PST|dst=Yes}}
+{{ScoreboardIW|team1=OpTic Gaming|team2=Team Envy|team1score=250|team2score=195
 |gamename=Game 1|map=Throwback|gamemode=Hardpoint|maptime=11:59
-|blue1={{Scoreboard/Player|name=C6|link=C6|kills=17|deaths=29|time=56}}
-|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=44|deaths=30|time=38}}
-|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=25|deaths=30|time=91}}
-|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=45|deaths=27|time=99}}
-|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=30|deaths=31|time=58}}
-|red2={{Scoreboard/Player|name=JKap|link=JKap|kills=19|deaths=35|time=55}}
-|red3={{Scoreboard/Player|name=John|link=John|kills=25|deaths=33|time=43}}
-|red4={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=42|deaths=32|time=66}}
+|blue1={{ScoreboardIW/Player|name=C6|link=C6|kills=17|deaths=29|time=0:56|defends=2|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=FormaL|link=FormaL|kills=44|deaths=30|time=0:38|defends=2|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=Karma|link=Karma|kills=25|deaths=30|time=1:31|defends=1|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=Scump|link=Scump|kills=45|deaths=27|time=1:39|defends=3|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=Apathy|link=Apathy|kills=30|deaths=31|time=0:58|defends=2|icon=Reactive Armor}}
+|purple2={{ScoreboardIW/Player|name=JKap|link=JKap|kills=19|deaths=35|time=0:55|defends=4|icon=Centurion}}
+|purple3={{ScoreboardIW/Player|name=John|link=John|kills=25|deaths=33|time=0:43|defends=2|icon=FTL Jump}}
+|purple4={{ScoreboardIW/Player|name=SlasheR|link=SlasheR|kills=42|deaths=32|time=1:06|defends=4|icon=Active Camo}}
 }}
-{{Scoreboard|team1=OpTic Gaming|team2=Team Envy|team1score=2|team2score=6
+{{ScoreboardIW|team1=OpTic Gaming|team2=Team Envy|team1score=2|team2score=6
 |gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=11:38
-|blue1={{Scoreboard/Player|name=C6|link=C6|kills=3|deaths=6|plants=0|defuses=0}}
-|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=6|deaths=7|plants=0|defuses=0}}
-|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=1|deaths=7|plants=2|defuses=0}}
-|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=6|deaths=7|plants=0|defuses=0}}
-|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=11|deaths=3|plants=0|defuses=0}}
-|red2={{Scoreboard/Player|name=JKap|link=JKap|kills=5|deaths=5|plants=1|defuses=1}}
-|red3={{Scoreboard/Player|name=John|link=John|kills=5|deaths=4|plants=0|defuses=0}}
-|red4={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=6|deaths=4|plants=0|defuses=0}}
+|blue1={{ScoreboardIW/Player|name=C6|link=C6|kills=3|deaths=6|plants=0|defuses=0|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=FormaL|link=FormaL|kills=6|deaths=7|plants=0|defuses=0|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=Karma|link=Karma|kills=1|deaths=7|plants=2|defuses=0|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=Scump|link=Scump|kills=6|deaths=7|plants=0|defuses=0|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=Apathy|link=Apathy|kills=11|deaths=3|plants=0|defuses=0|icon=Reactive Armor}}
+|purple2={{ScoreboardIW/Player|name=JKap|link=JKap|kills=5|deaths=5|plants=1|defuses=1|icon=Centurion}}
+|purple3={{ScoreboardIW/Player|name=John|link=John|kills=5|deaths=4|plants=0|defuses=0|icon=FTL Jump}}
+|purple4={{ScoreboardIW/Player|name=SlasheR|link=SlasheR|kills=6|deaths=4|plants=0|defuses=0|icon=Active Camo}}
 }}
-{{Scoreboard|team1=OpTic Gaming|team2=Team Envy|team1score=2|team2score=4
+{{ScoreboardIW|team1=OpTic Gaming|team2=Team Envy|team1score=2|team2score=4
 |gamename=Game 3|map=Frost|gamemode=Uplink|maptime=10:25
-|blue1={{Scoreboard/Player|name=C6|link=C6|kills=14|deaths=28|carries=0|throws=1|score=1}}
-|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=28|deaths=24|carries=0|throws=1|score=1}}
-|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=21|deaths=31|carries=0|throws=0|score=0}}
-|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=29|deaths=26|carries=0|throws=0|score=0}}
-|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=30|deaths=20|carries=0|throws=0|score=0}}
-|red2={{Scoreboard/Player|name=JKap|link=JKap|kills=19|deaths=25|carries=1|throws=0|score=2}}
-|red3={{Scoreboard/Player|name=John|link=John|kills=30|deaths=24|carries=0|throws=0|score=0}}
-|red4={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=29|deaths=23|carries=1|throws=0|score=2}}
+|blue1={{ScoreboardIW/Player|name=C6|link=C6|kills=14|deaths=28|carries=0|throws=1|score=1|icon=Overdrive}}
+|blue2={{ScoreboardIW/Player|name=FormaL|link=FormaL|kills=28|deaths=24|carries=0|throws=1|score=1|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=Karma|link=Karma|kills=21|deaths=31|carries=0|throws=0|score=0|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=Scump|link=Scump|kills=29|deaths=26|carries=0|throws=0|score=0|icon=Centurion}}
+|purple1={{ScoreboardIW/Player|name=Apathy|link=Apathy|kills=30|deaths=20|carries=0|throws=0|score=0|icon=Centurion}}
+|purple2={{ScoreboardIW/Player|name=JKap|link=JKap|kills=19|deaths=25|carries=1|throws=0|score=2|icon=Overdrive}}
+|purple3={{ScoreboardIW/Player|name=John|link=John|kills=30|deaths=24|carries=0|throws=0|score=0|icon=FTL Jump}}
+|purple4={{ScoreboardIW/Player|name=SlasheR|link=SlasheR|kills=29|deaths=23|carries=1|throws=0|score=2|icon=Active Camo}}
 }}
-{{Scoreboard|team1=OpTic Gaming|team2=Team Envy|team1score=161|team2score=250
-|gamename=Game 4|map=Scorch|gamemode=Hardpoint|maptime=9:7
-|blue1={{Scoreboard/Player|name=C6|link=C6|kills=16|deaths=22|time=58}}
-|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=14|deaths=20|time=58}}
-|blue3={{Scoreboard/Player|name=Karma|link=Karma|kills=28|deaths=20|time=49}}
-|blue4={{Scoreboard/Player|name=Scump|link=Scump|kills=13|deaths=27|time=24}}
-|red1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=27|deaths=17|time=47}}
-|red2={{Scoreboard/Player|name=JKap|link=JKap|kills=14|deaths=19|time=101}}
-|red3={{Scoreboard/Player|name=John|link=John|kills=15|deaths=21|time=85}}
-|red4={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=33|deaths=14|time=107}}
+{{ScoreboardIW|team1=OpTic Gaming|team2=Team Envy|team1score=161|team2score=250
+|gamename=Game 4|map=Scorch|gamemode=Hardpoint|maptime=9:07
+|blue1={{ScoreboardIW/Player|name=C6|link=C6|kills=16|deaths=22|time=0:58|defends=3|icon=Centurion}}
+|blue2={{ScoreboardIW/Player|name=FormaL|link=FormaL|kills=14|deaths=20|time=0:58|defends=0|icon=FTL Jump}}
+|blue3={{ScoreboardIW/Player|name=Karma|link=Karma|kills=28|deaths=20|time=0:49|defends=2|icon=Active Camo}}
+|blue4={{ScoreboardIW/Player|name=Scump|link=Scump|kills=13|deaths=27|time=0:24|defends=1|icon=Reactive Armor}}
+|purple1={{ScoreboardIW/Player|name=Apathy|link=Apathy|kills=27|deaths=17|time=0:47|defends=1|icon=Reactive Armor}}
+|purple2={{ScoreboardIW/Player|name=JKap|link=JKap|kills=14|deaths=19|time=1:41|defends=5|icon=Centurion}}
+|purple3={{ScoreboardIW/Player|name=John|link=John|kills=15|deaths=21|time=1:25|defends=2|icon=FTL Jump}}
+|purple4={{ScoreboardIW/Player|name=SlasheR|link=SlasheR|kills=33|deaths=14|time=1:47|defends=6|icon=Active Camo}}
 }}
 {{Box|end}}

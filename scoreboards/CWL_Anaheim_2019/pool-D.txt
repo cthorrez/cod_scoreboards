@@ -2,16 +2,16 @@
 {{Scoreboard/Header|100 Thieves|Luminosity Gaming|title=Black Ops 4|date=2019-06-14|time=1545|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Luminosity Gaming|team1score=250|team2score=159
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:35
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=24|deaths=23|time=77}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=27|deaths=24|time=46}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=38|deaths=17|time=116}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=32|deaths=27|time=64}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=25|deaths=26|time=31}}
-|red1={{Scoreboard/Player|name=Classic|link=Classic|kills=20|deaths=30|time=28}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=33|deaths=29|time=24}}
-|red3={{Scoreboard/Player|name=John|link=John|kills=24|deaths=28|time=53}}
-|red4={{Scoreboard/Player|name=Ricky|link=Ricky|kills=23|deaths=31|time=72}}
-|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=17|deaths=28|time=47}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=24|deaths=23|time=77|defends=6}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=27|deaths=24|time=46|defends=11}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=38|deaths=17|time=116|defends=12}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=32|deaths=27|time=64|defends=4}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=25|deaths=26|time=31|defends=9}}
+|red1={{Scoreboard/Player|name=Classic|link=Classic|kills=20|deaths=30|time=28|defends=2}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=33|deaths=29|time=24|defends=14}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=24|deaths=28|time=53|defends=6}}
+|red4={{Scoreboard/Player|name=Ricky|link=Ricky|kills=23|deaths=31|time=72|defends=8}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=17|deaths=28|time=47|defends=4}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=Luminosity Gaming|team1score=6|team2score=3
 |gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=9:34
@@ -44,19 +44,19 @@
 {{Scoreboard/Header|Gen.G|Team Envy|title=Black Ops 4|date=2019-06-14|time=1612|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Gen.G|team2=Team Envy|team1score=250|team2score=173
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:32
-|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=31|deaths=21|time=80}}
-|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=23|deaths=21|time=74}}
-|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=21|deaths=21|time=47}}
-|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=25|deaths=22|time=35}}
-|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=19|deaths=23|time=93}}
-|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=25|deaths=22|time=61}}
-|red2={{Scoreboard/Player|name=Decemate|link=Decemate|kills=22|deaths=23|time=55}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=27|deaths=21|time=18}}
-|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=16|deaths=26|time=41}}
-|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=18|deaths=27|time=64}}
+|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=31|deaths=21|time=80|defends=7}}
+|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=23|deaths=21|time=74|defends=4}}
+|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=21|deaths=21|time=47|defends=5}}
+|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=25|deaths=22|time=35|defends=7}}
+|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=19|deaths=23|time=93|defends=5}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=25|deaths=22|time=61|defends=8}}
+|red2={{Scoreboard/Player|name=Decemate|link=Decemate|kills=22|deaths=23|time=55|defends=12}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=27|deaths=21|time=18|defends=13}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=16|deaths=26|time=41|defends=11}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=18|deaths=27|time=64|defends=5}}
 }}
 {{Scoreboard|team1=Gen.G|team2=Team Envy|team1score=6|team2score=3
-|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=13:3
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=13:03
 |blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=11|deaths=5|plants=1|defuses=0}}
 |blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=7|deaths=6|plants=1|defuses=1}}
 |blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=5|deaths=8|plants=0|defuses=0}}
@@ -86,16 +86,16 @@
 {{Scoreboard/Header|100 Thieves|Team Envy|title=Black Ops 4|date=2019-06-14|time=1801|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Team Envy|team1score=250|team2score=224
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:52
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=22|deaths=23|time=87}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=30|deaths=20|time=45}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=25|deaths=24|time=63}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=26|deaths=27|time=69}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=24|deaths=25|time=114}}
-|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=18|deaths=25|time=118}}
-|red2={{Scoreboard/Player|name=Decemate|link=Decemate|kills=24|deaths=23|time=67}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=22|deaths=28|time=51}}
-|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=25|deaths=26|time=45}}
-|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=30|deaths=25|time=43}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=22|deaths=23|time=87|defends=6}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=30|deaths=20|time=45|defends=6}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=25|deaths=24|time=63|defends=9}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=26|deaths=27|time=69|defends=6}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=24|deaths=25|time=114|defends=9}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=18|deaths=25|time=118|defends=7}}
+|red2={{Scoreboard/Player|name=Decemate|link=Decemate|kills=24|deaths=23|time=67|defends=6}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=22|deaths=28|time=51|defends=6}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=25|deaths=26|time=45|defends=8}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=30|deaths=25|time=43|defends=7}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=Team Envy|team1score=6|team2score=2
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=9:30
@@ -127,17 +127,17 @@
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Gen.G|Luminosity Gaming|title=Black Ops 4|date=2019-06-14|time=1811|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Gen.G|team2=Luminosity Gaming|team1score=250|team2score=144
-|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:1
-|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=28|deaths=17|time=104}}
-|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=20|deaths=17|time=44}}
-|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=14|deaths=17|time=46}}
-|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=24|deaths=12|time=115}}
-|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=20|deaths=18|time=72}}
-|red1={{Scoreboard/Player|name=Classic|link=Classic|kills=12|deaths=21|time=50}}
-|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=15|deaths=24|time=18}}
-|red3={{Scoreboard/Player|name=John|link=John|kills=20|deaths=18|time=42}}
-|red4={{Scoreboard/Player|name=Ricky|link=Ricky|kills=15|deaths=20|time=60}}
-|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=19|deaths=23|time=51}}
+|gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:01
+|blue1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=28|deaths=17|time=104|defends=1}}
+|blue2={{Scoreboard/Player|name=Havok|link=Havok|kills=20|deaths=17|time=44|defends=4}}
+|blue3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=14|deaths=17|time=46|defends=4}}
+|blue4={{Scoreboard/Player|name=Maux|link=Maux|kills=24|deaths=12|time=115|defends=3}}
+|blue5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=20|deaths=18|time=72|defends=2}}
+|red1={{Scoreboard/Player|name=Classic|link=Classic|kills=12|deaths=21|time=50|defends=1}}
+|red2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=15|deaths=24|time=18|defends=4}}
+|red3={{Scoreboard/Player|name=John|link=John|kills=20|deaths=18|time=42|defends=3}}
+|red4={{Scoreboard/Player|name=Ricky|link=Ricky|kills=15|deaths=20|time=60|defends=4}}
+|red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=19|deaths=23|time=51|defends=3}}
 }}
 {{Scoreboard|team1=Gen.G|team2=Luminosity Gaming|team1score=6|team2score=3
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=12:32
@@ -170,16 +170,16 @@
 {{Scoreboard/Header|100 Thieves|Gen.G|title=Black Ops 4|date=2019-06-14|time=2023|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Gen.G|team1score=250|team2score=187
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=11:51
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=29|deaths=24|time=81}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=37|deaths=25|time=40}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=29|deaths=25|time=98}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=22|deaths=32|time=75}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=39|deaths=26|time=85}}
-|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=28|deaths=34|time=55}}
-|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=27|deaths=29|time=33}}
-|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=30|deaths=28|time=64}}
-|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=17|deaths=32|time=66}}
-|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=30|deaths=33|time=33}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=29|deaths=24|time=81|defends=4}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=37|deaths=25|time=40|defends=12}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=29|deaths=25|time=98|defends=14}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=22|deaths=32|time=75|defends=10}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=39|deaths=26|time=85|defends=12}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=28|deaths=34|time=55|defends=8}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=27|deaths=29|time=33|defends=4}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=30|deaths=28|time=64|defends=16}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=17|deaths=32|time=66|defends=6}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=30|deaths=33|time=33|defends=10}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=Gen.G|team1score=6|team2score=2
 |gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=10:17
@@ -209,32 +209,32 @@
 }}
 {{Scoreboard|team1=100 Thieves|team2=Gen.G|team1score=250|team2score=179
 |gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=10:52
-|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=31|deaths=26|time=32}}
-|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=26|deaths=26|time=61}}
-|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=20|deaths=23|time=107}}
-|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=27|deaths=29|time=94}}
-|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=31|deaths=27|time=66}}
-|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=27|deaths=30|time=68}}
-|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=35|deaths=25|time=51}}
-|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=26|deaths=29|time=57}}
-|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=21|deaths=26|time=57}}
-|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=22|deaths=26|time=77}}
+|blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=31|deaths=26|time=32|defends=9}}
+|blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=26|deaths=26|time=61|defends=6}}
+|blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=20|deaths=23|time=107|defends=6}}
+|blue4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=27|deaths=29|time=94|defends=7}}
+|blue5={{Scoreboard/Player|name=SlasheR|link=SlasheR|kills=31|deaths=27|time=66|defends=10}}
+|red1={{Scoreboard/Player|name=Envoy|link=Envoy|kills=27|deaths=30|time=68|defends=12}}
+|red2={{Scoreboard/Player|name=Havok|link=Havok|kills=35|deaths=25|time=51|defends=16}}
+|red3={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=26|deaths=29|time=57|defends=11}}
+|red4={{Scoreboard/Player|name=Maux|link=Maux|kills=21|deaths=26|time=57|defends=8}}
+|red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=22|deaths=26|time=77|defends=12}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Luminosity Gaming|Team Envy|title=Black Ops 4|date=2019-06-14|time=2053|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Luminosity Gaming|team2=Team Envy|team1score=250|team2score=136
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=8:53
-|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=25|deaths=16|time=75}}
-|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=26|deaths=19|time=79}}
-|blue3={{Scoreboard/Player|name=John|link=John|kills=28|deaths=15|time=74}}
-|blue4={{Scoreboard/Player|name=Ricky|link=Ricky|kills=21|deaths=16|time=88}}
-|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=22|deaths=16|time=115}}
-|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=16|deaths=26|time=13}}
-|red2={{Scoreboard/Player|name=Decemate|link=Decemate|kills=18|deaths=19|time=63}}
-|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=16|deaths=28|time=37}}
-|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=16|deaths=23|time=24}}
-|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=16|deaths=26|time=35}}
+|blue1={{Scoreboard/Player|name=Classic|link=Classic|kills=25|deaths=16|time=75|defends=9}}
+|blue2={{Scoreboard/Player|name=FormaL|link=FormaL|kills=26|deaths=19|time=79|defends=5}}
+|blue3={{Scoreboard/Player|name=John|link=John|kills=28|deaths=15|time=74|defends=7}}
+|blue4={{Scoreboard/Player|name=Ricky|link=Ricky|kills=21|deaths=16|time=88|defends=3}}
+|blue5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=22|deaths=16|time=115|defends=5}}
+|red1={{Scoreboard/Player|name=ACHES|link=ACHES|kills=16|deaths=26|time=13|defends=8}}
+|red2={{Scoreboard/Player|name=Decemate|link=Decemate|kills=18|deaths=19|time=63|defends=2}}
+|red3={{Scoreboard/Player|name=Fero|link=Fero|kills=16|deaths=28|time=37|defends=4}}
+|red4={{Scoreboard/Player|name=Huke|link=Huke|kills=16|deaths=23|time=24|defends=2}}
+|red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=16|deaths=26|time=35|defends=4}}
 }}
 {{Scoreboard|team1=Luminosity Gaming|team2=Team Envy|team1score=6|team2score=3
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=12:29

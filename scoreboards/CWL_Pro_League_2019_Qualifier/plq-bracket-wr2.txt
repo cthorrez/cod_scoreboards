@@ -2,16 +2,16 @@
 {{Scoreboard/Header|Red Reserve|Team Space|title=Black Ops 4|date=2019-01-20|time=1045|timezone=PST|dst=No}}
 {{Scoreboard|team1=Red Reserve|team2=Team Space|team1score=250|team2score=185
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:40
-|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=12|deaths=20|time=32}}
-|blue2={{Scoreboard/Player|name=Joee|link=Joee|kills=23|deaths=16|time=55}}
-|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=17|deaths=20|time=124}}
-|blue4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=27|deaths=22|time=88}}
-|blue5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=31|deaths=18|time=62}}
-|red1={{Scoreboard/Player|name=Havok|link=Havok|kills=20|deaths=24|time=49}}
-|red2={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=22|deaths=20|time=31}}
-|red3={{Scoreboard/Player|name=Maux|link=Maux|kills=20|deaths=20|time=56}}
-|red4={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=16|deaths=22|time=79}}
-|red5={{Scoreboard/Player|name=Spacely|link=Spacely|kills=18|deaths=24|time=29}}
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=12|deaths=20|time=32|defends=6}}
+|blue2={{Scoreboard/Player|name=Joee|link=Joee|kills=23|deaths=16|time=55|defends=12}}
+|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=17|deaths=20|time=124|defends=1}}
+|blue4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=27|deaths=22|time=88|defends=10}}
+|blue5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=31|deaths=18|time=62|defends=9}}
+|red1={{Scoreboard/Player|name=Havok|link=Havok|kills=20|deaths=24|time=49|defends=9}}
+|red2={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=22|deaths=20|time=31|defends=9}}
+|red3={{Scoreboard/Player|name=Maux|link=Maux|kills=20|deaths=20|time=56|defends=7}}
+|red4={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=16|deaths=22|time=79|defends=6}}
+|red5={{Scoreboard/Player|name=Spacely|link=Spacely|kills=18|deaths=24|time=29|defends=7}}
 }}
 {{Scoreboard|team1=Red Reserve|team2=Team Space|team1score=4|team2score=6
 |gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=11:51
@@ -41,32 +41,32 @@
 }}
 {{Scoreboard|team1=Red Reserve|team2=Team Space|team1score=167|team2score=250
 |gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=9:24
-|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=15|deaths=24|time=41}}
-|blue2={{Scoreboard/Player|name=Joee|link=Joee|kills=18|deaths=26|time=46}}
-|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=22|deaths=17|time=47}}
-|blue4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=22|deaths=24|time=63}}
-|blue5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=21|deaths=28|time=57}}
-|red1={{Scoreboard/Player|name=Havok|link=Havok|kills=28|deaths=20|time=91}}
-|red2={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=28|deaths=16|time=142}}
-|red3={{Scoreboard/Player|name=Maux|link=Maux|kills=17|deaths=21|time=73}}
-|red4={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=13|deaths=19|time=49}}
-|red5={{Scoreboard/Player|name=Spacely|link=Spacely|kills=33|deaths=22|time=68}}
+|blue1={{Scoreboard/Player|name=Bance|link=Bance|kills=15|deaths=24|time=41|defends=11}}
+|blue2={{Scoreboard/Player|name=Joee|link=Joee|kills=18|deaths=26|time=46|defends=9}}
+|blue3={{Scoreboard/Player|name=Rated|link=Rated|kills=22|deaths=17|time=47|defends=6}}
+|blue4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=22|deaths=24|time=63|defends=15}}
+|blue5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=21|deaths=28|time=57|defends=10}}
+|red1={{Scoreboard/Player|name=Havok|link=Havok|kills=28|deaths=20|time=91|defends=4}}
+|red2={{Scoreboard/Player|name=MajorManiak|link=MajorManiak|kills=28|deaths=16|time=142|defends=5}}
+|red3={{Scoreboard/Player|name=Maux|link=Maux|kills=17|deaths=21|time=73|defends=4}}
+|red4={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=13|deaths=19|time=49|defends=2}}
+|red5={{Scoreboard/Player|name=Spacely|link=Spacely|kills=33|deaths=22|time=68|defends=9}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Team Overtime	|Team Sween|title=Black Ops 4|date=2019-01-20|time=1051|timezone=PST|dst=No}}
 {{Scoreboard|team1=Team Overtime	|team2=Team Sween|team1score=250|team2score=175
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=10:33
-|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=21|deaths=28|time=91}}
-|blue2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=24|deaths=28|time=87}}
-|blue3={{Scoreboard/Player|name=RizK|link=RizK|kills=28|deaths=24|time=97}}
-|blue4={{Scoreboard/Player|name=Wailers|link=Wailers|kills=33|deaths=12|time=103}}
-|blue5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=35|deaths=21|time=73}}
-|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=21|deaths=27|time=37}}
-|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=35|deaths=26|time=75}}
-|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=20|deaths=29|time=33}}
-|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=21|deaths=29|time=54}}
-|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=16|deaths=30|time=64}}
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=21|deaths=28|time=91|defends=8}}
+|blue2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=24|deaths=28|time=87|defends=7}}
+|blue3={{Scoreboard/Player|name=RizK|link=RizK|kills=28|deaths=24|time=97|defends=10}}
+|blue4={{Scoreboard/Player|name=Wailers|link=Wailers|kills=33|deaths=12|time=103|defends=11}}
+|blue5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=35|deaths=21|time=73|defends=5}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=21|deaths=27|time=37|defends=4}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=35|deaths=26|time=75|defends=9}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=20|deaths=29|time=33|defends=13}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=21|deaths=29|time=54|defends=9}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=16|deaths=30|time=64|defends=7}}
 }}
 {{Scoreboard|team1=Team Overtime	|team2=Team Sween|team1score=3|team2score=6
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=13:32
@@ -82,7 +82,7 @@
 |red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=10|deaths=4|plants=1|defuses=0}}
 }}
 {{Scoreboard|team1=Team Overtime	|team2=Team Sween|team1score=0|team2score=3
-|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=8:1
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=8:01
 |blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=9|deaths=16|caps=1}}
 |blue2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=10|deaths=12|caps=1}}
 |blue3={{Scoreboard/Player|name=RizK|link=RizK|kills=11|deaths=13|caps=1}}
@@ -96,32 +96,32 @@
 }}
 {{Scoreboard|team1=Team Overtime	|team2=Team Sween|team1score=164|team2score=250
 |gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=9:34
-|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=19|deaths=20|time=90}}
-|blue2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=19|deaths=21|time=62}}
-|blue3={{Scoreboard/Player|name=RizK|link=RizK|kills=17|deaths=19|time=31}}
-|blue4={{Scoreboard/Player|name=Wailers|link=Wailers|kills=16|deaths=23|time=2}}
-|blue5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=25|deaths=18|time=54}}
-|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=15|deaths=16|time=95}}
-|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=23|deaths=23|time=57}}
-|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=33|deaths=17|time=76}}
-|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=16|deaths=19|time=88}}
-|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=14|deaths=21|time=37}}
+|blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=19|deaths=20|time=90|defends=6}}
+|blue2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=19|deaths=21|time=62|defends=5}}
+|blue3={{Scoreboard/Player|name=RizK|link=RizK|kills=17|deaths=19|time=31|defends=6}}
+|blue4={{Scoreboard/Player|name=Wailers|link=Wailers|kills=16|deaths=23|time=2|defends=4}}
+|blue5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=25|deaths=18|time=54|defends=7}}
+|red1={{Scoreboard/Player|name=Braaain|link=Braaain|kills=15|deaths=16|time=95|defends=7}}
+|red2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=23|deaths=23|time=57|defends=4}}
+|red3={{Scoreboard/Player|name=Nolson|link=Nolson|kills=33|deaths=17|time=76|defends=8}}
+|red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=16|deaths=19|time=88|defends=4}}
+|red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=14|deaths=21|time=37|defends=7}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|G2 Esports|Mindfreak|title=Black Ops 4|date=2019-01-20|time=1054|timezone=PST|dst=No}}
 {{Scoreboard|team1=G2 Esports|team2=Mindfreak|team1score=213|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:16
-|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=19|deaths=28|time=38}}
-|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=23|deaths=26|time=43}}
-|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=23|deaths=20|time=68}}
-|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=23|deaths=24|time=68}}
-|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=21|deaths=21|time=86}}
-|red1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=20|deaths=24|time=44}}
-|red2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=21|deaths=25|time=67}}
-|red3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=30|deaths=20|time=113}}
-|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=17|deaths=19|time=75}}
-|red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=31|deaths=21|time=89}}
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=19|deaths=28|time=38|defends=9}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=23|deaths=26|time=43|defends=10}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=23|deaths=20|time=68|defends=5}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=23|deaths=24|time=68|defends=11}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=21|deaths=21|time=86|defends=8}}
+|red1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=20|deaths=24|time=44|defends=7}}
+|red2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=21|deaths=25|time=67|defends=7}}
+|red3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=30|deaths=20|time=113|defends=13}}
+|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=17|deaths=19|time=75|defends=6}}
+|red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=31|deaths=21|time=89|defends=6}}
 }}
 {{Scoreboard|team1=G2 Esports|team2=Mindfreak|team1score=3|team2score=6
 |gamename=Game 2|map=Arsenal|gamemode=Search and Destroy|maptime=11:59
@@ -151,32 +151,32 @@
 }}
 {{Scoreboard|team1=G2 Esports|team2=Mindfreak|team1score=225|team2score=250
 |gamename=Game 4|map=Hacienda|gamemode=Hardpoint|maptime=11:38
-|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=24|deaths=30|time=63}}
-|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=26|deaths=29|time=23}}
-|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=36|deaths=31|time=69}}
-|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=30|deaths=30|time=89}}
-|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=19|deaths=30|time=105}}
-|red1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=25|deaths=26|time=63}}
-|red2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=33|deaths=28|time=65}}
-|red3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=30|deaths=32|time=73}}
-|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=30|deaths=25|time=55}}
-|red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=32|deaths=24|time=113}}
+|blue1={{Scoreboard/Player|name=Blazt|link=Blazt|kills=24|deaths=30|time=63|defends=9}}
+|blue2={{Scoreboard/Player|name=Cheen|link=Cheen|kills=26|deaths=29|time=23|defends=10}}
+|blue3={{Scoreboard/Player|name=Decemate|link=Decemate|kills=36|deaths=31|time=69|defends=11}}
+|blue4={{Scoreboard/Player|name=Lacefield|link=Lacefield|kills=30|deaths=30|time=89|defends=16}}
+|blue5={{Scoreboard/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=19|deaths=30|time=105|defends=7}}
+|red1={{Scoreboard/Player|name=Beastn|link=Beastn|kills=25|deaths=26|time=63|defends=9}}
+|red2={{Scoreboard/Player|name=Fighta|link=Fighta|kills=33|deaths=28|time=65|defends=9}}
+|red3={{Scoreboard/Player|name=Louqa|link=Louqa|kills=30|deaths=32|time=73|defends=4}}
+|red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=30|deaths=25|time=55|defends=8}}
+|red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=32|deaths=24|time=113|defends=7}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|Excelerate Gaming|FaZe Clan|title=Black Ops 4|date=2019-01-20|time=1058|timezone=PST|dst=No}}
 {{Scoreboard|team1=Excelerate Gaming|team2=FaZe Clan|team1score=157|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:16
-|blue1={{Scoreboard/Player|name=Beehzy|link=Beehzy|kills=16|deaths=18|time=45}}
-|blue2={{Scoreboard/Player|name=Believe|link=Believe|kills=10|deaths=17|time=27}}
-|blue3={{Scoreboard/Player|name=FA5TBALLA|link=FA5TBALLA|kills=20|deaths=23|time=65}}
-|blue4={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=19|deaths=15|time=37}}
-|blue5={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=20|deaths=20|time=53}}
-|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=18|deaths=19|time=74}}
-|red2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=14|deaths=18|time=81}}
-|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=22|deaths=13|time=123}}
-|red4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=19|deaths=20|time=49}}
-|red5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=20|deaths=16|time=62}}
+|blue1={{Scoreboard/Player|name=Beehzy|link=Beehzy|kills=16|deaths=18|time=45|defends=6}}
+|blue2={{Scoreboard/Player|name=Believe|link=Believe|kills=10|deaths=17|time=27|defends=1}}
+|blue3={{Scoreboard/Player|name=FA5TBALLA|link=FA5TBALLA|kills=20|deaths=23|time=65|defends=2}}
+|blue4={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=19|deaths=15|time=37|defends=5}}
+|blue5={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=20|deaths=20|time=53|defends=4}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=18|deaths=19|time=74|defends=2}}
+|red2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=14|deaths=18|time=81|defends=1}}
+|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=22|deaths=13|time=123|defends=3}}
+|red4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=19|deaths=20|time=49|defends=1}}
+|red5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=20|deaths=16|time=62|defends=7}}
 }}
 {{Scoreboard|team1=Excelerate Gaming|team2=FaZe Clan|team1score=6|team2score=4
 |gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=14:22
@@ -206,16 +206,16 @@
 }}
 {{Scoreboard|team1=Excelerate Gaming|team2=FaZe Clan|team1score=119|team2score=250
 |gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=8:33
-|blue1={{Scoreboard/Player|name=Beehzy|link=Beehzy|kills=12|deaths=16|time=18}}
-|blue2={{Scoreboard/Player|name=Believe|link=Believe|kills=18|deaths=13|time=25}}
-|blue3={{Scoreboard/Player|name=FA5TBALLA|link=FA5TBALLA|kills=17|deaths=19|time=25}}
-|blue4={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=11|deaths=19|time=41}}
-|blue5={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=16|deaths=19|time=29}}
-|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=11|deaths=15|time=55}}
-|red2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=16|deaths=15|time=44}}
-|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=21|deaths=11|time=120}}
-|red4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=19|deaths=15|time=40}}
-|red5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=19|deaths=18|time=71}}
+|blue1={{Scoreboard/Player|name=Beehzy|link=Beehzy|kills=12|deaths=16|time=18|defends=4}}
+|blue2={{Scoreboard/Player|name=Believe|link=Believe|kills=18|deaths=13|time=25|defends=5}}
+|blue3={{Scoreboard/Player|name=FA5TBALLA|link=FA5TBALLA|kills=17|deaths=19|time=25|defends=5}}
+|blue4={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=11|deaths=19|time=41|defends=2}}
+|blue5={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=16|deaths=19|time=29|defends=5}}
+|red1={{Scoreboard/Player|name=Attach|link=Attach|kills=11|deaths=15|time=55|defends=4}}
+|red2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=16|deaths=15|time=44|defends=2}}
+|red3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=21|deaths=11|time=120|defends=4}}
+|red4={{Scoreboard/Player|name=Priestahh|link=Priestahh|kills=19|deaths=15|time=40|defends=4}}
+|red5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=19|deaths=18|time=71|defends=0}}
 }}
 {{Scoreboard|team1=Excelerate Gaming|team2=FaZe Clan|team1score=6|team2score=2
 |gamename=Game 5|map=Gridlock|gamemode=Search and Destroy|maptime=9:55
