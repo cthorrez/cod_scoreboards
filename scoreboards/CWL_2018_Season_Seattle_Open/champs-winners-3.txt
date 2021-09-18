@@ -33,4 +33,4 @@
 |purple3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=18|deaths=17|caps=1|returns=1}}
 |purple4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=18|deaths=14|caps=3|returns=0}}
 }}
-{{Box|end}}
+

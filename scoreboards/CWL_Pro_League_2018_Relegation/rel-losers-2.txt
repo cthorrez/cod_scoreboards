@@ -55,8 +55,8 @@
 |purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=8|deaths=4|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=9|deaths=5|plants=2|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Epsilon Esports EU|Team Vitality|title=World War II|date=2018-04-19|time=1850|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=Team Vitality|team1score=250|team2score=92
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=8:30

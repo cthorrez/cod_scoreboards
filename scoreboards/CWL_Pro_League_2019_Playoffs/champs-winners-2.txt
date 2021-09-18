@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Maux|link=Maux|kills=27|deaths=22|time=85|defends=8}}
 |red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=27|deaths=29|time=61|defends=6}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FaZe Clan|Luminosity Gaming|title=Black Ops 4|date=2019-07-20|time=1531|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=FaZe Clan|team2=Luminosity Gaming|team1score=219|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:17

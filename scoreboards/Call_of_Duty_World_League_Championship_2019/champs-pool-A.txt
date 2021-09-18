@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=29|deaths=18|time=70|defends=5}}
 |red5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=26|deaths=21|time=50|defends=7}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|eUnited|Rebel Esports|title=Black Ops 4|date=2019-08-14|time=1019|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=Rebel Esports|team1score=250|team2score=64
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=6:21
@@ -123,8 +123,8 @@
 |red4={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=12|deaths=5|caps=2}}
 |red5={{Scoreboard/Player|name=Simp|link=Simp|kills=12|deaths=7|caps=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Elevate|Rebel Esports|title=Black Ops 4|date=2019-08-14|time=1602|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Elevate|team2=Rebel Esports|team1score=250|team2score=145
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:15
@@ -233,8 +233,8 @@
 |red4={{Scoreboard/Player|name=HumanJesus|link=HumanJesus|kills=15|deaths=17|time=94|defends=2}}
 |red5={{Scoreboard/Player|name=KlinK|link=KlinK|kills=20|deaths=19|time=81|defends=8}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Elevate|eUnited|title=Black Ops 4|date=2019-08-15|time=1306|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Elevate|team2=eUnited|team1score=245|team2score=224
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=12:49

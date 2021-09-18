@@ -44,8 +44,8 @@
 |purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=39|deaths=23|time=0:44|defends=2}}
 |purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=36|deaths=30|time=0:34|defends=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Luminosity Gaming|UNILAD Esports|title=World War II|date=2018-02-06|time=1442|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=UNILAD Esports|team1score=250|team2score=122
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=8:38
@@ -149,8 +149,8 @@
 |purple3={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=6|deaths=8|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=NAMELESS|link=NAMELESS|kills=5|deaths=8|plants=0|defuses=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|eUnited|Splyce|title=World War II|date=2018-02-06|time=1802|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=eUnited|team2=Splyce|team1score=250|team2score=199
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=10:29
@@ -243,8 +243,8 @@
 |purple3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=18|deaths=11|caps=0|returns=1}}
 |purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=12|deaths=11|caps=1|returns=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Splyce|UNILAD Esports|title=World War II|date=2018-02-07|time=1308|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=Splyce|team2=UNILAD Esports|team1score=247|team2score=250
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=11:00
@@ -326,8 +326,8 @@
 |purple3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=21|deaths=15|caps=0|returns=1}}
 |purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=20|deaths=17|caps=2|returns=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|FaZe Clan|Splyce|title=World War II|date=2018-02-07|time=1523|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Splyce|team1score=127|team2score=250
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=10:04
@@ -431,8 +431,8 @@
 |purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=28|deaths=25|time=1:14|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=23|deaths=30|time=1:34|defends=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|eUnited|FaZe Clan|title=World War II|date=2018-02-07|time=1824|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=eUnited|team2=FaZe Clan|team1score=89|team2score=250
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=9:28
@@ -503,8 +503,8 @@
 |purple3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=22|deaths=19|caps=0|returns=2}}
 |purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=14|deaths=20|caps=2|returns=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Team Envy|UNILAD Esports|title=World War II|date=2018-02-08|time=1409|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=Team Envy|team2=UNILAD Esports|team1score=250|team2score=218
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=9:40
@@ -586,8 +586,8 @@
 |purple3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=16|deaths=12|caps=0|returns=1}}
 |purple4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=18|deaths=16|caps=1|returns=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|eUnited|Luminosity Gaming|title=World War II|date=2018-02-08|time=1639|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=eUnited|team2=Luminosity Gaming|team1score=250|team2score=225
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=12:56

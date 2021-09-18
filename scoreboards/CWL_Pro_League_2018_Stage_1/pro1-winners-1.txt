@@ -33,8 +33,8 @@
 |purple3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=17|deaths=22|caps=0|returns=2}}
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=18|deaths=22|caps=1|returns=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Luminosity Gaming|Red Reserve|title=World War II|date=2018-04-06|time=1420|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=Red Reserve|team1score=133|team2score=250
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=7:49
@@ -138,8 +138,8 @@
 |purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=22|deaths=25|time=0:27|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=17|deaths=21|time=1:04|defends=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|FaZe Clan|Team Kaliber|title=World War II|date=2018-04-06|time=1712|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Team Kaliber|team1score=250|team2score=245
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=13:14

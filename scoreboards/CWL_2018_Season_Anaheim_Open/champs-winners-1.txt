@@ -33,8 +33,8 @@
 |purple3={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=14|deaths=22|caps=0|returns=1}}
 |purple4={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=10|deaths=20|caps=0|returns=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|FaZe Clan|UNILAD Esports|title=World War II|date=2018-06-16|time=1924|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=FaZe Clan|team2=UNILAD Esports|team1score=182|team2score=250
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=10:43
@@ -105,8 +105,8 @@
 |purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=22|deaths=20|caps=0|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=18|deaths=19|caps=0|returns=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Luminosity Gaming|OpTic Gaming|title=World War II|date=2018-06-16|time=2027|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=OpTic Gaming|team1score=168|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=10:48

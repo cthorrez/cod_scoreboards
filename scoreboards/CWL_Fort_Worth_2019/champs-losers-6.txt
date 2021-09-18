@@ -52,4 +52,4 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=15|deaths=17|time=50|defends=5}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=32|deaths=17|time=110|defends=9}}
 }}
-{{Box|end}}
+

@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=JKap|link=JKap|kills=12|deaths=14|caps=3}}
 |red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=17|deaths=13|caps=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|Luminosity Gaming|title=Black Ops 4|date=2019-08-17|time=1746|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=130|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:50

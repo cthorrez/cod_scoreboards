@@ -13,8 +13,8 @@
 |red4={{Scoreboard/Player|name=Proto|link=Proto|kills=11|deaths=17|caps=0}}
 |red5={{Scoreboard/Player|name=Royalty|link=Royalty|kills=9|deaths=16|caps=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Elevate|Midnight Esports|title=Black Ops 4|date=2019-05-03|time=0831|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Elevate|team2=Midnight Esports|team1score=2|team2score=3
 |gamename=Game 1|map=Arsenal|gamemode=Control|maptime=16:46
@@ -84,8 +84,8 @@
 |red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=26|deaths=25|caps=3}}
 |red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=19|deaths=24|caps=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Midnight Esports|UYU|title=Black Ops 4|date=2019-05-03|time=1124|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Midnight Esports|team2=UYU|team1score=250|team2score=239
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:19
@@ -207,8 +207,8 @@
 |red4={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=14|deaths=19|time=23|defends=2}}
 |red5={{Scoreboard/Player|name=Parasite|link=Parasite|kills=10|deaths=17|time=61|defends=4}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Elevate|UYU|title=Black Ops 4|date=2019-05-03|time=1423|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Elevate|team2=UYU|team1score=250|team2score=228
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:59

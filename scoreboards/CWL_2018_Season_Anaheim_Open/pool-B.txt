@@ -55,8 +55,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=9|deaths=5|plants=1|defuses=1}}
 |purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=4|deaths=6|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|FaZe Clan|Tainted Minds|title=World War II|date=2018-06-15|time=1730|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Tainted Minds|team1score=250|team2score=184
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=10:36
@@ -138,8 +138,8 @@
 |purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=22|deaths=15|time=1:46|defends=2}}
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=27|deaths=19|time=0:54|defends=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Epsilon Esports EU|Team Kaliber|title=World War II|date=2018-06-15|time=1830|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=Team Kaliber|team1score=113|team2score=250
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=9:35
@@ -243,8 +243,8 @@
 |purple3={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=4|deaths=7|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=7|deaths=7|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Complexity Gaming|OpTic Gaming|title=World War II|date=2018-06-15|time=1842|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Complexity Gaming|team2=OpTic Gaming|team1score=176|team2score=250
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=10:26
@@ -337,8 +337,8 @@
 |purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=38|deaths=35|time=0:18|defends=1}}
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=42|deaths=31|time=0:54|defends=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|eUnited|Tainted Minds|title=World War II|date=2018-06-15|time=1946|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=eUnited|team2=Tainted Minds|team1score=230|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:39
@@ -442,8 +442,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=7|deaths=7|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=7|deaths=5|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Evil Geniuses|UNILAD Esports|title=World War II|date=2018-06-15|time=2025|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=UNILAD Esports|team1score=235|team2score=250
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=11:33

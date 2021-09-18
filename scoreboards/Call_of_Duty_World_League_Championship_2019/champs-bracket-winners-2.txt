@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=JKap|link=JKap|kills=7|deaths=7|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=5|deaths=9|plants=1|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Sicario Gaming|Units|title=Black Ops 4|date=2019-08-17|time=1004|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Sicario Gaming|team2=Units|team1score=146|team2score=250
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=8:31
@@ -188,8 +188,8 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=12|deaths=7|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=10|deaths=9|plants=3|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|OpTic Gaming|title=Black Ops 4|date=2019-08-17|time=1151|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=OpTic Gaming|team1score=127|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:19

@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=2|deaths=6|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=3|deaths=6|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|Mindfreak|title=Black Ops 4|date=2019-01-16|time=1057|timezone=PST|dst=No}}
 {{Scoreboard|team1=Evil Geniuses|team2=Mindfreak|team1score=3|team2score=1
 |gamename=Game 1|map=Arsenal|gamemode=Control|maptime=11:45
@@ -149,8 +149,8 @@
 |red4={{Scoreboard/Player|name=Slater|link=Slater|kills=12|deaths=21|time=9|defends=7}}
 |red5={{Scoreboard/Player|name=Zinx|link=Zinx|kills=14|deaths=17|time=37|defends=7}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|The Imperial|Movistar Riders	|title=Black Ops 4|date=2019-01-16|time=1350|timezone=PST|dst=No}}
 {{Scoreboard|team1=The Imperial|team2=Movistar Riders	|team1score=180|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:56
@@ -285,8 +285,8 @@
 |red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=6|deaths=4|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=5|deaths=4|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Red Reserve|UYU|title=Black Ops 4|date=2019-01-16|time=1636|timezone=PST|dst=No}}
 {{Scoreboard|team1=Red Reserve|team2=UYU|team1score=167|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:40
@@ -395,8 +395,8 @@
 |red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=23|deaths=25|time=37|defends=6}}
 |red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=27|deaths=23|time=68|defends=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Nation of Power|UYU|title=Black Ops 4|date=2019-01-17|time=0908|timezone=PST|dst=No}}
 {{Scoreboard|team1=Nation of Power|team2=UYU|team1score=171|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:42
@@ -479,8 +479,8 @@
 |red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=16|deaths=20|caps=1}}
 |red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=20|deaths=17|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|The Imperial|Red Reserve|title=Black Ops 4|date=2019-01-17|time=1215|timezone=PST|dst=No}}
 {{Scoreboard|team1=The Imperial|team2=Red Reserve|team1score=250|team2score=240
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:45
@@ -550,8 +550,8 @@
 |red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=19|deaths=21|caps=2}}
 |red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=29|deaths=24|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|Red Reserve|title=Black Ops 4|date=2019-01-17|time=1524|timezone=PST|dst=No}}
 {{Scoreboard|team1=Evil Geniuses|team2=Red Reserve|team1score=250|team2score=144
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:40
@@ -660,8 +660,8 @@
 |red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=33|deaths=21|caps=2}}
 |red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=15|deaths=21|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Mindfreak|Red Reserve|title=Black Ops 4|date=2019-01-18|time=1305|timezone=PST|dst=No}}
 {{Scoreboard|team1=Mindfreak|team2=Red Reserve|team1score=125|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=7:58
@@ -783,8 +783,8 @@
 |red4={{Scoreboard/Player|name=Slater|link=Slater|kills=5|deaths=6|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Zinx|link=Zinx|kills=5|deaths=6|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Mindfreak|UYU|title=Black Ops 4|date=2019-01-19|time=0922|timezone=PST|dst=No}}
 {{Scoreboard|team1=Mindfreak|team2=UYU|team1score=250|team2score=162
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:29
@@ -893,8 +893,8 @@
 |red4={{Scoreboard/Player|name=Sammy|link=Sammy|kills=18|deaths=17|caps=1}}
 |red5={{Scoreboard/Player|name=Supraaz|link=Supraaz|kills=15|deaths=17|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|The Imperial|title=Black Ops 4|date=2019-01-19|time=1145|timezone=PST|dst=No}}
 {{Scoreboard|team1=Evil Geniuses|team2=The Imperial|team1score=220|team2score=250
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:59
@@ -990,4 +990,4 @@
 |red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=12|deaths=13|caps=2}}
 |red5={{Scoreboard/Player|name=Spoof|link=Spoof|kills=17|deaths=15|caps=0}}
 }}
-{{Box|end}}
+

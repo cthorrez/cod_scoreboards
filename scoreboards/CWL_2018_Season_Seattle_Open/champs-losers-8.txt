@@ -33,4 +33,4 @@
 |purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=19|deaths=13|caps=1|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=21|deaths=18|caps=2|returns=0}}
 }}
-{{Box|end}}
+

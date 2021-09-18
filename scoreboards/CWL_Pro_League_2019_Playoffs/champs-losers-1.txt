@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=JKap|link=JKap|kills=6|deaths=6|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=3|deaths=7|plants=2|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Heretics|Splyce|title=Black Ops 4|date=2019-07-20|time=1246|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Heretics|team2=Splyce|team1score=235|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:59

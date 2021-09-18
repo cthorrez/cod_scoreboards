@@ -55,8 +55,8 @@
 |purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=1|deaths=6|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=1|deaths=7|plants=1|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Epsilon Esports EU|Evil Geniuses|title=World War II|date=2018-06-26|time=1258|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=Evil Geniuses|team1score=214|team2score=250
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=10:00
@@ -149,8 +149,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=25|deaths=20|time=2:01|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=31|deaths=24|time=0:34|defends=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Echo Fox|Evil Geniuses|title=World War II|date=2018-06-26|time=1531|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Echo Fox|team2=Evil Geniuses|team1score=250|team2score=204
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:14
@@ -232,8 +232,8 @@
 |purple3={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=29|deaths=18|time=1:30|defends=3}}
 |purple4={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=31|deaths=25|time=0:58|defends=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Evil Geniuses|Red Reserve|title=World War II|date=2018-06-27|time=1105|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=Red Reserve|team1score=211|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:18
@@ -337,8 +337,8 @@
 |purple3={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=27|deaths=33|time=0:27|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=37|deaths=32|time=0:49|defends=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Epsilon Esports EU|FaZe Clan|title=World War II|date=2018-06-27|time=1428|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=FaZe Clan|team1score=156|team2score=250
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=9:01
@@ -442,8 +442,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=5|deaths=10|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=4|deaths=9|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|FaZe Clan|Splyce|title=World War II|date=2018-06-27|time=1738|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Splyce|team1score=250|team2score=231
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:43
@@ -514,8 +514,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=21|deaths=12|caps=1|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=12|deaths=11|caps=0|returns=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Evil Geniuses|Splyce|title=World War II|date=2018-06-28|time=1206|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=Splyce|team1score=237|team2score=224
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=13:13
@@ -597,8 +597,8 @@
 |purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=24|deaths=28|time=0:32|defends=1}}
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=34|deaths=34|time=1:21|defends=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Echo Fox|Team Envy|title=World War II|date=2018-06-28|time=1443|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Echo Fox|team2=Team Envy|team1score=242|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=12:33

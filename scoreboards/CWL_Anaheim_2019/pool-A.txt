@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=27|deaths=26|time=38|defends=7}}
 |red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=29|deaths=22|time=81|defends=8}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|OpTic Gaming|Units|title=Black Ops 4|date=2019-06-14|time=1403|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=OpTic Gaming|team2=Units|team1score=232|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=12:26
@@ -175,8 +175,8 @@
 |red4={{Scoreboard/Player|name=Scump|link=Scump|kills=13|deaths=15|time=84|defends=5}}
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=22|deaths=11|time=69|defends=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Heretics|Units|title=Black Ops 4|date=2019-06-14|time=1650|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Heretics|team2=Units|team1score=250|team2score=196
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=9:53
@@ -259,8 +259,8 @@
 |red4={{Scoreboard/Player|name=Scump|link=Scump|kills=15|deaths=14|caps=3}}
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=30|deaths=8|caps=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|Units|title=Black Ops 4|date=2019-06-14|time=1955|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Evil Geniuses|team2=Units|team1score=250|team2score=233
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:36

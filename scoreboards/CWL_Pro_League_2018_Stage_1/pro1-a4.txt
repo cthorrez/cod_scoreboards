@@ -33,8 +33,8 @@
 |purple3={{ScoreboardWWII/Player|name=Wailers|link=Wailers|kills=22|deaths=20|caps=0|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=Zayrox|link=Zayrox|kills=17|deaths=16|caps=0|returns=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Mindfreak|Team Kaliber|title=World War II|date=2018-02-27|time=1412|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=Mindfreak|team2=Team Kaliber|team1score=250|team2score=74
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=7:36
@@ -138,8 +138,8 @@
 |purple3={{ScoreboardWWII/Player|name=Wailers|link=Wailers|kills=13|deaths=7|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Zayrox|link=Zayrox|kills=4|deaths=8|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Echo Fox|OpTic Gaming|title=World War II|date=2018-02-27|time=1713|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=Echo Fox|team2=OpTic Gaming|team1score=250|team2score=232
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=11:54
@@ -232,8 +232,8 @@
 |purple3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=27|deaths=17|time=2:24|defends=1}}
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=34|deaths=31|time=0:52|defends=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|eRa Eternity|Mindfreak|title=World War II|date=2018-02-28|time=1304|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=eRa Eternity|team2=Mindfreak|team1score=250|team2score=193
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=9:19
@@ -348,8 +348,8 @@
 |purple3={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=5|deaths=8|plants=1|defuses=2}}
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=10|deaths=7|plants=1|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Rise Nation|Team Vitality|title=World War II|date=2018-02-28|time=1636|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=Rise Nation|team2=Team Vitality|team1score=250|team2score=114
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=8:00
@@ -431,8 +431,8 @@
 |purple3={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=29|deaths=26|time=0:46|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=19|deaths=32|time=1:16|defends=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Echo Fox|Team Kaliber|title=World War II|date=2018-02-28|time=1854|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=Echo Fox|team2=Team Kaliber|team1score=106|team2score=250
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=7:32
@@ -525,8 +525,8 @@
 |purple3={{ScoreboardWWII/Player|name=Wailers|link=Wailers|kills=16|deaths=19|caps=0|returns=1}}
 |purple4={{ScoreboardWWII/Player|name=Zayrox|link=Zayrox|kills=15|deaths=23|caps=0|returns=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Echo Fox|Mindfreak|title=World War II|date=2018-03-01|time=1402|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=Echo Fox|team2=Mindfreak|team1score=250|team2score=107
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=10:36
@@ -608,8 +608,8 @@
 |purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=19|deaths=15|caps=0|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=21|deaths=17|caps=0|returns=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|OpTic Gaming|Rise Nation|title=World War II|date=2018-03-01|time=1631|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=Rise Nation|team1score=155|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=9:01

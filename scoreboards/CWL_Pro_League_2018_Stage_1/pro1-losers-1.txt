@@ -55,8 +55,8 @@
 |purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=6|deaths=7|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=9|deaths=6|plants=2|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Red Reserve|Rise Nation|title=World War II|date=2018-04-07|time=1147|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Red Reserve|team2=Rise Nation|team1score=135|team2score=250
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=9:11

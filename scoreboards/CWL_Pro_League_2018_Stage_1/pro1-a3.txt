@@ -33,8 +33,8 @@
 |purple3={{ScoreboardWWII/Player|name=Wailers|link=Wailers|kills=21|deaths=17|caps=0|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=Zayrox|link=Zayrox|kills=13|deaths=21|caps=1|returns=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|eRa Eternity|Team Kaliber|title=World War II|date=2018-02-20|time=1416|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=eRa Eternity|team2=Team Kaliber|team1score=213|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:41
@@ -138,8 +138,8 @@
 |purple3={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=30|deaths=20|time=1:15|defends=5}}
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=27|deaths=27|time=1:11|defends=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Rise Nation|Team Kaliber|title=World War II|date=2018-02-20|time=1715|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=Rise Nation|team2=Team Kaliber|team1score=250|team2score=202
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=10:05
@@ -232,8 +232,8 @@
 |purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=5|deaths=8|plants=1|defuses=1}}
 |purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=10|deaths=7|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Team Kaliber|Team Vitality|title=World War II|date=2018-02-21|time=1302|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=Team Kaliber|team2=Team Vitality|team1score=250|team2score=28
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=5:51
@@ -326,8 +326,8 @@
 |purple3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=8|deaths=19|caps=1|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=23|deaths=21|caps=0|returns=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Echo Fox|eRa Eternity|title=World War II|date=2018-02-21|time=1533|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=Echo Fox|team2=eRa Eternity|team1score=154|team2score=250
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=9:21
@@ -431,8 +431,8 @@
 |purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=31|deaths=36|time=1:14|defends=1}}
 |purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=32|deaths=32|time=1:42|defends=4}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Red Reserve|Rise Nation|title=World War II|date=2018-02-21|time=1841|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=Red Reserve|team2=Rise Nation|team1score=227|team2score=250
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=10:55
@@ -525,8 +525,8 @@
 |purple3={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=14|deaths=11|caps=0|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=18|deaths=9|caps=0|returns=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Mindfreak|Team Vitality|title=World War II|date=2018-02-22|time=1402|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=Mindfreak|team2=Team Vitality|team1score=213|team2score=250
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=10:46
@@ -641,8 +641,8 @@
 |purple3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=8|deaths=6|plants=1|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=8|deaths=8|plants=0|defuses=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|OpTic Gaming|Team Kaliber|title=World War II|date=2018-02-22|time=1731|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=Team Kaliber|team1score=250|team2score=142
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=8:32

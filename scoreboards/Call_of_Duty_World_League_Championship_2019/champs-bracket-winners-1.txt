@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Insight|link=Insight|kills=21|deaths=24|time=36|defends=8}}
 |red5={{Scoreboard/Player|name=Keza|link=Keza|kills=22|deaths=26|time=52|defends=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Envy|Units|title=Black Ops 4|date=2019-08-16|time=1004|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Envy|team2=Units|team1score=250|team2score=249
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=12:11
@@ -175,8 +175,8 @@
 |red4={{Scoreboard/Player|name=Peatie|link=Peatie|kills=10|deaths=23|time=15|defends=6}}
 |red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=13|deaths=20|time=55|defends=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|Splyce|title=Black Ops 4|date=2019-08-16|time=1203|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Evil Geniuses|team2=Splyce|team1score=250|team2score=127
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:02
@@ -285,8 +285,8 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=21|deaths=16|time=100|defends=6}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=26|deaths=17|time=96|defends=7}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Luminosity Gaming|title=Black Ops 4|date=2019-08-16|time=1333|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Luminosity Gaming|team1score=154|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:56
@@ -382,8 +382,8 @@
 |red4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=15|deaths=13|caps=0}}
 |red5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=6|deaths=8|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Heretics|OpTic Gaming|title=Black Ops 4|date=2019-08-16|time=1454|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Heretics|team2=OpTic Gaming|team1score=77|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=8:02

@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=25|deaths=18|caps=2}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=17|deaths=25|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Gen.G|Luminosity Gaming|title=Black Ops 4|date=2019-03-16|time=1210|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Gen.G|team2=Luminosity Gaming|team1score=250|team2score=246
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:53
@@ -175,8 +175,8 @@
 |red4={{Scoreboard/Player|name=Loony|link=Loony|kills=7|deaths=9|plants=2|defuses=1}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=9|deaths=6|plants=1|defuses=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Red Reserve|Team Envy|title=Black Ops 4|date=2019-03-16|time=1402|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Red Reserve|team2=Team Envy|team1score=250|team2score=202
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:42

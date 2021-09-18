@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=Maux|link=Maux|kills=6|deaths=7|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=4|deaths=8|plants=2|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Heretics|OpTic Gaming|title=Black Ops 4|date=2019-05-04|time=1318|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Heretics|team2=OpTic Gaming|team1score=201|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:38

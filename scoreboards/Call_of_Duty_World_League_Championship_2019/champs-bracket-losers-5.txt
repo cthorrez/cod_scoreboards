@@ -39,4 +39,4 @@
 |red4={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=14|deaths=24|caps=0}}
 |red5={{Scoreboard/Player|name=Mayhem|link=Mayhem|kills=23|deaths=20|caps=0}}
 }}
-{{Box|end}}
+

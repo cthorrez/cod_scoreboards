@@ -33,4 +33,4 @@
 |purple3={{ScoreboardIW/Player|name=Karma|link=Karma|kills=20|deaths=18|carries=2|throws=1|score=5|icon=Active Camo}}
 |purple4={{ScoreboardIW/Player|name=Scump|link=Scump|kills=25|deaths=23|carries=1|throws=0|score=2|icon=Centurion}}
 }}
-{{Box|end}}
+

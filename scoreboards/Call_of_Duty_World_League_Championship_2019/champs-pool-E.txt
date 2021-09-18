@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=Reaper|link=Reaper|kills=14|deaths=18|caps=1}}
 |red5={{Scoreboard/Player|name=Willett|link=Willett|kills=15|deaths=20|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Luminosity Gaming|Team Singularity|title=Black Ops 4|date=2019-08-14|time=1329|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Luminosity Gaming|team2=Team Singularity|team1score=157|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:42
@@ -123,8 +123,8 @@
 |red4={{Scoreboard/Player|name=Reaper|link=Reaper|kills=12|deaths=13|caps=0}}
 |red5={{Scoreboard/Player|name=Willett|link=Willett|kills=9|deaths=15|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Luminosity Gaming|UYU|title=Black Ops 4|date=2019-08-15|time=1009|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Luminosity Gaming|team2=UYU|team1score=250|team2score=121
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=8:14
@@ -259,8 +259,8 @@
 |red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=5|deaths=6|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=8|deaths=5|plants=1|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Luminosity Gaming|Vanity|title=Black Ops 4|date=2019-08-15|time=1556|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Luminosity Gaming|team2=Vanity|team1score=250|team2score=81
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=7:24

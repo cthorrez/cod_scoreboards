@@ -44,8 +44,8 @@
 |purple3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=48|deaths=31|time=1:18|defends=5}}
 |purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=39|deaths=27|time=1:09|defends=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|OpTic Gaming|Team Kaliber|title=World War II|date=2018-04-07|time=1455|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=Team Kaliber|team1score=250|team2score=205
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:34

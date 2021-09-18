@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=6|deaths=6|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=6|deaths=5|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Tainted Minds|Team Space|title=Black Ops 4|date=2019-01-20|time=0904|timezone=PST|dst=No}}
 {{Scoreboard|team1=Tainted Minds|team2=Team Space|team1score=73|team2score=250
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=7:17
@@ -149,8 +149,8 @@
 |red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=19|deaths=21|caps=3}}
 |red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=15|deaths=21|caps=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Excelerate Gaming|Fact Revolution|title=Black Ops 4|date=2019-01-20|time=0909|timezone=PST|dst=No}}
 {{Scoreboard|team1=Excelerate Gaming|team2=Fact Revolution|team1score=250|team2score=163
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:27

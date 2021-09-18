@@ -55,8 +55,8 @@
 |purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=7|deaths=7|plants=1|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=3|deaths=7|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|FaZe Clan|OpTic Gaming|title=World War II|date=2018-04-08|time=1618|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=FaZe Clan|team2=OpTic Gaming|team1score=250|team2score=155
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=10:42

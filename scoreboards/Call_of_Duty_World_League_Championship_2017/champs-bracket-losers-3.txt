@@ -44,8 +44,8 @@
 |purple3={{ScoreboardIW/Player|name=FeLo|link=FeLo|kills=21|deaths=17|time=1:06|defends=4|icon=Centurion}}
 |purple4={{ScoreboardIW/Player|name=Loony|link=Loony|kills=25|deaths=17|time=0:50|defends=2|icon=Reactive Armor}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|Luminosity Gaming|Splyce|title=Infinite Warfare|date=2017-08-12|time=1339|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=Luminosity Gaming|team2=Splyce|team1score=250|team2score=211
 |gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=10:01

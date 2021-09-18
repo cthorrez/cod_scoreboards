@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=25|deaths=34|time=29|defends=3}}
 |red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=23|deaths=26|time=59|defends=6}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Carnage Gaming|Evil Geniuses|title=Black Ops 4|date=2019-08-14|time=1448|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Carnage Gaming|team2=Evil Geniuses|team1score=101|team2score=250
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=8:38
@@ -149,8 +149,8 @@
 |red4={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=18|deaths=21|time=52|defends=5}}
 |red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=17|deaths=20|time=40|defends=9}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Carnage Gaming|OpTic Gaming|title=Black Ops 4|date=2019-08-15|time=1145|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Carnage Gaming|team2=OpTic Gaming|team1score=250|team2score=231
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:52
@@ -246,8 +246,8 @@
 |red4={{Scoreboard/Player|name=Yako|link=YaKo (Iván Rodríguez)|kills=22|deaths=14|caps=2}}
 |red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=16|deaths=14|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|OpTic Gaming|title=Black Ops 4|date=2019-08-15|time=1721|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Evil Geniuses|team2=OpTic Gaming|team1score=246|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=11:11

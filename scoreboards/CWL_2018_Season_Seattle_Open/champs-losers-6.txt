@@ -55,8 +55,8 @@
 |purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=1|deaths=7|plants=1|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=7|deaths=5|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Ghost Gaming|Rise Nation|title=World War II|date=2018-04-22|time=1327|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Ghost Gaming|team2=Rise Nation|team1score=113|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=9:30

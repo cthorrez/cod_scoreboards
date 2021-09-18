@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=18|deaths=27|time=68|defends=12}}
 |red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=18|deaths=24|time=66|defends=8}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FaZe Clan|Splyce|title=Black Ops 4|date=2019-06-15|time=2033|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=FaZe Clan|team2=Splyce|team1score=250|team2score=171
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:01

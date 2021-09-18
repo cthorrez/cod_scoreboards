@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=13|deaths=19|time=49|defends=2}}
 |red5={{Scoreboard/Player|name=Spacely|link=Spacely|kills=33|deaths=22|time=68|defends=9}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Overtime	|Team Sween|title=Black Ops 4|date=2019-01-20|time=1051|timezone=PST|dst=No}}
 {{Scoreboard|team1=Team Overtime	|team2=Team Sween|team1score=250|team2score=175
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=10:33
@@ -162,8 +162,8 @@
 |red4={{Scoreboard/Player|name=Shockz|link=Shockz|kills=30|deaths=25|time=55|defends=8}}
 |red5={{Scoreboard/Player|name=Swifty|link=Swifty|kills=32|deaths=24|time=113|defends=7}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Excelerate Gaming|FaZe Clan|title=Black Ops 4|date=2019-01-20|time=1058|timezone=PST|dst=No}}
 {{Scoreboard|team1=Excelerate Gaming|team2=FaZe Clan|team1score=157|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:16

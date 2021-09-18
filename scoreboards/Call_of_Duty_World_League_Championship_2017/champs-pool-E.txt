@@ -44,8 +44,8 @@
 |purple3={{ScoreboardIW/Player|name=Nova|link=Nova (Dakota Williams)|kills=9|deaths=21|time=0:25|defends=1|icon=Centurion}}
 |purple4={{ScoreboardIW/Player|name=Spoof|link=Spoof|kills=21|deaths=22|time=1:09|defends=1|icon=FTL Jump}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|eRa Eternity|Red Reserve|title=Infinite Warfare|date=2017-08-09|time=0942|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=eRa Eternity|team2=Red Reserve|team1score=180|team2score=250
 |gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=9:10
@@ -116,8 +116,8 @@
 |purple3={{ScoreboardIW/Player|name=Gunless|link=Gunless|kills=25|deaths=24|carries=0|throws=0|score=0|icon=Active Camo}}
 |purple4={{ScoreboardIW/Player|name=ZooMaa|link=ZooMaa|kills=27|deaths=20|carries=0|throws=1|score=1|icon=Reactive Armor}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|Red Reserve|Team Allegiance|title=Infinite Warfare|date=2017-08-10|time=0703|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=Red Reserve|team2=Team Allegiance|team1score=168|team2score=250
 |gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=8:49
@@ -210,8 +210,8 @@
 |purple3={{ScoreboardIW/Player|name=Nova|link=Nova (Dakota Williams)|kills=30|deaths=23|time=0:42|defends=3|icon=Centurion}}
 |purple4={{ScoreboardIW/Player|name=Spoof|link=Spoof|kills=21|deaths=20|time=1:49|defends=2|icon=FTL Jump}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|FaZe Clan|Red Reserve|title=Infinite Warfare|date=2017-08-10|time=1205|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=FaZe Clan|team2=Red Reserve|team1score=250|team2score=164
 |gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=9:04

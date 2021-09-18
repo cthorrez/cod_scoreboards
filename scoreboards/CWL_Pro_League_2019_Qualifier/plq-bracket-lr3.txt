@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=21|deaths=27|time=23|defends=3}}
 |red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=23|deaths=22|time=107|defends=6}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Mindfreak|Team Overtime	|title=Black Ops 4|date=2019-01-20|time=1814|timezone=PST|dst=No}}
 {{Scoreboard|team1=Mindfreak|team2=Team Overtime	|team1score=250|team2score=149
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=9:15

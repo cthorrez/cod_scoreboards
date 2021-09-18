@@ -44,8 +44,8 @@
 |purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=31|deaths=22|time=1:48|defends=3}}
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=24|deaths=33|time=0:32|defends=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Red Reserve|Rise Nation|title=World War II|date=2018-06-17|time=1952|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Red Reserve|team2=Rise Nation|team1score=250|team2score=220
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=10:27

@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Wailers|link=Wailers|kills=18|deaths=18|time=61|defends=6}}
 |red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=13|deaths=16|time=65|defends=5}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|G2 Esports|Movistar Riders	|title=Black Ops 4|date=2019-01-20|time=1225|timezone=PST|dst=No}}
 {{Scoreboard|team1=G2 Esports|team2=Movistar Riders	|team1score=250|team2score=231
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:49
@@ -162,8 +162,8 @@
 |red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=24|deaths=16|caps=1}}
 |red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=13|deaths=20|caps=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FaZe Clan|Tainted Minds|title=Black Ops 4|date=2019-01-20|time=1240|timezone=PST|dst=No}}
 {{Scoreboard|team1=FaZe Clan|team2=Tainted Minds|team1score=250|team2score=229
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:44

@@ -55,8 +55,8 @@
 |purple3={{ScoreboardWWII/Player|name=General|link=General|kills=3|deaths=6|plants=1|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=2|deaths=6|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Evil Geniuses|Team Envy|title=World War II|date=2018-04-21|time=1932|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=Team Envy|team1score=250|team2score=203
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=10:00
@@ -138,8 +138,8 @@
 |purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=20|deaths=27|time=0:13|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=24|deaths=25|time=0:50|defends=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|eUnited|Lightning Pandas|title=World War II|date=2018-04-21|time=2104|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=eUnited|team2=Lightning Pandas|team1score=250|team2score=108
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=8:54

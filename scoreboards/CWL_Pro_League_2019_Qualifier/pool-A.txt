@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=12|deaths=21|time=50|defends=6}}
 |red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=18|deaths=18|time=46|defends=5}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Reciprocity|Team Sween|title=Black Ops 4|date=2019-01-16|time=1201|timezone=PST|dst=No}}
 {{Scoreboard|team1=Team Reciprocity|team2=Team Sween|team1score=250|team2score=241
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:48
@@ -149,8 +149,8 @@
 |red4={{Scoreboard/Player|name=Keza|link=Keza|kills=19|deaths=30|time=55|defends=6}}
 |red5={{Scoreboard/Player|name=Niall|link=Niall|kills=40|deaths=25|time=112|defends=11}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|FaZe Clan|title=Black Ops 4|date=2019-01-16|time=1513|timezone=PST|dst=No}}
 {{Scoreboard|team1=Enigma6 Group|team2=FaZe Clan|team1score=250|team2score=198
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:51
@@ -272,8 +272,8 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=7|deaths=7|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=2|deaths=9|plants=2|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FaZe Clan|Project 18|title=Black Ops 4|date=2019-01-17|time=1018|timezone=PST|dst=No}}
 {{Scoreboard|team1=FaZe Clan|team2=Project 18|team1score=212|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:19
@@ -343,8 +343,8 @@
 |red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=17|deaths=21|caps=2}}
 |red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=16|deaths=19|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FC Black|Team Divine|title=Black Ops 4|date=2019-01-18|time=0905|timezone=PST|dst=No}}
 {{Scoreboard|team1=FC Black|team2=Team Divine|team1score=250|team2score=98
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=7:31
@@ -440,8 +440,8 @@
 |red4={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=27|deaths=31|time=52|defends=8}}
 |red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=43|deaths=26|time=53|defends=13}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FC Black|Team Reciprocity|title=Black Ops 4|date=2019-01-18|time=1146|timezone=PST|dst=No}}
 {{Scoreboard|team1=FC Black|team2=Team Reciprocity|team1score=223|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:10
@@ -537,8 +537,8 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=16|deaths=15|caps=1}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=31|deaths=14|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FaZe Clan|Team Divine|title=Black Ops 4|date=2019-01-19|time=1015|timezone=PST|dst=No}}
 {{Scoreboard|team1=FaZe Clan|team2=Team Divine|team1score=177|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:50
@@ -660,8 +660,8 @@
 |red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=30|deaths=23|time=43|defends=9}}
 |red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=24|deaths=29|time=32|defends=7}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Project 18|Team Reciprocity|title=Black Ops 4|date=2019-01-19|time=1312|timezone=PST|dst=No}}
 {{Scoreboard|team1=Project 18|team2=Team Reciprocity|team1score=33|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=6:21
@@ -718,8 +718,8 @@
 |red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=17|deaths=23|caps=3}}
 |red5={{Scoreboard/Player|name=Tisch|link=Tisch|kills=14|deaths=25|caps=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FaZe Clan|Team Sween|title=Black Ops 4|date=2019-01-19|time=1530|timezone=PST|dst=No}}
 {{Scoreboard|team1=FaZe Clan|team2=Team Sween|team1score=188|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:50

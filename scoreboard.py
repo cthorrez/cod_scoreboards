@@ -22,7 +22,8 @@ def seconds_converter(seconds, game_title):
         return f'{minutes}:{str(seconds).rjust(2,"0")}'
 
 class ScoreboardSeries:
-    def __init__(self, file_name, series_group):
+    def __init__(self, file_name, series_group, idx):
+        self.idx = idx
         team1_raw, team2_raw = series_group['team'].drop_duplicates().to_list()
         self.team1 = team_name_mapper[team1_raw]
         self.team2 = team_name_mapper[team2_raw]
@@ -49,12 +50,15 @@ class ScoreboardSeries:
             self.scoreboard_matches.append(sbm)
 
     def to_string(self):
-        result = '{{Box|start|padding=2em}}\n'
+        word = 'start' if self.idx % 2 == 0 else 'break'
+        result = f'{{{{Box|{word}|padding=2em}}}}\n'
         result += f'{{{{Scoreboard/Header|{self.team1}|{self.team2}|title={self.game_title}'
         result += f'|date={self.date}|time={self.time}|timezone={self.timezone}|dst={self.dst}}}}}\n'
         for sbm in self.scoreboard_matches:
             result += sbm.to_string()
-        result += '{{Box|end}}\n'
+        if self.idx % 2 == 1:
+            result += '{{Box|end}}'
+        result += '\n'
         suffix = game_title_to_scoreboard_suffix_mapper[self.game_title]
         result = re.sub('Scoreboard', 'Scoreboard' + suffix, result)
         return result

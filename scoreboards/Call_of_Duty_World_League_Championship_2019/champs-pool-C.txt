@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=Rated|link=Rated|kills=4|deaths=6|plants=3|defuses=0}}
 |red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=5|deaths=4|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Animosity eSports|FaZe Clan|title=Black Ops 4|date=2019-08-14|time=1156|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Animosity eSports|team2=FaZe Clan|team1score=108|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=8:34
@@ -162,8 +162,8 @@
 |red4={{Scoreboard/Player|name=Rated|link=Rated|kills=6|deaths=5|caps=3}}
 |red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=14|deaths=7|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FaZe Clan|Mazer Gaming|title=Black Ops 4|date=2019-08-14|time=1707|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=FaZe Clan|team2=Mazer Gaming|team1score=250|team2score=89
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=8:25
@@ -272,8 +272,8 @@
 |red4={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=18|deaths=13|time=61|defends=4}}
 |red5={{Scoreboard/Player|name=Spacely|link=Spacely|kills=33|deaths=14|time=112|defends=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FaZe Clan|Units|title=Black Ops 4|date=2019-08-15|time=1443|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=FaZe Clan|team2=Units|team1score=250|team2score=215
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:40

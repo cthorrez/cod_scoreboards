@@ -55,8 +55,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=8|deaths=8|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=11|deaths=9|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Elevate|Mindfreak|title=World War II|date=2018-06-16|time=1451|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Elevate|team2=Mindfreak|team1score=219|team2score=250
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=10:48
@@ -149,8 +149,8 @@
 |purple3={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=9|deaths=7|plants=0|defuses=1}}
 |purple4={{ScoreboardWWII/Player|name=Parasite|link=Parasite|kills=3|deaths=8|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Conquest Esports|Splyce|title=World War II|date=2018-06-16|time=1603|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Conquest Esports|team2=Splyce|team1score=152|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=9:58
@@ -254,8 +254,8 @@
 |purple3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=30|deaths=31|time=0:46|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=23|deaths=30|time=0:15|defends=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Enigma6 Group|Rise Nation|title=World War II|date=2018-06-16|time=1621|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Enigma6 Group|team2=Rise Nation|team1score=238|team2score=250
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=13:25
@@ -326,8 +326,8 @@
 |purple3={{ScoreboardWWII/Player|name=John|link=John|kills=24|deaths=18|caps=2|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=18|deaths=16|caps=1|returns=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Elevate|UNILAD Esports|title=World War II|date=2018-06-16|time=1751|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Elevate|team2=UNILAD Esports|team1score=142|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=9:08
@@ -420,8 +420,8 @@
 |purple3={{ScoreboardWWII/Player|name=Phantomz|link=Phantomz|kills=33|deaths=25|time=0:22|defends=1}}
 |purple4={{ScoreboardWWII/Player|name=Tisch|link=Tisch|kills=17|deaths=29|time=0:50|defends=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Ghost Gaming|Tainted Minds|title=World War II|date=2018-06-16|time=1758|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Ghost Gaming|team2=Tainted Minds|team1score=250|team2score=124
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=9:11

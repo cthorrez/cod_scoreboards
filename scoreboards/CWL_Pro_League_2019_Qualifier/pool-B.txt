@@ -13,8 +13,8 @@
 |red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=13|deaths=19|caps=1}}
 |red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=17|deaths=17|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Heretics|Lightning Pandas|title=Black Ops 4|date=2019-01-16|time=1005|timezone=PST|dst=No}}
 {{Scoreboard|team1=Team Heretics|team2=Lightning Pandas|team1score=250|team2score=244
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=11:40
@@ -71,8 +71,8 @@
 |red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=11|deaths=15|time=3|defends=1}}
 |red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=7|deaths=17|time=23|defends=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Vodafone Giants|Team Heretics|title=Black Ops 4|date=2019-01-16|time=1216|timezone=PST|dst=No}}
 {{Scoreboard|team1=Vodafone Giants|team2=Team Heretics|team1score=111|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=7:56
@@ -168,8 +168,8 @@
 |red4={{Scoreboard/Player|name=Huke|link=Huke|kills=6|deaths=5|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=5|deaths=2|plants=2|defuses=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Fact Revolution|Vodafone Giants|title=Black Ops 4|date=2019-01-16|time=1524|timezone=PST|dst=No}}
 {{Scoreboard|team1=Fact Revolution|team2=Vodafone Giants|team1score=250|team2score=207
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:51
@@ -239,8 +239,8 @@
 |red4={{Scoreboard/Player|name=MadCat|link=MadCat|kills=20|deaths=20|time=63|defends=1}}
 |red5={{Scoreboard/Player|name=Peatie|link=Peatie|kills=28|deaths=21|time=61|defends=9}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Fact Revolution|G2 Esports|title=Black Ops 4|date=2019-01-17|time=1040|timezone=PST|dst=No}}
 {{Scoreboard|team1=Fact Revolution|team2=G2 Esports|team1score=130|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:06
@@ -349,8 +349,8 @@
 |red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=15|deaths=14|time=45|defends=0}}
 |red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=18|deaths=16|time=105|defends=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Heretics|Team Envy|title=Black Ops 4|date=2019-01-17|time=1344|timezone=PST|dst=No}}
 {{Scoreboard|team1=Team Heretics|team2=Team Envy|team1score=250|team2score=127
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=8:14
@@ -446,8 +446,8 @@
 |red4={{Scoreboard/Player|name=Swiftazor|link=Swiftazor|kills=23|deaths=19|caps=2}}
 |red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=15|deaths=26|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Lightning Pandas|Team Envy|title=Black Ops 4|date=2019-01-18|time=0903|timezone=PST|dst=No}}
 {{Scoreboard|team1=Lightning Pandas|team2=Team Envy|team1score=219|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:45
@@ -504,8 +504,8 @@
 |red4={{Scoreboard/Player|name=Huke|link=Huke|kills=31|deaths=27|caps=2}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=24|deaths=26|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|G2 Esports|Vodafone Giants|title=Black Ops 4|date=2019-01-18|time=1421|timezone=PST|dst=No}}
 {{Scoreboard|team1=G2 Esports|team2=Vodafone Giants|team1score=250|team2score=156
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:33
@@ -588,8 +588,8 @@
 |red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=30|deaths=23|caps=1}}
 |red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=22|deaths=22|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|G2 Esports|Lightning Pandas|title=Black Ops 4|date=2019-01-19|time=1103|timezone=PST|dst=No}}
 {{Scoreboard|team1=G2 Esports|team2=Lightning Pandas|team1score=229|team2score=250
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:59
@@ -685,8 +685,8 @@
 |red4={{Scoreboard/Player|name=Huke|link=Huke|kills=28|deaths=18|caps=1}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=26|deaths=17|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|G2 Esports|Team Heretics|title=Black Ops 4|date=2019-01-19|time=1415|timezone=PST|dst=No}}
 {{Scoreboard|team1=G2 Esports|team2=Team Heretics|team1score=250|team2score=197
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:35

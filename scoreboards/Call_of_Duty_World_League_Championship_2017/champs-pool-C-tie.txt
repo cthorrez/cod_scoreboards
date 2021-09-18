@@ -11,8 +11,8 @@
 |purple3={{ScoreboardIW/Player|name=Nolson|link=Nolson|kills=5|deaths=5|plants=0|defuses=1|icon=Centurion}}
 |purple4={{ScoreboardIW/Player|name=Deleo|link=Deleo|kills=6|deaths=3|plants=0|defuses=0|icon=FTL Jump}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|Mindfreak|Team infused|title=Infinite Warfare|date=2017-08-10|time=1520|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=Mindfreak|team2=Team infused|team1score=4|team2score=6
 |gamename=Game 1|map=Retaliation|gamemode=Search and Destroy|maptime=14:23
@@ -39,4 +39,4 @@
 |purple3={{ScoreboardIW/Player|name=Fighta|link=Fighta|kills=7|deaths=3|plants=0|defuses=1|icon=Reactive Armor}}
 |purple4={{ScoreboardIW/Player|name=Shockz|link=Shockz|kills=11|deaths=6|plants=3|defuses=0|icon=Active Camo}}
 }}
-{{Box|end}}
+

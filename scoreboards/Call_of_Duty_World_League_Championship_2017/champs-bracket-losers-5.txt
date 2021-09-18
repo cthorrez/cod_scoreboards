@@ -44,4 +44,4 @@
 |purple3={{ScoreboardIW/Player|name=FeLo|link=FeLo|kills=14|deaths=24|time=0:56|defends=4|icon=Centurion}}
 |purple4={{ScoreboardIW/Player|name=Loony|link=Loony|kills=20|deaths=21|time=0:50|defends=3|icon=Reactive Armor}}
 }}
-{{Box|end}}
+

@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=7|deaths=14|time=15|defends=2}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=11|deaths=16|time=23|defends=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|Units|title=Black Ops 4|date=2019-08-18|time=1003|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=Units|team1score=250|team2score=186
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:42

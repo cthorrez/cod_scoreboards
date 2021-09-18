@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=Maux|link=Maux|kills=12|deaths=21|time=68|defends=7}}
 |red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=25|deaths=22|time=47|defends=5}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Midnight Esports|Splyce|title=Black Ops 4|date=2019-04-01|time=1325|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Midnight Esports|team2=Splyce|team1score=243|team2score=250
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=12:27
@@ -162,8 +162,8 @@
 |red4={{Scoreboard/Player|name=Scump|link=Scump|kills=7|deaths=3|plants=2|defuses=0}}
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=6|deaths=4|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Team Reciprocity|title=Black Ops 4|date=2019-04-01|time=1623|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Team Reciprocity|team1score=250|team2score=249
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:52
@@ -272,8 +272,8 @@
 |red4={{Scoreboard/Player|name=Scump|link=Scump|kills=5|deaths=9|plants=4|defuses=0}}
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=4|deaths=9|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|Team Reciprocity|title=Black Ops 4|date=2019-04-02|time=1356|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=Team Reciprocity|team1score=179|team2score=250
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:09
@@ -395,8 +395,8 @@
 |red4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=9|deaths=4|plants=1|defuses=0}}
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=5|deaths=5|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Gen.G|Splyce|title=Black Ops 4|date=2019-04-02|time=1712|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Gen.G|team2=Splyce|team1score=250|team2score=220
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=12:10
@@ -505,8 +505,8 @@
 |red4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=25|deaths=22|time=61|defends=11}}
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=24|deaths=23|time=76|defends=6}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Denial Esports EU|Team Reciprocity|title=Black Ops 4|date=2019-04-03|time=1338|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Denial Esports EU|team2=Team Reciprocity|team1score=117|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:04
@@ -615,8 +615,8 @@
 |red4={{Scoreboard/Player|name=Maux|link=Maux|kills=19|deaths=27|time=50|defends=5}}
 |red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=23|deaths=30|time=48|defends=7}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|OpTic Gaming|Splyce|title=Black Ops 4|date=2019-04-03|time=1617|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=OpTic Gaming|team2=Splyce|team1score=250|team2score=158
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:07
@@ -725,8 +725,8 @@
 |red4={{Scoreboard/Player|name=Maux|link=Maux|kills=23|deaths=15|time=59|defends=1}}
 |red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=16|deaths=21|time=41|defends=4}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Denial Esports EU|Midnight Esports|title=Black Ops 4|date=2019-04-04|time=1322|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Denial Esports EU|team2=Midnight Esports|team1score=235|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:33
@@ -809,4 +809,4 @@
 |red4={{Scoreboard/Player|name=Loony|link=Loony|kills=7|deaths=4|plants=2|defuses=0}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=7|deaths=5|plants=1|defuses=0}}
 }}
-{{Box|end}}
+

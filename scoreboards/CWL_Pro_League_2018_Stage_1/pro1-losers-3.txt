@@ -33,4 +33,4 @@
 |purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=23|deaths=14|caps=0|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=21|deaths=21|caps=2|returns=1}}
 }}
-{{Box|end}}
+

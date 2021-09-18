@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=6|deaths=7|plants=1|defuses=0}}
 |red5={{Scoreboard/Player|name=Parasite|link=Parasite|kills=6|deaths=8|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Reciprocity|UYU|title=Black Ops 4|date=2019-05-04|time=0918|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Reciprocity|team2=UYU|team1score=234|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=11:20
@@ -188,8 +188,8 @@
 |red4={{Scoreboard/Player|name=John|link=John|kills=7|deaths=3|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=6|deaths=3|plants=0|defuses=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Splyce|Team Envy|title=Black Ops 4|date=2019-05-04|time=0929|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Splyce|team2=Team Envy|team1score=172|team2score=250
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:14

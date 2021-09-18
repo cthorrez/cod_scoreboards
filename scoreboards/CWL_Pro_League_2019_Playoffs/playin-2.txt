@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=35|deaths=30|time=65|defends=20}}
 |red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=17|deaths=29|time=63|defends=12}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|UYU|title=Black Ops 4|date=2019-07-19|time=1406|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Evil Geniuses|team2=UYU|team1score=250|team2score=176
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:14

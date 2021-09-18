@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=Peatie|link=Peatie|kills=6|deaths=9|plants=1|defuses=1}}
 |red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=5|deaths=7|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Singularity|Team Envy|title=Black Ops 4|date=2019-08-16|time=1623|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Singularity|team2=Team Envy|team1score=250|team2score=163
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:20
@@ -175,8 +175,8 @@
 |red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=5|deaths=9|plants=5|defuses=0}}
 |red5={{Scoreboard/Player|name=Wartex|link=Wartex|kills=10|deaths=6|plants=0|defuses=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|FaZe Clan|title=Black Ops 4|date=2019-08-16|time=1738|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=FaZe Clan|team1score=217|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=10:45

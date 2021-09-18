@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=John|link=John|kills=25|deaths=15|caps=3}}
 |red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=12|deaths=18|caps=4}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Red Reserve|Splyce|title=Black Ops 4|date=2019-03-16|time=1839|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Red Reserve|team2=Splyce|team1score=218|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:30

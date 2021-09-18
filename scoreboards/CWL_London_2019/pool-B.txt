@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=John|link=John|kills=4|deaths=8|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=6|deaths=8|plants=1|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Gen.G|Splyce|title=Black Ops 4|date=2019-05-03|time=0937|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Gen.G|team2=Splyce|team1score=250|team2score=174
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:29
@@ -162,8 +162,8 @@
 |red4={{Scoreboard/Player|name=Loony|link=Loony|kills=24|deaths=20|time=97|defends=3}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=26|deaths=23|time=80|defends=10}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Denial Esports EU|Gen.G|title=Black Ops 4|date=2019-05-03|time=1211|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Denial Esports EU|team2=Gen.G|team1score=185|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:13

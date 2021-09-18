@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=4|deaths=8|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=6|deaths=9|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|eUnited|Units|title=Black Ops 4|date=2019-06-15|time=1718|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=Units|team1score=250|team2score=68
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=7:43
@@ -175,8 +175,8 @@
 |red4={{Scoreboard/Player|name=Nolson|link=Nolson|kills=7|deaths=7|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=14|deaths=7|plants=1|defuses=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FaZe Clan|Luminosity Gaming|title=Black Ops 4|date=2019-06-15|time=1733|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=FaZe Clan|team2=Luminosity Gaming|team1score=250|team2score=54
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=7:09

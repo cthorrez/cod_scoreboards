@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Loony|link=Loony|kills=18|deaths=17|time=23|defends=7}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=13|deaths=14|time=42|defends=9}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|FaZe Clan|title=Black Ops 4|date=2019-07-20|time=1023|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=FaZe Clan|team1score=219|team2score=250
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=11:29
@@ -136,8 +136,8 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=8|deaths=14|caps=1}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=8|deaths=15|caps=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Luminosity Gaming|OpTic Gaming|title=Black Ops 4|date=2019-07-20|time=1137|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Luminosity Gaming|team2=OpTic Gaming|team1score=250|team2score=99
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=7:45

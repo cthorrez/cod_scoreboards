@@ -44,8 +44,8 @@
 |purple3={{ScoreboardIW/Player|name=Nova|link=Nova (Dakota Williams)|kills=17|deaths=19|time=0:39|defends=0|icon=Centurion}}
 |purple4={{ScoreboardIW/Player|name=Spoof|link=Spoof|kills=15|deaths=19|time=0:09|defends=0|icon=FTL Jump}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|Enigma6 Group|Ghost Gaming|title=Infinite Warfare|date=2017-08-12|time=1005|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=Enigma6 Group|team2=Ghost Gaming|team1score=160|team2score=250
 |gamename=Game 1|map=Throwback|gamemode=Hardpoint|maptime=10:36
@@ -138,8 +138,8 @@
 |purple3={{ScoreboardIW/Player|name=Nolson|link=Nolson|kills=17|deaths=17|time=0:32|defends=2|icon=Centurion}}
 |purple4={{ScoreboardIW/Player|name=Deleo|link=Deleo|kills=11|deaths=21|time=0:37|defends=2|icon=FTL Jump}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|Epsilon Esports EU|Splyce|title=Infinite Warfare|date=2017-08-12|time=1135|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=Epsilon Esports EU|team2=Splyce|team1score=168|team2score=250
 |gamename=Game 1|map=Throwback|gamemode=Hardpoint|maptime=10:09

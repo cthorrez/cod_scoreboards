@@ -33,8 +33,8 @@
 |purple3={{ScoreboardIW/Player|name=John|link=John|kills=22|deaths=28|carries=0|throws=2|score=2|icon=FTL Jump}}
 |purple4={{ScoreboardIW/Player|name=SlasheR|link=SlasheR|kills=30|deaths=22|carries=1|throws=0|score=2|icon=Active Camo}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|eUnited|Team Allegiance|title=Infinite Warfare|date=2017-08-12|time=0736|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=eUnited|team2=Team Allegiance|team1score=250|team2score=243
 |gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=10:56
@@ -138,8 +138,8 @@
 |purple3={{ScoreboardIW/Player|name=MadCat|link=MadCat|kills=10|deaths=7|plants=0|defuses=0|icon=Centurion}}
 |purple4={{ScoreboardIW/Player|name=Zero|link=Zer0|kills=5|deaths=6|plants=0|defuses=2|icon=Reactive Armor}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|FaZe Clan|Team infused|title=Infinite Warfare|date=2017-08-12|time=0848|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=FaZe Clan|team2=Team infused|team1score=250|team2score=196
 |gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=9:11

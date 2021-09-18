@@ -44,8 +44,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=25|deaths=25|time=1:11|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=29|deaths=18|time=0:54|defends=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Ghost Gaming|Mindfreak|title=World War II|date=2018-06-16|time=2210|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Ghost Gaming|team2=Mindfreak|team1score=113|team2score=250
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=8:41
@@ -149,8 +149,8 @@
 |purple3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=10|deaths=7|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=6|deaths=11|plants=1|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Tainted Minds|Team Envy|title=World War II|date=2018-06-16|time=2257|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Tainted Minds|team2=Team Envy|team1score=250|team2score=207
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=12:05

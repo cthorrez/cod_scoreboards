@@ -44,4 +44,4 @@
 |purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=31|deaths=43|time=0:27|defends=1}}
 |purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=39|deaths=38|time=1:46|defends=1}}
 }}
-{{Box|end}}
+

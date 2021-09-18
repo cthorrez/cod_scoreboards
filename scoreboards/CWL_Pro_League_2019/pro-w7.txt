@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=15|deaths=24|time=23|defends=4}}
 |red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=13|deaths=23|time=33|defends=4}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Gen.G|Midnight Esports|title=Black Ops 4|date=2019-05-14|time=1350|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Gen.G|team2=Midnight Esports|team1score=250|team2score=172
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:42
@@ -149,8 +149,8 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=19|deaths=27|time=83|defends=8}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=26|deaths=32|time=63|defends=10}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FaZe Clan|Luminosity Gaming|title=Black Ops 4|date=2019-05-14|time=1618|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=FaZe Clan|team2=Luminosity Gaming|team1score=250|team2score=195
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=10:16
@@ -259,8 +259,8 @@
 |red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=3|deaths=9|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=6|deaths=8|plants=4|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FaZe Clan|OpTic Gaming|title=Black Ops 4|date=2019-05-15|time=1347|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=250|team2score=247
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=11:05
@@ -395,8 +395,8 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=8|deaths=4|plants=2|defuses=0}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=8|deaths=6|plants=2|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|Luminosity Gaming|title=Black Ops 4|date=2019-05-15|time=1659|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Evil Geniuses|team2=Luminosity Gaming|team1score=250|team2score=63
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=6:47
@@ -492,8 +492,8 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=15|deaths=15|caps=1}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=8|deaths=14|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|Gen.G|title=Black Ops 4|date=2019-05-16|time=1310|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Evil Geniuses|team2=Gen.G|team1score=250|team2score=246
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:50
@@ -576,8 +576,8 @@
 |red4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=19|deaths=16|caps=1}}
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=20|deaths=20|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|OpTic Gaming|UYU|title=Black Ops 4|date=2019-05-16|time=1520|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=OpTic Gaming|team2=UYU|team1score=250|team2score=189
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:43

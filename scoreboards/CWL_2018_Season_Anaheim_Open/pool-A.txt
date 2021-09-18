@@ -44,8 +44,8 @@
 |purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=20|deaths=22|time=1:20|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=20|deaths=28|time=0:44|defends=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Echo Fox|Evil Geniuses|title=World War II|date=2018-06-15|time=1404|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Echo Fox|team2=Evil Geniuses|team1score=250|team2score=114
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=9:06
@@ -127,8 +127,8 @@
 |purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=33|deaths=26|time=1:35|defends=1}}
 |purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=29|deaths=35|time=0:36|defends=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|eUnited|FaZe Clan|title=World War II|date=2018-06-15|time=1404|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=eUnited|team2=FaZe Clan|team1score=250|team2score=182
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=10:42
@@ -221,8 +221,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=15|deaths=18|caps=0|returns=1}}
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=27|deaths=21|caps=1|returns=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Complexity Gaming|Team Envy|title=World War II|date=2018-06-15|time=1533|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Complexity Gaming|team2=Team Envy|team1score=112|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=8:23
@@ -315,8 +315,8 @@
 |purple3={{ScoreboardWWII/Player|name=John|link=John|kills=6|deaths=3|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=9|deaths=1|plants=2|defuses=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|OpTic Gaming|Splyce|title=World War II|date=2018-06-15|time=1543|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=Splyce|team1score=250|team2score=189
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:22
@@ -398,8 +398,8 @@
 |purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=26|deaths=28|time=0:46|defends=1}}
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=23|deaths=28|time=1:21|defends=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Echo Fox|UNILAD Esports|title=World War II|date=2018-06-15|time=1656|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Echo Fox|team2=UNILAD Esports|team1score=248|team2score=250
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=10:21

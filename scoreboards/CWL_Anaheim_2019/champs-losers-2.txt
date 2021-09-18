@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=Joee|link=Joee|kills=24|deaths=20|caps=3}}
 |red5={{Scoreboard/Player|name=Rated|link=Rated|kills=11|deaths=16|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Reciprocity|Team Envy|title=Black Ops 4|date=2019-06-15|time=1406|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Reciprocity|team2=Team Envy|team1score=250|team2score=205
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=10:42
@@ -149,8 +149,8 @@
 |red4={{Scoreboard/Player|name=Nolson|link=Nolson|kills=10|deaths=9|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=9|deaths=8|plants=2|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Luminosity Gaming|UYU|title=Black Ops 4|date=2019-06-15|time=1523|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Luminosity Gaming|team2=UYU|team1score=250|team2score=220
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:44

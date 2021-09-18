@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Proto|link=Proto|kills=8|deaths=19|time=3|defends=4}}
 |red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=19|deaths=15|time=26|defends=5}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Elevate|Evil Geniuses|title=Black Ops 4|date=2019-08-17|time=1332|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Elevate|team2=Evil Geniuses|team1score=227|team2score=250
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:52
@@ -162,8 +162,8 @@
 |red4={{Scoreboard/Player|name=Peatie|link=Peatie|kills=4|deaths=8|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=5|deaths=8|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Luminosity Gaming|Team Singularity|title=Black Ops 4|date=2019-08-17|time=1441|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Luminosity Gaming|team2=Team Singularity|team1score=214|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:40

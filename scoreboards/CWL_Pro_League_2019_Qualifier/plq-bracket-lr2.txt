@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=13|deaths=7|plants=1|defuses=0}}
 |red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=7|deaths=5|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FaZe Clan|Team Overtime	|title=Black Ops 4|date=2019-01-20|time=1408|timezone=PST|dst=No}}
 {{Scoreboard|team1=FaZe Clan|team2=Team Overtime	|team1score=250|team2score=199
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:51

@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=Maux|link=Maux|kills=6|deaths=3|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=8|deaths=1|plants=1|defuses=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|OpTic Gaming|title=Black Ops 4|date=2019-06-15|time=2044|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=OpTic Gaming|team1score=218|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=10:46

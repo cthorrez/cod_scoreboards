@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=5|deaths=7|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=12|deaths=5|plants=2|defuses=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Luminosity Gaming|Units|title=Black Ops 4|date=2019-07-19|time=1111|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Luminosity Gaming|team2=Units|team1score=250|team2score=183
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:43
@@ -162,8 +162,8 @@
 |red4={{Scoreboard/Player|name=JKap|link=JKap|kills=16|deaths=15|caps=2}}
 |red5={{Scoreboard/Player|name=Xotic|link=Xotic|kills=12|deaths=14|caps=4}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Envy|UYU|title=Black Ops 4|date=2019-07-19|time=1251|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Envy|team2=UYU|team1score=145|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:59

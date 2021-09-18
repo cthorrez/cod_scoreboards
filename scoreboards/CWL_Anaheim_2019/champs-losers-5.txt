@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=12|deaths=12|caps=2}}
 |red5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=20|deaths=19|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|eUnited|OpTic Gaming|title=Black Ops 4|date=2019-06-16|time=1125|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=OpTic Gaming|team1score=250|team2score=188
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:33

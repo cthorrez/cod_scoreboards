@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=4|deaths=8|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=3|deaths=7|plants=1|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Enigma6 Group|title=Black Ops 4|date=2019-03-17|time=0803|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Enigma6 Group|team1score=250|team2score=221
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=12:01

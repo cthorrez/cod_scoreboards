@@ -26,8 +26,8 @@
 |red4={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=12|deaths=19|caps=0}}
 |red5={{Scoreboard/Player|name=Spacely|link=Spacely|kills=20|deaths=16|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Midnight Esports|title=Black Ops 4|date=2019-01-16|time=1105|timezone=PST|dst=No}}
 {{Scoreboard|team1=100 Thieves|team2=Midnight Esports|team1score=1|team2score=6
 |gamename=Game 1|map=Hacienda|gamemode=Search and Destroy|maptime=8:08
@@ -97,8 +97,8 @@
 |red4={{Scoreboard/Player|name=Ricky|link=Ricky|kills=14|deaths=6|caps=3}}
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=12|deaths=7|caps=4}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Excelerate Gaming|Midnight Esports|title=Black Ops 4|date=2019-01-16|time=1329|timezone=PST|dst=No}}
 {{Scoreboard|team1=Excelerate Gaming|team2=Midnight Esports|team1score=250|team2score=142
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:16
@@ -233,8 +233,8 @@
 |red4={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=5|deaths=8|plants=3|defuses=0}}
 |red5={{Scoreboard/Player|name=Spacely|link=Spacely|kills=8|deaths=10|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Excelerate Gaming|Team Overtime	|title=Black Ops 4|date=2019-01-16|time=1636|timezone=PST|dst=No}}
 {{Scoreboard|team1=Excelerate Gaming|team2=Team Overtime	|team1score=150|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:13
@@ -343,8 +343,8 @@
 |red4={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=23|deaths=13|caps=3}}
 |red5={{Scoreboard/Player|name=Spacely|link=Spacely|kills=9|deaths=21|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Midnight Esports|Team Overtime	|title=Black Ops 4|date=2019-01-17|time=0907|timezone=PST|dst=No}}
 {{Scoreboard|team1=Midnight Esports|team2=Team Overtime	|team1score=250|team2score=195
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:22
@@ -440,8 +440,8 @@
 |red4={{Scoreboard/Player|name=Ricky|link=Ricky|kills=17|deaths=19|caps=3}}
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=19|deaths=19|caps=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Excelerate Gaming|Mazer Gaming|title=Black Ops 4|date=2019-01-17|time=1203|timezone=PST|dst=No}}
 {{Scoreboard|team1=Excelerate Gaming|team2=Mazer Gaming|team1score=250|team2score=165
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:15
@@ -537,8 +537,8 @@
 |red4={{Scoreboard/Player|name=Ricky|link=Ricky|kills=29|deaths=20|time=126|defends=7}}
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=24|deaths=21|time=77|defends=4}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Mazer Gaming|title=Black Ops 4|date=2019-01-18|time=1011|timezone=PST|dst=No}}
 {{Scoreboard|team1=100 Thieves|team2=Mazer Gaming|team1score=248|team2score=250
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=11:29
@@ -660,8 +660,8 @@
 |red4={{Scoreboard/Player|name=Ricky|link=Ricky|kills=9|deaths=23|time=84|defends=6}}
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=23|deaths=23|time=61|defends=7}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Team Overtime	|title=Black Ops 4|date=2019-01-18|time=1258|timezone=PST|dst=No}}
 {{Scoreboard|team1=100 Thieves|team2=Team Overtime	|team1score=250|team2score=211
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:53
@@ -757,8 +757,8 @@
 |red4={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=12|deaths=15|caps=1}}
 |red5={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=9|deaths=16|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Mazer Gaming|Midnight Esports|title=Black Ops 4|date=2019-01-19|time=0906|timezone=PST|dst=No}}
 {{Scoreboard|team1=Mazer Gaming|team2=Midnight Esports|team1score=195|team2score=250
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:24
@@ -867,4 +867,4 @@
 |red4={{Scoreboard/Player|name=Ricky|link=Ricky|kills=3|deaths=6|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=2|deaths=6|plants=0|defuses=0}}
 }}
-{{Box|end}}
+

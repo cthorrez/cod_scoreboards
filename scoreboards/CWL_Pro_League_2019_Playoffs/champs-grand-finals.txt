@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=Maux|link=Maux|kills=14|deaths=16|caps=2}}
 |red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=29|deaths=15|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|eUnited|Gen.G|title=Black Ops 4|date=2019-07-21|time=1553|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=Gen.G|team1score=250|team2score=119
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:35

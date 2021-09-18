@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=Loony|link=Loony|kills=9|deaths=5|plants=1|defuses=0}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=5|deaths=8|plants=1|defuses=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Excelerate Gaming|Luminosity Gaming|title=Black Ops 4|date=2019-03-15|time=1212|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Excelerate Gaming|team2=Luminosity Gaming|team1score=110|team2score=250
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=7:55
@@ -188,8 +188,8 @@
 |red4={{Scoreboard/Player|name=Loony|link=Loony|kills=17|deaths=23|time=64|defends=2}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=32|deaths=17|time=59|defends=7}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Luminosity Gaming|Midnight Esports|title=Black Ops 4|date=2019-03-15|time=1605|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Luminosity Gaming|team2=Midnight Esports|team1score=250|team2score=205
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:11
@@ -285,8 +285,8 @@
 |red4={{Scoreboard/Player|name=Loony|link=Loony|kills=19|deaths=21|time=90|defends=1}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=26|deaths=18|time=68|defends=7}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Excelerate Gaming|Midnight Esports|title=Black Ops 4|date=2019-03-15|time=1853|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Excelerate Gaming|team2=Midnight Esports|team1score=250|team2score=227
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=12:34

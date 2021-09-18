@@ -44,8 +44,8 @@
 |purple3={{ScoreboardIW/Player|name=John|link=John|kills=32|deaths=22|time=0:48|defends=1|icon=FTL Jump}}
 |purple4={{ScoreboardIW/Player|name=SlasheR|link=SlasheR|kills=18|deaths=19|time=0:48|defends=0|icon=Active Camo}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|FaZe Clan|OpTic Gaming|title=Infinite Warfare|date=2017-08-12|time=1453|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=FaZe Clan|team2=OpTic Gaming|team1score=82|team2score=250
 |gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=7:44

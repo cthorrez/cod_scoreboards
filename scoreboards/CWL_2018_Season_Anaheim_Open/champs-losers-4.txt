@@ -33,8 +33,8 @@
 |purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=19|deaths=12|caps=0|returns=1}}
 |purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=18|deaths=13|caps=1|returns=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|eUnited|OpTic Gaming|title=World War II|date=2018-06-17|time=1003|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=eUnited|team2=OpTic Gaming|team1score=233|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:46
@@ -116,8 +116,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=27|deaths=36|time=1:31|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=36|deaths=35|time=0:12|defends=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Mindfreak|Splyce|title=World War II|date=2018-06-17|time=1010|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Mindfreak|team2=Splyce|team1score=250|team2score=216
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=9:56

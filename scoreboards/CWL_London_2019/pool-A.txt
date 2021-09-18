@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=Scump|link=Scump|kills=9|deaths=5|plants=2|defuses=0}}
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=9|deaths=6|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|OpTic Gaming|Team Reciprocity|title=Black Ops 4|date=2019-05-03|time=1047|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=OpTic Gaming|team2=Team Reciprocity|team1score=250|team2score=149
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:28
@@ -123,8 +123,8 @@
 |red4={{Scoreboard/Player|name=JetLi|link=JetLi|kills=15|deaths=24|time=13|defends=5}}
 |red5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=15|deaths=25|time=46|defends=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|Team Reciprocity|title=Black Ops 4|date=2019-05-03|time=1334|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=Team Reciprocity|team1score=232|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=11:14
@@ -233,4 +233,4 @@
 |red4={{Scoreboard/Player|name=Scump|link=Scump|kills=38|deaths=33|time=75|defends=5}}
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=28|deaths=29|time=59|defends=9}}
 }}
-{{Box|end}}
+

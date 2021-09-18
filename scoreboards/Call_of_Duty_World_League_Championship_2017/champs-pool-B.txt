@@ -44,8 +44,8 @@
 |purple3={{ScoreboardIW/Player|name=John|link=John|kills=24|deaths=20|time=1:06|defends=3|icon=FTL Jump}}
 |purple4={{ScoreboardIW/Player|name=SlasheR|link=SlasheR|kills=23|deaths=16|time=1:15|defends=7|icon=Active Camo}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|Elevate|Projekt Evil|title=Infinite Warfare|date=2017-08-09|time=0708|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=Elevate|team2=Projekt Evil|team1score=250|team2score=200
 |gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=10:42
@@ -127,8 +127,8 @@
 |purple3={{ScoreboardIW/Player|name=John|link=John|kills=25|deaths=23|carries=1|throws=0|score=2|icon=FTL Jump}}
 |purple4={{ScoreboardIW/Player|name=SlasheR|link=SlasheR|kills=34|deaths=20|carries=1|throws=0|score=2|icon=Active Camo}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|Mindfreak.Black|Projekt Evil|title=Infinite Warfare|date=2017-08-09|time=1221|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=Mindfreak.Black|team2=Projekt Evil|team1score=250|team2score=166
 |gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=9:50
@@ -221,8 +221,8 @@
 |purple3={{ScoreboardIW/Player|name=John|link=John|kills=36|deaths=20|carries=1|throws=0|score=2|icon=FTL Jump}}
 |purple4={{ScoreboardIW/Player|name=SlasheR|link=SlasheR|kills=20|deaths=21|carries=0|throws=0|score=0|icon=Active Camo}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|Elevate|Mindfreak.Black|title=Infinite Warfare|date=2017-08-10|time=0943|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=Elevate|team2=Mindfreak.Black|team1score=216|team2score=250
 |gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=9:42

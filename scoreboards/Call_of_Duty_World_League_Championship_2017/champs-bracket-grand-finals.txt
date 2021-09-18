@@ -44,8 +44,8 @@
 |purple3={{ScoreboardIW/Player|name=John|link=John|kills=16|deaths=23|time=0:41|defends=5|icon=FTL Jump}}
 |purple4={{ScoreboardIW/Player|name=SlasheR|link=SlasheR|kills=27|deaths=19|time=2:11|defends=3|icon=Active Camo}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|OpTic Gaming|Team Envy|title=Infinite Warfare|date=2017-08-13|time=1307|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=OpTic Gaming|team2=Team Envy|team1score=250|team2score=176
 |gamename=Game 1|map=Throwback|gamemode=Hardpoint|maptime=11:20

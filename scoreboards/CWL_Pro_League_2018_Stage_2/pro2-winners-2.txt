@@ -33,8 +33,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=20|deaths=11|caps=3|returns=1}}
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=18|deaths=17|caps=1|returns=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|eUnited|Rise Nation|title=World War II|date=2018-07-28|time=1420|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=eUnited|team2=Rise Nation|team1score=208|team2score=250
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=11:25

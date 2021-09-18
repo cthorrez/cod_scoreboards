@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=12|deaths=5|caps=4}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=14|deaths=11|caps=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Sage eSports|Team Envy|title=Black Ops 4|date=2019-08-14|time=1142|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Sage eSports|team2=Team Envy|team1score=218|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:50
@@ -175,8 +175,8 @@
 |red4={{Scoreboard/Player|name=Gunless|link=Gunless|kills=6|deaths=4|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=7|deaths=5|plants=1|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|LGND Status|Sage eSports|title=Black Ops 4|date=2019-08-14|time=1731|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=LGND Status|team2=Sage eSports|team1score=164|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:38
@@ -285,8 +285,8 @@
 |red4={{Scoreboard/Player|name=Gunless|link=Gunless|kills=7|deaths=7|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=9|deaths=4|plants=2|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Reciprocity|Sage eSports|title=Black Ops 4|date=2019-08-15|time=1435|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Reciprocity|team2=Sage eSports|team1score=250|team2score=186
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:12

@@ -65,4 +65,4 @@
 |red4={{Scoreboard/Player|name=Scump|link=Scump|kills=3|deaths=4|plants=4|defuses=0}}
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=13|deaths=5|plants=0|defuses=0}}
 }}
-{{Box|end}}
+

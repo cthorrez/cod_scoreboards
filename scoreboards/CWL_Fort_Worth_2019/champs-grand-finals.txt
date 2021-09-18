@@ -52,4 +52,4 @@
 |red4={{Scoreboard/Player|name=Loony|link=Loony|kills=23|deaths=26|time=52|defends=7}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=24|deaths=25|time=44|defends=12}}
 }}
-{{Box|end}}
+

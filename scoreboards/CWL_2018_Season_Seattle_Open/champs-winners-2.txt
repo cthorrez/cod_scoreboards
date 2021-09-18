@@ -44,8 +44,8 @@
 |purple3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=25|deaths=22|time=0:54|defends=1}}
 |purple4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=29|deaths=24|time=1:21|defends=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|eUnited|Ghost Gaming|title=World War II|date=2018-04-22|time=1140|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=eUnited|team2=Ghost Gaming|team1score=250|team2score=228
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=12:04

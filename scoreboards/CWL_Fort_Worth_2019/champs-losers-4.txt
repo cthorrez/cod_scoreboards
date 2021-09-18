@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=11|deaths=14|caps=2}}
 |red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=17|deaths=18|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Gen.G|Team Reciprocity|title=Black Ops 4|date=2019-03-16|time=1843|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Gen.G|team2=Team Reciprocity|team1score=250|team2score=163
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:48

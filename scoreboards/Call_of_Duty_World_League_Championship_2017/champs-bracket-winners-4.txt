@@ -44,4 +44,4 @@
 |purple3={{ScoreboardIW/Player|name=John|link=John|kills=15|deaths=21|time=1:25|defends=2|icon=FTL Jump}}
 |purple4={{ScoreboardIW/Player|name=SlasheR|link=SlasheR|kills=33|deaths=14|time=1:47|defends=6|icon=Active Camo}}
 }}
-{{Box|end}}
+

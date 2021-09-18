@@ -55,4 +55,4 @@
 |purple3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=5|deaths=8|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=5|deaths=7|plants=0|defuses=0}}
 }}
-{{Box|end}}
+

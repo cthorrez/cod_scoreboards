@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=19|deaths=20|time=59|defends=5}}
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=22|deaths=26|time=35|defends=7}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FaZe Clan|Splyce|title=Black Ops 4|date=2019-06-14|time=1408|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=FaZe Clan|team2=Splyce|team1score=250|team2score=149
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=8:37
@@ -175,8 +175,8 @@
 |red4={{Scoreboard/Player|name=Parasite|link=Parasite|kills=8|deaths=8|plants=1|defuses=0}}
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=4|deaths=8|plants=1|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|Splyce|title=Black Ops 4|date=2019-06-14|time=1717|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=Splyce|team1score=250|team2score=232
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:51
@@ -259,8 +259,8 @@
 |red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=15|deaths=24|caps=3}}
 |red5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=31|deaths=26|caps=4}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Midnight Esports|Splyce|title=Black Ops 4|date=2019-06-14|time=2049|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Midnight Esports|team2=Splyce|team1score=250|team2score=174
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:01

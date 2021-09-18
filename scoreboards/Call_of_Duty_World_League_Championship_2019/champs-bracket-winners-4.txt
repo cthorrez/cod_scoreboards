@@ -52,4 +52,4 @@
 |red4={{Scoreboard/Player|name=Scump|link=Scump|kills=16|deaths=14|time=30|defends=4}}
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=9|deaths=21|time=12|defends=3}}
 }}
-{{Box|end}}
+

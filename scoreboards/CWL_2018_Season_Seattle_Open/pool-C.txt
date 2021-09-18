@@ -44,8 +44,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=19|deaths=28|time=1:14|defends=1}}
 |purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=29|deaths=25|time=0:49|defends=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Complexity Gaming|Luminosity Gaming|title=World War II|date=2018-04-20|time=1535|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Complexity Gaming|team2=Luminosity Gaming|team1score=250|team2score=246
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=10:00
@@ -127,8 +127,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=13|deaths=22|caps=0|returns=1}}
 |purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=19|deaths=20|caps=1|returns=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|eUnited|Luminosity Gaming|title=World War II|date=2018-04-20|time=1822|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=eUnited|team2=Luminosity Gaming|team1score=250|team2score=218
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=12:41
@@ -243,8 +243,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=10|deaths=6|plants=1|defuses=2}}
 |purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=2|deaths=9|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Complexity Gaming|eUnited|title=World War II|date=2018-04-20|time=2115|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Complexity Gaming|team2=eUnited|team1score=240|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=13:08
@@ -348,8 +348,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=34|deaths=23|time=0:28|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=33|deaths=26|time=0:59|defends=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Complexity Gaming|Enigma6 Group|title=World War II|date=2018-04-21|time=1434|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Complexity Gaming|team2=Enigma6 Group|team1score=214|team2score=250
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=10:42
@@ -442,8 +442,8 @@
 |purple3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=1|deaths=6|plants=2|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=5|deaths=7|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Enigma6 Group|Luminosity Gaming|title=World War II|date=2018-04-21|time=1746|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=250|team2score=166
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=10:57

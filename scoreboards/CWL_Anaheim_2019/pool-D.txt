@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=Ricky|link=Ricky|kills=9|deaths=17|caps=1}}
 |red5={{Scoreboard/Player|name=Slacked|link=Slacked|kills=12|deaths=15|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Gen.G|Team Envy|title=Black Ops 4|date=2019-06-14|time=1612|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Gen.G|team2=Team Envy|team1score=250|team2score=173
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:32
@@ -123,8 +123,8 @@
 |red4={{Scoreboard/Player|name=Huke|link=Huke|kills=22|deaths=26|caps=0}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=15|deaths=20|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Gen.G|Luminosity Gaming|title=Black Ops 4|date=2019-06-14|time=1811|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Gen.G|team2=Luminosity Gaming|team1score=250|team2score=144
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:01
@@ -220,8 +220,8 @@
 |red4={{Scoreboard/Player|name=Maux|link=Maux|kills=21|deaths=26|time=57|defends=8}}
 |red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=22|deaths=26|time=77|defends=12}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Luminosity Gaming|Team Envy|title=Black Ops 4|date=2019-06-14|time=2053|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Luminosity Gaming|team2=Team Envy|team1score=250|team2score=136
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=8:53

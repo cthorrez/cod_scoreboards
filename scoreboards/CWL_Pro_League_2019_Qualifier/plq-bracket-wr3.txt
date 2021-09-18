@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=QwiKeR|link=QwiKeR|kills=22|deaths=27|caps=0}}
 |red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=17|deaths=23|caps=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Mindfreak|Team Space|title=Black Ops 4|date=2019-01-20|time=1536|timezone=PST|dst=No}}
 {{Scoreboard|team1=Mindfreak|team2=Team Space|team1score=177|team2score=250
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:23

@@ -44,4 +44,4 @@
 |purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=21|deaths=16|time=0:00|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=19|deaths=14|time=0:00|defends=0}}
 }}
-{{Box|end}}
+

@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=Loony|link=Loony|kills=10|deaths=17|caps=2}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=14|deaths=20|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|OpTic Gaming|title=Black Ops 4|date=2019-07-20|time=1530|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=OpTic Gaming|team1score=250|team2score=166
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=8:57

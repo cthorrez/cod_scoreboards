@@ -33,8 +33,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=16|deaths=19|caps=2|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=25|deaths=12|caps=3|returns=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Epsilon Esports EU|Tainted Minds|title=World War II|date=2018-04-19|time=1211|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=Tainted Minds|team1score=250|team2score=228
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=12:05
@@ -127,8 +127,8 @@
 |purple3={{ScoreboardWWII/Player|name=Moose|link=Moose|kills=27|deaths=12|caps=1|returns=3}}
 |purple4={{ScoreboardWWII/Player|name=Wailers|link=Wailers|kills=23|deaths=14|caps=1|returns=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Evil Geniuses|GGEA Orange|title=World War II|date=2018-04-19|time=1357|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=GGEA Orange|team1score=250|team2score=204
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=12:15

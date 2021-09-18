@@ -55,8 +55,8 @@
 |purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=9|deaths=7|plants=0|defuses=1}}
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=7|deaths=8|plants=1|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|FaZe Clan|Tainted Minds|title=World War II|date=2018-04-20|time=1548|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Tainted Minds|team1score=250|team2score=223
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=10:25
@@ -138,8 +138,8 @@
 |purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=27|deaths=19|caps=1|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=15|deaths=23|caps=3|returns=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Echo Fox|FaZe Clan|title=World War II|date=2018-04-20|time=1826|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Echo Fox|team2=FaZe Clan|team1score=250|team2score=184
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=10:34
@@ -232,8 +232,8 @@
 |purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=13|deaths=24|caps=0|returns=2}}
 |purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=15|deaths=25|caps=0|returns=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|FaZe Clan|Rise Nation|title=World War II|date=2018-04-20|time=2122|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Rise Nation|team1score=250|team2score=188
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=10:20
@@ -326,8 +326,8 @@
 |purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=17|deaths=18|caps=1|returns=1}}
 |purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=13|deaths=20|caps=0|returns=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Echo Fox|Lightning Pandas|title=World War II|date=2018-04-21|time=1418|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Echo Fox|team2=Lightning Pandas|team1score=193|team2score=250
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=10:37
@@ -420,8 +420,8 @@
 |purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=25|deaths=19|caps=0|returns=1}}
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=10|deaths=24|caps=1|returns=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|FaZe Clan|Lightning Pandas|title=World War II|date=2018-04-21|time=1740|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Lightning Pandas|team1score=250|team2score=144
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=9:33

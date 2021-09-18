@@ -55,8 +55,8 @@
 |purple3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=4|deaths=6|plants=1|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=10|deaths=8|plants=0|defuses=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Red Reserve|Team Kaliber|title=World War II|date=2018-04-07|time=1738|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Red Reserve|team2=Team Kaliber|team1score=108|team2score=250
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=8:34

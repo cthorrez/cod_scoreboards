@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=Scump|link=Scump|kills=7|deaths=7|plants=4|defuses=0}}
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=10|deaths=7|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Denial Esports EU|title=Black Ops 4|date=2019-03-16|time=1537|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Denial Esports EU|team1score=250|team2score=191
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:19
@@ -162,8 +162,8 @@
 |red4={{Scoreboard/Player|name=Huke|link=Huke|kills=33|deaths=26|time=28|defends=9}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=22|deaths=26|time=70|defends=10}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Reciprocity|UYU|title=Black Ops 4|date=2019-03-16|time=1551|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Reciprocity|team2=UYU|team1score=6|team2score=0
 |gamename=Game 1|map=Arsenal|gamemode=Search and Destroy|maptime=9:29

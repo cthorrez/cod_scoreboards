@@ -39,4 +39,4 @@
 |red4={{Scoreboard/Player|name=Huke|link=Huke|kills=11|deaths=17|caps=1}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=10|deaths=17|caps=1}}
 }}
-{{Box|end}}
+

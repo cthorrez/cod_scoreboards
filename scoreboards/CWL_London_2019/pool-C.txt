@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Huke|link=Huke|kills=31|deaths=31|time=63|defends=7}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=29|deaths=29|time=77|defends=7}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|eUnited|FaZe Clan|title=Black Ops 4|date=2019-05-03|time=1011|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=FaZe Clan|team1score=6|team2score=2
 |gamename=Game 1|map=Arsenal|gamemode=Search and Destroy|maptime=11:13
@@ -123,8 +123,8 @@
 |red4={{Scoreboard/Player|name=Huke|link=Huke|kills=31|deaths=32|time=71|defends=8}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=34|deaths=32|time=54|defends=14}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|eUnited|Evil Geniuses|title=Black Ops 4|date=2019-05-03|time=1321|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=Evil Geniuses|team1score=227|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:36

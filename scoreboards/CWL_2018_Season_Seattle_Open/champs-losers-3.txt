@@ -44,8 +44,8 @@
 |purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=42|deaths=36|time=0:36|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=28|deaths=32|time=1:07|defends=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Luminosity Gaming|OpTic Gaming|title=World War II|date=2018-04-21|time=2225|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=OpTic Gaming|team1score=250|team2score=190
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=12:21
@@ -116,8 +116,8 @@
 |purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=29|deaths=13|caps=0|returns=1}}
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=16|deaths=18|caps=1|returns=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Cyclone EU|FaZe Clan|title=World War II|date=2018-04-21|time=2245|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Cyclone EU|team2=FaZe Clan|team1score=197|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:56

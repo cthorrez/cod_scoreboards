@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=3|deaths=7|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=5|deaths=7|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Denial Esports EU|UYU|title=Black Ops 4|date=2019-03-15|time=1413|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Denial Esports EU|team2=UYU|team1score=250|team2score=177
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:54
@@ -175,8 +175,8 @@
 |red4={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=19|deaths=18|caps=1}}
 |red5={{Scoreboard/Player|name=Proto|link=Proto|kills=23|deaths=22|caps=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Denial Esports EU|Gen.G|title=Black Ops 4|date=2019-03-15|time=1756|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Denial Esports EU|team2=Gen.G|team1score=80|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=7:06
@@ -259,8 +259,8 @@
 |red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=14|deaths=22|time=37|defends=4}}
 |red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=18|deaths=22|time=53|defends=6}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Gen.G|UYU|title=Black Ops 4|date=2019-03-15|time=2009|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Gen.G|team2=UYU|team1score=250|team2score=168
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:13

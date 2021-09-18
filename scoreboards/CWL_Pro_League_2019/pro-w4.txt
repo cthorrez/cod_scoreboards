@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Huke|link=Huke|kills=31|deaths=24|time=33|defends=7}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=23|deaths=22|time=48|defends=5}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Excelerate Gaming|Splyce|title=Black Ops 4|date=2019-02-25|time=1634|timezone=PST|dst=No}}
 {{Scoreboard|team1=Excelerate Gaming|team2=Splyce|team1score=149|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:40
@@ -162,8 +162,8 @@
 |red4={{Scoreboard/Player|name=JKap|link=JKap|kills=13|deaths=14|time=32|defends=2}}
 |red5={{Scoreboard/Player|name=Prestinni|link=Prestinni|kills=18|deaths=14|time=27|defends=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Excelerate Gaming|title=Black Ops 4|date=2019-02-26|time=1321|timezone=PST|dst=No}}
 {{Scoreboard|team1=100 Thieves|team2=Excelerate Gaming|team1score=250|team2score=179
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=9:21
@@ -272,8 +272,8 @@
 |red4={{Scoreboard/Player|name=Loony|link=Loony|kills=20|deaths=33|time=46|defends=6}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=35|deaths=27|time=62|defends=14}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|Team Envy|title=Black Ops 4|date=2019-02-26|time=1605|timezone=PST|dst=No}}
 {{Scoreboard|team1=Enigma6 Group|team2=Team Envy|team1score=250|team2score=148
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:20
@@ -382,8 +382,8 @@
 |red4={{Scoreboard/Player|name=Huke|link=Huke|kills=25|deaths=19|caps=1}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=33|deaths=17|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|Excelerate Gaming|title=Black Ops 4|date=2019-02-27|time=1210|timezone=PST|dst=No}}
 {{Scoreboard|team1=Enigma6 Group|team2=Excelerate Gaming|team1score=250|team2score=163
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=8:35
@@ -505,8 +505,8 @@
 |red4={{Scoreboard/Player|name=Loony|link=Loony|kills=8|deaths=6|plants=1|defuses=0}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=10|deaths=7|plants=1|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Team Heretics|title=Black Ops 4|date=2019-02-27|time=1524|timezone=PST|dst=No}}
 {{Scoreboard|team1=100 Thieves|team2=Team Heretics|team1score=250|team2score=226
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=11:19
@@ -602,8 +602,8 @@
 |red4={{Scoreboard/Player|name=ProFeeZy|link=ProFeeZy|kills=12|deaths=20|time=1|defends=4}}
 |red5={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=13|deaths=16|time=20|defends=4}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Heretics|Team Envy|title=Black Ops 4|date=2019-02-28|time=1328|timezone=PST|dst=No}}
 {{Scoreboard|team1=Team Heretics|team2=Team Envy|team1score=250|team2score=143
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=8:47
@@ -699,8 +699,8 @@
 |red4={{Scoreboard/Player|name=Kade|link=Kade|kills=13|deaths=17|caps=0}}
 |red5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=10|deaths=19|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|eUnited|Splyce|title=Black Ops 4|date=2019-02-28|time=1552|timezone=PST|dst=No}}
 {{Scoreboard|team1=eUnited|team2=Splyce|team1score=250|team2score=141
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=8:57

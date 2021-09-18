@@ -55,8 +55,8 @@
 |purple3={{ScoreboardIW/Player|name=Happy|link=Happy|kills=0|deaths=7|plants=0|defuses=0|icon=FTL Jump}}
 |purple4={{ScoreboardIW/Player|name=Theory|link=Theory|kills=5|deaths=7|plants=0|defuses=0|icon=Active Camo}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|Ghost Gaming|Millenium|title=Infinite Warfare|date=2017-08-09|time=1054|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=Ghost Gaming|team2=Millenium|team1score=191|team2score=250
 |gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=9:59
@@ -160,8 +160,8 @@
 |purple3={{ScoreboardIW/Player|name=Happy|link=Happy|kills=22|deaths=20|time=1:16|defends=2|icon=FTL Jump}}
 |purple4={{ScoreboardIW/Player|name=Theory|link=Theory|kills=25|deaths=24|time=1:05|defends=5|icon=Active Camo}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|Millenium|Splyce|title=Infinite Warfare|date=2017-08-10|time=0846|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=Millenium|team2=Splyce|team1score=189|team2score=250
 |gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=9:19
@@ -243,8 +243,8 @@
 |purple3={{ScoreboardIW/Player|name=Happy|link=Happy|kills=27|deaths=27|time=1:01|defends=3|icon=FTL Jump}}
 |purple4={{ScoreboardIW/Player|name=Theory|link=Theory|kills=27|deaths=33|time=0:36|defends=3|icon=Active Camo}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|Ghost Gaming|Splyce|title=Infinite Warfare|date=2017-08-10|time=1330|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=Ghost Gaming|team2=Splyce|team1score=250|team2score=163
 |gamename=Game 1|map=Breakout|gamemode=Hardpoint|maptime=10:26

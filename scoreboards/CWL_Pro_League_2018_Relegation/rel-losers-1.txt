@@ -33,8 +33,8 @@
 |purple3={{ScoreboardWWII/Player|name=Hollow|link=Hollow|kills=22|deaths=22|caps=0|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=Parzelion|link=Parzelion|kills=14|deaths=21|caps=0|returns=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|GGEA Orange|Nordic|title=World War II|date=2018-04-19|time=1556|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=GGEA Orange|team2=Nordic|team1score=250|team2score=188
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=10:06

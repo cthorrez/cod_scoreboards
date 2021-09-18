@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=Proto|link=Proto|kills=16|deaths=14|caps=0}}
 |red5={{Scoreboard/Player|name=Royalty|link=Royalty|kills=12|deaths=17|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|eUnited|title=Black Ops 4|date=2019-05-04|time=0616|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=eUnited|team1score=250|team2score=241
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=12:37
@@ -136,8 +136,8 @@
 |red4={{Scoreboard/Player|name=Loony|link=Loony|kills=28|deaths=27|time=56|defends=6}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=26|deaths=25|time=40|defends=7}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FaZe Clan|OpTic Gaming|title=Black Ops 4|date=2019-05-04|time=0726|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=FaZe Clan|team2=OpTic Gaming|team1score=159|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:42

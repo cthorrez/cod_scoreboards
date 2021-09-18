@@ -33,8 +33,8 @@
 |purple3={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=18|deaths=16|caps=2|returns=2}}
 |purple4={{ScoreboardWWII/Player|name=Parasite|link=Parasite|kills=27|deaths=9|caps=2|returns=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Evil Geniuses|Lightning Pandas|title=World War II|date=2018-06-16|time=2054|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=Lightning Pandas|team1score=228|team2score=205
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=12:41
@@ -116,8 +116,8 @@
 |purple3={{ScoreboardWWII/Player|name=Dashy|link=Dashy|kills=17|deaths=14|caps=1|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=21|deaths=12|caps=0|returns=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Epsilon Esports EU|Tainted Minds|title=World War II|date=2018-06-16|time=2115|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=Tainted Minds|team1score=167|team2score=250
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=9:04

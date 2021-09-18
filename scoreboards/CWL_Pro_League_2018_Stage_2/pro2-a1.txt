@@ -44,8 +44,8 @@
 |purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=32|deaths=27|time=1:14|defends=3}}
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=26|deaths=25|time=1:18|defends=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Splyce|Team Kaliber|title=World War II|date=2018-05-15|time=1213|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Splyce|team2=Team Kaliber|team1score=244|team2score=250
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=13:26
@@ -149,8 +149,8 @@
 |purple3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=2|deaths=6|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=7|deaths=6|plants=1|defuses=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|FaZe Clan|Team Envy|title=World War II|date=2018-05-15|time=1525|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Team Envy|team1score=163|team2score=250
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=9:57
@@ -243,8 +243,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=8|deaths=7|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=9|deaths=7|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Epsilon Esports EU|Team Envy|title=World War II|date=2018-05-16|time=1102|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=Team Envy|team1score=156|team2score=250
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=9:31
@@ -337,8 +337,8 @@
 |purple3={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=12|deaths=7|plants=1|defuses=1}}
 |purple4={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=6|deaths=7|plants=1|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Red Reserve|Team Kaliber|title=World War II|date=2018-05-16|time=1349|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Red Reserve|team2=Team Kaliber|team1score=105|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=9:05
@@ -453,8 +453,8 @@
 |purple3={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=5|deaths=8|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=6|deaths=7|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Evil Geniuses|FaZe Clan|title=World War II|date=2018-05-16|time=1708|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=FaZe Clan|team1score=250|team2score=162
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=10:52
@@ -558,8 +558,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=9|deaths=5|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=3|deaths=6|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Echo Fox|Epsilon Esports EU|title=World War II|date=2018-05-17|time=1401|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Echo Fox|team2=Epsilon Esports EU|team1score=250|team2score=167
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=10:55
@@ -641,8 +641,8 @@
 |purple3={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=13|deaths=18|caps=1|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=21|deaths=12|caps=0|returns=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Evil Geniuses|Team Envy|title=World War II|date=2018-05-17|time=1619|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=Team Envy|team1score=250|team2score=162
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=11:03

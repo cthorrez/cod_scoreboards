@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=Huke|link=Huke|kills=26|deaths=21|caps=1}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=23|deaths=23|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|OpTic Gaming|Team Reciprocity|title=Black Ops 4|date=2019-03-15|time=1406|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=OpTic Gaming|team2=Team Reciprocity|team1score=250|team2score=190
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:01
@@ -162,8 +162,8 @@
 |red4={{Scoreboard/Player|name=Huke|link=Huke|kills=27|deaths=31|time=91|defends=8}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=28|deaths=31|time=70|defends=5}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|eUnited|Team Reciprocity|title=Black Ops 4|date=2019-03-15|time=1720|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=Team Reciprocity|team1score=219|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:44
@@ -272,8 +272,8 @@
 |red4={{Scoreboard/Player|name=Scump|link=Scump|kills=15|deaths=8|caps=1}}
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=14|deaths=9|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Reciprocity|Team Envy|title=Black Ops 4|date=2019-03-15|time=2039|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Reciprocity|team2=Team Envy|team1score=250|team2score=85
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=7:49

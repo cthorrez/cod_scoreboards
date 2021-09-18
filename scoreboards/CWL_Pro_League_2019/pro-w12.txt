@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=19|deaths=20|time=89|defends=5}}
 |red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=19|deaths=17|time=60|defends=4}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|eUnited|Team Reciprocity|title=Black Ops 4|date=2019-07-01|time=1337|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=Team Reciprocity|team1score=250|team2score=201
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=11:07
@@ -162,8 +162,8 @@
 |red4={{Scoreboard/Player|name=Scump|link=Scump|kills=7|deaths=5|plants=4|defuses=0}}
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=7|deaths=7|plants=0|defuses=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Gen.G|Team Envy|title=Black Ops 4|date=2019-07-01|time=1638|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Gen.G|team2=Team Envy|team1score=250|team2score=223
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=11:38
@@ -246,8 +246,8 @@
 |red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=21|deaths=10|caps=0}}
 |red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=11|deaths=11|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Elevate|OpTic Gaming|title=Black Ops 4|date=2019-07-02|time=1318|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Elevate|team2=OpTic Gaming|team1score=165|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=11:18
@@ -382,8 +382,8 @@
 |red4={{Scoreboard/Player|name=Gunless|link=Gunless|kills=8|deaths=9|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=8|deaths=8|plants=4|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|eUnited|Gen.G|title=Black Ops 4|date=2019-07-02|time=1637|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=Gen.G|team1score=161|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=10:06
@@ -505,8 +505,8 @@
 |red4={{Scoreboard/Player|name=Maux|link=Maux|kills=19|deaths=25|time=99|defends=8}}
 |red5={{Scoreboard/Player|name=Spacely|link=Spacely|kills=21|deaths=27|time=52|defends=8}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Team Heretics|Team Reciprocity|title=Black Ops 4|date=2019-07-03|time=1336|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Team Heretics|team2=Team Reciprocity|team1score=250|team2score=248
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=12:30
@@ -602,8 +602,8 @@
 |red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=18|deaths=22|caps=2}}
 |red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=13|deaths=25|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|OpTic Gaming|Team Envy|title=Black Ops 4|date=2019-07-03|time=1620|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=OpTic Gaming|team2=Team Envy|team1score=154|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:38
@@ -699,8 +699,8 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=16|deaths=13|time=69|defends=4}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=19|deaths=14|time=84|defends=8}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Midnight Esports|Team Envy|title=Black Ops 4|date=2019-07-05|time=1332|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Midnight Esports|team2=Team Envy|team1score=250|team2score=67
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=8:36
@@ -796,8 +796,8 @@
 |red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=8|deaths=12|caps=1}}
 |red5={{Scoreboard/Player|name=Wartex|link=Wartex|kills=8|deaths=10|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|eUnited|OpTic Gaming|title=Black Ops 4|date=2019-07-05|time=1558|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=OpTic Gaming|team1score=226|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:53

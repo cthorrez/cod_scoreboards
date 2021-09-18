@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=12|deaths=12|caps=0}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=13|deaths=13|caps=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Elevate|UYU|title=Black Ops 4|date=2019-06-14|time=1537|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Elevate|team2=UYU|team1score=250|team2score=175
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=9:22
@@ -162,8 +162,8 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=24|deaths=19|time=71|defends=1}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=19|deaths=19|time=47|defends=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|eUnited|UYU|title=Black Ops 4|date=2019-06-14|time=1904|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=UYU|team1score=250|team2score=187
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:58
@@ -272,8 +272,8 @@
 |red4={{Scoreboard/Player|name=Royalty|link=Royalty|kills=13|deaths=21|caps=1}}
 |red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=13|deaths=14|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Elevate|eUnited|title=Black Ops 4|date=2019-06-14|time=2138|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Elevate|team2=eUnited|team1score=250|team2score=180
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:11

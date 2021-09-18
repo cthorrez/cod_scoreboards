@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=Proto|link=Proto|kills=24|deaths=24|caps=1}}
 |red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=12|deaths=20|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|FURY Gaming|Midnight Esports|title=Black Ops 4|date=2019-08-14|time=1328|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=FURY Gaming|team2=Midnight Esports|team1score=170|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:44
@@ -149,8 +149,8 @@
 |red4={{Scoreboard/Player|name=Ramby|link=Ramby|kills=13|deaths=16|time=26|defends=2}}
 |red5={{Scoreboard/Player|name=TeddyRecKs|link=TeddyRecKs|kills=14|deaths=24|time=9|defends=8}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Midnight Esports|Sicario Gaming|title=Black Ops 4|date=2019-08-15|time=1001|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Midnight Esports|team2=Sicario Gaming|team1score=250|team2score=205
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:46
@@ -259,8 +259,8 @@
 |red4={{Scoreboard/Player|name=Proto|link=Proto|kills=16|deaths=16|caps=3}}
 |red5={{Scoreboard/Player|name=Tommey|link=Tommey|kills=12|deaths=18|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Midnight Esports|title=Black Ops 4|date=2019-08-15|time=1552|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Midnight Esports|team1score=248|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:51

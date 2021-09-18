@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=Maux|link=Maux|kills=7|deaths=5|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=9|deaths=5|plants=1|defuses=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Luminosity Gaming|Team Reciprocity|title=Black Ops 4|date=2019-07-20|time=1704|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Luminosity Gaming|team2=Team Reciprocity|team1score=164|team2score=250
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:08

@@ -44,4 +44,4 @@
 |purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=29|deaths=19|time=0:00|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=36|deaths=28|time=0:00|defends=0}}
 }}
-{{Box|end}}
+

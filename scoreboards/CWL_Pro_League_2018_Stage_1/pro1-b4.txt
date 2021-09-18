@@ -55,8 +55,8 @@
 |purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=36|deaths=38|time=0:41|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=22|deaths=30|time=1:04|defends=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Epsilon Esports EU|Evil Geniuses|title=World War II|date=2018-03-20|time=1502|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=Evil Geniuses|team1score=200|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=12:11
@@ -160,8 +160,8 @@
 |purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=39|deaths=25|time=0:36|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=13|deaths=26|time=1:51|defends=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Splyce|Team Envy|title=World War II|date=2018-03-20|time=1815|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Splyce|team2=Team Envy|team1score=250|team2score=213
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=10:07
@@ -265,8 +265,8 @@
 |purple3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=1|deaths=7|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=8|deaths=6|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Evil Geniuses|Splyce|title=World War II|date=2018-03-21|time=1303|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=Splyce|team1score=250|team2score=180
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=12:28
@@ -359,8 +359,8 @@
 |purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=43|deaths=28|time=1:32|defends=3}}
 |purple4={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=33|deaths=31|time=0:58|defends=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|FaZe Clan|Splyce|title=World War II|date=2018-03-21|time=1558|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Splyce|team1score=250|team2score=228
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:57
@@ -442,8 +442,8 @@
 |purple3={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=40|deaths=39|time=1:06|defends=4}}
 |purple4={{ScoreboardWWII/Player|name=NAMELESS|link=NAMELESS|kills=47|deaths=29|time=1:47|defends=5}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Luminosity Gaming|Team Envy|title=World War II|date=2018-03-21|time=1835|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=Team Envy|team1score=250|team2score=182
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:28
@@ -547,8 +547,8 @@
 |purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=26|deaths=28|time=0:31|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=21|deaths=26|time=0:29|defends=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|eUnited|Splyce|title=World War II|date=2018-03-22|time=1424|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=eUnited|team2=Splyce|team1score=250|team2score=209
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:56
@@ -619,8 +619,8 @@
 |purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=22|deaths=18|caps=1|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=18|deaths=8|caps=0|returns=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|FaZe Clan|Luminosity Gaming|title=World War II|date=2018-03-22|time=1646|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Luminosity Gaming|team1score=222|team2score=250
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=12:09

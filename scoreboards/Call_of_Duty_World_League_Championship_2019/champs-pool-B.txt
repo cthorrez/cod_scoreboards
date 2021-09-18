@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=Maux|link=Maux|kills=2|deaths=7|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=5|deaths=8|plants=2|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|Team WaR|title=Black Ops 4|date=2019-08-14|time=1015|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=Team WaR|team1score=250|team2score=156
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=9:46
@@ -162,8 +162,8 @@
 |red4={{Scoreboard/Player|name=Hawqeh|link=Hawqeh|kills=12|deaths=20|time=25|defends=3}}
 |red5={{Scoreboard/Player|name=MadCat|link=MadCat|kills=17|deaths=17|time=6|defends=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Gen.G|Team WaR|title=Black Ops 4|date=2019-08-14|time=1548|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Gen.G|team2=Team WaR|team1score=92|team2score=250
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=8:08
@@ -233,8 +233,8 @@
 |red4={{Scoreboard/Player|name=Maux|link=Maux|kills=6|deaths=7|plants=1|defuses=0}}
 |red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=14|deaths=5|plants=2|defuses=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Fuego Gaming|Team WaR|title=Black Ops 4|date=2019-08-15|time=1333|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Fuego Gaming|team2=Team WaR|team1score=154|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=9:33

@@ -65,4 +65,4 @@
 |red4={{Scoreboard/Player|name=Loony|link=Loony|kills=7|deaths=8|plants=3|defuses=0}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=9|deaths=7|plants=0|defuses=0}}
 }}
-{{Box|end}}
+

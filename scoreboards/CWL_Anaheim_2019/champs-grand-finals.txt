@@ -52,4 +52,4 @@
 |red4={{Scoreboard/Player|name=Maux|link=Maux|kills=26|deaths=28|time=65|defends=8}}
 |red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=23|deaths=27|time=79|defends=8}}
 }}
-{{Box|end}}
+

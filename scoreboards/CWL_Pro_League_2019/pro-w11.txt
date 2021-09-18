@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=10|deaths=17|time=64|defends=5}}
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=26|deaths=20|time=43|defends=7}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|Luminosity Gaming|title=Black Ops 4|date=2019-06-24|time=1324|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=180|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=10:17
@@ -175,8 +175,8 @@
 |red4={{Scoreboard/Player|name=Loony|link=Loony|kills=5|deaths=7|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=4|deaths=8|plants=0|defuses=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Evil Geniuses|title=Black Ops 4|date=2019-06-24|time=1633|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Evil Geniuses|team1score=199|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:05
@@ -298,8 +298,8 @@
 |red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=14|deaths=18|time=100|defends=8}}
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=17|deaths=18|time=57|defends=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Luminosity Gaming|Units|title=Black Ops 4|date=2019-06-25|time=1328|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Luminosity Gaming|team2=Units|team1score=250|team2score=184
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=10:33
@@ -382,8 +382,8 @@
 |red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=7|deaths=14|caps=1}}
 |red5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=13|deaths=14|caps=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|Splyce|title=Black Ops 4|date=2019-06-25|time=1533|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Evil Geniuses|team2=Splyce|team1score=250|team2score=239
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=11:32
@@ -492,8 +492,8 @@
 |red4={{Scoreboard/Player|name=Zer0|link=Zer0|kills=17|deaths=12|caps=1}}
 |red5={{Scoreboard/Player|name=ZooMaa|link=ZooMaa|kills=9|deaths=17|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|Units|title=Black Ops 4|date=2019-06-26|time=1316|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Evil Geniuses|team2=Units|team1score=209|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:19
@@ -602,8 +602,8 @@
 |red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=12|deaths=21|caps=2}}
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=16|deaths=23|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Luminosity Gaming|title=Black Ops 4|date=2019-06-26|time=1550|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Luminosity Gaming|team1score=250|team2score=181
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=10:18
@@ -738,8 +738,8 @@
 |red4={{Scoreboard/Player|name=Rated|link=Rated|kills=8|deaths=5|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=10|deaths=4|plants=1|defuses=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|Evil Geniuses|title=Black Ops 4|date=2019-06-27|time=1349|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=Evil Geniuses|team1score=250|team2score=103
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=8:35
@@ -848,8 +848,8 @@
 |red4={{Scoreboard/Player|name=Phantomz|link=Phantomz|kills=15|deaths=19|caps=2}}
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=33|deaths=29|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Luminosity Gaming|Splyce|title=Black Ops 4|date=2019-06-27|time=1627|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Luminosity Gaming|team2=Splyce|team1score=250|team2score=97
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=8:19

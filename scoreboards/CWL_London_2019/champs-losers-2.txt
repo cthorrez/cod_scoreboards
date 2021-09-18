@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=28|deaths=14|time=51|defends=3}}
 |red5={{Scoreboard/Player|name=Parasite|link=Parasite|kills=27|deaths=19|time=90|defends=4}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|Team Reciprocity|title=Black Ops 4|date=2019-05-04|time=0607|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Evil Geniuses|team2=Team Reciprocity|team1score=215|team2score=250
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=12:22
@@ -162,8 +162,8 @@
 |red4={{Scoreboard/Player|name=Huke|link=Huke|kills=25|deaths=23|time=80|defends=4}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=34|deaths=20|time=109|defends=10}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Elevate|Luminosity Gaming|title=Black Ops 4|date=2019-05-04|time=0736|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Elevate|team2=Luminosity Gaming|team1score=250|team2score=216
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=10:49

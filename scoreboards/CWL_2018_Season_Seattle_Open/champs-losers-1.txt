@@ -55,8 +55,8 @@
 |purple3={{ScoreboardWWII/Player|name=Hollow|link=Hollow|kills=6|deaths=7|plants=0|defuses=1}}
 |purple4={{ScoreboardWWII/Player|name=Parzelion|link=Parzelion|kills=3|deaths=7|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Nordic|Tainted Minds|title=World War II|date=2018-04-21|time=1953|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Nordic|team2=Tainted Minds|team1score=250|team2score=46
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=6:44
@@ -127,8 +127,8 @@
 |purple3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=16|deaths=14|caps=0|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=19|deaths=16|caps=1|returns=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Epsilon Esports EU|Team Heretics|title=World War II|date=2018-04-21|time=2014|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=Team Heretics|team1score=192|team2score=250
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=11:22

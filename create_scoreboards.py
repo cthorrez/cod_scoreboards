@@ -56,8 +56,8 @@ def main():
 
             series_groups = stage_group.groupby('series id')
             series_groups = sorted(series_groups, key=lambda x: x[1].iloc[0]['end time'])
-            for series_id, series_group in series_groups:
-                sb = ScoreboardSeries(fname, series_group)
+            for idx, (series_id, series_group) in enumerate(series_groups):
+                sb = ScoreboardSeries(fname, series_group, idx)
                 out_file.write(sb.to_string())
                 out_file.flush()
             out_file.close()

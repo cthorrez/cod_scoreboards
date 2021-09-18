@@ -33,8 +33,8 @@
 |purple3={{ScoreboardIW/Player|name=Swiftazor|link=Swiftazor|kills=21|deaths=30|carries=0|throws=0|score=0|icon=Reactive Armor}}
 |purple4={{ScoreboardIW/Player|name=Zepa|link=Zepa|kills=30|deaths=30|carries=0|throws=1|score=1|icon=FTL Jump}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|Rise Nation|Str8 Rippin|title=Infinite Warfare|date=2017-08-11|time=1255|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=Rise Nation|team2=Str8 Rippin|team1score=250|team2score=237
 |gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=10:33
@@ -116,8 +116,8 @@
 |purple3={{ScoreboardIW/Player|name=Saints|link=Saints|kills=30|deaths=22|carries=0|throws=1|score=1|icon=Reactive Armor}}
 |purple4={{ScoreboardIW/Player|name=Slacked|link=Slacked|kills=16|deaths=23|carries=1|throws=4|score=6|icon=FTL Jump}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|Cloud9|Epsilon Esports EU|title=Infinite Warfare|date=2017-08-11|time=1425|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=Cloud9|team2=Epsilon Esports EU|team1score=177|team2score=250
 |gamename=Game 1|map=Scorch|gamemode=Hardpoint|maptime=9:52

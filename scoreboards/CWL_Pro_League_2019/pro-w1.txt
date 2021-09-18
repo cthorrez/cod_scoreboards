@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=29|deaths=24|caps=1}}
 |red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=26|deaths=28|caps=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Midnight Esports|OpTic Gaming|title=Black Ops 4|date=2019-02-04|time=1624|timezone=PST|dst=No}}
 {{Scoreboard|team1=Midnight Esports|team2=OpTic Gaming|team1score=250|team2score=215
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:42
@@ -123,8 +123,8 @@
 |red4={{Scoreboard/Player|name=LlamaGod|link=LlamaGod|kills=18|deaths=6|caps=2}}
 |red5={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=15|deaths=10|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Gen.G|Red Reserve|title=Black Ops 4|date=2019-02-05|time=1208|timezone=PST|dst=No}}
 {{Scoreboard|team1=Gen.G|team2=Red Reserve|team1score=167|team2score=250
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:19
@@ -246,8 +246,8 @@
 |red4={{Scoreboard/Player|name=Proto|link=Proto|kills=3|deaths=6|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Skyz|link=Skyz|kills=4|deaths=6|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Luminosity Gaming|Team Reciprocity|title=Black Ops 4|date=2019-02-05|time=1629|timezone=PST|dst=No}}
 {{Scoreboard|team1=Luminosity Gaming|team2=Team Reciprocity|team1score=236|team2score=250
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=11:37
@@ -369,8 +369,8 @@
 |red4={{Scoreboard/Player|name=Wuskin|link=Wuskin|kills=25|deaths=22|time=38|defends=6}}
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=29|deaths=24|time=42|defends=5}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Luminosity Gaming|UYU|title=Black Ops 4|date=2019-02-06|time=1337|timezone=PST|dst=No}}
 {{Scoreboard|team1=Luminosity Gaming|team2=UYU|team1score=147|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=8:46
@@ -492,8 +492,8 @@
 |red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=1|deaths=10|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=8|deaths=9|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|OpTic Gaming|title=Black Ops 4|date=2019-02-06|time=1642|timezone=PST|dst=No}}
 {{Scoreboard|team1=Evil Geniuses|team2=OpTic Gaming|team1score=212|team2score=250
 |gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=10:48
@@ -576,8 +576,8 @@
 |red4={{Scoreboard/Player|name=Proto|link=Proto|kills=14|deaths=20|caps=0}}
 |red5={{Scoreboard/Player|name=Skyz|link=Skyz|kills=11|deaths=18|caps=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|OpTic Gaming|Team Reciprocity|title=Black Ops 4|date=2019-02-07|time=1314|timezone=PST|dst=No}}
 {{Scoreboard|team1=OpTic Gaming|team2=Team Reciprocity|team1score=250|team2score=231
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=11:50
@@ -686,8 +686,8 @@
 |red4={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=33|deaths=29|time=58|defends=7}}
 |red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=15|deaths=24|time=71|defends=6}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Evil Geniuses|Gen.G|title=Black Ops 4|date=2019-02-07|time=1601|timezone=PST|dst=No}}
 {{Scoreboard|team1=Evil Geniuses|team2=Gen.G|team1score=250|team2score=203
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:56

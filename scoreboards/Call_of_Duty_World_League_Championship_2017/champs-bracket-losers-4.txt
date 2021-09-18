@@ -33,8 +33,8 @@
 |purple3={{ScoreboardIW/Player|name=Saints|link=Saints|kills=30|deaths=24|carries=0|throws=0|score=0|icon=Reactive Armor}}
 |purple4={{ScoreboardIW/Player|name=Slacked|link=Slacked|kills=22|deaths=27|carries=2|throws=0|score=4|icon=FTL Jump}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardIW/Header|FaZe Clan|Rise Nation|title=Infinite Warfare|date=2017-08-12|time=1558|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=FaZe Clan|team2=Rise Nation|team1score=250|team2score=114
 |gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=8:26

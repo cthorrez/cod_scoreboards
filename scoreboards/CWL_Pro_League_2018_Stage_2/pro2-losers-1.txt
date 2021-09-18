@@ -55,8 +55,8 @@
 |purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=10|deaths=7|plants=2|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=3|deaths=7|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|OpTic Gaming|UNILAD Esports|title=World War II|date=2018-07-28|time=1205|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=UNILAD Esports|team1score=191|team2score=250
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=9:47

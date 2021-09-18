@@ -65,8 +65,8 @@
 |red4={{Scoreboard/Player|name=Huke|link=Huke|kills=7|deaths=7|plants=0|defuses=0}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=3|deaths=8|plants=3|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|Splyce|title=Black Ops 4|date=2019-05-27|time=1648|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=Splyce|team1score=180|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=10:07
@@ -162,8 +162,8 @@
 |red4={{Scoreboard/Player|name=Joee|link=Joee|kills=19|deaths=21|time=29|defends=7}}
 |red5={{Scoreboard/Player|name=Rated|link=Rated|kills=16|deaths=22|time=25|defends=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Elevate|Splyce|title=Black Ops 4|date=2019-05-28|time=1331|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Elevate|team2=Splyce|team1score=245|team2score=250
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=11:51
@@ -285,8 +285,8 @@
 |red4={{Scoreboard/Player|name=Huke|link=Huke|kills=23|deaths=22|time=53|defends=4}}
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=26|deaths=26|time=90|defends=4}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|eUnited|title=Black Ops 4|date=2019-05-28|time=1625|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=eUnited|team1score=146|team2score=250
 |gamename=Game 1|map=Frequency|gamemode=Hardpoint|maptime=10:22
@@ -408,8 +408,8 @@
 |red4={{Scoreboard/Player|name=Skyz|link=Skyz|kills=24|deaths=18|time=53|defends=8}}
 |red5={{Scoreboard/Player|name=Wailers|link=Wailers|kills=18|deaths=17|time=82|defends=6}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|Team Heretics|title=Black Ops 4|date=2019-05-29|time=1337|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=Team Heretics|team1score=214|team2score=250
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:53
@@ -518,8 +518,8 @@
 |red4={{Scoreboard/Player|name=Loony|link=Loony|kills=16|deaths=19|time=85|defends=12}}
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=26|deaths=21|time=52|defends=10}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Team Envy|title=Black Ops 4|date=2019-05-29|time=1633|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Team Envy|team1score=250|team2score=243
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:47
@@ -628,8 +628,8 @@
 |red4={{Scoreboard/Player|name=JetLi|link=JetLi|kills=7|deaths=9|plants=1|defuses=0}}
 |red5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=4|deaths=8|plants=4|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Denial Esports EU|Splyce|title=Black Ops 4|date=2019-05-30|time=1349|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Denial Esports EU|team2=Splyce|team1score=250|team2score=210
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=10:08
@@ -738,8 +738,8 @@
 |red4={{Scoreboard/Player|name=MettalZ|link=MettalZ|kills=16|deaths=17|time=28|defends=6}}
 |red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=10|deaths=15|time=36|defends=10}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|eUnited|Team Envy|title=Black Ops 4|date=2019-05-30|time=1625|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=eUnited|team2=Team Envy|team1score=241|team2score=250
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=11:14

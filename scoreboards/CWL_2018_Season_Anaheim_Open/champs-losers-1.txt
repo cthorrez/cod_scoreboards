@@ -33,8 +33,8 @@
 |purple3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=11|deaths=23|caps=0|returns=1}}
 |purple4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=16|deaths=20|caps=0|returns=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Conquest Esports|Lightning Pandas|title=World War II|date=2018-06-16|time=1943|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Conquest Esports|team2=Lightning Pandas|team1score=154|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=10:43
@@ -116,8 +116,8 @@
 |purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=27|deaths=16|time=1:33|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=22|deaths=16|time=1:32|defends=3}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Enigma6 Group|Team Heretics|title=World War II|date=2018-06-16|time=1943|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Enigma6 Group|team2=Team Heretics|team1score=250|team2score=227
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=12:26

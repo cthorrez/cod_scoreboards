@@ -52,8 +52,8 @@
 |red4={{Scoreboard/Player|name=Maux|link=Maux|kills=15|deaths=22|time=32|defends=6}}
 |red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=25|deaths=21|time=76|defends=8}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|Enigma6 Group|Team Heretics|title=Black Ops 4|date=2019-06-15|time=1414|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=Enigma6 Group|team2=Team Heretics|team1score=250|team2score=175
 |gamename=Game 1|map=Arsenal|gamemode=Hardpoint|maptime=9:26
@@ -188,8 +188,8 @@
 |red4={{Scoreboard/Player|name=Scump|link=Scump|kills=9|deaths=5|plants=4|defuses=1}}
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=7|deaths=7|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Elevate|title=Black Ops 4|date=2019-06-15|time=1602|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Elevate|team1score=250|team2score=193
 |gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=10:54

@@ -55,8 +55,8 @@
 |purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=9|deaths=6|plants=0|defuses=1}}
 |purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=8|deaths=7|plants=0|defuses=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Complexity Gaming|OpTic Gaming|title=World War II|date=2018-06-05|time=1300|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Complexity Gaming|team2=OpTic Gaming|team1score=236|team2score=250
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=11:20
@@ -149,8 +149,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=7|deaths=6|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=4|deaths=7|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Rise Nation|Tainted Minds|title=World War II|date=2018-06-05|time=1552|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Rise Nation|team2=Tainted Minds|team1score=250|team2score=137
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=8:06
@@ -243,8 +243,8 @@
 |purple3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=16|deaths=15|time=2:22|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=23|deaths=14|time=0:57|defends=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Complexity Gaming|Tainted Minds|title=World War II|date=2018-06-06|time=1104|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Complexity Gaming|team2=Tainted Minds|team1score=250|team2score=146
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=8:34
@@ -348,8 +348,8 @@
 |purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=10|deaths=5|plants=0|defuses=1}}
 |purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=6|deaths=6|plants=0|defuses=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Complexity Gaming|eUnited|title=World War II|date=2018-06-06|time=1402|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Complexity Gaming|team2=eUnited|team1score=224|team2score=250
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=12:59
@@ -453,8 +453,8 @@
 |purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=29|deaths=18|time=1:12|defends=0}}
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=34|deaths=28|time=1:21|defends=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|eUnited|OpTic Gaming|title=World War II|date=2018-06-06|time=1701|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=eUnited|team2=OpTic Gaming|team1score=250|team2score=141
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=9:30
@@ -536,8 +536,8 @@
 |purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=19|deaths=19|caps=0|returns=1}}
 |purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=12|deaths=17|caps=2|returns=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Mindfreak|UNILAD Esports|title=World War II|date=2018-06-07|time=1210|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Mindfreak|team2=UNILAD Esports|team1score=187|team2score=250
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=9:37
@@ -608,8 +608,8 @@
 |purple3={{ScoreboardWWII/Player|name=John|link=John|kills=23|deaths=17|caps=1|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=18|deaths=18|caps=0|returns=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|OpTic Gaming|Rise Nation|title=World War II|date=2018-06-07|time=1424|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=Rise Nation|team1score=74|team2score=250
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=7:36

@@ -39,8 +39,8 @@
 |red4={{Scoreboard/Player|name=Rated|link=Rated|kills=14|deaths=14|caps=2}}
 |red5={{Scoreboard/Player|name=Weeman|link=Weeman|kills=6|deaths=15|caps=2}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{Scoreboard/Header|OpTic Gaming|Team Reciprocity|title=Black Ops 4|date=2019-08-17|time=1700|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=OpTic Gaming|team2=Team Reciprocity|team1score=250|team2score=204
 |gamename=Game 1|map=Seaside|gamemode=Hardpoint|maptime=10:03

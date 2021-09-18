@@ -55,8 +55,8 @@
 |purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=8|deaths=7|plants=0|defuses=0}}
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=6|deaths=8|plants=0|defuses=0}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Rise Nation|Team Kaliber|title=World War II|date=2018-07-29|time=1651|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Rise Nation|team2=Team Kaliber|team1score=131|team2score=250
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=10:00

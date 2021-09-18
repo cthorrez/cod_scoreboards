@@ -33,8 +33,8 @@
 |purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=18|deaths=15|caps=0|returns=0}}
 |purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=18|deaths=18|caps=0|returns=1}}
 }}
-{{Box|end}}
-{{Box|start|padding=2em}}
+
+{{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Luminosity Gaming|Red Reserve|title=World War II|date=2018-06-17|time=1118|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=Red Reserve|team1score=250|team2score=248
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=10:44
