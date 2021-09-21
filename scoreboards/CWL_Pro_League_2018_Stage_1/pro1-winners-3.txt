@@ -2,14 +2,14 @@
 {{ScoreboardWWII/Header|Luminosity Gaming|OpTic Gaming|title=World War II|date=2018-04-08|time=1129|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=OpTic Gaming|team1score=250|team2score=202
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=12:30
-|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=33|deaths=30|time=1:00|defends=1}}
-|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=34|deaths=35|time=0:29|defends=1}}
-|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=39|deaths=23|time=1:26|defends=1}}
-|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=33|deaths=24|time=2:01|defends=2}}
-|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=23|deaths=42|time=0:45|defends=1}}
-|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=22|deaths=32|time=0:35|defends=0}}
-|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=31|deaths=29|time=0:44|defends=1}}
-|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=36|deaths=36|time=1:37|defends=3}}
+|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=33|deaths=30|time=60|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=34|deaths=35|time=29|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=39|deaths=23|time=86|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=33|deaths=24|time=121|defends=2}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=23|deaths=42|time=45|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=22|deaths=32|time=35|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=31|deaths=29|time=44|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=36|deaths=36|time=97|defends=3}}
 }}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=OpTic Gaming|team1score=5|team2score=6
 |gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=8:52
@@ -24,24 +24,24 @@
 }}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=OpTic Gaming|team1score=0|team2score=2
 |gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=9:59
-|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=15|deaths=22|caps=0|returns=0}}
-|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=18|deaths=22|caps=0|returns=0}}
-|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=23|deaths=17|caps=0|returns=1}}
-|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=21|deaths=20|caps=0|returns=2}}
-|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=22|deaths=19|caps=1|returns=2}}
-|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=21|deaths=19|caps=0|returns=1}}
-|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=21|deaths=16|caps=1|returns=1}}
-|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=17|deaths=23|caps=0|returns=0}}
+|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=15|deaths=22|captures=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=18|deaths=22|captures=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=23|deaths=17|captures=0|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=21|deaths=20|captures=0|returns=2}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=22|deaths=19|captures=1|returns=2}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=21|deaths=19|captures=0|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=21|deaths=16|captures=1|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=17|deaths=23|captures=0|returns=0}}
 }}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=OpTic Gaming|team1score=189|team2score=250
 |gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=12:41
-|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=33|deaths=36|time=1:19|defends=1}}
-|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=42|deaths=45|time=0:40|defends=2}}
-|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=35|deaths=38|time=1:05|defends=1}}
-|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=34|deaths=40|time=0:37|defends=2}}
-|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=43|deaths=33|time=1:47|defends=1}}
-|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=46|deaths=30|time=1:00|defends=2}}
-|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=31|deaths=43|time=0:27|defends=1}}
-|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=39|deaths=38|time=1:46|defends=1}}
+|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=33|deaths=36|time=79|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=42|deaths=45|time=40|defends=2}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=35|deaths=38|time=65|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=34|deaths=40|time=37|defends=2}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=43|deaths=33|time=107|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=46|deaths=30|time=60|defends=2}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=31|deaths=43|time=27|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=39|deaths=38|time=106|defends=1}}
 }}
 

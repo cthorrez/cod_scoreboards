@@ -2,14 +2,14 @@
 {{ScoreboardWWII/Header|eUnited|Red Reserve|title=World War II|date=2018-07-29|time=1211|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=eUnited|team2=Red Reserve|team1score=113|team2score=250
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=10:00
-|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=18|deaths=24|time=0:00|defends=0}}
-|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=19|deaths=26|time=0:00|defends=0}}
-|blue3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=21|deaths=26|time=0:00|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=25|deaths=22|time=0:00|defends=0}}
-|purple1={{ScoreboardWWII/Player|name=Joee|link=Joee|kills=24|deaths=25|time=0:00|defends=0}}
-|purple2={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=30|deaths=14|time=0:00|defends=0}}
-|purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=22|deaths=23|time=0:00|defends=0}}
-|purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=22|deaths=21|time=0:00|defends=0}}
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=18|deaths=24|time=0|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=19|deaths=26|time=0|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=21|deaths=26|time=0|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=25|deaths=22|time=0|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Joee|link=Joee|kills=24|deaths=25|time=0|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=30|deaths=14|time=0|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=22|deaths=23|time=0|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=22|deaths=21|time=0|defends=0}}
 }}
 {{ScoreboardWWII|team1=eUnited|team2=Red Reserve|team1score=6|team2score=2
 |gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=10:00
@@ -24,24 +24,24 @@
 }}
 {{ScoreboardWWII|team1=eUnited|team2=Red Reserve|team1score=2|team2score=3
 |gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
-|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=17|deaths=18|caps=0|returns=0}}
-|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=24|deaths=16|caps=0|returns=0}}
-|blue3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=13|deaths=25|caps=0|returns=0}}
-|blue4={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=17|deaths=20|caps=0|returns=0}}
-|purple1={{ScoreboardWWII/Player|name=Joee|link=Joee|kills=14|deaths=14|caps=0|returns=0}}
-|purple2={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=24|deaths=17|caps=0|returns=0}}
-|purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=20|deaths=22|caps=0|returns=0}}
-|purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=21|deaths=18|caps=0|returns=0}}
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=17|deaths=18|captures=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=24|deaths=16|captures=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=13|deaths=25|captures=0|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=17|deaths=20|captures=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Joee|link=Joee|kills=14|deaths=14|captures=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=24|deaths=17|captures=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=20|deaths=22|captures=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=21|deaths=18|captures=0|returns=0}}
 }}
 {{ScoreboardWWII|team1=eUnited|team2=Red Reserve|team1score=188|team2score=250
 |gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=10:00
-|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=39|deaths=24|time=0:00|defends=0}}
-|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=27|deaths=28|time=0:00|defends=0}}
-|blue3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=39|deaths=31|time=0:00|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=32|deaths=33|time=0:00|defends=0}}
-|purple1={{ScoreboardWWII/Player|name=Joee|link=Joee|kills=26|deaths=37|time=0:00|defends=0}}
-|purple2={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=27|deaths=20|time=0:00|defends=0}}
-|purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=29|deaths=19|time=0:00|defends=0}}
-|purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=36|deaths=28|time=0:00|defends=0}}
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=39|deaths=24|time=0|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=27|deaths=28|time=0|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=39|deaths=31|time=0|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=32|deaths=33|time=0|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Joee|link=Joee|kills=26|deaths=37|time=0|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=27|deaths=20|time=0|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=29|deaths=19|time=0|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=36|deaths=28|time=0|defends=0}}
 }}
 

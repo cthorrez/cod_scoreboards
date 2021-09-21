@@ -2,14 +2,14 @@
 {{ScoreboardWWII/Header|eUnited|Luminosity Gaming|title=World War II|date=2018-04-07|time=1335|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=eUnited|team2=Luminosity Gaming|team1score=250|team2score=197
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=11:07
-|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=40|deaths=21|time=0:21|defends=0}}
-|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=25|deaths=28|time=0:21|defends=0}}
-|blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=26|deaths=29|time=2:10|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=33|deaths=26|time=1:53|defends=1}}
-|purple1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=27|deaths=32|time=0:53|defends=0}}
-|purple2={{ScoreboardWWII/Player|name=John|link=John|kills=36|deaths=34|time=0:27|defends=1}}
-|purple3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=14|deaths=29|time=0:54|defends=0}}
-|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=27|deaths=29|time=1:18|defends=0}}
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=40|deaths=21|time=21|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=25|deaths=28|time=21|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=26|deaths=29|time=130|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=33|deaths=26|time=113|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=27|deaths=32|time=53|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=John|link=John|kills=36|deaths=34|time=27|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=14|deaths=29|time=54|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=27|deaths=29|time=78|defends=0}}
 }}
 {{ScoreboardWWII|team1=eUnited|team2=Luminosity Gaming|team1score=4|team2score=6
 |gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=7:49
@@ -24,39 +24,39 @@
 }}
 {{ScoreboardWWII|team1=eUnited|team2=Luminosity Gaming|team1score=2|team2score=3
 |gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:09
-|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=25|deaths=14|caps=1|returns=0}}
-|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=11|deaths=20|caps=0|returns=0}}
-|blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=16|deaths=23|caps=0|returns=1}}
-|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=13|deaths=18|caps=1|returns=0}}
-|purple1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=20|deaths=14|caps=1|returns=0}}
-|purple2={{ScoreboardWWII/Player|name=John|link=John|kills=19|deaths=20|caps=0|returns=2}}
-|purple3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=16|deaths=16|caps=0|returns=0}}
-|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=20|deaths=15|caps=2|returns=0}}
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=25|deaths=14|captures=1|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=11|deaths=20|captures=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=16|deaths=23|captures=0|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=13|deaths=18|captures=1|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=20|deaths=14|captures=1|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=John|link=John|kills=19|deaths=20|captures=0|returns=2}}
+|purple3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=16|deaths=16|captures=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=20|deaths=15|captures=2|returns=0}}
 }}
 {{ScoreboardWWII|team1=eUnited|team2=Luminosity Gaming|team1score=151|team2score=250
 |gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=11:34
-|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=31|deaths=27|time=0:41|defends=0}}
-|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=28|deaths=34|time=0:19|defends=0}}
-|blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=31|deaths=41|time=0:57|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=38|deaths=39|time=0:59|defends=2}}
-|purple1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=25|deaths=35|time=1:06|defends=1}}
-|purple2={{ScoreboardWWII/Player|name=John|link=John|kills=29|deaths=35|time=1:49|defends=4}}
-|purple3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=48|deaths=31|time=1:18|defends=5}}
-|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=39|deaths=27|time=1:09|defends=3}}
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=31|deaths=27|time=41|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=28|deaths=34|time=19|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=31|deaths=41|time=57|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=38|deaths=39|time=59|defends=2}}
+|purple1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=25|deaths=35|time=66|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=John|link=John|kills=29|deaths=35|time=109|defends=4}}
+|purple3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=48|deaths=31|time=78|defends=5}}
+|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=39|deaths=27|time=69|defends=3}}
 }}
 
 {{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|OpTic Gaming|Team Kaliber|title=World War II|date=2018-04-07|time=1455|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=Team Kaliber|team1score=250|team2score=205
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:34
-|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=35|deaths=32|time=1:39|defends=4}}
-|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=28|deaths=34|time=0:44|defends=0}}
-|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=32|deaths=31|time=1:32|defends=1}}
-|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=38|deaths=34|time=1:16|defends=0}}
-|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=24|deaths=29|time=2:22|defends=0}}
-|purple2={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=32|deaths=37|time=0:44|defends=0}}
-|purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=40|deaths=28|time=0:31|defends=0}}
-|purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=35|deaths=39|time=0:05|defends=0}}
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=35|deaths=32|time=99|defends=4}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=28|deaths=34|time=44|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=32|deaths=31|time=92|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=38|deaths=34|time=76|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=24|deaths=29|time=142|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=32|deaths=37|time=44|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=40|deaths=28|time=31|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=35|deaths=39|time=5|defends=0}}
 }}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=Team Kaliber|team1score=6|team2score=5
 |gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=8:27
@@ -71,13 +71,13 @@
 }}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=Team Kaliber|team1score=5|team2score=1
 |gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=9:59
-|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=19|deaths=17|caps=1|returns=2}}
-|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=25|deaths=14|caps=1|returns=1}}
-|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=22|deaths=14|caps=2|returns=0}}
-|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=19|deaths=20|caps=1|returns=0}}
-|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=15|deaths=23|caps=0|returns=0}}
-|purple2={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=15|deaths=19|caps=0|returns=1}}
-|purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=22|deaths=19|caps=1|returns=0}}
-|purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=13|deaths=24|caps=0|returns=1}}
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=19|deaths=17|captures=1|returns=2}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=25|deaths=14|captures=1|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=22|deaths=14|captures=2|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=19|deaths=20|captures=1|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=15|deaths=23|captures=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=15|deaths=19|captures=0|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=22|deaths=19|captures=1|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=13|deaths=24|captures=0|returns=1}}
 }}
 {{Box|end}}

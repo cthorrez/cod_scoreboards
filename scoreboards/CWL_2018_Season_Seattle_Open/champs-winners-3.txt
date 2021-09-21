@@ -2,14 +2,14 @@
 {{ScoreboardWWII/Header|eUnited|Evil Geniuses|title=World War II|date=2018-04-22|time=1454|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=eUnited|team2=Evil Geniuses|team1score=211|team2score=250
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=9:38
-|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=11|deaths=20|time=1:43|defends=0}}
-|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=17|deaths=18|time=0:55|defends=2}}
-|blue3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=26|deaths=23|time=1:05|defends=1}}
-|blue4={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=24|deaths=27|time=0:32|defends=2}}
-|purple1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=14|deaths=25|time=0:17|defends=0}}
-|purple2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=26|deaths=15|time=1:20|defends=1}}
-|purple3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=24|deaths=19|time=1:41|defends=1}}
-|purple4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=24|deaths=19|time=1:45|defends=1}}
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=11|deaths=20|time=103|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=17|deaths=18|time=55|defends=2}}
+|blue3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=26|deaths=23|time=65|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=24|deaths=27|time=32|defends=2}}
+|purple1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=14|deaths=25|time=17|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=26|deaths=15|time=80|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=24|deaths=19|time=101|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=24|deaths=19|time=105|defends=1}}
 }}
 {{ScoreboardWWII|team1=eUnited|team2=Evil Geniuses|team1score=5|team2score=6
 |gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=11:28
@@ -24,13 +24,13 @@
 }}
 {{ScoreboardWWII|team1=eUnited|team2=Evil Geniuses|team1score=4|team2score=7
 |gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:00
-|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=13|deaths=19|caps=1|returns=0}}
-|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=20|deaths=16|caps=1|returns=0}}
-|blue3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=16|deaths=22|caps=1|returns=0}}
-|blue4={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=16|deaths=18|caps=1|returns=0}}
-|purple1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=22|deaths=16|caps=2|returns=2}}
-|purple2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=17|deaths=18|caps=1|returns=3}}
-|purple3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=18|deaths=17|caps=1|returns=1}}
-|purple4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=18|deaths=14|caps=3|returns=0}}
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=13|deaths=19|captures=1|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=20|deaths=16|captures=1|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=16|deaths=22|captures=1|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=16|deaths=18|captures=1|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=22|deaths=16|captures=2|returns=2}}
+|purple2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=17|deaths=18|captures=1|returns=3}}
+|purple3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=18|deaths=17|captures=1|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=18|deaths=14|captures=3|returns=0}}
 }}
 

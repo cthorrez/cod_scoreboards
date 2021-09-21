@@ -14,12 +14,15 @@ from mappers import (
 )
 
 def seconds_converter(seconds, game_title):
-    if game_title == 'Black Ops 4':
+    if game_title in  {'Black Ops 4', 'World War II'}:
         return seconds
-    else:
+    elif game_title == 'Infinite Warfare':
         minutes = int(seconds) // 60
         seconds = int(seconds) % 60
         return f'{minutes}:{str(seconds).rjust(2,"0")}'
+    else:
+        print(f'game title {game_title} unknown!')
+        exit(1)
 
 class ScoreboardSeries:
     def __init__(self, file_name, series_group, idx):
@@ -136,7 +139,7 @@ class ScoreboardPlayer:
             }
         elif mode == 'Capture the Flag':
             self.stats = {
-                'caps' : int(player_row['ctf captures']),
+                'captures' : int(player_row['ctf captures']),
                 'returns' : int(player_row['ctf returns'])
             }
         elif mode == 'Uplink':

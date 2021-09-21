@@ -2,14 +2,14 @@
 {{ScoreboardWWII/Header|Enigma6 Group|Team Kaliber|title=World War II|date=2018-06-16|time=1440|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Enigma6 Group|team2=Team Kaliber|team1score=208|team2score=160
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=11:40
-|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=32|deaths=36|time=1:03|defends=1}}
-|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=33|deaths=33|time=0:18|defends=1}}
-|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=38|deaths=27|time=0:57|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=30|deaths=26|time=1:31|defends=1}}
-|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=35|deaths=27|time=1:05|defends=0}}
-|purple2={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=27|deaths=35|time=0:46|defends=0}}
-|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=19|deaths=32|time=0:35|defends=0}}
-|purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=41|deaths=39|time=0:20|defends=0}}
+|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=32|deaths=36|time=63|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=33|deaths=33|time=18|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=38|deaths=27|time=57|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=30|deaths=26|time=91|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=35|deaths=27|time=65|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=27|deaths=35|time=46|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=19|deaths=32|time=35|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=41|deaths=39|time=20|defends=0}}
 }}
 {{ScoreboardWWII|team1=Enigma6 Group|team2=Team Kaliber|team1score=4|team2score=6
 |gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=8:11
@@ -24,25 +24,25 @@
 }}
 {{ScoreboardWWII|team1=Enigma6 Group|team2=Team Kaliber|team1score=0|team2score=3
 |gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=9:59
-|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=18|deaths=27|caps=0|returns=0}}
-|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=14|deaths=21|caps=0|returns=0}}
-|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=16|deaths=24|caps=0|returns=2}}
-|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=13|deaths=24|caps=0|returns=0}}
-|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=34|deaths=12|caps=1|returns=0}}
-|purple2={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=20|deaths=15|caps=1|returns=1}}
-|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=24|deaths=17|caps=1|returns=0}}
-|purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=18|deaths=17|caps=0|returns=1}}
+|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=18|deaths=27|captures=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=14|deaths=21|captures=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=16|deaths=24|captures=0|returns=2}}
+|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=13|deaths=24|captures=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=34|deaths=12|captures=1|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=20|deaths=15|captures=1|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=24|deaths=17|captures=1|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=18|deaths=17|captures=0|returns=1}}
 }}
 {{ScoreboardWWII|team1=Enigma6 Group|team2=Team Kaliber|team1score=250|team2score=176
 |gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=9:45
-|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=30|deaths=27|time=1:27|defends=1}}
-|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=36|deaths=23|time=0:19|defends=2}}
-|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=36|deaths=19|time=1:00|defends=1}}
-|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=15|deaths=21|time=2:11|defends=0}}
-|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=24|deaths=25|time=1:25|defends=1}}
-|purple2={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=20|deaths=30|time=0:42|defends=0}}
-|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=26|deaths=30|time=1:14|defends=1}}
-|purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=20|deaths=32|time=0:05|defends=0}}
+|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=30|deaths=27|time=87|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=36|deaths=23|time=19|defends=2}}
+|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=36|deaths=19|time=60|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=15|deaths=21|time=131|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=24|deaths=25|time=85|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=20|deaths=30|time=42|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=26|deaths=30|time=74|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=20|deaths=32|time=5|defends=0}}
 }}
 {{ScoreboardWWII|team1=Enigma6 Group|team2=Team Kaliber|team1score=6|team2score=5
 |gamename=Game 5|map=Valkyrie|gamemode=Search and Destroy|maptime=11:10
@@ -60,14 +60,14 @@
 {{ScoreboardWWII/Header|Elevate|Mindfreak|title=World War II|date=2018-06-16|time=1451|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Elevate|team2=Mindfreak|team1score=219|team2score=250
 |gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=10:48
-|blue1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=20|deaths=29|time=0:53|defends=1}}
-|blue2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=32|deaths=26|time=1:26|defends=1}}
-|blue3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=22|deaths=32|time=0:58|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=27|deaths=32|time=0:58|defends=1}}
-|purple1={{ScoreboardWWII/Player|name=BuZZO|link=BuZZO|kills=26|deaths=27|time=1:08|defends=2}}
-|purple2={{ScoreboardWWII/Player|name=Denz|link=Denz|kills=33|deaths=22|time=1:10|defends=2}}
-|purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=25|deaths=26|time=1:14|defends=2}}
-|purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=35|deaths=26|time=1:09|defends=4}}
+|blue1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=20|deaths=29|time=53|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=32|deaths=26|time=86|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=22|deaths=32|time=58|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=27|deaths=32|time=58|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=BuZZO|link=BuZZO|kills=26|deaths=27|time=68|defends=2}}
+|purple2={{ScoreboardWWII/Player|name=Denz|link=Denz|kills=33|deaths=22|time=70|defends=2}}
+|purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=25|deaths=26|time=74|defends=2}}
+|purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=35|deaths=26|time=69|defends=4}}
 }}
 {{ScoreboardWWII|team1=Elevate|team2=Mindfreak|team1score=2|team2score=6
 |gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=5:56
@@ -82,28 +82,28 @@
 }}
 {{ScoreboardWWII|team1=Elevate|team2=Mindfreak|team1score=0|team2score=3
 |gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:00
-|blue1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=14|deaths=20|caps=0|returns=0}}
-|blue2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=15|deaths=20|caps=0|returns=1}}
-|blue3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=11|deaths=22|caps=0|returns=2}}
-|blue4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=18|deaths=19|caps=0|returns=0}}
-|purple1={{ScoreboardWWII/Player|name=BuZZO|link=BuZZO|kills=13|deaths=13|caps=0|returns=1}}
-|purple2={{ScoreboardWWII/Player|name=Denz|link=Denz|kills=23|deaths=14|caps=0|returns=0}}
-|purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=18|deaths=15|caps=1|returns=1}}
-|purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=27|deaths=16|caps=2|returns=1}}
+|blue1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=14|deaths=20|captures=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=15|deaths=20|captures=0|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=11|deaths=22|captures=0|returns=2}}
+|blue4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=18|deaths=19|captures=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=BuZZO|link=BuZZO|kills=13|deaths=13|captures=0|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=Denz|link=Denz|kills=23|deaths=14|captures=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=18|deaths=15|captures=1|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=27|deaths=16|captures=2|returns=1}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{ScoreboardWWII/Header|FaZe Clan|Ghost Gaming|title=World War II|date=2018-06-16|time=1548|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Ghost Gaming|team1score=191|team2score=250
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=9:11
-|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=26|deaths=25|time=0:34|defends=0}}
-|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=19|deaths=27|time=0:41|defends=0}}
-|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=17|deaths=19|time=1:37|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=24|deaths=28|time=0:45|defends=1}}
-|purple1={{ScoreboardWWII/Player|name=GodRx|link=GodRx|kills=35|deaths=20|time=0:54|defends=3}}
-|purple2={{ScoreboardWWII/Player|name=Lacefield|link=Lacefield|kills=26|deaths=26|time=1:01|defends=1}}
-|purple3={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=16|deaths=21|time=1:40|defends=0}}
-|purple4={{ScoreboardWWII/Player|name=Parasite|link=Parasite|kills=22|deaths=19|time=1:35|defends=0}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=26|deaths=25|time=34|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=19|deaths=27|time=41|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=17|deaths=19|time=97|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=24|deaths=28|time=45|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=GodRx|link=GodRx|kills=35|deaths=20|time=54|defends=3}}
+|purple2={{ScoreboardWWII/Player|name=Lacefield|link=Lacefield|kills=26|deaths=26|time=61|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=16|deaths=21|time=100|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Parasite|link=Parasite|kills=22|deaths=19|time=95|defends=0}}
 }}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Ghost Gaming|team1score=6|team2score=1
 |gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=5:02
@@ -118,25 +118,25 @@
 }}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Ghost Gaming|team1score=0|team2score=1
 |gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=9:59
-|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=18|deaths=17|caps=0|returns=1}}
-|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=11|deaths=24|caps=0|returns=0}}
-|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=13|deaths=17|caps=0|returns=1}}
-|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=14|deaths=23|caps=0|returns=1}}
-|purple1={{ScoreboardWWII/Player|name=GodRx|link=GodRx|kills=27|deaths=15|caps=0|returns=1}}
-|purple2={{ScoreboardWWII/Player|name=Lacefield|link=Lacefield|kills=23|deaths=12|caps=1|returns=0}}
-|purple3={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=17|deaths=14|caps=0|returns=2}}
-|purple4={{ScoreboardWWII/Player|name=Parasite|link=Parasite|kills=14|deaths=15|caps=0|returns=1}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=18|deaths=17|captures=0|returns=1}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=11|deaths=24|captures=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=13|deaths=17|captures=0|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=14|deaths=23|captures=0|returns=1}}
+|purple1={{ScoreboardWWII/Player|name=GodRx|link=GodRx|kills=27|deaths=15|captures=0|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=Lacefield|link=Lacefield|kills=23|deaths=12|captures=1|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=17|deaths=14|captures=0|returns=2}}
+|purple4={{ScoreboardWWII/Player|name=Parasite|link=Parasite|kills=14|deaths=15|captures=0|returns=1}}
 }}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Ghost Gaming|team1score=250|team2score=163
 |gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=10:56
-|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=30|deaths=22|time=1:33|defends=1}}
-|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=34|deaths=27|time=1:15|defends=5}}
-|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=21|deaths=26|time=1:40|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=24|deaths=35|time=0:05|defends=2}}
-|purple1={{ScoreboardWWII/Player|name=GodRx|link=GodRx|kills=22|deaths=31|time=0:57|defends=0}}
-|purple2={{ScoreboardWWII/Player|name=Lacefield|link=Lacefield|kills=30|deaths=29|time=0:30|defends=1}}
-|purple3={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=35|deaths=23|time=0:08|defends=0}}
-|purple4={{ScoreboardWWII/Player|name=Parasite|link=Parasite|kills=23|deaths=26|time=1:17|defends=1}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=30|deaths=22|time=93|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=34|deaths=27|time=75|defends=5}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=21|deaths=26|time=100|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=24|deaths=35|time=5|defends=2}}
+|purple1={{ScoreboardWWII/Player|name=GodRx|link=GodRx|kills=22|deaths=31|time=57|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Lacefield|link=Lacefield|kills=30|deaths=29|time=30|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=35|deaths=23|time=8|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Parasite|link=Parasite|kills=23|deaths=26|time=77|defends=1}}
 }}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Ghost Gaming|team1score=6|team2score=2
 |gamename=Game 5|map=Valkyrie|gamemode=Search and Destroy|maptime=7:16
@@ -154,14 +154,14 @@
 {{ScoreboardWWII/Header|Conquest Esports|Splyce|title=World War II|date=2018-06-16|time=1603|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Conquest Esports|team2=Splyce|team1score=152|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=9:58
-|blue1={{ScoreboardWWII/Player|name=GRVTY|link=GRVTY|kills=22|deaths=24|time=0:19|defends=0}}
-|blue2={{ScoreboardWWII/Player|name=KiSMET|link=KiSMET|kills=25|deaths=30|time=0:17|defends=0}}
-|blue3={{ScoreboardWWII/Player|name=Phantomz|link=Phantomz|kills=20|deaths=22|time=0:45|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=Tisch|link=Tisch|kills=15|deaths=22|time=1:30|defends=1}}
-|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=26|deaths=24|time=1:29|defends=1}}
-|purple2={{ScoreboardWWII/Player|name=Joshh|link=Joshh|kills=22|deaths=22|time=0:36|defends=2}}
-|purple3={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=31|deaths=17|time=2:32|defends=2}}
-|purple4={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=19|deaths=19|time=0:59|defends=1}}
+|blue1={{ScoreboardWWII/Player|name=GRVTY|link=GRVTY|kills=22|deaths=24|time=19|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=KiSMET|link=KiSMET|kills=25|deaths=30|time=17|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Phantomz|link=Phantomz|kills=20|deaths=22|time=45|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Tisch|link=Tisch|kills=15|deaths=22|time=90|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=26|deaths=24|time=89|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Joshh|link=Joshh|kills=22|deaths=22|time=36|defends=2}}
+|purple3={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=31|deaths=17|time=152|defends=2}}
+|purple4={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=19|deaths=19|time=59|defends=1}}
 }}
 {{ScoreboardWWII|team1=Conquest Esports|team2=Splyce|team1score=6|team2score=5
 |gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=13:18
@@ -176,25 +176,25 @@
 }}
 {{ScoreboardWWII|team1=Conquest Esports|team2=Splyce|team1score=3|team2score=2
 |gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:28
-|blue1={{ScoreboardWWII/Player|name=GRVTY|link=GRVTY|kills=12|deaths=17|caps=0|returns=3}}
-|blue2={{ScoreboardWWII/Player|name=KiSMET|link=KiSMET|kills=18|deaths=15|caps=2|returns=0}}
-|blue3={{ScoreboardWWII/Player|name=Phantomz|link=Phantomz|kills=10|deaths=13|caps=1|returns=1}}
-|blue4={{ScoreboardWWII/Player|name=Tisch|link=Tisch|kills=13|deaths=17|caps=0|returns=0}}
-|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=12|deaths=16|caps=0|returns=0}}
-|purple2={{ScoreboardWWII/Player|name=Joshh|link=Joshh|kills=17|deaths=12|caps=1|returns=0}}
-|purple3={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=19|deaths=13|caps=0|returns=0}}
-|purple4={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=14|deaths=12|caps=1|returns=0}}
+|blue1={{ScoreboardWWII/Player|name=GRVTY|link=GRVTY|kills=12|deaths=17|captures=0|returns=3}}
+|blue2={{ScoreboardWWII/Player|name=KiSMET|link=KiSMET|kills=18|deaths=15|captures=2|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Phantomz|link=Phantomz|kills=10|deaths=13|captures=1|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=Tisch|link=Tisch|kills=13|deaths=17|captures=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=12|deaths=16|captures=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Joshh|link=Joshh|kills=17|deaths=12|captures=1|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=19|deaths=13|captures=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=14|deaths=12|captures=1|returns=0}}
 }}
 {{ScoreboardWWII|team1=Conquest Esports|team2=Splyce|team1score=159|team2score=250
 |gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=11:45
-|blue1={{ScoreboardWWII/Player|name=GRVTY|link=GRVTY|kills=16|deaths=32|time=1:29|defends=2}}
-|blue2={{ScoreboardWWII/Player|name=KiSMET|link=KiSMET|kills=36|deaths=36|time=0:28|defends=0}}
-|blue3={{ScoreboardWWII/Player|name=Phantomz|link=Phantomz|kills=25|deaths=29|time=0:43|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=Tisch|link=Tisch|kills=26|deaths=29|time=0:17|defends=1}}
-|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=36|deaths=26|time=0:55|defends=0}}
-|purple2={{ScoreboardWWII/Player|name=Joshh|link=Joshh|kills=32|deaths=22|time=1:50|defends=1}}
-|purple3={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=28|deaths=30|time=0:38|defends=1}}
-|purple4={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=30|deaths=25|time=1:19|defends=1}}
+|blue1={{ScoreboardWWII/Player|name=GRVTY|link=GRVTY|kills=16|deaths=32|time=89|defends=2}}
+|blue2={{ScoreboardWWII/Player|name=KiSMET|link=KiSMET|kills=36|deaths=36|time=28|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Phantomz|link=Phantomz|kills=25|deaths=29|time=43|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Tisch|link=Tisch|kills=26|deaths=29|time=17|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=36|deaths=26|time=55|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Joshh|link=Joshh|kills=32|deaths=22|time=110|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=28|deaths=30|time=38|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=30|deaths=25|time=79|defends=1}}
 }}
 {{ScoreboardWWII|team1=Conquest Esports|team2=Splyce|team1score=6|team2score=3
 |gamename=Game 5|map=USS Texas|gamemode=Search and Destroy|maptime=10:47
@@ -212,14 +212,14 @@
 {{ScoreboardWWII/Header|Echo Fox|Elevate|title=World War II|date=2018-06-16|time=1621|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Echo Fox|team2=Elevate|team1score=190|team2score=250
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=9:33
-|blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=26|deaths=25|time=1:09|defends=2}}
-|blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=27|deaths=24|time=1:16|defends=1}}
-|blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=16|deaths=28|time=0:46|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=22|deaths=24|time=0:42|defends=1}}
-|purple1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=31|deaths=16|time=1:55|defends=2}}
-|purple2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=25|deaths=24|time=1:15|defends=5}}
-|purple3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=16|deaths=30|time=0:46|defends=0}}
-|purple4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=29|deaths=21|time=1:25|defends=1}}
+|blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=26|deaths=25|time=69|defends=2}}
+|blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=27|deaths=24|time=76|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=16|deaths=28|time=46|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=22|deaths=24|time=42|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=31|deaths=16|time=115|defends=2}}
+|purple2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=25|deaths=24|time=75|defends=5}}
+|purple3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=16|deaths=30|time=46|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=29|deaths=21|time=85|defends=1}}
 }}
 {{ScoreboardWWII|team1=Echo Fox|team2=Elevate|team1score=6|team2score=3
 |gamename=Game 2|map=USS Texas|gamemode=Search and Destroy|maptime=10:44
@@ -234,39 +234,39 @@
 }}
 {{ScoreboardWWII|team1=Echo Fox|team2=Elevate|team1score=3|team2score=0
 |gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:59
-|blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=20|deaths=15|caps=1|returns=0}}
-|blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=24|deaths=13|caps=0|returns=1}}
-|blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=22|deaths=18|caps=1|returns=0}}
-|blue4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=23|deaths=14|caps=1|returns=1}}
-|purple1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=12|deaths=21|caps=0|returns=0}}
-|purple2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=13|deaths=20|caps=0|returns=0}}
-|purple3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=16|deaths=25|caps=0|returns=3}}
-|purple4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=19|deaths=23|caps=0|returns=1}}
+|blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=20|deaths=15|captures=1|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=24|deaths=13|captures=0|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=22|deaths=18|captures=1|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=23|deaths=14|captures=1|returns=1}}
+|purple1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=12|deaths=21|captures=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=13|deaths=20|captures=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=16|deaths=25|captures=0|returns=3}}
+|purple4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=19|deaths=23|captures=0|returns=1}}
 }}
 {{ScoreboardWWII|team1=Echo Fox|team2=Elevate|team1score=250|team2score=115
 |gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=9:55
-|blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=38|deaths=22|time=1:06|defends=4}}
-|blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=25|deaths=23|time=1:14|defends=0}}
-|blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=25|deaths=25|time=0:51|defends=1}}
-|blue4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=31|deaths=26|time=1:27|defends=2}}
-|purple1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=22|deaths=31|time=0:34|defends=0}}
-|purple2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=21|deaths=27|time=1:07|defends=1}}
-|purple3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=30|deaths=31|time=0:46|defends=0}}
-|purple4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=23|deaths=30|time=0:15|defends=0}}
+|blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=38|deaths=22|time=66|defends=4}}
+|blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=25|deaths=23|time=74|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=25|deaths=25|time=51|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=31|deaths=26|time=87|defends=2}}
+|purple1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=22|deaths=31|time=34|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=21|deaths=27|time=67|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=30|deaths=31|time=46|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=23|deaths=30|time=15|defends=0}}
 }}
 
 {{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Enigma6 Group|Rise Nation|title=World War II|date=2018-06-16|time=1621|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Enigma6 Group|team2=Rise Nation|team1score=238|team2score=250
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=13:25
-|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=49|deaths=36|time=0:33|defends=1}}
-|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=36|deaths=35|time=1:28|defends=1}}
-|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=30|deaths=31|time=1:18|defends=1}}
-|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=28|deaths=45|time=0:54|defends=0}}
-|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=49|deaths=30|time=0:50|defends=1}}
-|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=35|deaths=32|time=1:41|defends=0}}
-|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=31|deaths=34|time=1:51|defends=1}}
-|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=32|deaths=47|time=0:31|defends=1}}
+|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=49|deaths=36|time=33|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=36|deaths=35|time=88|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=30|deaths=31|time=78|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=28|deaths=45|time=54|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=49|deaths=30|time=50|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=35|deaths=32|time=101|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=31|deaths=34|time=111|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=32|deaths=47|time=31|defends=1}}
 }}
 {{ScoreboardWWII|team1=Enigma6 Group|team2=Rise Nation|team1score=3|team2score=6
 |gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=7:47
@@ -281,28 +281,28 @@
 }}
 {{ScoreboardWWII|team1=Enigma6 Group|team2=Rise Nation|team1score=0|team2score=3
 |gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=9:59
-|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=19|deaths=22|caps=0|returns=0}}
-|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=20|deaths=20|caps=0|returns=1}}
-|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=15|deaths=23|caps=0|returns=1}}
-|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=14|deaths=23|caps=0|returns=0}}
-|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=20|deaths=19|caps=0|returns=1}}
-|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=22|deaths=19|caps=0|returns=0}}
-|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=23|deaths=15|caps=1|returns=1}}
-|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=23|deaths=15|caps=2|returns=2}}
+|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=19|deaths=22|captures=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=20|deaths=20|captures=0|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=15|deaths=23|captures=0|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=14|deaths=23|captures=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=20|deaths=19|captures=0|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=22|deaths=19|captures=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=23|deaths=15|captures=1|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=23|deaths=15|captures=2|returns=2}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{ScoreboardWWII/Header|Enigma6 Group|Luminosity Gaming|title=World War II|date=2018-06-16|time=1736|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=209|team2score=250
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=10:10
-|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=36|deaths=28|time=0:58|defends=0}}
-|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=18|deaths=31|time=1:30|defends=0}}
-|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=27|deaths=28|time=0:43|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=20|deaths=24|time=1:34|defends=0}}
-|purple1={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=30|deaths=23|time=1:43|defends=3}}
-|purple2={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=24|deaths=28|time=1:19|defends=1}}
-|purple3={{ScoreboardWWII/Player|name=John|link=John|kills=37|deaths=24|time=1:15|defends=2}}
-|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=20|deaths=26|time=1:05|defends=0}}
+|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=36|deaths=28|time=58|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=18|deaths=31|time=90|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=27|deaths=28|time=43|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=20|deaths=24|time=94|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=30|deaths=23|time=103|defends=3}}
+|purple2={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=24|deaths=28|time=79|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=John|link=John|kills=37|deaths=24|time=75|defends=2}}
+|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=20|deaths=26|time=65|defends=0}}
 }}
 {{ScoreboardWWII|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=5|team2score=6
 |gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=9:09
@@ -317,28 +317,28 @@
 }}
 {{ScoreboardWWII|team1=Enigma6 Group|team2=Luminosity Gaming|team1score=3|team2score=4
 |gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:08
-|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=17|deaths=22|caps=1|returns=0}}
-|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=16|deaths=20|caps=0|returns=1}}
-|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=20|deaths=20|caps=0|returns=1}}
-|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=13|deaths=20|caps=2|returns=0}}
-|purple1={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=14|deaths=16|caps=0|returns=0}}
-|purple2={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=26|deaths=16|caps=1|returns=2}}
-|purple3={{ScoreboardWWII/Player|name=John|link=John|kills=24|deaths=18|caps=2|returns=0}}
-|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=18|deaths=16|caps=1|returns=3}}
+|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=17|deaths=22|captures=1|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=16|deaths=20|captures=0|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=20|deaths=20|captures=0|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=13|deaths=20|captures=2|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=14|deaths=16|captures=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=26|deaths=16|captures=1|returns=2}}
+|purple3={{ScoreboardWWII/Player|name=John|link=John|kills=24|deaths=18|captures=2|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=18|deaths=16|captures=1|returns=3}}
 }}
 
 {{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Elevate|UNILAD Esports|title=World War II|date=2018-06-16|time=1751|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Elevate|team2=UNILAD Esports|team1score=142|team2score=250
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=9:08
-|blue1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=21|deaths=27|time=0:03|defends=0}}
-|blue2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=27|deaths=22|time=1:09|defends=1}}
-|blue3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=13|deaths=30|time=0:25|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=21|deaths=27|time=1:02|defends=0}}
-|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=31|deaths=22|time=0:22|defends=1}}
-|purple2={{ScoreboardWWII/Player|name=Seany|link=Seany|kills=33|deaths=20|time=1:31|defends=1}}
-|purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=25|deaths=19|time=1:37|defends=0}}
-|purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=17|deaths=21|time=1:50|defends=2}}
+|blue1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=21|deaths=27|time=3|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=27|deaths=22|time=69|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=13|deaths=30|time=25|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=21|deaths=27|time=62|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=31|deaths=22|time=22|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Seany|link=Seany|kills=33|deaths=20|time=91|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=25|deaths=19|time=97|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=17|deaths=21|time=110|defends=2}}
 }}
 {{ScoreboardWWII|team1=Elevate|team2=UNILAD Esports|team1score=3|team2score=6
 |gamename=Game 2|map=USS Texas|gamemode=Search and Destroy|maptime=8:56
@@ -353,39 +353,39 @@
 }}
 {{ScoreboardWWII|team1=Elevate|team2=UNILAD Esports|team1score=3|team2score=1
 |gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:21
-|blue1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=15|deaths=21|caps=0|returns=0}}
-|blue2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=27|deaths=18|caps=1|returns=1}}
-|blue3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=20|deaths=21|caps=0|returns=2}}
-|blue4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=22|deaths=21|caps=2|returns=0}}
-|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=17|deaths=21|caps=1|returns=0}}
-|purple2={{ScoreboardWWII/Player|name=Seany|link=Seany|kills=16|deaths=26|caps=0|returns=0}}
-|purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=27|deaths=15|caps=0|returns=2}}
-|purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=21|deaths=22|caps=0|returns=0}}
+|blue1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=15|deaths=21|captures=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=27|deaths=18|captures=1|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=20|deaths=21|captures=0|returns=2}}
+|blue4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=22|deaths=21|captures=2|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=17|deaths=21|captures=1|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Seany|link=Seany|kills=16|deaths=26|captures=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=27|deaths=15|captures=0|returns=2}}
+|purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=21|deaths=22|captures=0|returns=0}}
 }}
 {{ScoreboardWWII|team1=Elevate|team2=UNILAD Esports|team1score=204|team2score=250
 |gamename=Game 4|map=Gibraltar|gamemode=Hardpoint|maptime=11:21
-|blue1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=29|deaths=32|time=0:31|defends=1}}
-|blue2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=26|deaths=26|time=1:15|defends=1}}
-|blue3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=23|deaths=36|time=1:14|defends=1}}
-|blue4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=21|deaths=33|time=0:41|defends=0}}
-|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=34|deaths=25|time=1:06|defends=1}}
-|purple2={{ScoreboardWWII/Player|name=Seany|link=Seany|kills=34|deaths=24|time=0:36|defends=3}}
-|purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=24|deaths=22|time=2:07|defends=1}}
-|purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=35|deaths=28|time=0:36|defends=1}}
+|blue1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=29|deaths=32|time=31|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=26|deaths=26|time=75|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=23|deaths=36|time=74|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Spacely|link=Spacely|kills=21|deaths=33|time=41|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=34|deaths=25|time=66|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Seany|link=Seany|kills=34|deaths=24|time=36|defends=3}}
+|purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=24|deaths=22|time=127|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=35|deaths=28|time=36|defends=1}}
 }}
 {{Box|end}}
 {{Box|start|padding=2em}}
 {{ScoreboardWWII/Header|Complexity Gaming|Conquest Esports|title=World War II|date=2018-06-16|time=1757|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Complexity Gaming|team2=Conquest Esports|team1score=250|team2score=170
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=8:54
-|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=20|deaths=23|time=0:26|defends=1}}
-|blue2={{ScoreboardWWII/Player|name=Censor|link=Censor|kills=21|deaths=21|time=1:21|defends=4}}
-|blue3={{ScoreboardWWII/Player|name=Dashy|link=Dashy|kills=23|deaths=28|time=1:26|defends=1}}
-|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=25|deaths=16|time=1:36|defends=0}}
-|purple1={{ScoreboardWWII/Player|name=GRVTY|link=GRVTY|kills=19|deaths=22|time=0:55|defends=2}}
-|purple2={{ScoreboardWWII/Player|name=KiSMET|link=KiSMET|kills=26|deaths=25|time=0:52|defends=0}}
-|purple3={{ScoreboardWWII/Player|name=Phantomz|link=Phantomz|kills=25|deaths=21|time=0:59|defends=2}}
-|purple4={{ScoreboardWWII/Player|name=Tisch|link=Tisch|kills=18|deaths=21|time=0:53|defends=0}}
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=20|deaths=23|time=26|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Censor|link=Censor|kills=21|deaths=21|time=81|defends=4}}
+|blue3={{ScoreboardWWII/Player|name=Dashy|link=Dashy|kills=23|deaths=28|time=86|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=25|deaths=16|time=96|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=GRVTY|link=GRVTY|kills=19|deaths=22|time=55|defends=2}}
+|purple2={{ScoreboardWWII/Player|name=KiSMET|link=KiSMET|kills=26|deaths=25|time=52|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Phantomz|link=Phantomz|kills=25|deaths=21|time=59|defends=2}}
+|purple4={{ScoreboardWWII/Player|name=Tisch|link=Tisch|kills=18|deaths=21|time=53|defends=0}}
 }}
 {{ScoreboardWWII|team1=Complexity Gaming|team2=Conquest Esports|team1score=6|team2score=1
 |gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=5:40
@@ -400,39 +400,39 @@
 }}
 {{ScoreboardWWII|team1=Complexity Gaming|team2=Conquest Esports|team1score=2|team2score=3
 |gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=9:59
-|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=25|deaths=19|caps=1|returns=0}}
-|blue2={{ScoreboardWWII/Player|name=Censor|link=Censor|kills=9|deaths=20|caps=1|returns=1}}
-|blue3={{ScoreboardWWII/Player|name=Dashy|link=Dashy|kills=14|deaths=20|caps=0|returns=1}}
-|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=11|deaths=16|caps=0|returns=1}}
-|purple1={{ScoreboardWWII/Player|name=GRVTY|link=GRVTY|kills=15|deaths=19|caps=0|returns=1}}
-|purple2={{ScoreboardWWII/Player|name=KiSMET|link=KiSMET|kills=21|deaths=14|caps=1|returns=1}}
-|purple3={{ScoreboardWWII/Player|name=Phantomz|link=Phantomz|kills=17|deaths=14|caps=2|returns=0}}
-|purple4={{ScoreboardWWII/Player|name=Tisch|link=Tisch|kills=22|deaths=12|caps=0|returns=0}}
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=25|deaths=19|captures=1|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Censor|link=Censor|kills=9|deaths=20|captures=1|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=Dashy|link=Dashy|kills=14|deaths=20|captures=0|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=11|deaths=16|captures=0|returns=1}}
+|purple1={{ScoreboardWWII/Player|name=GRVTY|link=GRVTY|kills=15|deaths=19|captures=0|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=KiSMET|link=KiSMET|kills=21|deaths=14|captures=1|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=Phantomz|link=Phantomz|kills=17|deaths=14|captures=2|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Tisch|link=Tisch|kills=22|deaths=12|captures=0|returns=0}}
 }}
 {{ScoreboardWWII|team1=Complexity Gaming|team2=Conquest Esports|team1score=250|team2score=179
 |gamename=Game 4|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=9:52
-|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=35|deaths=28|time=0:25|defends=2}}
-|blue2={{ScoreboardWWII/Player|name=Censor|link=Censor|kills=28|deaths=25|time=1:12|defends=1}}
-|blue3={{ScoreboardWWII/Player|name=Dashy|link=Dashy|kills=29|deaths=24|time=1:46|defends=4}}
-|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=19|deaths=25|time=1:56|defends=0}}
-|purple1={{ScoreboardWWII/Player|name=GRVTY|link=GRVTY|kills=23|deaths=26|time=1:36|defends=1}}
-|purple2={{ScoreboardWWII/Player|name=KiSMET|link=KiSMET|kills=29|deaths=31|time=0:35|defends=0}}
-|purple3={{ScoreboardWWII/Player|name=Phantomz|link=Phantomz|kills=33|deaths=25|time=0:22|defends=1}}
-|purple4={{ScoreboardWWII/Player|name=Tisch|link=Tisch|kills=17|deaths=29|time=0:50|defends=3}}
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=35|deaths=28|time=25|defends=2}}
+|blue2={{ScoreboardWWII/Player|name=Censor|link=Censor|kills=28|deaths=25|time=72|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Dashy|link=Dashy|kills=29|deaths=24|time=106|defends=4}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=19|deaths=25|time=116|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=GRVTY|link=GRVTY|kills=23|deaths=26|time=96|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=KiSMET|link=KiSMET|kills=29|deaths=31|time=35|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Phantomz|link=Phantomz|kills=33|deaths=25|time=22|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Tisch|link=Tisch|kills=17|deaths=29|time=50|defends=3}}
 }}
 
 {{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Ghost Gaming|Tainted Minds|title=World War II|date=2018-06-16|time=1758|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Ghost Gaming|team2=Tainted Minds|team1score=250|team2score=124
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=9:11
-|blue1={{ScoreboardWWII/Player|name=GodRx|link=GodRx|kills=28|deaths=21|time=2:05|defends=2}}
-|blue2={{ScoreboardWWII/Player|name=Lacefield|link=Lacefield|kills=25|deaths=19|time=0:48|defends=0}}
-|blue3={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=25|deaths=20|time=0:31|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=Parasite|link=Parasite|kills=16|deaths=21|time=1:35|defends=1}}
-|purple1={{ScoreboardWWII/Player|name=Damage|link=Damage|kills=22|deaths=22|time=0:30|defends=0}}
-|purple2={{ScoreboardWWII/Player|name=Nimble|link=Nimble|kills=22|deaths=24|time=0:31|defends=2}}
-|purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=17|deaths=23|time=0:31|defends=1}}
-|purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=20|deaths=25|time=0:56|defends=0}}
+|blue1={{ScoreboardWWII/Player|name=GodRx|link=GodRx|kills=28|deaths=21|time=125|defends=2}}
+|blue2={{ScoreboardWWII/Player|name=Lacefield|link=Lacefield|kills=25|deaths=19|time=48|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=25|deaths=20|time=31|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Parasite|link=Parasite|kills=16|deaths=21|time=95|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Damage|link=Damage|kills=22|deaths=22|time=30|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Nimble|link=Nimble|kills=22|deaths=24|time=31|defends=2}}
+|purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=17|deaths=23|time=31|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=20|deaths=25|time=56|defends=0}}
 }}
 {{ScoreboardWWII|team1=Ghost Gaming|team2=Tainted Minds|team1score=6|team2score=5
 |gamename=Game 2|map=USS Texas|gamemode=Search and Destroy|maptime=12:39
@@ -447,24 +447,24 @@
 }}
 {{ScoreboardWWII|team1=Ghost Gaming|team2=Tainted Minds|team1score=4|team2score=6
 |gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=17:17
-|blue1={{ScoreboardWWII/Player|name=GodRx|link=GodRx|kills=24|deaths=28|caps=1|returns=1}}
-|blue2={{ScoreboardWWII/Player|name=Lacefield|link=Lacefield|kills=26|deaths=24|caps=1|returns=0}}
-|blue3={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=30|deaths=25|caps=0|returns=1}}
-|blue4={{ScoreboardWWII/Player|name=Parasite|link=Parasite|kills=23|deaths=30|caps=2|returns=0}}
-|purple1={{ScoreboardWWII/Player|name=Damage|link=Damage|kills=27|deaths=24|caps=0|returns=0}}
-|purple2={{ScoreboardWWII/Player|name=Nimble|link=Nimble|kills=31|deaths=25|caps=2|returns=1}}
-|purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=22|deaths=32|caps=0|returns=2}}
-|purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=27|deaths=22|caps=4|returns=0}}
+|blue1={{ScoreboardWWII/Player|name=GodRx|link=GodRx|kills=24|deaths=28|captures=1|returns=1}}
+|blue2={{ScoreboardWWII/Player|name=Lacefield|link=Lacefield|kills=26|deaths=24|captures=1|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=30|deaths=25|captures=0|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=Parasite|link=Parasite|kills=23|deaths=30|captures=2|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Damage|link=Damage|kills=27|deaths=24|captures=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Nimble|link=Nimble|kills=31|deaths=25|captures=2|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=22|deaths=32|captures=0|returns=2}}
+|purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=27|deaths=22|captures=4|returns=0}}
 }}
 {{ScoreboardWWII|team1=Ghost Gaming|team2=Tainted Minds|team1score=250|team2score=220
 |gamename=Game 4|map=Valkyrie|gamemode=Hardpoint|maptime=10:18
-|blue1={{ScoreboardWWII/Player|name=GodRx|link=GodRx|kills=25|deaths=26|time=1:15|defends=3}}
-|blue2={{ScoreboardWWII/Player|name=Lacefield|link=Lacefield|kills=17|deaths=23|time=1:29|defends=0}}
-|blue3={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=24|deaths=28|time=1:12|defends=1}}
-|blue4={{ScoreboardWWII/Player|name=Parasite|link=Parasite|kills=22|deaths=22|time=1:28|defends=0}}
-|purple1={{ScoreboardWWII/Player|name=Damage|link=Damage|kills=20|deaths=17|time=1:17|defends=1}}
-|purple2={{ScoreboardWWII/Player|name=Nimble|link=Nimble|kills=21|deaths=19|time=2:05|defends=2}}
-|purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=25|deaths=28|time=0:26|defends=0}}
-|purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=33|deaths=24|time=0:57|defends=2}}
+|blue1={{ScoreboardWWII/Player|name=GodRx|link=GodRx|kills=25|deaths=26|time=75|defends=3}}
+|blue2={{ScoreboardWWII/Player|name=Lacefield|link=Lacefield|kills=17|deaths=23|time=89|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=24|deaths=28|time=72|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Parasite|link=Parasite|kills=22|deaths=22|time=88|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Damage|link=Damage|kills=20|deaths=17|time=77|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Nimble|link=Nimble|kills=21|deaths=19|time=125|defends=2}}
+|purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=25|deaths=28|time=26|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=33|deaths=24|time=57|defends=2}}
 }}
 {{Box|end}}

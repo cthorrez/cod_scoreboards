@@ -2,14 +2,14 @@
 {{ScoreboardWWII/Header|Luminosity Gaming|UNILAD Esports|title=World War II|date=2018-06-17|time=1519|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=UNILAD Esports|team1score=250|team2score=189
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=11:12
-|blue1={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=26|deaths=24|time=1:34|defends=1}}
-|blue2={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=35|deaths=23|time=0:08|defends=1}}
-|blue3={{ScoreboardWWII/Player|name=John|link=John|kills=29|deaths=28|time=1:32|defends=1}}
-|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=28|deaths=25|time=1:21|defends=1}}
-|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=26|deaths=33|time=0:35|defends=0}}
-|purple2={{ScoreboardWWII/Player|name=Seany|link=Seany|kills=28|deaths=28|time=1:29|defends=0}}
-|purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=25|deaths=27|time=0:53|defends=0}}
-|purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=21|deaths=30|time=0:29|defends=1}}
+|blue1={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=26|deaths=24|time=94|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=35|deaths=23|time=8|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=John|link=John|kills=29|deaths=28|time=92|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=28|deaths=25|time=81|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=26|deaths=33|time=35|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Seany|link=Seany|kills=28|deaths=28|time=89|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=25|deaths=27|time=53|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=21|deaths=30|time=29|defends=1}}
 }}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=UNILAD Esports|team1score=6|team2score=1
 |gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=5:13
@@ -24,13 +24,13 @@
 }}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=UNILAD Esports|team1score=3|team2score=1
 |gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
-|blue1={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=19|deaths=13|caps=1|returns=1}}
-|blue2={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=21|deaths=12|caps=1|returns=0}}
-|blue3={{ScoreboardWWII/Player|name=John|link=John|kills=19|deaths=15|caps=1|returns=0}}
-|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=13|deaths=16|caps=0|returns=1}}
-|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=11|deaths=20|caps=0|returns=0}}
-|purple2={{ScoreboardWWII/Player|name=Seany|link=Seany|kills=10|deaths=22|caps=0|returns=0}}
-|purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=20|deaths=13|caps=0|returns=2}}
-|purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=15|deaths=17|caps=1|returns=0}}
+|blue1={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=19|deaths=13|captures=1|returns=1}}
+|blue2={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=21|deaths=12|captures=1|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=John|link=John|kills=19|deaths=15|captures=1|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=13|deaths=16|captures=0|returns=1}}
+|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=11|deaths=20|captures=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Seany|link=Seany|kills=10|deaths=22|captures=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=20|deaths=13|captures=0|returns=2}}
+|purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=15|deaths=17|captures=1|returns=0}}
 }}
 

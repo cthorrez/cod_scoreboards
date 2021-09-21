@@ -2,14 +2,14 @@
 {{ScoreboardWWII/Header|OpTic Gaming|Tainted Minds|title=World War II|date=2018-06-17|time=1134|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=Tainted Minds|team1score=250|team2score=191
 |gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=9:38
-|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=18|deaths=22|time=0:25|defends=0}}
-|blue2={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=20|deaths=19|time=1:10|defends=0}}
-|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=25|deaths=16|time=2:47|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=27|deaths=22|time=0:37|defends=2}}
-|purple1={{ScoreboardWWII/Player|name=Damage|link=Damage|kills=19|deaths=21|time=0:18|defends=0}}
-|purple2={{ScoreboardWWII/Player|name=Nimble|link=Nimble|kills=21|deaths=26|time=1:04|defends=0}}
-|purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=21|deaths=24|time=1:18|defends=0}}
-|purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=18|deaths=19|time=0:44|defends=0}}
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=18|deaths=22|time=25|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=20|deaths=19|time=70|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=25|deaths=16|time=167|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=27|deaths=22|time=37|defends=2}}
+|purple1={{ScoreboardWWII/Player|name=Damage|link=Damage|kills=19|deaths=21|time=18|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Nimble|link=Nimble|kills=21|deaths=26|time=64|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=21|deaths=24|time=78|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=18|deaths=19|time=44|defends=0}}
 }}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=Tainted Minds|team1score=6|team2score=5
 |gamename=Game 2|map=Valkyrie|gamemode=Search and Destroy|maptime=13:03
@@ -24,28 +24,28 @@
 }}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=Tainted Minds|team1score=5|team2score=2
 |gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=9:59
-|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=26|deaths=12|caps=1|returns=0}}
-|blue2={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=21|deaths=11|caps=0|returns=1}}
-|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=20|deaths=14|caps=3|returns=1}}
-|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=15|deaths=17|caps=1|returns=0}}
-|purple1={{ScoreboardWWII/Player|name=Damage|link=Damage|kills=12|deaths=19|caps=1|returns=0}}
-|purple2={{ScoreboardWWII/Player|name=Nimble|link=Nimble|kills=15|deaths=19|caps=0|returns=1}}
-|purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=17|deaths=21|caps=1|returns=1}}
-|purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=10|deaths=23|caps=0|returns=0}}
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=26|deaths=12|captures=1|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=21|deaths=11|captures=0|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=20|deaths=14|captures=3|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=15|deaths=17|captures=1|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Damage|link=Damage|kills=12|deaths=19|captures=1|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Nimble|link=Nimble|kills=15|deaths=19|captures=0|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=17|deaths=21|captures=1|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=10|deaths=23|captures=0|returns=0}}
 }}
 
 {{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|FaZe Clan|Mindfreak|title=World War II|date=2018-06-17|time=1207|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Mindfreak|team1score=210|team2score=250
 |gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=11:06
-|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=26|deaths=19|time=0:38|defends=0}}
-|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=30|deaths=28|time=0:42|defends=1}}
-|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=23|deaths=23|time=2:14|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=23|deaths=35|time=0:15|defends=0}}
-|purple1={{ScoreboardWWII/Player|name=BuZZO|link=BuZZO|kills=29|deaths=24|time=0:25|defends=0}}
-|purple2={{ScoreboardWWII/Player|name=Denz|link=Denz|kills=26|deaths=27|time=1:12|defends=0}}
-|purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=24|deaths=31|time=1:44|defends=2}}
-|purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=26|deaths=20|time=1:47|defends=0}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=26|deaths=19|time=38|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=30|deaths=28|time=42|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=23|deaths=23|time=134|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=23|deaths=35|time=15|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=BuZZO|link=BuZZO|kills=29|deaths=24|time=25|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Denz|link=Denz|kills=26|deaths=27|time=72|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=24|deaths=31|time=104|defends=2}}
+|purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=26|deaths=20|time=107|defends=0}}
 }}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Mindfreak|team1score=4|team2score=6
 |gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=12:01
@@ -60,25 +60,25 @@
 }}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Mindfreak|team1score=4|team2score=2
 |gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=12:46
-|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=19|deaths=19|caps=0|returns=3}}
-|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=24|deaths=25|caps=1|returns=0}}
-|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=22|deaths=21|caps=0|returns=1}}
-|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=15|deaths=25|caps=3|returns=1}}
-|purple1={{ScoreboardWWII/Player|name=BuZZO|link=BuZZO|kills=14|deaths=19|caps=0|returns=1}}
-|purple2={{ScoreboardWWII/Player|name=Denz|link=Denz|kills=27|deaths=17|caps=1|returns=1}}
-|purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=30|deaths=21|caps=1|returns=1}}
-|purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=19|deaths=23|caps=0|returns=1}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=19|deaths=19|captures=0|returns=3}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=24|deaths=25|captures=1|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=22|deaths=21|captures=0|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=15|deaths=25|captures=3|returns=1}}
+|purple1={{ScoreboardWWII/Player|name=BuZZO|link=BuZZO|kills=14|deaths=19|captures=0|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=Denz|link=Denz|kills=27|deaths=17|captures=1|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=30|deaths=21|captures=1|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=19|deaths=23|captures=0|returns=1}}
 }}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Mindfreak|team1score=250|team2score=188
 |gamename=Game 4|map=Valkyrie|gamemode=Hardpoint|maptime=8:56
-|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=19|deaths=18|time=0:36|defends=0}}
-|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=21|deaths=21|time=0:51|defends=1}}
-|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=21|deaths=17|time=1:45|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=27|deaths=18|time=1:42|defends=1}}
-|purple1={{ScoreboardWWII/Player|name=BuZZO|link=BuZZO|kills=19|deaths=18|time=0:34|defends=1}}
-|purple2={{ScoreboardWWII/Player|name=Denz|link=Denz|kills=15|deaths=29|time=0:21|defends=0}}
-|purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=20|deaths=23|time=1:25|defends=1}}
-|purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=20|deaths=18|time=1:52|defends=2}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=19|deaths=18|time=36|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=21|deaths=21|time=51|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=21|deaths=17|time=105|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=27|deaths=18|time=102|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=BuZZO|link=BuZZO|kills=19|deaths=18|time=34|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Denz|link=Denz|kills=15|deaths=29|time=21|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=20|deaths=23|time=85|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=20|deaths=18|time=112|defends=2}}
 }}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Mindfreak|team1score=6|team2score=3
 |gamename=Game 5|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=10:00

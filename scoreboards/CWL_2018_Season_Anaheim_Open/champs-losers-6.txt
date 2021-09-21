@@ -2,14 +2,14 @@
 {{ScoreboardWWII/Header|OpTic Gaming|UNILAD Esports|title=World War II|date=2018-06-17|time=1300|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=UNILAD Esports|team1score=250|team2score=203
 |gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:49
-|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=32|deaths=39|time=1:00|defends=2}}
-|blue2={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=36|deaths=24|time=1:53|defends=2}}
-|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=28|deaths=26|time=1:20|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=32|deaths=34|time=1:18|defends=1}}
-|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=32|deaths=35|time=0:22|defends=1}}
-|purple2={{ScoreboardWWII/Player|name=Seany|link=Seany|kills=30|deaths=34|time=1:23|defends=1}}
-|purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=28|deaths=26|time=1:07|defends=2}}
-|purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=33|deaths=33|time=1:26|defends=3}}
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=32|deaths=39|time=60|defends=2}}
+|blue2={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=36|deaths=24|time=113|defends=2}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=28|deaths=26|time=80|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=32|deaths=34|time=78|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=32|deaths=35|time=22|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Seany|link=Seany|kills=30|deaths=34|time=83|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=28|deaths=26|time=67|defends=2}}
+|purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=33|deaths=33|time=86|defends=3}}
 }}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=UNILAD Esports|team1score=3|team2score=6
 |gamename=Game 2|map=USS Texas|gamemode=Search and Destroy|maptime=11:23
@@ -24,25 +24,25 @@
 }}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=UNILAD Esports|team1score=0|team2score=4
 |gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=9:59
-|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=23|deaths=15|caps=0|returns=0}}
-|blue2={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=17|deaths=19|caps=0|returns=1}}
-|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=17|deaths=18|caps=0|returns=0}}
-|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=14|deaths=21|caps=0|returns=0}}
-|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=16|deaths=19|caps=0|returns=1}}
-|purple2={{ScoreboardWWII/Player|name=Seany|link=Seany|kills=17|deaths=19|caps=1|returns=1}}
-|purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=20|deaths=18|caps=1|returns=1}}
-|purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=20|deaths=15|caps=2|returns=1}}
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=23|deaths=15|captures=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=17|deaths=19|captures=0|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=17|deaths=18|captures=0|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=14|deaths=21|captures=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=16|deaths=19|captures=0|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=Seany|link=Seany|kills=17|deaths=19|captures=1|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=20|deaths=18|captures=1|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=20|deaths=15|captures=2|returns=1}}
 }}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=UNILAD Esports|team1score=250|team2score=237
 |gamename=Game 4|map=Valkyrie|gamemode=Hardpoint|maptime=10:20
-|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=22|deaths=24|time=1:26|defends=0}}
-|blue2={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=28|deaths=21|time=1:35|defends=2}}
-|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=25|deaths=22|time=0:54|defends=1}}
-|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=32|deaths=27|time=1:06|defends=0}}
-|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=33|deaths=27|time=1:00|defends=2}}
-|purple2={{ScoreboardWWII/Player|name=Seany|link=Seany|kills=22|deaths=25|time=1:24|defends=1}}
-|purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=17|deaths=26|time=1:08|defends=0}}
-|purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=22|deaths=29|time=1:25|defends=1}}
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=22|deaths=24|time=86|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=28|deaths=21|time=95|defends=2}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=25|deaths=22|time=54|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=32|deaths=27|time=66|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=33|deaths=27|time=60|defends=2}}
+|purple2={{ScoreboardWWII/Player|name=Seany|link=Seany|kills=22|deaths=25|time=84|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=17|deaths=26|time=68|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=22|deaths=29|time=85|defends=1}}
 }}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=UNILAD Esports|team1score=5|team2score=6
 |gamename=Game 5|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=10:58
@@ -60,14 +60,14 @@
 {{ScoreboardWWII/Header|FaZe Clan|Luminosity Gaming|title=World War II|date=2018-06-17|time=1404|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Luminosity Gaming|team1score=126|team2score=250
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=7:26
-|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=14|deaths=16|time=1:02|defends=0}}
-|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=9|deaths=21|time=0:26|defends=1}}
-|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=18|deaths=21|time=0:22|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=14|deaths=21|time=0:40|defends=0}}
-|purple1={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=18|deaths=14|time=0:50|defends=0}}
-|purple2={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=19|deaths=13|time=1:19|defends=0}}
-|purple3={{ScoreboardWWII/Player|name=John|link=John|kills=34|deaths=14|time=1:04|defends=0}}
-|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=8|deaths=14|time=1:48|defends=0}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=14|deaths=16|time=62|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=9|deaths=21|time=26|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=18|deaths=21|time=22|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=14|deaths=21|time=40|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=18|deaths=14|time=50|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=19|deaths=13|time=79|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=John|link=John|kills=34|deaths=14|time=64|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=8|deaths=14|time=108|defends=0}}
 }}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Luminosity Gaming|team1score=4|team2score=6
 |gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=9:29
@@ -82,13 +82,13 @@
 }}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Luminosity Gaming|team1score=0|team2score=7
 |gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=9:59
-|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=14|deaths=22|caps=0|returns=0}}
-|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=20|deaths=22|caps=0|returns=0}}
-|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=14|deaths=20|caps=0|returns=1}}
-|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=12|deaths=24|caps=0|returns=0}}
-|purple1={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=22|deaths=14|caps=0|returns=0}}
-|purple2={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=23|deaths=14|caps=2|returns=1}}
-|purple3={{ScoreboardWWII/Player|name=John|link=John|kills=19|deaths=18|caps=3|returns=1}}
-|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=24|deaths=14|caps=2|returns=1}}
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=14|deaths=22|captures=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=20|deaths=22|captures=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=14|deaths=20|captures=0|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=12|deaths=24|captures=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=22|deaths=14|captures=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=23|deaths=14|captures=2|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=John|link=John|kills=19|deaths=18|captures=3|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=24|deaths=14|captures=2|returns=1}}
 }}
 {{Box|end}}

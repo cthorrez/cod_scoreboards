@@ -2,14 +2,14 @@
 {{ScoreboardWWII/Header|Echo Fox|Rise Nation|title=World War II|date=2018-04-22|time=1503|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Echo Fox|team2=Rise Nation|team1score=212|team2score=250
 |gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=10:04
-|blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=25|deaths=22|time=1:32|defends=2}}
-|blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=26|deaths=28|time=0:47|defends=2}}
-|blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=19|deaths=29|time=1:00|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=31|deaths=20|time=1:13|defends=1}}
-|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=27|deaths=26|time=1:56|defends=1}}
-|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=22|deaths=31|time=1:10|defends=0}}
-|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=27|deaths=19|time=1:04|defends=2}}
-|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=23|deaths=25|time=1:13|defends=0}}
+|blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=25|deaths=22|time=92|defends=2}}
+|blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=26|deaths=28|time=47|defends=2}}
+|blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=19|deaths=29|time=60|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=31|deaths=20|time=73|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=27|deaths=26|time=116|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=22|deaths=31|time=70|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=27|deaths=19|time=64|defends=2}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=23|deaths=25|time=73|defends=0}}
 }}
 {{ScoreboardWWII|team1=Echo Fox|team2=Rise Nation|team1score=6|team2score=5
 |gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=8:58
@@ -24,24 +24,24 @@
 }}
 {{ScoreboardWWII|team1=Echo Fox|team2=Rise Nation|team1score=0|team2score=5
 |gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:07
-|blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=15|deaths=20|caps=0|returns=1}}
-|blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=6|deaths=25|caps=0|returns=1}}
-|blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=12|deaths=23|caps=0|returns=0}}
-|blue4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=16|deaths=20|caps=0|returns=0}}
-|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=25|deaths=11|caps=2|returns=1}}
-|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=25|deaths=13|caps=0|returns=2}}
-|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=17|deaths=12|caps=1|returns=1}}
-|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=21|deaths=13|caps=2|returns=0}}
+|blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=15|deaths=20|captures=0|returns=1}}
+|blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=6|deaths=25|captures=0|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=12|deaths=23|captures=0|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=16|deaths=20|captures=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=25|deaths=11|captures=2|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=25|deaths=13|captures=0|returns=2}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=17|deaths=12|captures=1|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=21|deaths=13|captures=2|returns=0}}
 }}
 {{ScoreboardWWII|team1=Echo Fox|team2=Rise Nation|team1score=61|team2score=250
 |gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=7:54
-|blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=13|deaths=23|time=0:30|defends=0}}
-|blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=18|deaths=32|time=0:08|defends=0}}
-|blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=20|deaths=27|time=0:46|defends=0}}
-|blue4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=20|deaths=27|time=0:07|defends=0}}
-|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=32|deaths=15|time=1:30|defends=0}}
-|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=23|deaths=19|time=0:28|defends=0}}
-|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=23|deaths=13|time=2:17|defends=0}}
-|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=31|deaths=24|time=0:32|defends=2}}
+|blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=13|deaths=23|time=30|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=18|deaths=32|time=8|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=20|deaths=27|time=46|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=20|deaths=27|time=7|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=32|deaths=15|time=90|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=23|deaths=19|time=28|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=23|deaths=13|time=137|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=31|deaths=24|time=32|defends=2}}
 }}
 
