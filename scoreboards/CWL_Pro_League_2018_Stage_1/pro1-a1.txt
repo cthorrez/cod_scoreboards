@@ -59,7 +59,7 @@
 |purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=11|deaths=2|plants=3|defuses=0}}
 }}
 {{ScoreboardWWII|team1=eRa Eternity|team2=Team Kaliber|team1score=1|team2score=2
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Bevils|link=Bevils|kills=19|deaths=16|captures=0|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=14|deaths=19|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=22|deaths=18|captures=0|returns=1}}
@@ -236,7 +236,7 @@
 |purple4={{ScoreboardWWII/Player|name=Zayrox|link=Zayrox|kills=11|deaths=6|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Red Reserve|team2=Team Vitality|team1score=3|team2score=0
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Joee|link=Joee|kills=18|deaths=14|captures=1|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Joshh|link=Joshh|kills=16|deaths=16|captures=1|returns=2}}
 |blue3={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=15|deaths=16|captures=0|returns=5}}
@@ -435,7 +435,7 @@
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=6|deaths=10|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Mindfreak|team2=Rise Nation|team1score=0|team2score=6
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=BuZZO|link=BuZZO|kills=11|deaths=22|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Denz|link=Denz|kills=17|deaths=20|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=11|deaths=23|captures=0|returns=1}}

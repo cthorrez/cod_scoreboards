@@ -14,7 +14,7 @@
 |red5={{Scoreboard/Player|name=Zer0|link=Zer0|kills=24|deaths=18|time=70|defends=8}}
 }}
 {{Scoreboard|team1=Enigma6 Group|team2=Red Reserve|team1score=6|team2score=4
-|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=17:00
+|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=
 |blue1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=7|deaths=7|plants=0|defuses=2}}
 |blue2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=3|deaths=6|plants=1|defuses=0}}
 |blue3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=5|deaths=7|plants=0|defuses=1}}

@@ -23,7 +23,7 @@
 |purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=11|deaths=6|plants=1|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Echo Fox|team2=Tainted Minds|team1score=1|team2score=2
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=11:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=12|deaths=16|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=15|deaths=14|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=18|deaths=14|captures=1|returns=1}}

@@ -59,7 +59,7 @@
 {{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Epsilon Esports EU|Evil Geniuses|title=World War II|date=2018-06-26|time=1258|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=Evil Geniuses|team1score=214|team2score=250
-|gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=10:00
+|gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=26|deaths=28|time=0|defends=0}}
 |blue2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=18|deaths=23|time=0|defends=0}}
 |blue3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=18|deaths=22|time=0|defends=0}}
@@ -81,7 +81,7 @@
 |purple4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=1|deaths=8|plants=1|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=Evil Geniuses|team1score=0|team2score=2
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=17|deaths=16|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=14|deaths=19|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=10|deaths=12|captures=0|returns=0}}
@@ -92,7 +92,7 @@
 |purple4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=15|deaths=14|captures=0|returns=0}}
 }}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=Evil Geniuses|team1score=105|team2score=250
-|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=10:00
+|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=29|deaths=37|time=0|defends=0}}
 |blue2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=19|deaths=29|time=0|defends=0}}
 |blue3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=19|deaths=19|time=0|defends=0}}
@@ -106,7 +106,7 @@
 {{Box|start|padding=2em}}
 {{ScoreboardWWII/Header|Splyce|Team Kaliber|title=World War II|date=2018-06-26|time=1416|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Splyce|team2=Team Kaliber|team1score=205|team2score=250
-|gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=10:00
+|gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=22|deaths=33|time=0|defends=0}}
 |blue2={{ScoreboardWWII/Player|name=Joshh|link=Joshh|kills=23|deaths=30|time=0|defends=0}}
 |blue3={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=29|deaths=30|time=0|defends=0}}
@@ -117,7 +117,7 @@
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=30|deaths=25|time=0|defends=0}}
 }}
 {{ScoreboardWWII|team1=Splyce|team2=Team Kaliber|team1score=1|team2score=6
-|gamename=Game 2|map=USS Texas|gamemode=Search and Destroy|maptime=10:00
+|gamename=Game 2|map=USS Texas|gamemode=Search and Destroy|maptime=
 |blue1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=6|deaths=6|plants=0|defuses=0}}
 |blue2={{ScoreboardWWII/Player|name=Joshh|link=Joshh|kills=3|deaths=7|plants=1|defuses=0}}
 |blue3={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=1|deaths=6|plants=0|defuses=0}}

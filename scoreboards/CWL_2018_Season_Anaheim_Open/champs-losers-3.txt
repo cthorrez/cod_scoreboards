@@ -106,7 +106,7 @@
 |purple4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=31|deaths=20|time=95|defends=1}}
 }}
 {{ScoreboardWWII|team1=eUnited|team2=Evil Geniuses|team1score=6|team2score=4
-|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=10:00
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=
 |blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=8|deaths=5|plants=1|defuses=2}}
 |blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=8|deaths=7|plants=0|defuses=0}}
 |blue3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=5|deaths=9|plants=0|defuses=0}}
@@ -175,7 +175,7 @@
 |purple4={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=3|deaths=8|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Tainted Minds|team2=Team Envy|team1score=3|team2score=2
-|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Damage|link=Damage|kills=20|deaths=18|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Nimble|link=Nimble|kills=16|deaths=18|captures=0|returns=1}}
 |blue3={{ScoreboardWWII/Player|name=Swiftazor|link=Swiftazor|kills=20|deaths=16|captures=2|returns=4}}

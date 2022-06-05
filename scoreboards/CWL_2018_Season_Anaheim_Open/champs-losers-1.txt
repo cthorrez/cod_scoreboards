@@ -73,7 +73,7 @@
 {{Box|start|padding=2em}}
 {{ScoreboardWWII/Header|Regal Morituri|Tainted Minds|title=World War II|date=2018-06-16|time=1944|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Regal Morituri|team2=Tainted Minds|team1score=239|team2score=250
-|gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=11:00
+|gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=Havok|link=Havok|kills=21|deaths=18|time=121|defends=0}}
 |blue2={{ScoreboardWWII/Player|name=Mosh|link=Mosh|kills=27|deaths=28|time=34|defends=0}}
 |blue3={{ScoreboardWWII/Player|name=Nelson|link=Nelson|kills=18|deaths=34|time=27|defends=2}}

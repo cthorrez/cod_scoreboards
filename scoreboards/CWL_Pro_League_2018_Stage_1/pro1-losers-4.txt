@@ -23,7 +23,7 @@
 |purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=4|deaths=5|plants=1|defuses=0}}
 }}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Luminosity Gaming|team1score=4|team2score=1
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=22|deaths=13|captures=1|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=21|deaths=12|captures=2|returns=3}}
 |blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=20|deaths=16|captures=0|returns=0}}

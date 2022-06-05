@@ -81,7 +81,7 @@
 |purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=12|deaths=2|plants=2|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Elevate|team2=Mindfreak|team1score=0|team2score=3
-|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Blfire|link=Blfire|kills=14|deaths=20|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Mochila|link=Mochila|kills=15|deaths=20|captures=0|returns=1}}
 |blue3={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=11|deaths=22|captures=0|returns=2}}

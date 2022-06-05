@@ -261,7 +261,7 @@
 |purple4={{ScoreboardWWII/Player|name=Parasite|link=Parasite|kills=32|deaths=23|time=100|defends=1}}
 }}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=Ghost Gaming|team1score=2|team2score=6
-|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=8:00
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=
 |blue1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=8|deaths=6|plants=0|defuses=0}}
 |blue2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=4|deaths=7|plants=0|defuses=0}}
 |blue3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=5|deaths=7|plants=0|defuses=0}}

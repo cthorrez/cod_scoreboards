@@ -23,7 +23,7 @@
 |purple4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=13|deaths=5|plants=1|defuses=2}}
 }}
 {{ScoreboardWWII|team1=eUnited|team2=Evil Geniuses|team1score=4|team2score=7
-|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=13|deaths=19|captures=1|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=20|deaths=16|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=16|deaths=22|captures=1|returns=0}}

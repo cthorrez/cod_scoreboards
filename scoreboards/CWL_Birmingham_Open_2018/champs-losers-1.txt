@@ -1,0 +1,47 @@
+{{Box|start|padding=2em}}
+{{ScoreboardWWII/Header|GGEA Purple|Team Vitality|title=World War II|date=2018-03-31|time=1309|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=GGEA Purple|team2=Team Vitality|team1score=246|team2score=250
+|gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=11:06
+|blue1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=30|deaths=25|time=49|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Defrag|link=Defrag|kills=18|deaths=26|time=139|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=MarkyB|link=MarkyB|kills=31|deaths=29|time=107|defends=4}}
+|blue4={{ScoreboardWWII/Player|name=Urban|link=Urban|kills=26|deaths=28|time=31|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Malls|link=Malls|kills=21|deaths=24|time=92|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=RiskiN|link=RiskiN|kills=31|deaths=28|time=79|defends=2}}
+|purple3={{ScoreboardWWII/Player|name=Wailers|link=Wailers|kills=25|deaths=26|time=87|defends=2}}
+|purple4={{ScoreboardWWII/Player|name=Zayrox|link=Zayrox|kills=31|deaths=27|time=50|defends=1}}
+}}
+{{ScoreboardWWII|team1=GGEA Purple|team2=Team Vitality|team1score=6|team2score=3
+|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=9:07
+|blue1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=6|deaths=3|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Defrag|link=Defrag|kills=11|deaths=4|plants=1|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=MarkyB|link=MarkyB|kills=7|deaths=4|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Urban|link=Urban|kills=1|deaths=5|plants=1|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Malls|link=Malls|kills=2|deaths=6|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=RiskiN|link=RiskiN|kills=5|deaths=6|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Wailers|link=Wailers|kills=5|deaths=7|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Zayrox|link=Zayrox|kills=4|deaths=6|plants=0|defuses=0}}
+}}
+{{ScoreboardWWII|team1=GGEA Purple|team2=Team Vitality|team1score=2|team2score=1
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:19
+|blue1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=20|deaths=12|captures=1|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Defrag|link=Defrag|kills=21|deaths=14|captures=1|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=MarkyB|link=MarkyB|kills=13|deaths=14|captures=0|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=Urban|link=Urban|kills=18|deaths=11|captures=0|returns=1}}
+|purple1={{ScoreboardWWII/Player|name=Malls|link=Malls|kills=13|deaths=17|captures=1|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=RiskiN|link=RiskiN|kills=14|deaths=17|captures=0|returns=2}}
+|purple3={{ScoreboardWWII/Player|name=Wailers|link=Wailers|kills=12|deaths=18|captures=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Zayrox|link=Zayrox|kills=12|deaths=20|captures=0|returns=0}}
+}}
+{{ScoreboardWWII|team1=GGEA Purple|team2=Team Vitality|team1score=250|team2score=101
+|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=9:01
+|blue1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=25|deaths=17|time=74|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Defrag|link=Defrag|kills=28|deaths=24|time=25|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=MarkyB|link=MarkyB|kills=26|deaths=14|time=134|defends=4}}
+|blue4={{ScoreboardWWII/Player|name=Urban|link=Urban|kills=26|deaths=18|time=53|defends=3}}
+|purple1={{ScoreboardWWII/Player|name=Malls|link=Malls|kills=14|deaths=29|time=30|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=RiskiN|link=RiskiN|kills=12|deaths=26|time=38|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Wailers|link=Wailers|kills=33|deaths=24|time=40|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Zayrox|link=Zayrox|kills=14|deaths=26|time=4|defends=0}}
+}}
+

@@ -23,7 +23,7 @@
 |purple4={{ScoreboardWWII/Player|name=Zed|link=Zed|kills=3|deaths=6|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=UNILAD Esports|team1score=3|team2score=1
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=19|deaths=13|captures=1|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=21|deaths=12|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=John|link=John|kills=19|deaths=15|captures=1|returns=0}}

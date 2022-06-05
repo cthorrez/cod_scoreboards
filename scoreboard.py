@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 import datetime
 import re
@@ -13,9 +14,16 @@ from mappers import (
     player_to_username_mapper
 )
 
+def nan_safe_int(value):
+    "converts a value to int, if it can't be converted, return empty string"
+    try:
+        return int(value)
+    except:
+        return ''
+
 def seconds_converter(seconds, game_title):
     if game_title in  {'Black Ops 4', 'World War II'}:
-        return seconds
+        return int(seconds)
     elif game_title == 'Infinite Warfare':
         minutes = int(seconds) // 60
         seconds = int(seconds) % 60
@@ -27,6 +35,9 @@ def seconds_converter(seconds, game_title):
 class ScoreboardSeries:
     def __init__(self, file_name, series_group, idx):
         self.idx = idx
+        if len(series_group['team'].drop_duplicates().to_list()) != 2:
+            for x in series_group['team'].drop_duplicates().to_list():
+                print(x)
         team1_raw, team2_raw = series_group['team'].drop_duplicates().to_list()
         self.team1 = team_name_mapper[team1_raw]
         self.team2 = team_name_mapper[team2_raw]
@@ -36,7 +47,11 @@ class ScoreboardSeries:
         matches = sorted(matches, key=lambda x: x.iloc[0]['end time'])
 
         first_match_finish = matches[0].iloc[0]['end time'].to_pydatetime()
-        first_match_duration = int(matches[0].iloc[0]['duration (s)'])
+
+        if np.isnan(matches[0].iloc[0]['duration (s)']):
+            first_match_duration = 0
+        else:
+            first_match_duration = int(matches[0].iloc[0]['duration (s)'])
         first_match_start = first_match_finish - datetime.timedelta(seconds=first_match_duration)
         first_match_start = first_match_start.astimezone(timezone('US/Pacific'))
         first_match_finish = first_match_finish.astimezone(timezone('US/Pacific'))
@@ -76,10 +91,14 @@ class ScoreboardMatch:
         self.team2_color = game_title_to_team2_color_mapper[game_title]
         self.mode = mode_mapper[str(match_group.iloc[0]['mode'])]
         self.map = str(match_group.iloc[0]['map'])
-        duration_seconds = int(match_group.iloc[0]['duration (s)'])
+
+        if not np.isnan(match_group.iloc[0]['duration (s)']):
+            duration_seconds = int(match_group.iloc[0]['duration (s)'])
+        else:
+            duration_seconds = 0.0
         minutes = duration_seconds // 60
         seconds = duration_seconds % 60
-        self.game_time = f'{minutes}:{str(seconds).rjust(2,"0")}'
+        self.game_time = f'{minutes}:{str(seconds).rjust(2,"0")}' if seconds > 0 else ''
 
         team1_players = match_group[match_group['team'] == team1_raw]
         team2_players = match_group[match_group['team'] == team2_raw]
@@ -126,7 +145,7 @@ class ScoreboardPlayer:
         if mode == 'Hardpoint':
             self.stats = {
                 'time' : seconds_converter(player_row['hill time (s)'], self.game_title),
-                'defends' : int(player_row['hill defends']),
+                'defends' : nan_safe_int(player_row['hill defends']),
             }
         elif mode == 'Search and Destroy':
             self.stats = {

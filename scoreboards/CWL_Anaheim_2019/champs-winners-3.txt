@@ -27,7 +27,7 @@
 |red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=5|deaths=10|plants=0|defuses=0}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=Gen.G|team1score=3|team2score=2
-|gamename=Game 3|map=Frequency|gamemode=Control|maptime=17:00
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=
 |blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=24|deaths=25|caps=2}}
 |blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=33|deaths=25|caps=1}}
 |blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=24|deaths=22|caps=2}}

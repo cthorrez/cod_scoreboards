@@ -260,7 +260,7 @@
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=4|deaths=9|plants=0|defuses=0}}
 }}
 {{Scoreboard|team1=eUnited|team2=OpTic Gaming|team1score=0|team2score=3
-|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=7:00
+|gamename=Game 3|map=Arsenal|gamemode=Control|maptime=
 |blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=14|deaths=14|caps=1}}
 |blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=6|deaths=15|caps=1}}
 |blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=4|deaths=15|caps=0}}
@@ -289,7 +289,7 @@
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=20|deaths=20|time=47|defends=8}}
 }}
 {{Scoreboard|team1=Team Reciprocity|team2=Team Envy|team1score=6|team2score=3
-|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=12:00
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=
 |blue1={{Scoreboard/Player|name=Dylan|link=Dylan|kills=8|deaths=6|plants=1|defuses=0}}
 |blue2={{Scoreboard/Player|name=Seany|link=Seany|kills=5|deaths=6|plants=2|defuses=0}}
 |blue3={{Scoreboard/Player|name=Tommey|link=Tommey|kills=7|deaths=3|plants=0|defuses=0}}

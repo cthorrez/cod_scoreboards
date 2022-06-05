@@ -92,7 +92,7 @@
 |purple4={{ScoreboardWWII/Player|name=Wailers|link=Wailers|kills=16|deaths=14|captures=0|returns=1}}
 }}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=Team Vitality|team1score=250|team2score=146
-|gamename=Game 4|map=Gibraltar|gamemode=Hardpoint|maptime=10:00
+|gamename=Game 4|map=Gibraltar|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=27|deaths=15|time=0|defends=0}}
 |blue2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=25|deaths=16|time=0|defends=0}}
 |blue3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=21|deaths=19|time=0|defends=0}}

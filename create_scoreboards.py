@@ -10,6 +10,8 @@ def series_id_to_stage_id(series_id):
 def main():
     files_to_process = [
         'data-2017-08-13-champs.csv',
+        # 'data-2018-04-01-birmingham.csv',
+        'data-2018-04-01-birmingham_argi.csv', # this is more complete see https://github.com/Activision/cwl-data/issues/11
         'data-2018-04-08-proleague1.csv',
         'data-2018-04-19-relegation.csv',
         'data-2018-04-22-seattle.csv',
@@ -24,7 +26,8 @@ def main():
         'data-2019-08-18-champs.csv'
     ]
 
-    # files_to_process = ['data-2019-08-18-champs.csv']
+    # files_to_process = ['data-2018-04-01-birmingham.csv']
+    # files_to_process = ['data-2018-04-01-birmingham_argi.csv']
 
     out_dir = 'scoreboards'
     if os.path.exists(out_dir):

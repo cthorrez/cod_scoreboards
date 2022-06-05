@@ -222,7 +222,7 @@
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=17|deaths=19|captures=1|returns=1}}
 }}
 {{ScoreboardWWII|team1=eRa Eternity|team2=Rise Nation|team1score=160|team2score=250
-|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=11:00
+|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=Bevils|link=Bevils|kills=28|deaths=31|time=60|defends=0}}
 |blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=27|deaths=31|time=31|defends=0}}
 |blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=30|deaths=30|time=52|defends=0}}
@@ -316,7 +316,7 @@
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=6|deaths=7|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Echo Fox|team2=Red Reserve|team1score=0|team2score=2
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=18|deaths=15|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=16|deaths=16|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=11|deaths=21|captures=0|returns=0}}
@@ -352,7 +352,7 @@
 {{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Rise Nation|Team Vitality|title=World War II|date=2018-02-28|time=1636|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=Rise Nation|team2=Team Vitality|team1score=250|team2score=114
-|gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=8:00
+|gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=26|deaths=20|time=70|defends=0}}
 |blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=22|deaths=15|time=49|defends=1}}
 |blue3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=24|deaths=12|time=134|defends=1}}
@@ -410,7 +410,7 @@
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=3|deaths=6|plants=1|defuses=0}}
 }}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=Red Reserve|team1score=3|team2score=4
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=19|deaths=15|captures=1|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=13|deaths=15|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=18|deaths=17|captures=1|returns=0}}

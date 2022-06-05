@@ -1,7 +1,7 @@
 {{Box|start|padding=2em}}
 {{Scoreboard/Header|100 Thieves|Team Reciprocity|title=Black Ops 4|date=2019-08-18|time=1001|timezone=PST|dst=Yes}}
 {{Scoreboard|team1=100 Thieves|team2=Team Reciprocity|team1score=250|team2score=145
-|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=9:00
+|gamename=Game 1|map=Hacienda|gamemode=Hardpoint|maptime=
 |blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=21|deaths=19|time=71|defends=1}}
 |blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=27|deaths=20|time=17|defends=2}}
 |blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=22|deaths=11|time=132|defends=4}}

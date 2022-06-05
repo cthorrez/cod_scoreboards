@@ -1,0 +1,58 @@
+{{Box|start|padding=2em}}
+{{ScoreboardWWII/Header|Luminosity Gaming|Rise Nation|title=World War II|date=2018-04-01|time=0921|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Luminosity Gaming|team2=Rise Nation|team1score=250|team2score=214
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=12:41
+|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=32|deaths=41|time=57|defends=4}}
+|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=40|deaths=36|time=75|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=52|deaths=35|time=66|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=31|deaths=33|time=71|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=35|deaths=42|time=40|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=39|deaths=40|time=29|defends=2}}
+|purple3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=34|deaths=30|time=100|defends=3}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=37|deaths=43|time=77|defends=0}}
+}}
+{{ScoreboardWWII|team1=Luminosity Gaming|team2=Rise Nation|team1score=5|team2score=6
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=8:59
+|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=5|deaths=7|plants=1|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=7|deaths=8|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=15|deaths=7|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=6|deaths=9|plants=3|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=3|deaths=9|plants=2|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=8|deaths=9|plants=3|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=9|deaths=7|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=11|deaths=8|plants=0|defuses=0}}
+}}
+{{ScoreboardWWII|team1=Luminosity Gaming|team2=Rise Nation|team1score=0|team2score=2
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=9:59
+|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=17|deaths=21|captures=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=30|deaths=19|captures=0|returns=2}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=16|deaths=22|captures=0|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=12|deaths=23|captures=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=23|deaths=18|captures=0|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=21|deaths=17|captures=1|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=22|deaths=21|captures=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=19|deaths=19|captures=1|returns=1}}
+}}
+{{ScoreboardWWII|team1=Luminosity Gaming|team2=Rise Nation|team1score=250|team2score=186
+|gamename=Game 4|map=Valkyrie|gamemode=Hardpoint|maptime=9:34
+|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=29|deaths=22|time=56|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=31|deaths=17|time=113|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=26|deaths=19|time=34|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=21|deaths=24|time=65|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=22|deaths=26|time=84|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=15|deaths=24|time=66|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=22|deaths=26|time=30|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=23|deaths=31|time=44|defends=0}}
+}}
+{{ScoreboardWWII|team1=Luminosity Gaming|team2=Rise Nation|team1score=6|team2score=4
+|gamename=Game 5|map=Valkyrie|gamemode=Search and Destroy|maptime=8:44
+|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=5|deaths=8|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=13|deaths=5|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=9|deaths=6|plants=0|defuses=1}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=6|deaths=6|plants=2|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=7|deaths=8|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=9|deaths=7|plants=1|defuses=1}}
+|purple3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=4|deaths=8|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=5|deaths=10|plants=0|defuses=0}}
+}}
+

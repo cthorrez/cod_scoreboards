@@ -1,7 +1,7 @@
 {{Box|start|padding=2em}}
 {{ScoreboardWWII/Header|Echo Fox|Rise Nation|title=World War II|date=2018-04-20|time=1520|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Echo Fox|team2=Rise Nation|team1score=148|team2score=250
-|gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=10:00
+|gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=24|deaths=27|time=0|defends=0}}
 |blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=17|deaths=29|time=0|defends=0}}
 |blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=22|deaths=25|time=0|defends=0}}
@@ -128,7 +128,7 @@
 |purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=7|deaths=7|plants=5|defuses=1}}
 }}
 {{ScoreboardWWII|team1=Rise Nation|team2=Tainted Minds|team1score=6|team2score=5
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=13:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=20|deaths=21|captures=1|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=18|deaths=22|captures=2|returns=1}}
 |blue3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=23|deaths=22|captures=1|returns=0}}
@@ -352,7 +352,7 @@
 |purple4={{ScoreboardWWII/Player|name=Xotic|link=Xotic|kills=6|deaths=9|plants=1|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Echo Fox|team2=Lightning Pandas|team1score=1|team2score=0
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=20|deaths=16|captures=1|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=19|deaths=21|captures=0|returns=3}}
 |blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=22|deaths=20|captures=0|returns=2}}

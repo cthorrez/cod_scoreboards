@@ -603,7 +603,7 @@
 |red5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=20|deaths=8|caps=1}}
 }}
 {{Scoreboard|team1=Denial Esports EU|team2=Enigma6 Group|team1score=189|team2score=250
-|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=10:00
+|gamename=Game 4|map=Gridlock|gamemode=Hardpoint|maptime=
 |blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=17|deaths=19|time=24|defends=7}}
 |blue2={{Scoreboard/Player|name=Bance|link=Bance|kills=20|deaths=18|time=54|defends=1}}
 |blue3={{Scoreboard/Player|name=Brack|link=Brack|kills=21|deaths=21|time=28|defends=5}}

@@ -117,7 +117,7 @@
 |purple4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=8|deaths=7|plants=2|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Echo Fox|team2=Evil Geniuses|team1score=6|team2score=0
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=17|deaths=13|captures=2|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=17|deaths=16|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=28|deaths=13|captures=3|returns=2}}
@@ -479,7 +479,7 @@
 |purple4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=12|deaths=7|plants=0|defuses=1}}
 }}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=FaZe Clan|team1score=5|team2score=2
-|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=16|deaths=16|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=15|deaths=16|captures=2|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=27|deaths=13|captures=1|returns=0}}

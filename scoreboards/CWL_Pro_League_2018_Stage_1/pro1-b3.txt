@@ -153,7 +153,7 @@
 {{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Evil Geniuses|Team Envy|title=World War II|date=2018-03-14|time=1733|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=Team Envy|team1score=250|team2score=200
-|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=12:00
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=39|deaths=32|time=79|defends=5}}
 |blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=32|deaths=30|time=49|defends=0}}
 |blue3={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=36|deaths=33|time=77|defends=1}}
@@ -211,7 +211,7 @@
 |purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=10|deaths=7|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=eUnited|team2=Luminosity Gaming|team1score=2|team2score=3
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=26|deaths=19|captures=0|returns=2}}
 |blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=27|deaths=22|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=13|deaths=26|captures=1|returns=0}}
@@ -576,7 +576,7 @@
 |purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=20|deaths=34|time=83|defends=1}}
 }}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=Luminosity Gaming|team1score=3|team2score=6
-|gamename=Game 2|map=Valkyrie|gamemode=Search and Destroy|maptime=6:00
+|gamename=Game 2|map=Valkyrie|gamemode=Search and Destroy|maptime=
 |blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=3|deaths=8|plants=0|defuses=0}}
 |blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=5|deaths=8|plants=1|defuses=0}}
 |blue3={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=4|deaths=7|plants=0|defuses=0}}

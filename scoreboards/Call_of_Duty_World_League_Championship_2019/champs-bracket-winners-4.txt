@@ -27,7 +27,7 @@
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=5|deaths=9|plants=0|defuses=0}}
 }}
 {{Scoreboard|team1=eUnited|team2=OpTic Gaming|team1score=3|team2score=0
-|gamename=Game 3|map=Frequency|gamemode=Control|maptime=8:00
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=
 |blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=20|deaths=9|caps=4}}
 |blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=10|deaths=7|caps=2}}
 |blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=14|deaths=8|caps=4}}

@@ -813,7 +813,7 @@
 |red5={{Scoreboard/Player|name=TJHaLy|link=TJHaLy|kills=22|deaths=26|time=52|defends=4}}
 }}
 {{Scoreboard|team1=eUnited|team2=OpTic Gaming|team1score=6|team2score=1
-|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=9:00
+|gamename=Game 2|map=Payload|gamemode=Search and Destroy|maptime=
 |blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=8|deaths=3|plants=1|defuses=0}}
 |blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=4|deaths=2|plants=0|defuses=0}}
 |blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=7|deaths=7|plants=0|defuses=0}}

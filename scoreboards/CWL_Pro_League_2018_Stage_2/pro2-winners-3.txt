@@ -1,7 +1,7 @@
 {{Box|start|padding=2em}}
 {{ScoreboardWWII/Header|Rise Nation|Team Kaliber|title=World War II|date=2018-07-29|time=1316|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Rise Nation|team2=Team Kaliber|team1score=250|team2score=209
-|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=10:00
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=39|deaths=34|time=0|defends=0}}
 |blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=28|deaths=32|time=0|defends=0}}
 |blue3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=40|deaths=28|time=0|defends=0}}
@@ -12,7 +12,7 @@
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=35|deaths=38|time=0|defends=0}}
 }}
 {{ScoreboardWWII|team1=Rise Nation|team2=Team Kaliber|team1score=5|team2score=6
-|gamename=Game 2|map=Valkyrie|gamemode=Search and Destroy|maptime=10:00
+|gamename=Game 2|map=Valkyrie|gamemode=Search and Destroy|maptime=
 |blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=8|deaths=6|plants=1|defuses=0}}
 |blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=4|deaths=9|plants=2|defuses=0}}
 |blue3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=5|deaths=7|plants=0|defuses=0}}
@@ -23,7 +23,7 @@
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=10|deaths=6|plants=0|defuses=1}}
 }}
 {{ScoreboardWWII|team1=Rise Nation|team2=Team Kaliber|team1score=1|team2score=3
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=16|deaths=16|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=7|deaths=19|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=18|deaths=17|captures=0|returns=0}}
@@ -34,7 +34,7 @@
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=26|deaths=16|captures=0|returns=0}}
 }}
 {{ScoreboardWWII|team1=Rise Nation|team2=Team Kaliber|team1score=102|team2score=250
-|gamename=Game 4|map=Gibraltar|gamemode=Hardpoint|maptime=10:00
+|gamename=Game 4|map=Gibraltar|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=11|deaths=19|time=0|defends=0}}
 |blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=16|deaths=22|time=0|defends=0}}
 |blue3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=16|deaths=20|time=0|defends=0}}

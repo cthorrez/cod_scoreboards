@@ -1,0 +1,365 @@
+{{Box|start|padding=2em}}
+{{ScoreboardWWII/Header|OpTic Gaming|Evil Geniuses|title=World War II|date=2018-03-30|time=0730|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Evil Geniuses|team1score=1|team2score=2
+|gamename=Game 1|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=13|deaths=19|captures=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=19|deaths=15|captures=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=9|deaths=17|captures=1|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=13|deaths=20|captures=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=16|deaths=11|captures=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=17|deaths=17|captures=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=23|deaths=10|captures=2|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=NAMELESS|link=NAMELESS|kills=15|deaths=16|captures=0|returns=0}}
+}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Evil Geniuses|team1score=250|team2score=129
+|gamename=Game 2|map=London Docks|gamemode=Hardpoint|maptime=
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=33|deaths=22|time=67|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=28|deaths=24|time=80|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=23|deaths=28|time=98|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=38|deaths=23|time=64|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=22|deaths=34|time=42|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=34|deaths=28|time=50|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=20|deaths=34|time=21|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=NAMELESS|link=NAMELESS|kills=21|deaths=26|time=42|defends=0}}
+}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Evil Geniuses|team1score=6|team2score=0
+|gamename=Game 3|map=Ardennes Forest|gamemode=Search and Destroy|maptime=
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=5|deaths=2|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=11|deaths=0|plants=1|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=5|deaths=3|plants=1|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=3|deaths=2|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=1|deaths=6|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=3|deaths=6|plants=1|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=1|deaths=6|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=NAMELESS|link=NAMELESS|kills=2|deaths=6|plants=0|defuses=0}}
+}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Evil Geniuses|team1score=250|team2score=214
+|gamename=Game 4|map=Gibraltar|gamemode=Hardpoint|maptime=11:43
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=32|deaths=30|time=93|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=41|deaths=25|time=35|defends=2}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=21|deaths=26|time=72|defends=2}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=25|deaths=36|time=78|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=43|deaths=24|time=47|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=26|deaths=34|time=62|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=22|deaths=34|time=53|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=NAMELESS|link=NAMELESS|kills=26|deaths=27|time=73|defends=2}}
+}}
+
+{{Box|break|padding=2em}}
+{{ScoreboardWWII/Header|Reckless|Evil Geniuses|title=World War II|date=2018-03-30|time=1030|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Reckless|team2=Evil Geniuses|team1score=3|team2score=5
+|gamename=Game 1|map=London Docks|gamemode=Capture the Flag|maptime=
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=14|deaths=21|captures=1|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=17|deaths=18|captures=1|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=16|deaths=22|captures=0|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=14|deaths=18|captures=1|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=21|deaths=16|captures=2|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=23|deaths=16|captures=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=21|deaths=16|captures=3|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=NAMELESS|link=NAMELESS|kills=14|deaths=13|captures=0|returns=0}}
+}}
+{{ScoreboardWWII|team1=Reckless|team2=Evil Geniuses|team1score=250|team2score=199
+|gamename=Game 2|map=Ardennes Forest|gamemode=Hardpoint|maptime=
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=27|deaths=42|time=96|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=29|deaths=28|time=69|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=27|deaths=30|time=45|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=39|deaths=32|time=83|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=29|deaths=29|time=54|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=41|deaths=32|time=16|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=35|deaths=31|time=55|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=NAMELESS|link=NAMELESS|kills=27|deaths=30|time=91|defends=0}}
+}}
+{{ScoreboardWWII|team1=Reckless|team2=Evil Geniuses|team1score=250|team2score=134
+|gamename=Game 3|map=London Docks|gamemode=Hardpoint|maptime=
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=27|deaths=30|time=98|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=26|deaths=24|time=27|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=30|deaths=33|time=12|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=38|deaths=16|time=149|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=24|deaths=31|time=29|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=26|deaths=31|time=69|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=26|deaths=32|time=35|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=NAMELESS|link=NAMELESS|kills=27|deaths=27|time=36|defends=0}}
+}}
+{{ScoreboardWWII|team1=Reckless|team2=Evil Geniuses|team1score=6|team2score=2
+|gamename=Game 4|map=Ardennes Forest|gamemode=Search and Destroy|maptime=
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=6|deaths=6|plants=1|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=11|deaths=3|plants=1|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=0|deaths=8|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=7|deaths=3|plants=1|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=3|deaths=6|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=8|deaths=5|plants=1|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=5|deaths=7|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=NAMELESS|link=NAMELESS|kills=4|deaths=5|plants=0|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{ScoreboardWWII/Header|OpTic Gaming|Team Envy|title=World War II|date=2018-03-30|time=1046|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Team Envy|team1score=250|team2score=212
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=12:33
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=42|deaths=34|time=84|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=33|deaths=29|time=61|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=38|deaths=36|time=102|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=40|deaths=39|time=50|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Classic|link=Classic|kills=32|deaths=41|time=40|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=42|deaths=40|time=59|defends=3}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=31|deaths=35|time=63|defends=2}}
+|purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=33|deaths=37|time=76|defends=1}}
+}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Team Envy|team1score=4|team2score=6
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=8:58
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=8|deaths=9|plants=1|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=8|deaths=5|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=6|deaths=5|plants=1|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=12|deaths=4|plants=1|defuses=1}}
+|purple1={{ScoreboardWWII/Player|name=Classic|link=Classic|kills=5|deaths=9|plants=1|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=5|deaths=9|plants=1|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=10|deaths=7|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=3|deaths=9|plants=0|defuses=2}}
+}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Team Envy|team1score=3|team2score=0
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=9:59
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=9|deaths=18|captures=1|returns=1}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=21|deaths=8|captures=0|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=18|deaths=16|captures=1|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=26|deaths=16|captures=1|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Classic|link=Classic|kills=14|deaths=18|captures=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=15|deaths=19|captures=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=17|deaths=18|captures=0|returns=2}}
+|purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=12|deaths=19|captures=0|returns=0}}
+}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Team Envy|team1score=250|team2score=153
+|gamename=Game 4|map=Valkyrie|gamemode=Hardpoint|maptime=9:43
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=27|deaths=23|time=75|defends=3}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=27|deaths=20|time=96|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=26|deaths=17|time=73|defends=2}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=31|deaths=28|time=57|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Classic|link=Classic|kills=19|deaths=28|time=51|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=26|deaths=26|time=73|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=23|deaths=28|time=36|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=20|deaths=29|time=22|defends=2}}
+}}
+
+{{Box|break|padding=2em}}
+{{ScoreboardWWII/Header|OpTic Gaming|Reckless|title=World War II|date=2018-03-30|time=1330|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Reckless|team1score=2|team2score=6
+|gamename=Game 1|map=Sainte Marie Du Mont|gamemode=Search and Destroy|maptime=
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=1|deaths=8|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=5|deaths=7|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=7|deaths=6|plants=1|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=2|deaths=7|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=8|deaths=4|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=5|deaths=5|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=10|deaths=4|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=5|deaths=2|plants=1|defuses=0}}
+}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Reckless|team1score=6|team2score=2
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=4|deaths=6|plants=2|defuses=1}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=11|deaths=4|plants=0|defuses=1}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=5|deaths=5|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=8|deaths=4|plants=0|defuses=1}}
+|purple1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=5|deaths=7|plants=2|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=4|deaths=7|plants=1|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=5|deaths=8|plants=1|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=5|deaths=6|plants=0|defuses=0}}
+}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Reckless|team1score=250|team2score=234
+|gamename=Game 3|map=Ardennes Forest|gamemode=Hardpoint|maptime=
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=35|deaths=35|time=98|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=38|deaths=30|time=73|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=24|deaths=33|time=54|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=38|deaths=41|time=66|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=31|deaths=37|time=83|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=32|deaths=37|time=53|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=35|deaths=32|time=51|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=41|deaths=29|time=67|defends=2}}
+}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Reckless|team1score=2|team2score=4
+|gamename=Game 4|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=24|deaths=16|captures=2|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=14|deaths=16|captures=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=13|deaths=18|captures=0|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=13|deaths=19|captures=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=18|deaths=17|captures=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=24|deaths=12|captures=2|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=11|deaths=19|captures=1|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=16|deaths=16|captures=1|returns=0}}
+}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Reckless|team1score=250|team2score=230
+|gamename=Game 5|map=London Docks|gamemode=Hardpoint|maptime=
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=36|deaths=35|time=101|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=40|deaths=26|time=29|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=27|deaths=33|time=48|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=37|deaths=30|time=109|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=24|deaths=38|time=61|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=31|deaths=33|time=36|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=35|deaths=39|time=115|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=34|deaths=30|time=103|defends=1}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{ScoreboardWWII/Header|Reckless|Team Heretics|title=World War II|date=2018-03-31|time=0600|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Reckless|team2=Team Heretics|team1score=250|team2score=156
+|gamename=Game 1|map=Sainte Marie Du Mont|gamemode=Hardpoint|maptime=
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=30|deaths=26|time=94|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=23|deaths=23|time=106|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=32|deaths=27|time=31|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=31|deaths=20|time=96|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Jurni|link=Jurni|kills=18|deaths=29|time=57|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=18|deaths=29|time=57|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=24|deaths=27|time=68|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=33|deaths=29|time=22|defends=0}}
+}}
+{{ScoreboardWWII|team1=Reckless|team2=Team Heretics|team1score=3|team2score=6
+|gamename=Game 2|map=USS Texas|gamemode=Search and Destroy|maptime=
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=8|deaths=6|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=4|deaths=7|plants=1|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=5|deaths=7|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=5|deaths=6|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Jurni|link=Jurni|kills=8|deaths=7|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=8|deaths=4|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=6|deaths=6|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=4|deaths=5|plants=0|defuses=0}}
+}}
+{{ScoreboardWWII|team1=Reckless|team2=Team Heretics|team1score=250|team2score=151
+|gamename=Game 3|map=London Docks|gamemode=Hardpoint|maptime=
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=22|deaths=29|time=40|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=34|deaths=24|time=83|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=29|deaths=24|time=47|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=27|deaths=21|time=125|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Jurni|link=Jurni|kills=32|deaths=31|time=66|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=25|deaths=28|time=34|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=18|deaths=27|time=75|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=23|deaths=26|time=50|defends=0}}
+}}
+{{ScoreboardWWII|team1=Reckless|team2=Team Heretics|team1score=2|team2score=0
+|gamename=Game 4|map=Flak Tower|gamemode=Capture the Flag|maptime=
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=21|deaths=14|captures=1|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=20|deaths=13|captures=1|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=15|deaths=19|captures=0|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=10|deaths=18|captures=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Jurni|link=Jurni|kills=14|deaths=16|captures=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=18|deaths=17|captures=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=17|deaths=16|captures=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=15|deaths=17|captures=0|returns=0}}
+}}
+
+{{Box|break|padding=2em}}
+{{ScoreboardWWII/Header|Evil Geniuses|Team Heretics|title=World War II|date=2018-03-31|time=0741|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Evil Geniuses|team2=Team Heretics|team1score=250|team2score=192
+|gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=11:09
+|blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=20|deaths=20|time=78|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=29|deaths=21|time=75|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=16|deaths=27|time=45|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=NAMELESS|link=NAMELESS|kills=30|deaths=18|time=119|defends=6}}
+|purple1={{ScoreboardWWII/Player|name=JurNii|link=JurNii|kills=13|deaths=24|time=63|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=18|deaths=25|time=41|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=25|deaths=23|time=68|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=30|deaths=23|time=32|defends=0}}
+}}
+{{ScoreboardWWII|team1=Evil Geniuses|team2=Team Heretics|team1score=6|team2score=1
+|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=
+|blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=8|deaths=2|plants=1|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=6|deaths=4|plants=2|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=6|deaths=4|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=NAMELESS|link=NAMELESS|kills=5|deaths=3|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=JurNii|link=JurNii|kills=5|deaths=6|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=3|deaths=6|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=1|deaths=7|plants=1|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=4|deaths=6|plants=0|defuses=0}}
+}}
+{{ScoreboardWWII|team1=Evil Geniuses|team2=Team Heretics|team1score=4|team2score=2
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:35
+|blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=12|deaths=12|captures=2|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=23|deaths=15|captures=1|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=15|deaths=16|captures=0|returns=2}}
+|blue4={{ScoreboardWWII/Player|name=NAMELESS|link=NAMELESS|kills=11|deaths=14|captures=1|returns=2}}
+|purple1={{ScoreboardWWII/Player|name=JurNii|link=JurNii|kills=20|deaths=18|captures=1|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=14|deaths=16|captures=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=8|deaths=17|captures=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=15|deaths=10|captures=1|returns=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{ScoreboardWWII/Header|Team Heretics|OpTic Gaming|title=World War II|date=2018-03-31|time=0908|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Team Heretics|team2=OpTic Gaming|team1score=65|team2score=250
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=7:38
+|blue1={{ScoreboardWWII/Player|name=JurNii|link=JurNii|kills=22|deaths=21|time=32|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=15|deaths=25|time=23|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=18|deaths=22|time=12|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=8|deaths=20|time=14|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=24|deaths=16|time=68|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=19|deaths=14|time=67|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=14|deaths=18|time=98|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=31|deaths=15|time=102|defends=0}}
+}}
+{{ScoreboardWWII|team1=Team Heretics|team2=OpTic Gaming|team1score=6|team2score=4
+|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=7:26
+|blue1={{ScoreboardWWII/Player|name=JurNii|link=JurNii|kills=4|deaths=6|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=10|deaths=6|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=9|deaths=5|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=7|deaths=6|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=5|deaths=9|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=6|deaths=6|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=9|deaths=7|plants=2|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=3|deaths=8|plants=0|defuses=0}}
+}}
+{{ScoreboardWWII|team1=Team Heretics|team2=OpTic Gaming|team1score=3|team2score=5
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=
+|blue1={{ScoreboardWWII/Player|name=JurNii|link=JurNii|kills=11|deaths=20|captures=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=14|deaths=18|captures=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=15|deaths=12|captures=3|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=11|deaths=16|captures=0|returns=2}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=17|deaths=14|captures=2|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=16|deaths=11|captures=1|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=13|deaths=13|captures=1|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=20|deaths=13|captures=1|returns=0}}
+}}
+{{ScoreboardWWII|team1=Team Heretics|team2=OpTic Gaming|team1score=210|team2score=250
+|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=11:26
+|blue1={{ScoreboardWWII/Player|name=JurNii|link=JurNii|kills=29|deaths=31|time=66|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=23|deaths=30|time=49|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=30|deaths=31|time=71|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=21|deaths=26|time=64|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=C6|link=C6|kills=33|deaths=31|time=45|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=29|deaths=22|time=91|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=19|deaths=23|time=45|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=37|deaths=27|time=96|defends=0}}
+}}
+
+{{Box|break|padding=2em}}
+{{ScoreboardWWII/Header|Team Heretics|Team Envy|title=World War II|date=2018-03-31|time=1029|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Team Heretics|team2=Team Envy|team1score=232|team2score=250
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:51
+|blue1={{ScoreboardWWII/Player|name=JurNii|link=JurNii|kills=29|deaths=34|time=36|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=26|deaths=31|time=97|defends=3}}
+|blue3={{ScoreboardWWII/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=29|deaths=34|time=59|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=35|deaths=20|time=93|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Classic|link=Classic|kills=22|deaths=28|time=131|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=30|deaths=33|time=52|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=35|deaths=27|time=115|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=32|deaths=31|time=19|defends=2}}
+}}
+{{ScoreboardWWII|team1=Team Heretics|team2=Team Envy|team1score=3|team2score=6
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=7:48
+|blue1={{ScoreboardWWII/Player|name=JurNii|link=JurNii|kills=8|deaths=8|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=2|deaths=6|plants=1|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=5|deaths=9|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=5|deaths=8|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Classic|link=Classic|kills=8|deaths=5|plants=3|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=8|deaths=6|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=6|deaths=5|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=9|deaths=4|plants=0|defuses=0}}
+}}
+{{ScoreboardWWII|team1=Team Heretics|team2=Team Envy|team1score=2|team2score=4
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=9:59
+|blue1={{ScoreboardWWII/Player|name=JurNii|link=JurNii|kills=11|deaths=15|captures=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=20|deaths=12|captures=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=15|deaths=17|captures=1|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Sukry|link=Sukry (Endika Andres)|kills=21|deaths=13|captures=1|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Classic|link=Classic|kills=16|deaths=19|captures=2|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=9|deaths=20|captures=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=18|deaths=14|captures=1|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=14|deaths=14|captures=1|returns=2}}
+}}
+{{Box|end}}

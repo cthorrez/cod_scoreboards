@@ -59,7 +59,7 @@
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=5|deaths=6|plants=3|defuses=1}}
 }}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=Red Reserve|team1score=1|team2score=2
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=20|deaths=19|captures=0|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=9|deaths=24|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=John|link=John|kills=20|deaths=18|captures=0|returns=2}}

@@ -260,7 +260,7 @@
 |red5={{Scoreboard/Player|name=Zaptius|link=Zaptius|kills=3|deaths=6|plants=2|defuses=0}}
 }}
 {{Scoreboard|team1=Team Reciprocity|team2=UYU|team1score=3|team2score=0
-|gamename=Game 3|map=Seaside|gamemode=Control|maptime=11:00
+|gamename=Game 3|map=Seaside|gamemode=Control|maptime=
 |blue1={{Scoreboard/Player|name=Denz|link=Denz|kills=17|deaths=9|caps=1}}
 |blue2={{Scoreboard/Player|name=Dylan|link=Dylan|kills=23|deaths=16|caps=2}}
 |blue3={{Scoreboard/Player|name=Seany|link=Seany|kills=16|deaths=18|caps=2}}

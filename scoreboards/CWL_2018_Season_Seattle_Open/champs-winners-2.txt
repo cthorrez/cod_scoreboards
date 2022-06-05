@@ -12,7 +12,7 @@
 |purple4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=29|deaths=26|time=60|defends=2}}
 }}
 {{ScoreboardWWII|team1=Echo Fox|team2=Evil Geniuses|team1score=2|team2score=6
-|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=9:00
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=
 |blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=4|deaths=6|plants=0|defuses=0}}
 |blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=3|deaths=6|plants=4|defuses=0}}
 |blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=5|deaths=7|plants=0|defuses=0}}

@@ -205,7 +205,7 @@
 |red5={{Scoreboard/Player|name=Nagafen|link=Nagafen|kills=14|deaths=19|caps=2}}
 }}
 {{Scoreboard|team1=Denial Esports EU|team2=Gen.G|team1score=93|team2score=250
-|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=8:00
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=
 |blue1={{Scoreboard/Player|name=Alexx|link=Alexx|kills=9|deaths=17|time=31|defends=4}}
 |blue2={{Scoreboard/Player|name=Bance|link=Bance|kills=8|deaths=21|time=20|defends=7}}
 |blue3={{Scoreboard/Player|name=Brack|link=Brack|kills=13|deaths=16|time=40|defends=5}}

@@ -23,7 +23,7 @@
 |purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=4|deaths=8|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Red Reserve|team2=Splyce|team1score=3|team2score=2
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Joee|link=Joee|kills=15|deaths=16|captures=1|returns=2}}
 |blue2={{ScoreboardWWII/Player|name=Joshh|link=Joshh|kills=20|deaths=18|captures=0|returns=2}}
 |blue3={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=11|deaths=16|captures=2|returns=1}}
@@ -59,7 +59,7 @@
 |purple4={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=9|deaths=8|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=Team Kaliber|team1score=4|team2score=1
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=16|deaths=17|captures=0|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=23|deaths=19|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=16|deaths=14|captures=2|returns=2}}
@@ -319,7 +319,7 @@
 |purple4={{ScoreboardWWII/Player|name=Parzelion|link=Parzelion|kills=9|deaths=7|plants=2|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=EZG.Blue|team1score=5|team2score=2
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=15|deaths=16|captures=1|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=27|deaths=15|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=18|deaths=11|captures=2|returns=0}}

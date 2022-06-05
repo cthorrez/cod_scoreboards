@@ -1,0 +1,47 @@
+{{Box|start|padding=2em}}
+{{ScoreboardWWII/Header|Rise Nation|Splyce|title=World War II|date=2018-04-01|time=1113|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Rise Nation|team2=Splyce|team1score=157|team2score=250
+|gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=8:47
+|blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=24|deaths=20|time=37|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=25|deaths=24|time=50|defends=2}}
+|blue3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=21|deaths=18|time=85|defends=3}}
+|blue4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=17|deaths=28|time=10|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=28|deaths=19|time=105|defends=3}}
+|purple2={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=21|deaths=17|time=82|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=22|deaths=26|time=65|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=19|deaths=25|time=60|defends=0}}
+}}
+{{ScoreboardWWII|team1=Rise Nation|team2=Splyce|team1score=6|team2score=5
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=11:41
+|blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=9|deaths=7|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=6|deaths=10|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=7|deaths=5|plants=0|defuses=1}}
+|blue4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=7|deaths=7|plants=2|defuses=1}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=7|deaths=10|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=11|deaths=4|plants=4|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=3|deaths=7|plants=1|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=8|deaths=8|plants=0|defuses=0}}
+}}
+{{ScoreboardWWII|team1=Rise Nation|team2=Splyce|team1score=1|team2score=3
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=14:40
+|blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=33|deaths=26|captures=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=24|deaths=30|captures=1|returns=2}}
+|blue3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=19|deaths=23|captures=0|returns=2}}
+|blue4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=22|deaths=33|captures=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=35|deaths=24|captures=1|returns=5}}
+|purple2={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=26|deaths=24|captures=0|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=24|deaths=23|captures=1|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=27|deaths=27|captures=1|returns=3}}
+}}
+{{ScoreboardWWII|team1=Rise Nation|team2=Splyce|team1score=51|team2score=250
+|gamename=Game 4|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=6:28
+|blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=15|deaths=21|time=13|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=8|deaths=22|time=13|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=9|deaths=24|time=19|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=12|deaths=21|time=15|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=30|deaths=11|time=52|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=20|deaths=13|time=90|defends=3}}
+|purple3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=20|deaths=8|time=68|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=18|deaths=12|time=92|defends=0}}
+}}
+

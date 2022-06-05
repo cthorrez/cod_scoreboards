@@ -283,7 +283,7 @@
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=5|deaths=8|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=eRa Eternity|team2=Red Reserve|team1score=2|team2score=5
-|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Bevils|link=Bevils|kills=20|deaths=14|captures=1|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=14|deaths=18|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=10|deaths=19|captures=0|returns=1}}

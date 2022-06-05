@@ -128,7 +128,7 @@
 |purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=9|deaths=7|plants=1|defuses=2}}
 }}
 {{ScoreboardWWII|team1=Rise Nation|team2=Tainted Minds|team1score=1|team2score=3
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Gunless|link=Gunless|kills=12|deaths=18|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Loony|link=Loony|kills=19|deaths=15|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=9|deaths=13|captures=0|returns=0}}
@@ -537,7 +537,7 @@
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=7|deaths=7|plants=0|defuses=1}}
 }}
 {{ScoreboardWWII|team1=Mindfreak|team2=Rise Nation|team1score=2|team2score=4
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=BuZZO|link=BuZZO|kills=10|deaths=16|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Denz|link=Denz|kills=10|deaths=17|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=11|deaths=16|captures=1|returns=0}}

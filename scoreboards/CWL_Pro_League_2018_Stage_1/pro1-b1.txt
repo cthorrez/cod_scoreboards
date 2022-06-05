@@ -247,7 +247,7 @@
 {{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Splyce|UNILAD Esports|title=World War II|date=2018-02-07|time=1308|timezone=PST|dst=No}}
 {{ScoreboardWWII|team1=Splyce|team2=UNILAD Esports|team1score=247|team2score=250
-|gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=11:00
+|gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=26|deaths=29|time=54|defends=2}}
 |blue2={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=22|deaths=26|time=43|defends=1}}
 |blue3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=22|deaths=18|time=104|defends=2}}
@@ -352,7 +352,7 @@
 |purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=3|deaths=7|plants=1|defuses=0}}
 }}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Splyce|team1score=5|team2score=1
-|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=24|deaths=16|captures=1|returns=2}}
 |blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=20|deaths=15|captures=2|returns=2}}
 |blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=17|deaths=15|captures=0|returns=1}}

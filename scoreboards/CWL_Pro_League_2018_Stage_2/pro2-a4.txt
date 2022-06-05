@@ -59,7 +59,7 @@
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=6|deaths=8|plants=1|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Team Envy|team2=Team Kaliber|team1score=0|team2score=1
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=11:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=16|deaths=21|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Classic|link=Classic|kills=18|deaths=15|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=17|deaths=20|captures=0|returns=0}}
@@ -189,7 +189,7 @@
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=30|deaths=29|captures=1|returns=0}}
 }}
 {{ScoreboardWWII|team1=Red Reserve|team2=Team Kaliber|team1score=222|team2score=250
-|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=13:00
+|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=Joee|link=Joee|kills=26|deaths=38|time=51|defends=1}}
 |blue2={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=39|deaths=28|time=77|defends=0}}
 |blue3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=34|deaths=43|time=65|defends=2}}
@@ -236,7 +236,7 @@
 |purple4={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=12|deaths=8|plants=1|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Red Reserve|team2=Team Envy|team1score=2|team2score=6
-|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Joee|link=Joee|kills=18|deaths=23|captures=1|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=16|deaths=17|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Skrapz|link=Skrapz|kills=16|deaths=20|captures=1|returns=0}}
@@ -388,7 +388,7 @@
 |purple4={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=18|deaths=17|captures=0|returns=0}}
 }}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=Team Envy|team1score=250|team2score=234
-|gamename=Game 4|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=11:00
+|gamename=Game 4|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=34|deaths=32|time=62|defends=2}}
 |blue2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=28|deaths=21|time=97|defends=1}}
 |blue3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=30|deaths=25|time=39|defends=1}}
@@ -521,7 +521,7 @@
 {{Box|start|padding=2em}}
 {{ScoreboardWWII/Header|Evil Geniuses|Team Envy|title=World War II|date=2018-07-06|time=1327|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=Team Envy|team1score=146|team2score=250
-|gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=10:00
+|gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=18|deaths=32|time=30|defends=0}}
 |blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=23|deaths=33|time=29|defends=1}}
 |blue3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=26|deaths=25|time=30|defends=0}}

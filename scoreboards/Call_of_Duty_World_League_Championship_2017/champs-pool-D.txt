@@ -70,7 +70,7 @@
 |purple4={{ScoreboardIW/Player|name=Weeman|link=Weeman|kills=34|deaths=40|carries=1|throws=1|score=3|icon=Active Camo}}
 }}
 {{ScoreboardIW|team1=Rise Nation|team2=Team Vitality|team1score=250|team2score=151
-|gamename=Game 4|map=Retaliation|gamemode=Hardpoint|maptime=9:00
+|gamename=Game 4|map=Retaliation|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardIW/Player|name=AquA|link=AquA|kills=30|deaths=18|time=1:42|defends=8|icon=FTL Jump}}
 |blue2={{ScoreboardIW/Player|name=Faccento|link=Faccento|kills=16|deaths=16|time=0:54|defends=2|icon=Active Camo}}
 |blue3={{ScoreboardIW/Player|name=FeLo|link=FeLo|kills=23|deaths=19|time=0:56|defends=1|icon=Centurion}}

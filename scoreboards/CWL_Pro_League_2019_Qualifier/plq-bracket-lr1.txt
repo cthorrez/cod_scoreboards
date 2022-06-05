@@ -192,7 +192,7 @@
 |red5={{Scoreboard/Player|name=Zepa|link=Zepa|kills=9|deaths=6|plants=0|defuses=0}}
 }}
 {{Scoreboard|team1=FaZe Clan|team2=Tainted Minds|team1score=3|team2score=2
-|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=17:00
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=
 |blue1={{Scoreboard/Player|name=Attach|link=Attach|kills=23|deaths=25|caps=1}}
 |blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=23|deaths=22|caps=3}}
 |blue3={{Scoreboard/Player|name=Crowder|link=Crowder|kills=17|deaths=22|caps=3}}

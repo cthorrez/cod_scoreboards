@@ -98,7 +98,7 @@
 |red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=19|deaths=17|time=38|defends=9}}
 }}
 {{Scoreboard|team1=Excelerate Gaming|team2=Team Heretics|team1score=3|team2score=6
-|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=12:00
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=
 |blue1={{Scoreboard/Player|name=Brack|link=Brack|kills=4|deaths=6|plants=0|defuses=0}}
 |blue2={{Scoreboard/Player|name=JetLi|link=JetLi|kills=7|deaths=8|plants=0|defuses=0}}
 |blue3={{Scoreboard/Player|name=MRuiz|link=MRuiz|kills=11|deaths=6|plants=0|defuses=1}}

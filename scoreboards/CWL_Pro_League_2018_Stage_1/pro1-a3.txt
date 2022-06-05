@@ -457,7 +457,7 @@
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=9|deaths=9|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Red Reserve|team2=Rise Nation|team1score=0|team2score=2
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=11:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Joee|link=Joee|kills=15|deaths=9|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Joshh|link=Joshh|kills=11|deaths=21|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=10|deaths=15|captures=0|returns=0}}
@@ -609,7 +609,7 @@
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=7|deaths=9|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Echo Fox|team2=Rise Nation|team1score=1|team2score=2
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=12|deaths=18|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=16|deaths=13|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=11|deaths=14|captures=0|returns=2}}

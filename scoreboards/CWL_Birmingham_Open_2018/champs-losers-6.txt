@@ -1,0 +1,83 @@
+{{Box|start|padding=2em}}
+{{ScoreboardWWII/Header|Reckless|Splyce|title=World War II|date=2018-04-01|time=0734|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Reckless|team2=Splyce|team1score=224|team2score=250
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=11:11
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=22|deaths=33|time=74|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=35|deaths=33|time=29|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=35|deaths=35|time=89|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=28|deaths=32|time=68|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=40|deaths=32|time=81|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=24|deaths=29|time=82|defends=3}}
+|purple3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=27|deaths=28|time=67|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=42|deaths=31|time=95|defends=3}}
+}}
+{{ScoreboardWWII|team1=Reckless|team2=Splyce|team1score=1|team2score=6
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=7:29
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=1|deaths=6|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=5|deaths=6|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=6|deaths=6|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=0|deaths=6|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=10|deaths=2|plants=2|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=3|deaths=5|plants=1|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=4|deaths=3|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=7|deaths=2|plants=1|defuses=0}}
+}}
+{{ScoreboardWWII|team1=Reckless|team2=Splyce|team1score=4|team2score=5
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=13:21
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=20|deaths=26|captures=0|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=26|deaths=21|captures=1|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=23|deaths=28|captures=3|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=21|deaths=24|captures=0|returns=1}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=20|deaths=27|captures=1|returns=2}}
+|purple2={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=22|deaths=19|captures=1|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=29|deaths=21|captures=1|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=28|deaths=23|captures=2|returns=0}}
+}}
+
+{{Box|break|padding=2em}}
+{{ScoreboardWWII/Header|OpTic Gaming|Team Envy|title=World War II|date=2018-04-01|time=0801|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Team Envy|team1score=90|team2score=250
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=8:39
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=18|deaths=25|time=23|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=18|deaths=19|time=27|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=13|deaths=28|time=21|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=23|deaths=30|time=39|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Classic|link=Classic|kills=22|deaths=20|time=72|defends=3}}
+|purple2={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=26|deaths=18|time=57|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=26|deaths=16|time=94|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=28|deaths=18|time=82|defends=3}}
+}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Team Envy|team1score=6|team2score=3
+|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=8:40
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=4|deaths=7|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=8|deaths=5|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=11|deaths=2|plants=2|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=4|deaths=5|plants=0|defuses=1}}
+|purple1={{ScoreboardWWII/Player|name=Classic|link=Classic|kills=4|deaths=8|plants=2|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=4|deaths=6|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=7|deaths=6|plants=1|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=4|deaths=7|plants=0|defuses=0}}
+}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Team Envy|team1score=4|team2score=1
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=9:59
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=17|deaths=14|captures=1|returns=1}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=15|deaths=12|captures=1|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=15|deaths=15|captures=1|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=22|deaths=15|captures=1|returns=2}}
+|purple1={{ScoreboardWWII/Player|name=Classic|link=Classic|kills=13|deaths=20|captures=1|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=13|deaths=17|captures=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=18|deaths=18|captures=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=12|deaths=14|captures=0|returns=1}}
+}}
+{{ScoreboardWWII|team1=OpTic Gaming|team2=Team Envy|team1score=250|team2score=219
+|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=11:34
+|blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=31|deaths=36|time=45|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=29|deaths=18|time=114|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Karma|link=Karma|kills=36|deaths=23|time=11|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=29|deaths=31|time=88|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Classic|link=Classic|kills=25|deaths=30|time=75|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=33|deaths=31|time=110|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=SlasheR|link=SlasheR|kills=22|deaths=31|time=37|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=28|deaths=33|time=20|defends=1}}
+}}
+{{Box|end}}

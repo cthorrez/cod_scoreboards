@@ -1,0 +1,116 @@
+{{Box|start|padding=2em}}
+{{ScoreboardWWII/Header|eUnited|GGEA Purple|title=World War II|date=2018-03-31|time=1439|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=eUnited|team2=GGEA Purple|team1score=250|team2score=136
+|gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=10:05
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=18|deaths=21|time=60|defends=2}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=31|deaths=21|time=111|defends=2}}
+|blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=25|deaths=32|time=71|defends=2}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=32|deaths=22|time=27|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=16|deaths=26|time=84|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Defrag|link=Defrag|kills=31|deaths=28|time=33|defends=1}}
+|purple3={{ScoreboardWWII/Player|name=MarkyB|link=MarkyB|kills=28|deaths=25|time=12|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Urban|link=Urban|kills=21|deaths=27|time=31|defends=0}}
+}}
+{{ScoreboardWWII|team1=eUnited|team2=GGEA Purple|team1score=3|team2score=6
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=7:50
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=4|deaths=7|plants=1|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=7|deaths=8|plants=0|defuses=1}}
+|blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=6|deaths=6|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=5|deaths=7|plants=2|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=6|deaths=6|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Defrag|link=Defrag|kills=7|deaths=7|plants=1|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=MarkyB|link=MarkyB|kills=12|deaths=5|plants=0|defuses=1}}
+|purple4={{ScoreboardWWII/Player|name=Urban|link=Urban|kills=3|deaths=4|plants=2|defuses=1}}
+}}
+{{ScoreboardWWII|team1=eUnited|team2=GGEA Purple|team1score=2|team2score=3
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=11:42
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=19|deaths=13|captures=1|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=15|deaths=18|captures=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=16|deaths=20|captures=1|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=18|deaths=19|captures=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=16|deaths=15|captures=0|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=Defrag|link=Defrag|kills=16|deaths=19|captures=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=MarkyB|link=MarkyB|kills=22|deaths=20|captures=1|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=Urban|link=Urban|kills=16|deaths=14|captures=1|returns=1}}
+}}
+{{ScoreboardWWII|team1=eUnited|team2=GGEA Purple|team1score=250|team2score=126
+|gamename=Game 4|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=9:05
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=31|deaths=13|time=67|defends=3}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=15|deaths=20|time=106|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=25|deaths=25|time=67|defends=3}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=27|deaths=19|time=55|defends=3}}
+|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=20|deaths=21|time=36|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Defrag|link=Defrag|kills=21|deaths=25|time=66|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=MarkyB|link=MarkyB|kills=19|deaths=25|time=52|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Urban|link=Urban|kills=17|deaths=27|time=16|defends=2}}
+}}
+{{ScoreboardWWII|team1=eUnited|team2=GGEA Purple|team1score=6|team2score=5
+|gamename=Game 5|map=London Docks|gamemode=Search and Destroy|maptime=11:59
+|blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=10|deaths=10|plants=1|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=6|deaths=9|plants=0|defuses=1}}
+|blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=7|deaths=9|plants=0|defuses=1}}
+|blue4={{ScoreboardWWII/Player|name=SiLLY|link=SiLLY|kills=7|deaths=8|plants=4|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Alexx|link=Alexx|kills=4|deaths=9|plants=2|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Defrag|link=Defrag|kills=4|deaths=8|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=MarkyB|link=MarkyB|kills=12|deaths=6|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Urban|link=Urban|kills=16|deaths=7|plants=1|defuses=2}}
+}}
+
+{{Box|break|padding=2em}}
+{{ScoreboardWWII/Header|Enigma6 Group|Epsilon Esports EU|title=World War II|date=2018-03-31|time=1449|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Enigma6 Group|team2=Epsilon Esports EU|team1score=228|team2score=250
+|gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=11:06
+|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=24|deaths=28|time=114|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=19|deaths=24|time=53|defends=2}}
+|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=24|deaths=19|time=19|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=23|deaths=22|time=54|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=27|deaths=21|time=64|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=32|deaths=22|time=36|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=14|deaths=25|time=38|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=20|deaths=22|time=141|defends=1}}
+}}
+{{ScoreboardWWII|team1=Enigma6 Group|team2=Epsilon Esports EU|team1score=0|team2score=6
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=5:39
+|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=3|deaths=6|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=1|deaths=5|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=1|deaths=6|plants=1|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=2|deaths=6|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=10|deaths=1|plants=1|defuses=1}}
+|purple2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=4|deaths=4|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=4|deaths=1|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=5|deaths=1|plants=1|defuses=0}}
+}}
+{{ScoreboardWWII|team1=Enigma6 Group|team2=Epsilon Esports EU|team1score=3|team2score=2
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:01
+|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=16|deaths=19|captures=2|returns=1}}
+|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=14|deaths=17|captures=1|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=17|deaths=20|captures=0|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=20|deaths=17|captures=0|returns=1}}
+|purple1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=20|deaths=18|captures=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=21|deaths=16|captures=1|returns=2}}
+|purple3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=15|deaths=17|captures=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=17|deaths=16|captures=1|returns=1}}
+}}
+{{ScoreboardWWII|team1=Enigma6 Group|team2=Epsilon Esports EU|team1score=250|team2score=124
+|gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=8:48
+|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=26|deaths=22|time=70|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=28|deaths=16|time=63|defends=3}}
+|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=26|deaths=21|time=78|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=20|deaths=17|time=95|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=16|deaths=24|time=30|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=18|deaths=28|time=13|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=19|deaths=22|time=79|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=23|deaths=26|time=27|defends=4}}
+}}
+{{ScoreboardWWII|team1=Enigma6 Group|team2=Epsilon Esports EU|team1score=6|team2score=3
+|gamename=Game 5|map=London Docks|gamemode=Search and Destroy|maptime=10:50
+|blue1={{ScoreboardWWII/Player|name=ABeZy|link=ABeZy|kills=10|deaths=4|plants=1|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Diabolic|link=Diabolic|kills=9|deaths=4|plants=1|defuses=1}}
+|blue3={{ScoreboardWWII/Player|name=General|link=General|kills=2|deaths=7|plants=1|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=3|deaths=7|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=8|deaths=6|plants=1|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=4|deaths=5|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=5|deaths=6|plants=1|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Vortex|link=Vortex (Stephen Allan)|kills=5|deaths=7|plants=0|defuses=1}}
+}}
+{{Box|end}}

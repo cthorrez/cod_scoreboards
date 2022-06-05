@@ -328,7 +328,7 @@
 |red5={{Scoreboard/Player|name=Zed|link=Zed|kills=15|deaths=22|time=30|defends=1}}
 }}
 {{Scoreboard|team1=Enigma6 Group|team2=Team Reciprocity|team1score=4|team2score=6
-|gamename=Game 5|map=Gridlock|gamemode=Search and Destroy|maptime=15:00
+|gamename=Game 5|map=Gridlock|gamemode=Search and Destroy|maptime=
 |blue1={{Scoreboard/Player|name=Cheen|link=Cheen|kills=8|deaths=10|plants=0|defuses=0}}
 |blue2={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=4|deaths=9|plants=0|defuses=0}}
 |blue3={{Scoreboard/Player|name=Frosty|link=Frosty|kills=8|deaths=7|plants=2|defuses=0}}

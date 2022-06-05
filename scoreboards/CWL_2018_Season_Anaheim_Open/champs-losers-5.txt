@@ -81,7 +81,7 @@
 |purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=20|deaths=18|time=112|defends=2}}
 }}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Mindfreak|team1score=6|team2score=3
-|gamename=Game 5|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=10:00
+|gamename=Game 5|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=
 |blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=6|deaths=5|plants=0|defuses=0}}
 |blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=9|deaths=3|plants=3|defuses=0}}
 |blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=7|deaths=5|plants=0|defuses=0}}

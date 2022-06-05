@@ -225,7 +225,7 @@
 |purple4={{ScoreboardIW/Player|name=Deleo|link=Deleo|kills=24|deaths=25|time=0:32|defends=3|icon=FTL Jump}}
 }}
 {{ScoreboardIW|team1=eUnited|team2=Team infused|team1score=6|team2score=4
-|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=12:00
+|gamename=Game 2|map=Breakout|gamemode=Search and Destroy|maptime=
 |blue1={{ScoreboardIW/Player|name=Arcitys|link=Arcitys|kills=4|deaths=9|plants=4|defuses=0|icon=Centurion}}
 |blue2={{ScoreboardIW/Player|name=Clayster|link=Clayster|kills=5|deaths=7|plants=0|defuses=0|icon=Reactive Armor}}
 |blue3={{ScoreboardIW/Player|name=Prestinni|link=Prestinni|kills=8|deaths=8|plants=0|defuses=0|icon=Active Camo}}

@@ -48,7 +48,7 @@
 {{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Complexity Gaming|Luminosity Gaming|title=World War II|date=2018-04-20|time=1535|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Complexity Gaming|team2=Luminosity Gaming|team1score=250|team2score=246
-|gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=10:00
+|gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=24|deaths=23|time=77|defends=0}}
 |blue2={{ScoreboardWWII/Player|name=Censor|link=Censor|kills=21|deaths=28|time=39|defends=0}}
 |blue3={{ScoreboardWWII/Player|name=Dashy|link=Dashy|kills=27|deaths=27|time=74|defends=0}}
@@ -153,7 +153,7 @@
 |purple4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=3|deaths=8|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=eUnited|team2=Luminosity Gaming|team1score=2|team2score=1
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=11:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=22|deaths=17|captures=0|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=15|deaths=15|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=15|deaths=18|captures=0|returns=2}}

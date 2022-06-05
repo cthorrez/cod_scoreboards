@@ -111,7 +111,7 @@
 |red5={{Scoreboard/Player|name=Willett|link=Willett|kills=7|deaths=7|plants=1|defuses=0}}
 }}
 {{Scoreboard|team1=Team Singularity|team2=Vanity|team1score=3|team2score=0
-|gamename=Game 3|map=Frequency|gamemode=Control|maptime=7:00
+|gamename=Game 3|map=Frequency|gamemode=Control|maptime=
 |blue1={{Scoreboard/Player|name=Bidz|link=Bidz|kills=13|deaths=12|caps=4}}
 |blue2={{Scoreboard/Player|name=CleanX|link=CleanX|kills=11|deaths=11|caps=3}}
 |blue3={{Scoreboard/Player|name=Detain|link=Detain|kills=12|deaths=10|caps=3}}

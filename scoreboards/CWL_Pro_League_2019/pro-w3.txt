@@ -27,7 +27,7 @@
 |red5={{Scoreboard/Player|name=Sukry|link=Sukry (Endika Andres)|kills=6|deaths=7|plants=1|defuses=1}}
 }}
 {{Scoreboard|team1=eUnited|team2=Team Heretics|team1score=2|team2score=3
-|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=16:00
+|gamename=Game 3|map=Gridlock|gamemode=Control|maptime=
 |blue1={{Scoreboard/Player|name=ABeZy|link=ABeZy|kills=29|deaths=29|caps=3}}
 |blue2={{Scoreboard/Player|name=Arcitys|link=Arcitys|kills=25|deaths=16|caps=3}}
 |blue3={{Scoreboard/Player|name=Clayster|link=Clayster|kills=22|deaths=17|caps=3}}
@@ -344,7 +344,7 @@
 |red5={{Scoreboard/Player|name=Zeeked|link=Zeeked|kills=18|deaths=14|time=13|defends=8}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=Denial Esports EU|team1score=6|team2score=4
-|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=14:00
+|gamename=Game 2|map=Gridlock|gamemode=Search and Destroy|maptime=
 |blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=4|deaths=7|plants=2|defuses=0}}
 |blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=7|deaths=8|plants=0|defuses=0}}
 |blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=10|deaths=6|plants=0|defuses=1}}
@@ -619,7 +619,7 @@
 {{Box|break|padding=2em}}
 {{Scoreboard/Header|Denial Esports EU|Team Envy|title=Black Ops 4|date=2019-02-21|time=1322|timezone=PST|dst=No}}
 {{Scoreboard|team1=Denial Esports EU|team2=Team Envy|team1score=246|team2score=250
-|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=12:00
+|gamename=Game 1|map=Gridlock|gamemode=Hardpoint|maptime=
 |blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=22|deaths=25|time=86|defends=13}}
 |blue2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=18|deaths=26|time=51|defends=5}}
 |blue3={{Scoreboard/Player|name=RizK|link=RizK|kills=29|deaths=24|time=127|defends=10}}

@@ -289,7 +289,7 @@
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=21|deaths=29|time=39|defends=7}}
 }}
 {{Scoreboard|team1=Enigma6 Group|team2=Team Envy|team1score=5|team2score=6
-|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=15:00
+|gamename=Game 2|map=Frequency|gamemode=Search and Destroy|maptime=
 |blue1={{Scoreboard/Player|name=Diabolic|link=Diabolic|kills=6|deaths=7|plants=0|defuses=0}}
 |blue2={{Scoreboard/Player|name=Frosty|link=Frosty|kills=12|deaths=8|plants=0|defuses=0}}
 |blue3={{Scoreboard/Player|name=General|link=General|kills=5|deaths=8|plants=0|defuses=0}}
@@ -480,7 +480,7 @@
 |red5={{Scoreboard/Player|name=Temp|link=Temp|kills=9|deaths=19|caps=2}}
 }}
 {{Scoreboard|team1=Denial Esports EU|team2=Splyce|team1score=250|team2score=147
-|gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=9:00
+|gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=
 |blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=23|deaths=18|time=91|defends=6}}
 |blue2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=21|deaths=18|time=99|defends=8}}
 |blue3={{Scoreboard/Player|name=RizK|link=RizK|kills=30|deaths=16|time=78|defends=7}}
@@ -590,7 +590,7 @@
 |red5={{Scoreboard/Player|name=RobbieB3319|link=RobbieB3319|kills=13|deaths=12|caps=3}}
 }}
 {{Scoreboard|team1=Denial Esports EU|team2=Excelerate Gaming|team1score=250|team2score=53
-|gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=7:00
+|gamename=Game 4|map=Frequency|gamemode=Hardpoint|maptime=
 |blue1={{Scoreboard/Player|name=Breszy|link=Breszy|kills=15|deaths=14|time=91|defends=3}}
 |blue2={{Scoreboard/Player|name=Natshay|link=Natshay|kills=10|deaths=7|time=99|defends=4}}
 |blue3={{Scoreboard/Player|name=RizK|link=RizK|kills=19|deaths=13|time=59|defends=4}}
@@ -619,7 +619,7 @@
 |red5={{Scoreboard/Player|name=SiLLY|link=SiLLY|kills=14|deaths=24|time=59|defends=8}}
 }}
 {{Scoreboard|team1=Team Heretics|team2=Team Envy|team1score=1|team2score=6
-|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=10:00
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=
 |blue1={{Scoreboard/Player|name=JurNii|link=JurNii|kills=5|deaths=6|plants=1|defuses=0}}
 |blue2={{Scoreboard/Player|name=Lucky|link=Lucky (Alejandro López)|kills=7|deaths=7|plants=0|defuses=0}}
 |blue3={{Scoreboard/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=3|deaths=6|plants=0|defuses=0}}
@@ -674,7 +674,7 @@
 |red5={{Scoreboard/Player|name=KiSMET|link=KiSMET|kills=21|deaths=23|time=81|defends=2}}
 }}
 {{Scoreboard|team1=100 Thieves|team2=Enigma6 Group|team1score=6|team2score=3
-|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=13:00
+|gamename=Game 2|map=Hacienda|gamemode=Search and Destroy|maptime=
 |blue1={{Scoreboard/Player|name=Enable|link=Enable|kills=3|deaths=5|plants=3|defuses=0}}
 |blue2={{Scoreboard/Player|name=Kenny|link=Kenny|kills=3|deaths=6|plants=0|defuses=1}}
 |blue3={{Scoreboard/Player|name=Octane|link=Octane|kills=6|deaths=5|plants=0|defuses=1}}

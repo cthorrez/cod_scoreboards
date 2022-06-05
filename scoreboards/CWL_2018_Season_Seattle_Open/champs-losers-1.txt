@@ -81,7 +81,7 @@
 |purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=4|deaths=9|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Nordic|team2=Tainted Minds|team1score=2|team2score=1
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Bidz|link=Bidz|kills=17|deaths=14|captures=0|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=Cammy|link=Cammy|kills=23|deaths=13|captures=1|returns=1}}
 |blue3={{ScoreboardWWII/Player|name=EndurAAA|link=EndurAAA|kills=8|deaths=12|captures=0|returns=0}}

@@ -153,7 +153,7 @@
 |purple4={{ScoreboardWWII/Player|name=Spoof|link=Spoof|kills=6|deaths=8|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=GGEA Orange|team1score=3|team2score=1
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=24|deaths=17|captures=0|returns=2}}
 |blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=19|deaths=16|captures=2|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=24|deaths=14|captures=0|returns=1}}

@@ -23,7 +23,7 @@
 |purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=16|deaths=6|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=Mindfreak|team1score=8|team2score=1
-|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=21|deaths=10|captures=3|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=17|deaths=18|captures=1|returns=1}}
 |blue3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=22|deaths=10|captures=3|returns=0}}
@@ -34,7 +34,7 @@
 |purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=14|deaths=18|captures=0|returns=0}}
 }}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=Mindfreak|team1score=217|team2score=250
-|gamename=Game 4|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=11:00
+|gamename=Game 4|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=23|deaths=33|time=73|defends=1}}
 |blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=21|deaths=29|time=94|defends=1}}
 |blue3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=25|deaths=25|time=117|defends=2}}
@@ -374,7 +374,7 @@
 |purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=18|deaths=17|captures=1|returns=2}}
 }}
 {{ScoreboardWWII|team1=eUnited|team2=Tainted Minds|team1score=250|team2score=126
-|gamename=Game 4|map=Gibraltar|gamemode=Hardpoint|maptime=10:00
+|gamename=Game 4|map=Gibraltar|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=30|deaths=17|time=82|defends=0}}
 |blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=31|deaths=15|time=98|defends=0}}
 |blue3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=27|deaths=20|time=16|defends=0}}

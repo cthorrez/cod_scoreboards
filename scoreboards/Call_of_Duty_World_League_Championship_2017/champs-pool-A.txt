@@ -1,7 +1,7 @@
 {{Box|start|padding=2em}}
 {{ScoreboardIW/Header|Echo Fox|Epsilon Esports EU|title=Infinite Warfare|date=2017-08-09|time=0703|timezone=PST|dst=Yes}}
 {{ScoreboardIW|team1=Echo Fox|team2=Epsilon Esports EU|team1score=106|team2score=250
-|gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=8:00
+|gamename=Game 1|map=Retaliation|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardIW/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=12|deaths=19|time=0:08|defends=0|icon=Active Camo}}
 |blue2={{ScoreboardIW/Player|name=Mosh|link=Mosh|kills=19|deaths=20|time=0:34|defends=0|icon=FTL Jump}}
 |blue3={{ScoreboardIW/Player|name=MRuiz|link=MRuiz|kills=12|deaths=23|time=0:43|defends=3|icon=Centurion}}

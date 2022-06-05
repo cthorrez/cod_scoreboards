@@ -153,7 +153,7 @@
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=6|deaths=8|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=Team Kaliber|team1score=1|team2score=4
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=12|deaths=21|captures=1|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=19|deaths=16|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=14|deaths=23|captures=0|returns=1}}
@@ -413,7 +413,7 @@
 |purple4={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=8|deaths=9|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Team Envy|team2=Team Kaliber|team1score=2|team2score=1
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=14|deaths=17|captures=0|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=Classic|link=Classic|kills=17|deaths=18|captures=1|returns=2}}
 |blue3={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=22|deaths=17|captures=1|returns=0}}
@@ -532,7 +532,7 @@
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=21|deaths=27|time=59|defends=2}}
 }}
 {{ScoreboardWWII|team1=FaZe Clan|team2=Red Reserve|team1score=4|team2score=6
-|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=9:00
+|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=
 |blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=4|deaths=8|plants=0|defuses=0}}
 |blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=6|deaths=7|plants=2|defuses=0}}
 |blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=4|deaths=8|plants=1|defuses=0}}

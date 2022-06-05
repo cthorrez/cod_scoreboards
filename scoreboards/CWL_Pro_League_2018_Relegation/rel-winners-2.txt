@@ -81,7 +81,7 @@
 |purple4={{ScoreboardWWII/Player|name=Wailers|link=Wailers|kills=3|deaths=6|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=Team Vitality|team1score=6|team2score=2
-|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=15|deaths=16|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=15|deaths=15|captures=2|returns=1}}
 |blue3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=24|deaths=12|captures=2|returns=2}}

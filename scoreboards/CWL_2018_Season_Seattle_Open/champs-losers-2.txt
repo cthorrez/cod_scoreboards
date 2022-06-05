@@ -23,7 +23,7 @@
 |purple4={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=7|deaths=3|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Nordic|team2=UNILAD Esports|team1score=1|team2score=4
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Bidz|link=Bidz|kills=18|deaths=21|captures=0|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=Cammy|link=Cammy|kills=12|deaths=17|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=EndurAAA|link=EndurAAA|kills=16|deaths=20|captures=0|returns=0}}
@@ -59,7 +59,7 @@
 |purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=7|deaths=8|plants=1|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=Splyce|team1score=2|team2score=1
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=20|deaths=16|captures=1|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=John|link=John|kills=25|deaths=12|captures=1|returns=1}}
 |blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=15|deaths=19|captures=0|returns=0}}
@@ -142,7 +142,7 @@
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=10|deaths=8|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Team Heretics|team2=Rise Nation|team1score=1|team2score=4
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=JurNii|link=JurNii|kills=16|deaths=19|captures=1|returns=2}}
 |blue2={{ScoreboardWWII/Player|name=Lucky|link=Lucky (Alejandro López)|kills=23|deaths=17|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=MethodZ (Jorge Bancells)|link=MethodZ (Jorge Bancells)|kills=13|deaths=19|captures=0|returns=0}}

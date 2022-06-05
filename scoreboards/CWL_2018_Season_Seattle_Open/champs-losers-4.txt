@@ -23,7 +23,7 @@
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=15|deaths=6|plants=0|defuses=2}}
 }}
 {{ScoreboardWWII|team1=Lightning Pandas|team2=Red Reserve|team1score=3|team2score=4
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=11|deaths=19|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Goonjar|link=Goonjar|kills=16|deaths=19|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Royalty|link=Royalty|kills=20|deaths=18|captures=1|returns=1}}

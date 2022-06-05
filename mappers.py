@@ -20,6 +20,8 @@ mode_mapper = MapperWrapper({
 
 file_to_event_mapper = {
     'data-2017-08-13-champs.csv' : 'Call of Duty World League Championship 2017',
+    'data-2018-04-01-birmingham.csv' : 'CWL Birmingham Open 2018',
+    'data-2018-04-01-birmingham_argi.csv' : 'CWL Birmingham Open 2018',
     'data-2018-04-08-proleague1.csv' : 'CWL Pro League 2018 Stage 1',
     'data-2018-04-19-relegation.csv' : 'CWL Pro League 2018 Relegation',
     'data-2018-04-22-seattle.csv' : 'CWL 2018 Season Seattle Open',
@@ -36,6 +38,7 @@ file_to_event_mapper = {
 
 event_to_game_title_mapper = {
     'Call of Duty World League Championship 2017' : 'Infinite Warfare',
+    'CWL Birmingham Open 2018' : 'World War II',
     'CWL Pro League 2018 Stage 1' : 'World War II',
     'CWL Pro League 2018 Relegation' : 'World War II',
     'CWL 2018 Season Seattle Open' : 'World War II',
@@ -95,6 +98,11 @@ team_name_mapper = MapperWrapper({
     'Singularity' : 'Team Singularity',
     'Fury Gaming' : 'FURY Gaming',
     'TrainHard' : 'TrainHard Esport',
+    'Optic' : 'Optic Gaming',
+    'EvilGeniuses' : 'Evil Geniuses',
+    'EchoFox' : 'Echo Fox',
+    'TeamKaliber' : 'Team Kaliber',
+    'RedReserve' : 'Red Reserve'
 })
 
 player_to_link_mapper = MapperWrapper({

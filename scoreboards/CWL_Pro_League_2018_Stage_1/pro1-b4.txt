@@ -468,7 +468,7 @@
 |purple4={{ScoreboardWWII/Player|name=Temp|link=Temp|kills=5|deaths=7|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=Team Envy|team1score=2|team2score=0
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=15|deaths=23|captures=1|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=John|link=John|kills=21|deaths=20|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=15|deaths=22|captures=0|returns=3}}
@@ -504,7 +504,7 @@
 {{Box|start|padding=2em}}
 {{ScoreboardWWII/Header|Epsilon Esports EU|Team Envy|title=World War II|date=2018-03-22|time=1306|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Epsilon Esports EU|team2=Team Envy|team1score=250|team2score=223
-|gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=12:00
+|gamename=Game 1|map=Gibraltar|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=Dqvee|link=Dqvee|kills=30|deaths=21|time=72|defends=0}}
 |blue2={{ScoreboardWWII/Player|name=Hawqeh|link=Hawqeh|kills=30|deaths=23|time=31|defends=0}}
 |blue3={{ScoreboardWWII/Player|name=Reedy|link=Reedy|kills=17|deaths=25|time=55|defends=1}}
@@ -609,7 +609,7 @@
 |purple4={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=2|deaths=6|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=UNILAD Esports|team1score=3|team2score=4
-|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=16|deaths=18|captures=2|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=15|deaths=16|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Enable|link=Enable|kills=14|deaths=18|captures=0|returns=2}}

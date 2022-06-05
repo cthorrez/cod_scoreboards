@@ -40,7 +40,7 @@
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=5|deaths=15|caps=0}}
 }}
 {{Scoreboard|team1=Evil Geniuses|team2=Midnight Esports|team1score=250|team2score=232
-|gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=11:00
+|gamename=Game 4|map=Seaside|gamemode=Hardpoint|maptime=
 |blue1={{Scoreboard/Player|name=Apathy|link=Apathy|kills=15|deaths=24|time=97|defends=3}}
 |blue2={{Scoreboard/Player|name=Attach|link=Attach|kills=29|deaths=21|time=23|defends=6}}
 |blue3={{Scoreboard/Player|name=JKap|link=JKap|kills=26|deaths=18|time=69|defends=4}}
@@ -564,7 +564,7 @@
 |red5={{Scoreboard/Player|name=Saints|link=Saints|kills=24|deaths=21|caps=1}}
 }}
 {{Scoreboard|team1=FaZe Clan|team2=Midnight Esports|team1score=250|team2score=189
-|gamename=Game 3|map=Arsenal|gamemode=Hardpoint|maptime=10:00
+|gamename=Game 3|map=Arsenal|gamemode=Hardpoint|maptime=
 |blue1={{Scoreboard/Player|name=Asim|link=Asim|kills=15|deaths=22|time=125|defends=4}}
 |blue2={{Scoreboard/Player|name=Cellium|link=Cellium|kills=24|deaths=18|time=74|defends=7}}
 |blue3={{Scoreboard/Player|name=Skrapz|link=Skrapz|kills=16|deaths=18|time=69|defends=7}}

@@ -23,7 +23,7 @@
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=5|deaths=8|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=eUnited|team2=Rise Nation|team1score=4|team2score=1
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=25|deaths=12|captures=2|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=17|deaths=16|captures=2|returns=3}}
 |blue3={{ScoreboardWWII/Player|name=Prestinni|link=Prestinni|kills=30|deaths=20|captures=0|returns=2}}
@@ -59,7 +59,7 @@
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=6|deaths=4|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=Red Reserve|team1score=4|team2score=3
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=18|deaths=14|captures=2|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=John|link=John|kills=19|deaths=19|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=17|deaths=19|captures=0|returns=1}}

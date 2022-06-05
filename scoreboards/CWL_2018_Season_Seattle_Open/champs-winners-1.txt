@@ -23,7 +23,7 @@
 |purple4={{ScoreboardWWII/Player|name=Sender|link=Sender|kills=3|deaths=8|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Echo Fox|team2=Enigma6 Group|team1score=6|team2score=1
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=26|deaths=14|captures=2|returns=2}}
 |blue2={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=17|deaths=16|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Saints|link=Saints|kills=26|deaths=15|captures=1|returns=0}}
@@ -59,7 +59,7 @@
 {{Box|break|padding=2em}}
 {{ScoreboardWWII/Header|Evil Geniuses|Team Envy|title=World War II|date=2018-04-21|time=1932|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=Evil Geniuses|team2=Team Envy|team1score=250|team2score=203
-|gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=10:00
+|gamename=Game 1|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=ACHES|link=ACHES|kills=18|deaths=27|time=73|defends=2}}
 |blue2={{ScoreboardWWII/Player|name=Apathy|link=Apathy|kills=24|deaths=24|time=57|defends=2}}
 |blue3={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=38|deaths=19|time=63|defends=2}}
@@ -164,7 +164,7 @@
 |purple4={{ScoreboardWWII/Player|name=Xotic|link=Xotic|kills=4|deaths=7|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=eUnited|team2=Lightning Pandas|team1score=6|team2score=4
-|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=11|deaths=17|captures=2|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=26|deaths=12|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=22|deaths=19|captures=1|returns=1}}

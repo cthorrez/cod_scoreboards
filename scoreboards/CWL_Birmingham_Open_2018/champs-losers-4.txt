@@ -1,0 +1,152 @@
+{{Box|start|padding=2em}}
+{{ScoreboardWWII/Header|Reckless|Team Kaliber|title=World War II|date=2018-04-01|time=0424|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Reckless|team2=Team Kaliber|team1score=250|team2score=226
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=13:02
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=32|deaths=38|time=33|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=41|deaths=33|time=60|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=42|deaths=40|time=110|defends=2}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=40|deaths=37|time=104|defends=2}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=30|deaths=39|time=66|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=34|deaths=43|time=73|defends=2}}
+|purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=49|deaths=36|time=36|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=35|deaths=37|time=88|defends=2}}
+}}
+{{ScoreboardWWII|team1=Reckless|team2=Team Kaliber|team1score=6|team2score=1
+|gamename=Game 2|map=Ardennes Forest|gamemode=Search and Destroy|maptime=6:26
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=12|deaths=2|plants=0|defuses=1}}
+|blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=3|deaths=3|plants=0|defuses=1}}
+|blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=6|deaths=6|plants=1|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=5|deaths=4|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=1|deaths=6|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=6|deaths=7|plants=1|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=5|deaths=7|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=3|deaths=6|plants=1|defuses=0}}
+}}
+{{ScoreboardWWII|team1=Reckless|team2=Team Kaliber|team1score=1|team2score=3
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:13
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=24|deaths=22|captures=0|returns=1}}
+|blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=17|deaths=21|captures=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=16|deaths=20|captures=0|returns=1}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=16|deaths=19|captures=1|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=28|deaths=17|captures=1|returns=2}}
+|purple2={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=11|deaths=21|captures=0|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=26|deaths=13|captures=0|returns=1}}
+|purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=17|deaths=22|captures=2|returns=1}}
+}}
+{{ScoreboardWWII|team1=Reckless|team2=Team Kaliber|team1score=154|team2score=250
+|gamename=Game 4|map=Ardennes Forest|gamemode=Hardpoint|maptime=10:38
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=22|deaths=31|time=58|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=39|deaths=29|time=30|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=21|deaths=30|time=40|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=23|deaths=30|time=41|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=24|deaths=24|time=72|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=23|deaths=23|time=144|defends=2}}
+|purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=42|deaths=28|time=21|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=31|deaths=30|time=34|defends=0}}
+}}
+{{ScoreboardWWII|team1=Reckless|team2=Team Kaliber|team1score=6|team2score=0
+|gamename=Game 5|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=5:45
+|blue1={{ScoreboardWWII/Player|name=Blazt|link=Blazt|kills=7|deaths=3|plants=1|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Decemate|link=Decemate|kills=2|deaths=2|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Fero|link=Fero|kills=9|deaths=4|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Ricky|link=Ricky|kills=6|deaths=0|plants=1|defuses=2}}
+|purple1={{ScoreboardWWII/Player|name=Accuracy|link=Accuracy|kills=2|deaths=6|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Cheen|link=Cheen|kills=1|deaths=6|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Kenny|link=Kenny|kills=6|deaths=6|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Theory|link=Theory|kills=0|deaths=6|plants=2|defuses=0}}
+}}
+
+{{Box|break|padding=2em}}
+{{ScoreboardWWII/Header|FaZe Clan|Lightning Pandas|title=World War II|date=2018-04-01|time=0427|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=FaZe Clan|team2=Lightning Pandas|team1score=197|team2score=250
+|gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=11:57
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=29|deaths=31|time=59|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=34|deaths=27|time=96|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=30|deaths=35|time=52|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=40|deaths=40|time=10|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Censor|link=Censor|kills=33|deaths=38|time=46|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Goonjar|link=Goonjar|kills=29|deaths=30|time=78|defends=3}}
+|purple3={{ScoreboardWWII/Player|name=Royalty|link=Royalty|kills=33|deaths=33|time=26|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Xotic|link=Xotic|kills=38|deaths=32|time=131|defends=5}}
+}}
+{{ScoreboardWWII|team1=FaZe Clan|team2=Lightning Pandas|team1score=6|team2score=1
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=5:23
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=11|deaths=2|plants=1|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=3|deaths=4|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=7|deaths=2|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=6|deaths=6|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Censor|link=Censor|kills=2|deaths=7|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Goonjar|link=Goonjar|kills=2|deaths=7|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Royalty|link=Royalty|kills=4|deaths=7|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Xotic|link=Xotic|kills=6|deaths=6|plants=0|defuses=0}}
+}}
+{{ScoreboardWWII|team1=FaZe Clan|team2=Lightning Pandas|team1score=7|team2score=3
+|gamename=Game 3|map=London Docks|gamemode=Capture the Flag|maptime=10:14
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=17|deaths=18|captures=3|returns=1}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=25|deaths=17|captures=1|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=17|deaths=18|captures=1|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=24|deaths=17|captures=2|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Censor|link=Censor|kills=18|deaths=23|captures=0|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=Goonjar|link=Goonjar|kills=16|deaths=18|captures=2|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=Royalty|link=Royalty|kills=22|deaths=22|captures=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Xotic|link=Xotic|kills=14|deaths=20|captures=1|returns=0}}
+}}
+{{ScoreboardWWII|team1=FaZe Clan|team2=Lightning Pandas|team1score=181|team2score=250
+|gamename=Game 4|map=London Docks|gamemode=Hardpoint|maptime=11:56
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=36|deaths=42|time=40|defends=1}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=31|deaths=38|time=40|defends=2}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=32|deaths=37|time=81|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=37|deaths=44|time=46|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Censor|link=Censor|kills=44|deaths=32|time=79|defends=2}}
+|purple2={{ScoreboardWWII/Player|name=Goonjar|link=Goonjar|kills=37|deaths=34|time=82|defends=3}}
+|purple3={{ScoreboardWWII/Player|name=Royalty|link=Royalty|kills=34|deaths=39|time=54|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Xotic|link=Xotic|kills=46|deaths=31|time=73|defends=2}}
+}}
+{{ScoreboardWWII|team1=FaZe Clan|team2=Lightning Pandas|team1score=4|team2score=6
+|gamename=Game 5|map=Ardennes Forest|gamemode=Search and Destroy|maptime=9:53
+|blue1={{ScoreboardWWII/Player|name=Attach|link=Attach|kills=6|deaths=7|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Priestahh|link=Priestahh|kills=5|deaths=6|plants=2|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Crowder|link=Crowder|kills=6|deaths=6|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=ZooMaa|link=ZooMaa|kills=6|deaths=7|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Censor|link=Censor|kills=7|deaths=5|plants=2|defuses=1}}
+|purple2={{ScoreboardWWII/Player|name=Goonjar|link=Goonjar|kills=7|deaths=8|plants=0|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Royalty|link=Royalty|kills=7|deaths=6|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Xotic|link=Xotic|kills=5|deaths=4|plants=0|defuses=0}}
+}}
+{{Box|end}}
+{{Box|start|padding=2em}}
+{{ScoreboardWWII/Header|Echo Fox|Ghost Gaming|title=World War II|date=2018-04-01|time=0429|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Echo Fox|team2=Ghost Gaming|team1score=250|team2score=242
+|gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=13:14
+|blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=32|deaths=33|time=65|defends=5}}
+|blue2={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=27|deaths=27|time=93|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=38|deaths=33|time=11|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=29|deaths=40|time=88|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=GodRx|link=GodRx|kills=29|deaths=33|time=112|defends=1}}
+|purple2={{ScoreboardWWII/Player|name=Lacefield|link=Lacefield|kills=32|deaths=30|time=52|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=Maux|link=Maux|kills=41|deaths=30|time=50|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=31|deaths=33|time=47|defends=1}}
+}}
+{{ScoreboardWWII|team1=Echo Fox|team2=Ghost Gaming|team1score=6|team2score=4
+|gamename=Game 2|map=London Docks|gamemode=Search and Destroy|maptime=11:12
+|blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=11|deaths=6|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=7|deaths=5|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=7|deaths=6|plants=0|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=6|deaths=8|plants=3|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=GodRx|link=GodRx|kills=4|deaths=7|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Lacefield|link=Lacefield|kills=7|deaths=7|plants=3|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=Maux|link=Maux|kills=7|deaths=9|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=7|deaths=8|plants=0|defuses=0}}
+}}
+{{ScoreboardWWII|team1=Echo Fox|team2=Ghost Gaming|team1score=3|team2score=1
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:02
+|blue1={{ScoreboardWWII/Player|name=AquA|link=AquA|kills=13|deaths=16|captures=1|returns=0}}
+|blue2={{ScoreboardWWII/Player|name=Assault|link=Assault|kills=20|deaths=18|captures=0|returns=1}}
+|blue3={{ScoreboardWWII/Player|name=Faccento|link=Faccento|kills=21|deaths=15|captures=1|returns=2}}
+|blue4={{ScoreboardWWII/Player|name=Nagafen|link=Nagafen|kills=26|deaths=16|captures=1|returns=1}}
+|purple1={{ScoreboardWWII/Player|name=GodRx|link=GodRx|kills=19|deaths=22|captures=0|returns=0}}
+|purple2={{ScoreboardWWII/Player|name=Lacefield|link=Lacefield|kills=11|deaths=18|captures=0|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=Maux|link=Maux|kills=18|deaths=21|captures=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=17|deaths=19|captures=1|returns=1}}
+}}
+

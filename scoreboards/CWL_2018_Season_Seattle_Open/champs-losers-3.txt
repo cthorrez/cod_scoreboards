@@ -12,7 +12,7 @@
 |purple4={{ScoreboardWWII/Player|name=Wuskin|link=Wuskin|kills=19|deaths=22|time=102|defends=1}}
 }}
 {{ScoreboardWWII|team1=Red Reserve|team2=UNILAD Esports|team1score=3|team2score=6
-|gamename=Game 2|map=USS Texas|gamemode=Search and Destroy|maptime=11:00
+|gamename=Game 2|map=USS Texas|gamemode=Search and Destroy|maptime=
 |blue1={{ScoreboardWWII/Player|name=Joee|link=Joee|kills=4|deaths=9|plants=0|defuses=0}}
 |blue2={{ScoreboardWWII/Player|name=Joshh|link=Joshh|kills=2|deaths=9|plants=1|defuses=0}}
 |blue3={{ScoreboardWWII/Player|name=Rated|link=Rated|kills=7|deaths=8|plants=2|defuses=0}}
@@ -70,7 +70,7 @@
 |purple4={{ScoreboardWWII/Player|name=Scump|link=Scump|kills=0|deaths=6|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=OpTic Gaming|team1score=4|team2score=1
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=13|deaths=20|captures=1|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=John|link=John|kills=24|deaths=17|captures=1|returns=1}}
 |blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=25|deaths=19|captures=1|returns=0}}

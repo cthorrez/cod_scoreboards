@@ -1,7 +1,7 @@
 {{Box|start|padding=2em}}
 {{ScoreboardWWII/Header|eUnited|UNILAD Esports|title=World War II|date=2018-06-05|time=1105|timezone=PST|dst=Yes}}
 {{ScoreboardWWII|team1=eUnited|team2=UNILAD Esports|team1score=197|team2score=250
-|gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=10:00
+|gamename=Game 1|map=Ardennes Forest|gamemode=Hardpoint|maptime=
 |blue1={{ScoreboardWWII/Player|name=Arcitys|link=Arcitys|kills=36|deaths=35|time=0|defends=0}}
 |blue2={{ScoreboardWWII/Player|name=Clayster|link=Clayster|kills=37|deaths=29|time=0|defends=0}}
 |blue3={{ScoreboardWWII/Player|name=FeLo|link=FeLo|kills=28|deaths=41|time=0|defends=0}}
@@ -117,7 +117,7 @@
 |purple4={{ScoreboardWWII/Player|name=Shockz|link=Shockz|kills=10|deaths=7|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Luminosity Gaming|team2=Mindfreak|team1score=2|team2score=1
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=11:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=FormaL|link=FormaL|kills=21|deaths=18|captures=0|returns=2}}
 |blue2={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=17|deaths=20|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=John|link=John|kills=18|deaths=22|captures=0|returns=0}}
@@ -432,7 +432,7 @@
 |purple4={{ScoreboardWWII/Player|name=TJHaLy|link=TJHaLy|kills=7|deaths=7|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Mindfreak|team2=Rise Nation|team1score=2|team2score=1
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=BuZZO|link=BuZZO|kills=12|deaths=14|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Denz|link=Denz|kills=17|deaths=16|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=21|deaths=12|captures=1|returns=2}}

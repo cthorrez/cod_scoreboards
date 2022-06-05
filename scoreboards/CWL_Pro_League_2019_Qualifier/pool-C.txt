@@ -140,7 +140,7 @@
 |red5={{Scoreboard/Player|name=Parzelion|link=Parzelion|kills=23|deaths=19|caps=1}}
 }}
 {{Scoreboard|team1=Excelerate Gaming|team2=Midnight Esports|team1score=80|team2score=250
-|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=8:00
+|gamename=Game 4|map=Arsenal|gamemode=Hardpoint|maptime=
 |blue1={{Scoreboard/Player|name=Beehzy|link=Beehzy|kills=15|deaths=19|time=29|defends=9}}
 |blue2={{Scoreboard/Player|name=Believe|link=Believe|kills=11|deaths=19|time=19|defends=5}}
 |blue3={{Scoreboard/Player|name=FA5TBALLA|link=FA5TBALLA|kills=11|deaths=22|time=16|defends=7}}

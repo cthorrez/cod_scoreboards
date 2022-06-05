@@ -23,7 +23,7 @@
 |purple4={{ScoreboardWWII/Player|name=Huke|link=Huke|kills=4|deaths=7|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=OpTic Gaming|team2=Team Envy|team1score=3|team2score=0
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=C6|link=C6|kills=28|deaths=18|captures=0|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=Methodz|link=Methodz (Anthony Zinni)|kills=17|deaths=15|captures=1|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=25|deaths=16|captures=1|returns=0}}
@@ -333,7 +333,7 @@
 |purple4={{ScoreboardWWII/Player|name=Zer0|link=Zer0|kills=7|deaths=5|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Ghost Gaming|team2=Red Reserve|team1score=0|team2score=4
-|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=10:00
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=GodRx|link=GodRx|kills=17|deaths=19|captures=0|returns=1}}
 |blue2={{ScoreboardWWII/Player|name=Lacefield|link=Lacefield|kills=17|deaths=20|captures=0|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Pandur|link=Pandur|kills=10|deaths=17|captures=0|returns=0}}

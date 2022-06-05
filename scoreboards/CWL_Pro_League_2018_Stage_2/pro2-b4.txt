@@ -471,7 +471,7 @@
 |purple4={{ScoreboardWWII/Player|name=Swifty|link=Swifty|kills=10|deaths=8|plants=0|defuses=0}}
 }}
 {{ScoreboardWWII|team1=Mindfreak|team2=Tainted Minds|team1score=3|team2score=2
-|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=12:00
+|gamename=Game 3|map=Ardennes Forest|gamemode=Capture the Flag|maptime=
 |blue1={{ScoreboardWWII/Player|name=BuZZO|link=BuZZO|kills=22|deaths=16|captures=0|returns=0}}
 |blue2={{ScoreboardWWII/Player|name=Denz|link=Denz|kills=23|deaths=13|captures=2|returns=0}}
 |blue3={{ScoreboardWWII/Player|name=Fighta|link=Fighta|kills=23|deaths=19|captures=1|returns=0}}

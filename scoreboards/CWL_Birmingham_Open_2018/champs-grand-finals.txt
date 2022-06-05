@@ -1,0 +1,94 @@
+{{Box|start|padding=2em}}
+{{ScoreboardWWII/Header|Luminosity Gaming|Splyce|title=World War II|date=2018-04-01|time=1237|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Luminosity Gaming|team2=Splyce|team1score=60|team2score=250
+|gamename=Game 1|map=Valkyrie|gamemode=Hardpoint|maptime=6:22
+|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=12|deaths=23|time=7|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=12|deaths=19|time=6|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=18|deaths=16|time=38|defends=1}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=9|deaths=19|time=22|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=23|deaths=16|time=41|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=21|deaths=8|time=120|defends=3}}
+|purple3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=18|deaths=13|time=76|defends=1}}
+|purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=15|deaths=14|time=69|defends=0}}
+}}
+{{ScoreboardWWII|team1=Luminosity Gaming|team2=Splyce|team1score=6|team2score=3
+|gamename=Game 2|map=Valkyrie|gamemode=Search and Destroy|maptime=8:31
+|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=2|deaths=7|plants=0|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=7|deaths=6|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=11|deaths=7|plants=1|defuses=0}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=8|deaths=4|plants=2|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=6|deaths=9|plants=0|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=4|deaths=6|plants=2|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=8|deaths=6|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=6|deaths=7|plants=0|defuses=0}}
+}}
+{{ScoreboardWWII|team1=Luminosity Gaming|team2=Splyce|team1score=2|team2score=3
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=14:37
+|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=28|deaths=29|captures=0|returns=1}}
+|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=32|deaths=27|captures=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=28|deaths=23|captures=1|returns=2}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=24|deaths=27|captures=1|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=26|deaths=33|captures=0|returns=1}}
+|purple2={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=24|deaths=23|captures=1|returns=1}}
+|purple3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=19|deaths=26|captures=1|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=37|deaths=30|captures=1|returns=3}}
+}}
+{{ScoreboardWWII|team1=Luminosity Gaming|team2=Splyce|team1score=173|team2score=250
+|gamename=Game 4|map=Gibraltar|gamemode=Hardpoint|maptime=9:37
+|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=15|deaths=20|time=65|defends=0}}
+|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=23|deaths=26|time=17|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=22|deaths=21|time=83|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=28|deaths=21|time=17|defends=1}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=22|deaths=25|time=62|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=22|deaths=22|time=88|defends=2}}
+|purple3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=23|deaths=15|time=49|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=21|deaths=26|time=72|defends=2}}
+}}
+
+{{Box|break|padding=2em}}
+{{ScoreboardWWII/Header|Luminosity Gaming|Splyce|title=World War II|date=2018-04-01|time=1349|timezone=PST|dst=Yes}}
+{{ScoreboardWWII|team1=Luminosity Gaming|team2=Splyce|team1score=250|team2score=178
+|gamename=Game 1|map=London Docks|gamemode=Hardpoint|maptime=12:26
+|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=33|deaths=35|time=95|defends=2}}
+|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=37|deaths=32|time=72|defends=0}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=45|deaths=29|time=54|defends=2}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=35|deaths=31|time=66|defends=2}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=37|deaths=43|time=45|defends=2}}
+|purple2={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=36|deaths=33|time=51|defends=3}}
+|purple3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=29|deaths=35|time=66|defends=2}}
+|purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=25|deaths=39|time=68|defends=0}}
+}}
+{{ScoreboardWWII|team1=Luminosity Gaming|team2=Splyce|team1score=3|team2score=6
+|gamename=Game 2|map=Sainte Marie du Mont|gamemode=Search and Destroy|maptime=
+|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=4|deaths=6|plants=1|defuses=0}}
+|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=5|deaths=8|plants=0|defuses=0}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=5|deaths=7|plants=0|defuses=1}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=3|deaths=8|plants=0|defuses=0}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=10|deaths=4|plants=1|defuses=0}}
+|purple2={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=5|deaths=3|plants=3|defuses=0}}
+|purple3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=7|deaths=4|plants=0|defuses=0}}
+|purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=7|deaths=6|plants=0|defuses=0}}
+}}
+{{ScoreboardWWII|team1=Luminosity Gaming|team2=Splyce|team1score=2|team2score=1
+|gamename=Game 3|map=Flak Tower|gamemode=Capture the Flag|maptime=9:59
+|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=19|deaths=20|captures=0|returns=1}}
+|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=21|deaths=16|captures=0|returns=0}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=16|deaths=16|captures=2|returns=0}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=18|deaths=15|captures=0|returns=0}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=12|deaths=19|captures=1|returns=3}}
+|purple2={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=18|deaths=18|captures=0|returns=0}}
+|purple3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=14|deaths=18|captures=0|returns=0}}
+|purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=23|deaths=19|captures=0|returns=0}}
+}}
+{{ScoreboardWWII|team1=Luminosity Gaming|team2=Splyce|team1score=250|team2score=102
+|gamename=Game 4|map=Sainte Marie du Mont|gamemode=Hardpoint|maptime=8:50
+|blue1={{ScoreboardWWII/Player|name=JKap|link=JKap|kills=29|deaths=23|time=53|defends=4}}
+|blue2={{ScoreboardWWII/Player|name=John|link=John|kills=35|deaths=21|time=101|defends=1}}
+|blue3={{ScoreboardWWII/Player|name=Octane|link=Octane|kills=27|deaths=23|time=65|defends=0}}
+|blue4={{ScoreboardWWII/Player|name=Slacked|link=Slacked|kills=20|deaths=18|time=80|defends=0}}
+|purple1={{ScoreboardWWII/Player|name=Bance|link=Bance|kills=21|deaths=33|time=14|defends=0}}
+|purple2={{ScoreboardWWII/Player|name=Jurd|link=Jurd|kills=16|deaths=27|time=73|defends=0}}
+|purple3={{ScoreboardWWII/Player|name=MadCat|link=MadCat|kills=18|deaths=25|time=10|defends=0}}
+|purple4={{ScoreboardWWII/Player|name=Tommey|link=Tommey|kills=30|deaths=26|time=43|defends=4}}
+}}
+{{Box|end}}
