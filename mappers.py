@@ -27,6 +27,7 @@ file_to_event_mapper = {
     'data-2018-04-22-seattle.csv' : 'CWL 2018 Season Seattle Open',
     'data-2018-07-29-proleague2.csv' : 'CWL Pro League 2018 Stage 2',
     'data-2018-06-17-anaheim.csv' : 'CWL 2018 Season Anaheim Open',
+    'data-2018-06-17-anaheim_fixed.csv' : 'CWL 2018 Season Anaheim Open',
     'data-2019-01-20-proleague-qual.csv' : 'CWL Pro League 2019 Qualifier',
     'data-2019-07-05-proleague.csv' : 'CWL Pro League 2019',
     'data-2019-03-17-fortworth.csv' : 'CWL Fort Worth 2019',

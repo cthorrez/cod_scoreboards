@@ -16,7 +16,8 @@ def main():
         'data-2018-04-19-relegation.csv',
         'data-2018-04-22-seattle.csv',
         'data-2018-07-29-proleague2.csv',
-        'data-2018-06-17-anaheim.csv',
+        # 'data-2018-06-17-anaheim.csv',
+        'data-2018-06-17-anaheim_fixed.csv', # the original has incorrect group info
         'data-2019-01-20-proleague-qual.csv',
         'data-2019-07-05-proleague.csv',
         'data-2019-03-17-fortworth.csv',
